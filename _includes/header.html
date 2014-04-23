@@ -1,0 +1,5 @@
+{% assign locale = page.url | extract_locale %}
+<div class="header {{ locale }}" itemscope itemtype="http://schema.org/WPHeader">
+    <h1 class="title"><a href="/{{ locale }}">{{ site.name }}</a></h1>
+    <span class="motto">{{ site.data.header.[locale].motto }}</span>
+</div>

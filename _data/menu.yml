@@ -1,0 +1,34 @@
+---
+# First item is used as an address to link to the given language
+# Similar list is in the app
+cs:
+  - name: O Enectivě
+    path: o-enective
+  - name: Vlastnosti systému
+    path: vlastnosti-systemu
+  - name: Vyzkoušejte Enectivu
+    path: vyzkousejte-enectivu
+  - name: Pravidla Enectivy
+    path: pravidla-enectivy
+  - name: Partnerský program
+    path: partnersky-program
+  - name: Kontakty
+    path: kontaktujte-nas
+  - name: Blog
+    path: blog
+
+en:
+  - name: About Enectiva
+    path: about-enectiva
+  - name: Features
+    path: features
+  - name: Try Enectiva
+    path: try-enectiva
+  - name: Enectiva Rules
+    path: enectiva-rules
+  - name: Partner Programme
+    path: partner-programme
+  - name: Contact Us
+    path: contact-us
+  - name: Blog
+    path: blog

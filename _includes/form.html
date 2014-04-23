@@ -1,0 +1,61 @@
+{% assign locale = page.url | extract_locale %}
+<fieldset class="halfPanel">
+  <div class="input">
+    <label for="contact_form_email">{{ site.data.contact_form[locale].email }} *</label><br />
+    <input id="contact_form_email" name="contact_form[email]" type="text" class="required">
+      <div class="errorMessage">{{ site.data.contact_form[locale].required_error }}</div>
+  </div>
+  <div class="input">
+    <label for="contact_form_first_name">{{ site.data.contact_form[locale].first_name }} *</label><br />
+    <input id="contact_form_first_name" name="contact_form[first_name]" type="text" class="required">
+      <div class="errorMessage">{{ site.data.contact_form[locale].required_error }}</div>
+  </div>
+  <div class="input">
+    <label for="contact_form_last_name">{{ site.data.contact_form[locale].last_name }} *</label><br />
+    <input id="contact_form_last_name" name="contact_form[last_name]" type="text" class="required">
+      <div class="errorMessage">{{ site.data.contact_form[locale].required_error }}</div>
+  </div>
+  <div class="input">
+    <label for="contact_form_title">{{ site.data.contact_form[locale].title }}</label><br />
+    <input id="contact_form_title" name="contact_form[title]" type="text">
+  </div>
+</fieldset>
+<fieldset class="halfPanel">
+  <div class="input">
+    <label for="contact_form_company">{{ site.data.contact_form[locale].company }}</label><br />
+    <input id="contact_form_company" name="contact_form[company]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_position">{{ site.data.contact_form[locale].position }}</label><br />
+    <input id="contact_form_position" name="contact_form[position]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_tel">{{ site.data.contact_form[locale].tel }}</label><br />
+    <input id="contact_form_tel" name="contact_form[tel]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_heard_of">{{ site.data.contact_form[locale].heard_of }}</label><br />
+    <select id="contact_form_heard_of" name="contact_form[heard_of]">
+    {% for option in site.data.contact_form[locale].heard_of_options %}
+        <option value="{{option.value}}">{{option.label}}</option>
+    {% endfor %}
+    </select>
+  </div>
+
+</fieldset>
+<div>
+  <div class="input">
+    <label for="contact_form_text">{{ site.data.contact_form[locale].text }}</label><br />
+    <textarea id="contact_form_text" name="contact_form[text]"></textarea>
+  </div>
+  <input name="util[source_url]" value="{{ page.url }}" type="hidden">
+  <input type="submit" value="{{ site.data.contact_form[locale].submit }}">
+</div>
+<script type="text/javascript">
+    contactFormI18n = {
+        submit_alt: "{{ site.data.contact_form[locale].submit_alt }}",
+        submitted: "{{ site.data.contact_form[locale].submitted }}"
+    }
+</script>
+<br>
+<small class="povinne">* = {{ site.data.contact_form[locale].required }}</small>

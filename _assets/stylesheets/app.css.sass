@@ -1,0 +1,219 @@
+@import "compass/reset"
+@import "variables.css.sass"
+@import "compass/typography/vertical_rhythm"
+@import "compass/css3/box-shadow"
+@import "compass/utilities/general/clearfix"
+@import "compass/css3/border-radius"
+
+$base-font-size: 16px
+$base-line-height: 24px
+@include establish-baseline($base-font-size)
+
+body
+  font-family: Arial
+  background: $gray
+
+img
+  margin: 1em 0
+  &.left
+    margin-right: 2em
+    float: left
+  &.right
+    margin-left: 2em
+    float: right
+  &.text
+    margin: 0 5px
+p, ul, ol
+  margin: .25em 0 .75em 0
+
+h1, h2, h3, h4
+  margin: .75em 0 .25em 0
+  color: $orange
+  font-weight: bold
+  line-height: 1.3
+h1
+  font-size: 1.6em
+  margin-top: 1.5em
+h2
+  font-size: 1.4em
+h3
+  font-size: 1.2em
+h3
+  font-size: 1.1em
+
+.halfPanel
+  float: left
+  width: 50%
+.container
+  min-width: 810px
+  width: 80%
+  max-width: 1024px
+  background: white
+  margin: 0 auto
+  @include box-shadow($grayDark 0px 0px 5px)
+  @include clearfix
+
+.header
+  width: 100%
+  height: 413px
+  background-position: center top
+  background-repeat: no-repeat
+  &.cs
+    background-image: image-url('enectiva_header_cs.png')
+  &.en
+    background-image: image-url('enectiva_header_en.png')
+  h1, span
+    display: none
+
+.menu
+  float: left
+  width: 180px
+  margin: 20px 40px
+  a
+    color: $enerfisBlueDark
+
+  li
+    line-height: 1.6em
+  .divideAbove
+    margin-top: 15px
+    padding-top: 15px
+    border-top: 1px solid $orange
+  .divideUnder
+    margin-bottom: 15px
+    padding-bottom: 15px
+    border-bottom: 1px solid $orange
+  .active
+    font-weight: bold
+  .langSwitch a
+    font-weight: bold
+    text-decoration: none
+
+.content
+  min-height: 200px
+  overflow: hidden
+  margin: 20px 50px 0 0
+  ul, ol
+    padding-left: 2em
+  ul
+    list-style-type: disc
+  ol
+    list-style-type: decimal
+
+.footer
+  @include clearfix
+  font-size: 90%
+  line-height: 1.3
+  clear: both
+  padding: 10px 0
+  margin: 20px 50px
+  border-top: 2px solid $orange
+  color: $orange
+  .authorship
+    float: right
+    a
+      color: $orange
+    p
+      width: 250px
+      margin-top: 10px
+    .address
+      width: 165px
+      span
+        display: block
+    img
+      float: left
+      margin: 10px 20px 0 0
+    p, .address
+      float: left
+
+form
+  input, select
+    max-width: 300px
+    width: 90%
+  textarea
+    width: 75%
+    max-width: 450px
+    height: 7em
+    font-family: Arial
+  input, select, textarea
+    border: 1px solid $grayMiddle
+    @include border-radius(3px)
+    padding: .3em
+  input[type=submit]
+    width: 10em
+
+  .required
+    border-color: black
+    &.error
+      background: $errorBg
+  .input
+    margin: .25em 0 .75em 0
+  .errorMessage
+    display: none
+    color: $error
+    position: absolute
+    left: 50%
+    margin-bottom: -2em
+    height: 2em
+
+
+.notice
+  font-size: 1.6em
+  font-weight: bold
+  color: $orange
+  text-align: center
+
+.clear
+  @include clearfix
+  float: left
+h1.clear, h2.clear
+  float: none
+
+h2
+  a
+    text-decoration: none
+    color: $orange
+    &:hover, &:active, &:focus
+      text-decoration: underline
+.published
+  color: $grayDark
+  font-size: 90%
+  margin-top: -.25em
+  margin-bottom: 1em
+  display: block
+
+.pagination
+  @include clearfix
+  margin-top: 2em
+  span, em, a
+    display: block
+    float: left
+    font-weight: bold
+    padding: .25em
+    margin: .25em
+  a
+    background: adjust-lightness($enerfisBlueDark, 30%)
+    color: white
+    text-decoration: none
+    padding: .25em .75em
+    @include border-radius(3px)
+    &:hover, &:focus, &:active
+      background: $enerfisBlueDark
+  span
+    color: $grayMiddle
+
+.feature
+  margin-bottom: 7px
+  h4
+    font-size: 16px
+    cursor: pointer
+    height: 20px
+    line-height: 23px
+    margin: 0.3em 0
+    padding-left: 25px
+    background: image-url('sipky_orange.png') 0 0 no-repeat
+  &.active h4
+    background-position: 0 -20px
+  .inner
+    display: none
+
+@import "pretty_photo.scss"

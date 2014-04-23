@@ -1,0 +1,35 @@
+name: Enectiva
+markdown: redcarpet
+pygments: true
+
+url: http://enectiva.cz
+
+gems:
+- jekyll-compass
+- jekyll-assets
+
+assets:
+  dirname: assets-web
+  js_compressor: uglifier
+  css_compressor: sass
+
+exclude:
+- readme.md
+- Gemfile
+- Gemfile.lock
+
+permalink:  /:categories/:year/:month/:title
+
+paginate: 1
+paginate_path: /blog/page-:num
+paginate_per_category: true
+
+authorized_locales: [cs, en]
+default_locale: cs
+
+cs:
+  prev: Novější
+  next: Starší
+en:
+  prev: Older
+  next: Newer

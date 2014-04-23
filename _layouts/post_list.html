@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% assign locale = page.url | extract_locale %}
+<div class="postsList">
+    {% for post in paginator.posts %}
+    <div class="post">
+        <h2>
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </h2>
+        <time class="published" datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+            {{ post.date | localize: ':display', locale }}
+        </time>
+        <p class="perex">{{ post.content | truncate: 600 }}</p>
+        </a>
+    </div>
+    {% endfor %}
+</div>
+
+{% include pagination.html %}

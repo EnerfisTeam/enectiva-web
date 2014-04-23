@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% assign locale = page.url | extract_locale %}
+<h1>{{ page.title }}</h1>
+<time class="published" datetime='{{ post.date | date: "%Y-%m-%d" }}'>
+    {{ page.date | localize: ':display', locale }}
+</time>
+
+<div class="post">
+{{ content }}
+</div>

@@ -1,0 +1,12 @@
+{% assign locale = page.url | extract_locale %}
+<form accept-charset="UTF-8" action="/{{ locale }}/welcome/process_contact_form" method="post" id="ContactForm">
+    <div class="input">
+        <label for="contact_form_form_type">{{ site.data.contact_form[locale].form_type }}</label><br />
+        <select id="contact_form_form_type" name="contact_form[form_type]">
+            {% for option in site.data.contact_form[locale].form_type_options %}
+            <option value="{{option.value}}">{{option.label}}</option>
+            {% endfor %}
+        </select>
+    </div>
+    {% include form.html %}
+</form>

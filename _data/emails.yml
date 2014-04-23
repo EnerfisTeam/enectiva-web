@@ -1,0 +1,18 @@
+---
+# !!! in case of change, copy it in application as well !!!
+-
+  email: info@enectiva.cz
+  cs: Obecné informace
+  en: General information
+-
+  email: podpora@enectiva.cz
+  cs: Technická podpora
+  en: Technical support
+-
+  email: obchod@enectiva.cz
+  cs: Obchodí záležitosti
+  en: Business issue
+-
+  email: partner@enectiva.cz
+  cs: Pro partnery
+  en: For bussiness partners
