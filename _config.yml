@@ -37,14 +37,14 @@ en:
 prose:
   metadata:
     cs/blog/_posts:
-      - name: layout
+      - name: "layout"
         field:
-          element: hidden
-          value: post
-      - name: title
+          element: "idden"
+          value: "post"
+      - name: "title"
         field:
-          element: text
-          placeholder: 'Název článku'
+          element: "text"
+          placeholder: "Název článku"
     en/blog/_posts:
       - name: layout
         field:
