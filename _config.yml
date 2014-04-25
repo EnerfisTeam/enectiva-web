@@ -33,3 +33,24 @@ cs:
 en:
   prev: Older
   next: Newer
+
+prose:
+  metadata:
+    cs/_posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: title
+        field:
+          element: text
+          placeholder: 'Název článku'
+    en/_posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: title
+        field:
+          element: text
+          placeholder: 'Post title'
