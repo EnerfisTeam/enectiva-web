@@ -35,11 +35,13 @@ en:
   next: Newer
 
 prose:
+  siteurl: "http://enectiva.cz/"
+  media: "img"
   metadata:
     cs/blog/_posts:
       - name: "layout"
         field:
-          element: "idden"
+          element: "hidden"
           value: "post"
       - name: "title"
         field:
