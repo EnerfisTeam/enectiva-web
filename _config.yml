@@ -35,6 +35,7 @@ en:
   next: Newer
 
 prose:
+  rooturl: ""
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
