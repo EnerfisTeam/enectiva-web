@@ -36,7 +36,7 @@ en:
 
 prose:
   metadata:
-    cs/_posts:
+    cs/blog/_posts:
       - name: layout
         field:
           element: hidden
@@ -45,7 +45,7 @@ prose:
         field:
           element: text
           placeholder: 'Název článku'
-    en/_posts:
+    en/blog/_posts:
       - name: layout
         field:
           element: hidden
