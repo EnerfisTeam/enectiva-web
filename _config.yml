@@ -44,13 +44,15 @@ prose:
       - name: "title"
         field:
           element: "text"
+          type: "text"
           placeholder: "Název článku"
     en/blog/_posts:
-      - name: layout
+      - name: "layout"
         field:
-          element: hidden
-          value: post
-      - name: title
+          element: "hidden"
+          value: "post"
+      - name: "title"
         field:
-          element: text
-          placeholder: 'Post title'
+          element: "text"
+          type: "text"
+          placeholder: "Post title"
