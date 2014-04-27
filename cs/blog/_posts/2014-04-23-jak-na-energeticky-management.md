@@ -5,7 +5,7 @@ published: true
 ---
 
 Většina lidí má obavy ze slov energetický management. Ve své praxi se setkávám denně s lidmi na manažerských pozicích, kteří se dostanou do pozice kdy jsou nuceni zavádět procesy energetického managementu a neví jak s tímto úkolem naložit. Na začátku jsou zde zbytečné obavy z nového, přitom zásady dobrého energetického managemntu vychází ze selského rozumu každého dobrého hospodáře. Uvedu jen několik základních pouček:
-
+![Možné úspory v komerčních nemovitostech](/img/mozna%20upspory.png)
 - Stanovte si cíle jakých chcete dosáhnout - např. snížení spotřeby na jednoho nájemníka či vyrobený výrobek do konce roku
 - Definujte zodpovědnosti v rámci týmu - kdo je zodpovědný za organizaci schůzek, sběr dat, vyhodnocení
 - Motivujte ostatní k vymýšlení zlepšení - ať již direktivně nebo formou např. soutěže
