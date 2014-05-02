@@ -4,6 +4,8 @@
 cs:
   - name: O Enectivě
     path: o-enective
+  - name: Řešení
+    path: reseni
   - name: Vlastnosti systému
     path: vlastnosti-systemu
   - name: Vyzkoušejte Enectivu
@@ -20,6 +22,8 @@ cs:
 en:
   - name: About Enectiva
     path: about-enectiva
+  - name: Solutions
+    path: solutions
   - name: Features
     path: features
   - name: Try Enectiva
