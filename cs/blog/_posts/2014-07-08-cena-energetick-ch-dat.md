@@ -4,7 +4,7 @@ published: false
 title: Cena energetických dat
 ---
 
-Pokud patříte mezi property či facility manažery jistě se setkáváte s problém efektivního sběru energetických dat ze spravovaných provozů či nemovitostí. K většinové metodě stále patří fyzický odečet pověřenou osobou. Nicméně tento způsob vykazuje známky jisté nespolehlivosti, časové i finanční náročnosti, která roste úměrně s velikostí spravovaného portfolia.
+Pokud patříte mezi property manažery,facility manažery, správce či majitele nemovitostí jistě se setkáváte s problém efektivního sběru energetických dat ze spravovaných budov. K většinové metodě stále patří fyzický odečet pověřenou osobou. Nicméně tento způsob vykazuje známky jisté nespolehlivosti, časové i finanční náročnosti, která roste úměrně s velikostí spravovaného portfolia.
 
 Řešení na tento problém je spousta. Enectiva je jendo z nich, nicméně každý, kdo chce využívat energetická data musí nejdříve akceptovat fakt, že ani automatický sběr dat není zdarma. Vždy dojde k zatížení rozpočtu ať již na pořízení vhodného softwaru nebo měřidel s datovými výstupy. Ve valné většině na pořízení obého.
 
