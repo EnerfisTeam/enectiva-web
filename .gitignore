@@ -6,3 +6,4 @@ _site
 Rakefile
 Gemfile.lock
 /_data/environment.yml
+/.project

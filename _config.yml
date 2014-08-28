@@ -1,6 +1,6 @@
 name: Enectiva
 markdown: redcarpet
-pygments: true
+highlighter: true
 
 url: http://enectiva.cz
 
@@ -23,6 +23,7 @@ permalink:  /:categories/:year/:month/:title
 paginate: 1
 paginate_path: /blog/page-:num
 paginate_per_category: true
+default_category: cs
 
 authorized_locales: [cs, en]
 default_locale: cs

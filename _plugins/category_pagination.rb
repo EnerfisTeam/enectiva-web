@@ -1,5 +1,12 @@
+# Per-category pagination. Useful for multilingual blogs =)
+# It will react, regarding your configuration in `config.yml`:
+# 
+# paginate_per_category: true|false - activate this pagination or keep the  
+#                                     default one
+# default_category: "en"            - determine the default category if you
+#                                     wish the root pagination to be this one
 module Jekyll
-  module Generators
+  module Paginate
     class Pagination < Generator
 
       # Paginates the blog's posts. Renders the index.html file into paginated
@@ -104,16 +111,19 @@ module Jekyll
       def paginate_categories(site, category_path, category_layout, posts)
         categories = []
         restricted_categories = []
+
         for post in posts
           for post_category in post.categories
             categories.push(post_category) unless restricted_categories.include? post_category
           end
         end
+
         categories.sort!.uniq!
 
         for category in categories
           paginate_path = '/' + category + site.config['paginate_path']
           page = template_page(site, paginate_path)
+
           paginate(site, page, category)
         end
       end
@@ -131,41 +141,41 @@ module Jekyll
         end.first
       end
     end
-  end
 
-  class Pager
+    class Pager
 
-    # Static: Determine if a page is a possible candidate to be a template page.
-    #         Page's name must be `index.html` and exist in any of the directories
-    #         between the site source and `paginate_path`.
-    #
-    # config - the site configuration hash
-    # page   - the Jekyll::Page about which we're inquiring
-    # paginate_path - the explicit paginate path, if provided
-    #
-    # Returns true if the page is `index.html` and exist in any of the directories
-    # between the site source and `paginate_path`.
-    def self.pagination_candidate?(config, page, paginate_path = config['paginate_path'])
-      page_dir = File.dirname(File.expand_path(remove_leading_slash(page.path), config['source']))
-      paginate_path = remove_leading_slash(paginate_path)
-      paginate_path = File.expand_path(paginate_path, config['source'])
-      page.name == 'index.html' &&
-        in_hierarchy(config['source'], page_dir, File.dirname(paginate_path))
-    end
+      # Static: Determine if a page is a possible candidate to be a template page.
+      #         Page's name must be `index.html` and exist in any of the directories
+      #         between the site source and `paginate_path`.
+      #
+      # config - the site configuration hash
+      # page   - the Jekyll::Page about which we're inquiring
+      # paginate_path - the explicit paginate path, if provided
+      #
+      # Returns true if the page is `index.html` and exist in any of the directories
+      # between the site source and `paginate_path`.
+      def self.pagination_candidate?(config, page, paginate_path = config['paginate_path'])
+        page_dir = File.dirname(File.expand_path(remove_leading_slash(page.path), config['source']))
+        paginate_path = remove_leading_slash(paginate_path)
+        paginate_path = File.expand_path(paginate_path, config['source'])
+        page.name == 'index.html' &&
+            in_hierarchy(config['source'], page_dir, File.dirname(paginate_path))
+      end
 
-    # Static: Return the pagination path of the page
-    #
-    # site     - the Jekyll::Site object
-    # num_page - the pagination page number
-    # paginate_path - the explicit paginate path, if provided
-    #
-    # Returns the pagination path as a string
-    def self.paginate_path(site, num_page, paginate_path = site.config['paginate_path'])
-      return nil if num_page.nil?
-      return Generators::Pagination.first_page_url(site) if num_page <= 1
-      format = paginate_path
-      format = format.sub(':num', num_page.to_s)
-      ensure_leading_slash(format)
+      # Static: Return the pagination path of the page
+      #
+      # site     - the Jekyll::Site object
+      # num_page - the pagination page number
+      # paginate_path - the explicit paginate path, if provided
+      #
+      # Returns the pagination path as a string
+      def self.paginate_path(site, num_page, paginate_path = site.config['paginate_path'])
+        return nil if num_page.nil?
+        return Pagination.first_page_url(site) if num_page <= 1
+        format = paginate_path
+        format = format.sub(':num', num_page.to_s)
+        ensure_leading_slash(format)
+      end
     end
   end
 end
