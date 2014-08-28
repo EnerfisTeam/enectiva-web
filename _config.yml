@@ -20,7 +20,7 @@ exclude:
 
 permalink:  /:categories/:year/:month/:title
 
-paginate: 1
+paginate: 5
 paginate_path: /blog/page-:num
 paginate_per_category: true
 default_category: cs
