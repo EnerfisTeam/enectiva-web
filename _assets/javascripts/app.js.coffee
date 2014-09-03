@@ -60,8 +60,6 @@ $ ->
 
   if $feats.length > 0
 
-#    $('a[rel]').prettyPhoto({ social_tools: false; })
-
     # bind opening events
     close_feats = ()->
       $feats.filter('.active').each ()->
