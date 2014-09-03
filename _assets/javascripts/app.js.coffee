@@ -54,11 +54,13 @@ $ ->
           $ContactForm.remove()
       $ContactForm
 
+  $('.swipebox').swipebox();
+
   $feats = $('div.feature')
 
   if $feats.length > 0
 
-    $('a[rel]').prettyPhoto({ social_tools: false; })
+#    $('a[rel]').prettyPhoto({ social_tools: false; })
 
     # bind opening events
     close_feats = ()->
