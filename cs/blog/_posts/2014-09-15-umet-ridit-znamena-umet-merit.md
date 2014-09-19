@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Umět řídit znamená umět měřit
 ---
 
