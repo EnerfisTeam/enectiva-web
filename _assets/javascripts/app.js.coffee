@@ -34,7 +34,7 @@ $ ->
       $submit
         .attr('disabled', 'disabled')
         .val(alternativeSubmitText)
-      $.post 'http://enectiva.lh' + $ContactForm.attr('action') + '.json', $ContactForm.serialize(), (data) ->
+      $.post 'http://enectiva.cz' + $ContactForm.attr('action') + '.json', $ContactForm.serialize(), (data) ->
         $submit.removeAttr('disabled').val(normalSubmitText)
         if data.errors
           $.each data.errors, (field, errs) ->
