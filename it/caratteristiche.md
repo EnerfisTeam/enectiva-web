@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Caratteristiche
+title: it/caratteristiche/index.html
 language: it
+published: true
 ---
 
 <h1>Caratteristiche</h1>
