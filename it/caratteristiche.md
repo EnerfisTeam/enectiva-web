@@ -15,13 +15,13 @@ language: it
 <p>È possibile visualizzare, ad esempio:</p>
 <ul>
 <li><strong>Grafici proporzionali </strong> – mostrano l'influenza di energia sui costi finali, il consumo di energia di varie parti dell'edificio rispetto al consumo globale, o l'influenza delle persone, delle attrezzature e dei consumi non misurati.
-<br />{{ "detailed statistics 1" | gallery_link: "podrobne statistiky_1", 1 }}</li>
+<br />{{ "statistiche dettagliate 1" | gallery_link: "podrobne statistiky_1", 1 }}</li>
 <li><strong>Grafici comparativi </strong> – servono per confrontare l'utilizzo di due o più parti sullo stesso livello (edifici, parti di edifici, occupanti, impianti…). L'analisi comparativa delle parti comparabili del portfolio vi permette di scoprire edifici che differiscono notevolmente dagli altri e rilevare così inutili sprechi di energia.
-<br />{{ "detailed statistics 2" | gallery_link: "podrobne statistiky_2", 1 }}</li>
+<br />{{ "statistiche dettagliate 2" | gallery_link: "podrobne statistiky_2", 1 }}</li>
 <li><strong>Consumo mensile </strong> – è possibile vedere l'andamento delle risorse energetiche individuali utilizzate durante l'anno. Inoltre, è possibile combinare il grafico con l'andamento della temperatura e quindi controllare se l'andamento dei consumi corrisponde alle condizioni climatiche in un determinato luogo. Grazie ai listini integrati di tutte le utenze, è possibile passare da questi grafici a un grafico di costo finale.
-<br />{{ "detailed statistics 3" | gallery_link: "podrobne statistiky_3", 1 }}</li>
+<br />{{ "statistiche dettagliate 3" | gallery_link: "podrobne statistiky_3", 1 }}</li>
 <li><strong>Grafici di sviluppo </strong> – mostrano la somma cumulativa del consumo o dei costi. In questo modo, si può facilmente visualizzare il tasso di crescita del consumo durante il periodo monitorato.
-<br />{{ "detailed statistics 4" | gallery_link: "podrobne statistiky_4", 1 }}</li>
+<br />{{ "statistiche dettagliate 4" | gallery_link: "podrobne statistiky_4", 1 }}</li>
 </ul>
 </div>
 </div>
@@ -36,7 +36,7 @@ Dopo aver impostato l'intervallo di tempo, questo tipo di rapporto invierà auto
 <li><strong>Notizia d'emergenza</strong><br />
 La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un determinato punto critico. Come per le relazioni periodiche, si decide che cosa Enectiva deve controllare. Può controllare, ad esempio, il superamento di un determinato consumo o costo, la necessità di controllare una parte dell'apparecchiatura o un dispositivo di misurazione, la variazione di temperatura esterna, o (grazie alla connessione di Enectiva di scambi energetici) anche lo sviluppo dei prezzi dell'energia sulle borse PEX ed EEX.</li>
 </ol>
-{{ "e-mail reports" | gallery_link: "report_1", 2 }}
+{{ "notifica e-mail" | gallery_link: "report_1", 2 }}
 </div>
 </div>
 
@@ -45,7 +45,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <div class="inner">
 <p>Se si realizza un qualsiasi progetto di energia in un edificio o se s’introducono misure di risparmio, non bisogna tralasciare la fase di monitoraggio, di apprezzamento, e di ottimizzazione. Nemmeno il miglior design di un progetto o di una misura è in grado di coprire tutti i fattori che influenzano lo sviluppo di apprezzamento del progetto. Pertanto, il monitoraggio, la valutazione dei progressi e la sequela di ottimizzazione sono indispensabili per tutti questi progetti.</p>
 <p>Enectiva vi aiuta con questo compito. Si fa tutti i calcoli per voi e, in una sola pagina, si può facilmente vedere lo sviluppo dei consumi e il suo confronto con il consumo medio negli ultimi tre anni. Possono essere visualizzati inoltre i risparmi mensili calcolati tramite lo sviluppo di una previsione della parte finanziaria del progetto, utilizzando il metodo dei flussi di cassa basato su parametri economici. Come risultato, si può facilmente scoprire se il progetto è ancora in grado di ripagare l'investimento e anche il valore attuale netto VAN stimato al termine della durata del progetto.</p>
-{{ "saving analysis" | gallery_link: "analyza uspor_1", 3 }}
+{{ "Analisi di risparmio" | gallery_link: "analyza uspor_1", 3 }}
 </div>
 </div>
 
@@ -61,7 +61,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Supporto di Google Maps</h4>
 <div class="inner">
 <p>Avete bisogno di cercare rapidamente informazioni sui diversi edifici differenti nel vostro portfolio? Dimenticate la ricerca fastidiosa attraverso molti file archiviati. In Enectiva, è possibile passare da un edificio all'altro con soli tre clic, grazie al suo collegamento a Google Maps.</p>
-{{ "Google Maps support" | gallery_link: "podpora google maps_1", 4 }}
+{{ "Supporto Google Maps" | gallery_link: "podpora google maps_1", 4 }}
 </div>
 </div>
 
@@ -77,7 +77,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Facile inserimento dei dati del contatore</h4>
 <div class="inner">
 <p>I dati di lettura del contatore possono essere inseriti in Enectiva manualmente oppure possono essere inviati in tramite un dispositivo remoto. Per l'immissione manuale è possibile utilizzare o un semplice modulo (ad esempio per inserire dati più vecchi) o un modulo preparato in formato xls (MS Excel). In questo modo, per esempio, si può facilmente copiare i dati da un grafico esistente al grafico modello che abbiamo preparato e, dopo aver caricato il file, Enectiva elaborerà i dati.</p>
-{{ "Easy input of meter reading data" | gallery_link: "snadne odecty_1", 6 }}
+{{ "Facile inserimento dei dati del contatore" | gallery_link: "snadne odecty_1", 6 }}
 </div>
 </div>
 
@@ -94,18 +94,18 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <div class="inner">
 <p>Ogni azienda ha una gerarchia di lavoratori in base alle loro autorità. Enectiva riflette questo fatto la possibilità di assegnare ciascun’autorità dell'utente nel sistema. Così, impostando il tipo di account, si può facilmente determinare per ogni utente quello che può visualizzare e modificare nel sistema. .</p>
 <p>Allo stato attuale, noi rispettiamo i seguenti tipi di utenti: amministratore, tecnico, inquilino, responsabile delle attrezzature, responsabile della proprietà, gestore del patrimonio, responsabile del portfolio, proprietario. Tutti questi utenti si distinguono per diversi diritti e le opzioni all'interno del sistema.</p>
-{{ "User rights hierarchy" | gallery_link: "hierarchie uzivatelu_1", 7 }}
+{{ "Gerarchia dei diritti utente" | gallery_link: "hierarchie uzivatelu_1", 7 }}
 </div>
 </div>
 
 <div class="Caratteristiche">
-<h4>Lista prezzi delle utilità</h4>
+<h4>Listino prezzi delle utilità</h4>
 <div class="inner">
-<p>Enectiva contiene la lista prezzi di tutti i distributori di utilità attive nella Repubblica ceca. E' sufficiente selezionare dalla lista il distributore nel sistema, inserire il prezzo unitario per l'utilità concordato con il fornitore, ed Enectiva conterà automaticamente i costi complessivi secondo le formule date da ERO (Energy Regulatory Office)</p>
+<p>Enectiva contiene la listino prezzi di tutti i distributori di utilità attive nella Repubblica ceca. E' sufficiente selezionare dalla lista il distributore nel sistema, inserire il prezzo unitario per l'utilità concordato con il fornitore, ed Enectiva conterà automaticamente i costi complessivi secondo le formule date da ERO (Energy Regulatory Office)</p>
 <p>Naturalmente, sarà eseguito un aggiornamento dal nostro team di sviluppo ogni volta che una nuova decisione sul prezzo è rilasciata da ERO.
  
 </p>
-{{ "Integrated utilities price lists" | gallery_link: "integrovane ceniky_1", 8 }}
+{{ "Listino prezzi delle utilità" | gallery_link: "integrovane ceniky_1", 8 }}
 </div>
 </div>
 
@@ -120,7 +120,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Facile gestione dei contatori</h4>
 <div class="inner">
 <p>In Enectiva, i contatori sono inclusi nella pianta dei piani di un edificio. Pertanto, è possibile visualizzare facilmente i singoli piani di un edificio e modificare i contatori direttamente dai piani. Ciò consente di risparmiare la ricerca faticosa attraverso documenti e grafici in modo per voi o il vostro tecnico di individuare le varie misure.</p>
-{{ "Easy management of meters" | gallery_link: "jednoducha orientace_1", 9 }}
+{{ "Facile gestione dei contatori" | gallery_link: "jednoducha orientace_1", 9 }}
 </div>
 </div>
 
