@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: zvídavost v energetickem managementu
+title: Zvídavost v energetickem managementu
 ---
 
 Jste dostatečně zvídaví?
