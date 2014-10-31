@@ -25,7 +25,7 @@ paginate_path: /blog/page-:num
 paginate_per_category: true
 default_category: cs
 
-authorized_locales: [cs, en]
+authorized_locales: [cs, en, it]
 default_locale: cs
 
 cs:

@@ -76,3 +76,42 @@ en:
   tel: Telephone
   text: "Your message (optional)"
   title: Title
+
+it:
+  required: campi obbligatori
+  required_error: obbligatorio!
+  form_type_options:
+    - value: supporto
+      label: Supporto tecnico
+    - value: generale
+      label: Informazioni generali
+    - value: commercio
+      label: problema commerciali
+    - value: Partner
+      label: Per i partner
+    - value: Test
+      label: Impostazioni e accesso di prova
+  heard_of_options:
+    - value: Internet
+      label: da Internet
+    - value: Partner
+      label: da un partner commerciale
+    - value: volantino
+      label: dalla brochure
+    - value: znamy
+      label: da un tuo amico
+    - value: odjinud
+      label: da un'altra fonte
+  submit: Invia
+  submit_alt: Invio ...
+  submitted: modulo è stato inviato
+  company: Azienda
+  email: E-mail
+  first_name: Nome
+  form_type: "Domande a riguardo"
+  heard_of: «Come ci hai trovato?"
+  last_name: "Cognome"
+  position: "La tua posizione"
+  tel: Telefono
+  text: "Il tuo messaggio (opzionale)"
+  title: Titolo

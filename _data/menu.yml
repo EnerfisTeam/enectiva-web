@@ -36,3 +36,19 @@ en:
     path: contact-us
   - name: Blog
     path: blog
+
+it:
+  - name: Enectiva
+    path: enectiva
+  - name: Soluzioni
+    path: soluzioni
+  - name: Caratteristiche
+    path: caratteristiche
+  - name: Prova Enectiva
+    path: prova-enectiva
+  - name: Regolamento di Enectiva
+    path: regolamento-di-enectiva
+  - name: Programma partner
+    path: programma-partner
+  - name: Contattaci
+    path: contattaci
