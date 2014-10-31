@@ -52,7 +52,7 @@ Krizové upozornění má za úkol informovat Vás o dosažení určitého kriti
 <h4>Meteodata</h4>
 <div class="inner">
 <p>Enectiva je napojena na síť meteostanic po celé ČR. Při zadávání vstupních dat o budově si vyberete meteostanici nejblíže k Vaší nemovitosti. Enectiva z ní bude poté přebírat údaje o klimatických podmínkách, které si můžete nechat zobrazit v grafu společně s údaji o spotřebě jednotlivých energií. Snadno tak zjistíte, jestli energie spotřebovávané na vytápění a chlazení jsou v souladu s vnějšími klimatickými podmínkami. Takové porovnání snadno odhalí chyby v nastavení regulací zmíněných systémů.</p>
-<%= gallery_link 'meteo', '3a', 'meteodata' %>
+    {{ "meteodata" | gallery_link: "meteo", 4 }}
 </div>
 </div>
 
@@ -60,7 +60,7 @@ Krizové upozornění má za úkol informovat Vás o dosažení určitého kriti
 <h4>Podpora Google Maps</h4>
 <div class="inner">
 <p>Potřebujete rychle zjistit informace z několika různých budov Vašeho portfolia? Zanechte otravného hledání a otvírání různých šanonů z archivu. V Enectivě díky napojení na Google Maps pomocí 3 kliknutí přejdete z jedné budovy na druhou.</p>
-{{ "podpora Google Maps" | gallery_link: "podpora google maps_1", 4 }}
+{{ "podpora Google Maps" | gallery_link: "podpora google maps_1", 5 }}
 </div>
 </div>
 
@@ -128,7 +128,7 @@ Administrátor, Technik, Nájemník, Facility manažer, Property manažer,Assett
 <div class="inner">
 <p>Enectiva se snaží jakýkoliv úkol řešit co nejjednodušeji a nejelegantněji. Funkce Drag&amp;Drop vám umožní pouhým uchopením a přetáhnutím nájemníka, budovy nebo komplexu přemístit veškerá data do nově zvolené nadřazené kategorie. </p>
 <p>Pokud například spravujete portfolio více investorů a jeden od druhého odkoupí nemovitost, přenesete veškerá data o této nemovitosti jedním jediným pohybem do portfolia nového majitele.</p>
-<%= gallery_link 'drag_drop_1', '10', 'Funkce Drag&Drop' %>
+{{ 'Funkce Drag&Drop' | gallery_link: 'drag_drop_1', 10 }}
 </div>
 </div>
 
@@ -138,8 +138,8 @@ Administrátor, Technik, Nájemník, Facility manažer, Property manažer,Assett
 <p>Enectiva obsahuje základní prvky facility managementu, jako jsou parametry „celková podlahová plocha“, „hrubá podlahová plocha“ nebo hrubá pronajímatelná plocha“. Tyto plochy lze v Enectivě rozlišit podle použití (například na kanceláře, sklady, zázemí, retail, atd.)</p>
 <p>Stejně tak jde do systému zadat počet obyvatel objektu, počet parkovacích míst, kuchyněk, WC, pisoárů apod. Všechny tyto parametry jsou děleny na celkový počet a aktuálně obsazený nebo využívaný.</p>
 <p>Díky tomu umožňuje Enectiva přepočítávat spotřeby a náklady na měrné spotřeby nebo měrné náklady podle zvoleného kriteria. Data se archivují a kdykoliv v budoucnu si tak můžete zobrazit historický vývoj těchto parametrů.</p>
-<%= gallery_link 'facility management_1', '11', 'Facility management 1' %>
-<%= gallery_link 'facility management_2', '11', 'Facility management 2' %>
+{{ Facility management 1 | galelry_link: 'facility management_1', 11 }}
+{{ Facility management 2 | galelry_link: 'facility management_2', 11 }}
 </div>
 </div>
 
@@ -148,7 +148,7 @@ Administrátor, Technik, Nájemník, Facility manažer, Property manažer,Assett
 <div class="inner">
 <p>Do Enectivy si můžete zanést jakoukoliv změnu, která se ve Vaší budově nebo portfoliu odehraje (například výměna zdroje tepla/chladu, změna dodavatele energie, změna ceny energie, výměna oken nebo zateplení objektu apod.).</p>
 <p>Tyto změny si pak můžete nechat zobrazit v měsíčních grafech spotřeb. Jednoduše a rychle tak uvidíte, jak se změnil průběh spotřeb a nákladů vlivem těchto událostí.</p>
-<%= gallery_link 'udalosti_1', '12', 'Události' %>
+{{ Události | galelry_link: 'udalosti_1', 12 }}
 </div>
 </div>
 
@@ -156,7 +156,7 @@ Administrátor, Technik, Nájemník, Facility manažer, Property manažer,Assett
 <h4>Napojení na burzy PEX a EEX</h4>
 <div class="inner">
 <p>Díky napojení na burzy energií PEX a EEX můžete přímo z rozhraní Enectivy sledovat vývoj cen elektrické energie a plynu. Jednoduše tak můžete sledovat, jaký je trend vývoje cen a ve vhodnou dobu tak uspořádat tendr na dodavatele energií. Pomocí automatického reportu si také můžete nastavit, aby Vám Enectiva sama poslala upozornění ve chvíli, kdy cena energie dosáhne Vámi požadovanou hodnotu.</p>
-<%= gallery_link 'burzy_1', '13', 'Zobrazení burzy' %>
+{{ Zobrazení burzy | galelry_link: 'burzy_1', 13 }}
 </div>
 </div>
 

@@ -53,7 +53,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Dati meteorologici</h4>
 <div class="inner">
 <p>Enectiva è connessa con la rete delle stazioni meteorologiche in tutta la Repubblica Ceca. Quando s’inseriscono i dati d’ingresso di un edificio, va selezionata la stazione meteo più vicina a esso. Enectiva riceverà quindi le informazioni delle condizioni climatiche, che saranno poi visualizzabili in un unico grafico con il consumo di risorse energetiche individuali. In questo modo, si può facilmente controllare se l'energia utilizzata per il riscaldamento e il raffreddamento corrisponde alle condizioni climatiche esterne. Tale confronto rileva facilmente errori d’impostazione regolazione dei sistemi citati.</p>
-<%= gallery_link 'meteo', '3a', 'meteodata' %>
+{{ 'meteodata' | gallery_link: 'meteo', 4 }}  %>
 </div>
 </div>
 
@@ -61,7 +61,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Supporto di Google Maps</h4>
 <div class="inner">
 <p>Avete bisogno di cercare rapidamente informazioni sui diversi edifici differenti nel vostro portfolio? Dimenticate la ricerca fastidiosa attraverso molti file archiviati. In Enectiva, è possibile passare da un edificio all'altro con soli tre clic, grazie al suo collegamento a Google Maps.</p>
-{{ "Supporto Google Maps" | gallery_link: "podpora google maps_1", 4 }}
+{{ "Supporto Google Maps" | gallery_link: "podpora google maps_1", 5 }}
 </div>
 </div>
 
@@ -129,7 +129,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <div class="inner">
 <p>Enectiva cerca di risolvere qualsiasi operazione nel modo più semplice ed elegante possibile. La funzione  Drag&amp;Drop permette di spostare tutti i dati a una categoria superiore appena selezionata semplicemente afferrando e trascinando un occupante, un edificio o un complesso.</p>
 <p>Ad esempio, se si gestisce un portfolio di più investitori e uno di loro compra un immobile dall'altro, questa funzione permette di trasferire tutti i dati di questo immobile nel portfolio del nuovo proprietario, con una sola mossa.</p>
-<%= gallery_link 'drag_drop_1', '10', 'Drag&amp;Drop Function' %>
+{{ Drag&amp;Drop Function | galelry_link: 'drag_drop_1', 10 }}
 </div>
 </div>
 
@@ -140,8 +140,8 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <p>Allo stesso modo, è possibile inserire il numero di occupanti dell'oggetto, posti auto, angolo cottura, WC, orinatoi e simili. Tutti questi parametri sono suddivisi tra complessivi e quelle attualmente utilizzati.</p>
 <p>Come risultato, Enectiva può calcolare il consumo e costi per il consumo specifico o costi specifici secondo il criterio selezionato. I dati vengono archiviati ed è possibile visualizzare il tempo di sviluppo di questi parametri in qualsiasi momento in futuro.
 </p>
-<%= gallery_link 'facility management_1', '11', 'Facility management 1' %>
-<%= gallery_link 'facility management_2', '11', 'Facility management 2' %>
+{{ Facility management 1 | galelry_link: 'facility management_1', 11 }}
+{{ Facility management 2 | galelry_link: 'facility management_2', 11 }}
 </div>
 </div>
 
@@ -149,7 +149,7 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Eventi</h4>
 <div class="inner">
 <p>È possibile inserire in Enectiva qualsiasi cambiamento che si verifica nel vostro edificio o di un portfolio (per esempio, la sostituzione della fonte di calore o di raffreddamento, un cambiamento del fornitore di energia, una variazione del prezzo dell'energia, sostituzione finestre, isolamento termico dell'oggetto, ecc) È quindi possibile visualizzare questi cambiamenti nei grafici di consumo mensili. In modo semplice e veloce, si può vedere il cambiamento nei consumi e costi di sviluppo a causa di questi eventi.</p>
-<%= gallery_link 'udalosti_1', '12', 'Events' %>
+{{ Events | galelry_link: 'udalosti_1', 12 }}
 </div>
 </div>
 
@@ -157,5 +157,6 @@ La funzione di un avviso di emergenza è di informarvi che è stato raggiunto un
 <h4>Connessione con gli scambi EEX e PEX</h4>
 <div class="inner">
 <p>Grazie alla sua connessione con gli scambi di energia PEX ed EEX, è possibile seguire l'andamento dei prezzi di energia elettrica e gas direttamente dall'interfaccia Enectiva. In questo modo, si può facilmente osservare l'andamento dei prezzi e di bandire una gara per un fornitore di energia in un momento conveniente. Utilizzando i rapporti automatici, è possibile anche impostare Enectiva per l'invio di un avviso non appena il prezzo di energia raggiunge il valore desiderato.</p>
-<%= gallery_link 'burzy_1', '13', 'Displaying the exchange' %>
+{{ Displaying the exchange | galelry_link: 'burzy_1', 13 }}
+</div>
 </div>
