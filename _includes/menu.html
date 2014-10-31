@@ -15,7 +15,7 @@
 	{% endfor %}
     <li class="divideAbove langSwitch"><a href="/cs/{{ site.data.menu.cs.first.path }}/">CS</a></li>
     <li class="langSwitch"><a href="/it/{{ site.data.menu.it.first.path }}/">IT</a></li>
-{% else if locale == 'it' %}
+{% elsif locale == 'it' %}
     <li class="divideUnder"><a href="/it">Login</a></li>
     {% for item in site.data.menu.it %}
     <li>
