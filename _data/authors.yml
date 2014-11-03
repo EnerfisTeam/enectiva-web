@@ -1,0 +1,8 @@
+enectiva:
+  type: organization
+  url: http://enectiva.cz
+  name: Tým Enectiva
+vlada:
+  type: person
+  givenName: Vladimír
+  familyName: Svozil

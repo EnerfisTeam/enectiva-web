@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Zvídavost v energetickém managementu
+author: enectiva
 ---
 
 Jste dostatečně zvídaví?
@@ -17,5 +18,3 @@ Zvídavost je ale naprosto klíčová i u energetických manažerů. Profesioná
 Přemýšleli jste někdy o kolik % lze snížit vaši spotřebu energií, při maximální efektivitě jejího využití?
 
 Buďte zvídaví!
-
-Tým Enectiva
