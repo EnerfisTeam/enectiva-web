@@ -54,7 +54,8 @@ prose:
         field:
           element: "text"
           type: "text"
-          placeholder: "Autor (from /config/authors.yml)"
+          label: "Autor"
+          placeholder: "(z /config/authors.yml)"
     en/blog/_posts:
       - name: "layout"
         field:
@@ -69,4 +70,5 @@ prose:
         field:
           element: "text"
           type: "text"
-          placeholder: "Author (from /config/authors.yml)"
+          label: "Author"
+          placeholder: "(from /config/authors.yml)"
