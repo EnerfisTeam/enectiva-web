@@ -4,34 +4,37 @@ title: Kontaktujte nás
 schema: ContactPage
 ---
 
-<div itemscope itemtype="http://schema.org/ContactPoint">
-<h1>Kontaktujte nás</h1>
+<div itemscope itemtype="http://schema.org/Organization">
+    <h1>Kontaktujte nás</h1>
 
-<p>V případě jakéhokoli dotazu prosím neváhejte kontaktovat tým Enectiva. Použijte k tomu buď níže uvedené e-mailové adresy, nebo kontaktní formulář.</p>
+    <p>V případě jakéhokoli dotazu prosím neváhejte kontaktovat tým Enectiva. Použijte k tomu buď níže uvedené e-mailové adresy, nebo kontaktní formulář.</p>
 
-<div class="halfPanel">
-  <h2>E-mailové adresy</h2>
-  {% include emails-list.html %}
+    <div itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="halfPanel">
+          <h2>E-mailové adresy</h2>
+          {% include emails-list.html %}
+        </div>
+
+        <div class="halfPanel">
+          <h2>Telefonní kontakty</h2>
+          <ul>
+            <li>tel: <span itemprop="telephone">+420 222 766 950</span></li>
+            <li>tel: <span itemprop="telephone">+420 222 766 951</span></li>
+            <li>mob: <span itemprop="telephone">+420 732 916 385</span></li>
+            <li>fax: <span itemprop="faxNumber">+420 222 766 959</span></li>
+          </ul>
+        </div>
+
+        <br />
+        <p class="clear">
+        Korespondeční a fakturační adresa: <strong>Enerfis s.r.o.</strong>, <span itemprop="streetAddress">Drtinova 557/10</span>, <span itemprop="addressLocality">Praha 5</span> <span itemprop="postalCode">150 00</span>, <span itemprop="addressCountry">Česká republika</span> <br />
+        <img src="/img/youtube_logo.png" class="text">YouTube kanál: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
+        </p>
+    </div>
 </div>
 
-<div class="halfPanel">
-  <h2>Telefonní kontakty</h2>
-  <ul>
-    <li>tel: +420 222 766 950</li>
-    <li>tel: +420 222 766 951</li>    
-    <li>mob: +420 732 916 385</li>
-    <li>fax: +420 222 766 959</li>
-  </ul>
-</div>
-
-<p class="clear"><br />
-Korespondeční a fakturační adresa: <strong>Enerfis s.r.o.</strong>, Drtinova 557/10, Praha 5 150 00 Česká republika <br />
-<img src="/img/youtube_logo.png" class="text">YouTube kanál: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
-</p>
 <br /><br />
 <h2>Kontaktní formulář</h2>
 
 {% include contact_form.html %}
 <br /><br />
-
-</div>
