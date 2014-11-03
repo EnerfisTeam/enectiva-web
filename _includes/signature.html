@@ -1,10 +1,10 @@
 {% if page.author and site.data.authors[page.author] %}
-<address class="signature" itemprop="author">
     {% assign author = site.data.authors[page.author] %}
-    {% if author.type == 'person' %}
-        {% include signature_person.html %}
-    {% else %}
-        {% include signature_organization.html %}
-    {% endif %}
-</address>
+    <address class="signature" itemprop="author" itemscope itemtype="http://schema.org/{{ author.type | capitalize }}">
+        {% if author.type == 'person' %}
+            {% include signature_person.html %}
+        {% else %}
+            {% include signature_organization.html %}
+        {% endif %}
+    </address>
 {% endif %}

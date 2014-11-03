@@ -2,18 +2,12 @@
 
 <!DOCTYPE html>
 
-{% if page.schema %}
-    {% assign schema_type = page.schema %}
-{% else %}
-    {% assign schema_type = 'WebPage' %}
-{% endif %}
-<html itemscope itemtype="{{ type }}" lang="{{ locale }}">
+<html lang="{{ locale }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }} - Enectiva</title>
         <meta name="viewport" content="width=device-width">
-
 
         {% stylesheet app %}
 
@@ -21,7 +15,14 @@
         <meta name="language" content="{{ locale }}">
         <link href="/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
     </head>
-    <body>
+    {% if page.schema %}
+        {% assign schema_type = page.schema %}
+    {% else %}
+        {% assign schema_type = 'WebPage' %}
+    {% endif %}
+    <body itemscope itemtype="{{ schema_type }}" >
+        <meta itemprop="author">
+        <meta itemprop="name" content="{{ page.title }}">
         <div class="container">
             {% include header.html %}
             {% include menu.html %}
