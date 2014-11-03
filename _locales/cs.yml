@@ -196,13 +196,13 @@ cs:
       two_words_connector: ! ' a '
       words_connector: ! ', '
   time:
-    am: am
+    am: ''
     formats:
       default: ! '%a %d. %B %Y %H:%M %z'
       long: ! '%A %d. %B %Y %H:%M'
       display: ! '%e. %B %Y, %A'
       short: ! '%d. %m. %H:%M'
-    pm: pm
+    pm: ''
   # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
   activemodel:
     errors:
