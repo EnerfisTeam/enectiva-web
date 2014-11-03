@@ -50,6 +50,11 @@ prose:
           element: "text"
           type: "text"
           placeholder: "Název článku"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          placeholder: "Autor (from /config/authors.yml)"
     en/blog/_posts:
       - name: "layout"
         field:
@@ -60,3 +65,8 @@ prose:
           element: "text"
           type: "text"
           placeholder: "Post title"
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          placeholder: "Author (from /config/authors.yml)"
