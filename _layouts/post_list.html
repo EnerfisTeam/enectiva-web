@@ -7,7 +7,7 @@ layout: default
 <div class="postsList">
     {% for post in paginator.posts %}
     <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        <h2 itemprop="name">
+        <h2 itemprop="name headline">
             <a href="{{ post.url }}" itemprop="sameAs">
                 {{ post.title }}
             </a>

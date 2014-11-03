@@ -1,7 +1,13 @@
 {% assign locale = page.url | extract_locale %}
 
 <!DOCTYPE html>
-<html lang="{{ locale }}">
+
+{% if page.schema %}
+    {% assign schema_type = page.schema %}
+{% else %}
+    {% assign schema_type = 'WebPage' %}
+{% endif %}
+<html itemscope itemtype="{{ type }}" lang="{{ locale }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
