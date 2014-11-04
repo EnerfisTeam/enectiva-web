@@ -69,3 +69,6 @@ $ ->
     $feats.find('h4').click (e)->
       $feat = $(this).parentsUntil('body', 'div.feature')
       open_feat $feat
+
+    if document.location.hash.length > 0
+      $("##{document.location.hash.slice(1)}").click()
