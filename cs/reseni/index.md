@@ -16,7 +16,7 @@ Enectiva přináší pro majitele, správce, property i facility managery admini
 
 ## Veřejné budovy školy, nemocnice, knihovny
 
-Enectiva je ideálním řešením pro energetický managment školních budov, úřadů, hasičských zbrojnic, zdravotnických zařízení. Správci těchto nemovitostí budou mít vždy konrtolu nad spotřebovanou  energií i náklady s tím spojenými. Rychlá detekce plýtvání, možnost porovnávání spotřeb v závislosti  na využitých plochách, počtu žáků v případě škol, počtu pacienů v případě nemocnic je otázkou  několika kliknutí. Možnost automatických ekonomických analýz investičních energeticky úsporných  opatření a jejich zhodnocení. Jednoduché zadávání a archivace odečtů u všech typů energií. Přidání  libovolného oprávnění pro zaměstnance. Kompletní a efektivnější správa nad veřejnou budovou a tím ušetření provozních nákladů až o 20 %.
+Enectiva je ideálním řešením pro energetický managment školních budov, úřadů, hasičských zbrojnic, zdravotnických zařízení. Správci těchto nemovitostí budou mít vždy konrtolu nad spotřebovanou energií i náklady s tím spojenými. Rychlá detekce plýtvání, možnost porovnávání spotřeb v závislosti na využitých plochách, počtu žáků v případě škol, počtu pacienů v případě nemocnic je otázkou  několika kliknutí. Možnost automatických ekonomických analýz investičních energeticky úsporných opatření a jejich zhodnocení. Jednoduché zadávání a archivace odečtů u všech typů energií. Přidání libovolného oprávnění pro zaměstnance. Kompletní a efektivnější správa nad veřejnou budovou a tím ušetření provozních nákladů až o 20 %.
 
 **Hlavní přínosy v segmentu veřejných budov**:
 
@@ -28,7 +28,7 @@ napříč celou ČR.
 
 ## Sportovní centra
 
-Hřiště, bazény, aquaparky to vše jsou místa, které jsou velmi energeticky náročná na provoz a je těžké udržet jejich provozní ziskovost. Proto je zde obzvlášťe důležité dbát na efektivní provoz veškerých technologií, čemuž Enectiva může výrazným způsobem dopomoci. Je zcela zásadní mít přehled o výkonech a spotřebách jednotlivých technologických celků, jakými jsou výtápění, chlazení osvětlení, zlhčování či osvětlení. Tyto technologie mají vliv na kvatlitu vnitřního mikroklima, ale v závislosti na venovních klimatických podmínkách i zásadní vliv na celkové provozní náklady. U většiny provozů se zapomíná na včasné odstavení technologií a jsou v provozu i když nejsou aktuálně potřeba. Například vytápění bývá zapnuto v době, kdy venkovní teplota umožňuje jeho vypnutí, ventilace v době kdy v objektech nikdo není atp. V těchto věcech se ukrývá až 20 % úspor energetických nákladů.
+Hřiště, bazény, aquaparky to vše jsou místa, které jsou velmi energeticky náročná na provoz a je těžké udržet jejich provozní ziskovost. Proto je zde obzvlášťe důležité dbát na efektivní provoz veškerých technologií, čemuž Enectiva může výrazným způsobem dopomoci. Je zcela zásadní mít přehled o výkonech a spotřebách jednotlivých technologických celků, jakými jsou vytápění, chlazení či osvětlení. Tyto technologie mají vliv na kvalitu vnitřního mikroklimatu, ale v závislosti na venovních klimatických podmínkách i zásadní vliv na celkové provozní náklady. U většiny provozů se zapomíná na včasné odstavení technologií a jsou v provozu i když nejsou aktuálně potřeba. Například vytápění bývá zapnuto v době, kdy venkovní teplota umožňuje jeho vypnutí, ventilace v době kdy v objektech nikdo není atp. V těchto věcech se ukrývá až 20 % úspor energetických nákladů.
 
 **Hlavní benefity v oblasti sportovních a relaxačních center**:
 
@@ -61,7 +61,7 @@ Energetická efektivita hraje v průmyslu klíčovou roli. Snížení provozníc
 
 ## Úsporné projekty
 
-Instalujete  LED osvětlení, kogenerační jednotku, fotovoltaické panely či jinou úspornou technologii? Jistě potřebujete sledovat jaké  úspory váš projekt přináší. Enectiva dokáže automtaticky vyhodnocovat ekonomické parametry úsporných projektů na základě  sběru reálných dat z měřidel a to on- line. Nemusíte řešit náročnou administrativu jelikož vám reporty z vašich projektů chodí pravidelně emailem či dostaváte SMS zprávy o kritických stavech. Stejně tak lze využít naši analytiku a monitoring úspor pro vaše EPC projekty. Jako podklad pro jejich financování, kdy přístup k výsledkům mají všechny zúčastněné strany v EPC projektu.
+Instalujete LED osvětlení, kogenerační jednotku, fotovoltaické panely či jinou úspornou technologii? Jistě potřebujete sledovat jaké  úspory váš projekt přináší. Enectiva dokáže automtaticky vyhodnocovat ekonomické parametry úsporných projektů na základě  sběru reálných dat z měřidel a to on- line. Nemusíte řešit náročnou administrativu jelikož vám reporty z vašich projektů chodí pravidelně emailem či dostaváte SMS zprávy o kritických stavech. Stejně tak lze využít naši analytiku a monitoring úspor pro vaše EPC projekty. Jako podklad pro jejich financování, kdy přístup k výsledkům mají všechny zúčastněné strany v EPC projektu.
 
 **Hlavní benefity v případě úsporných projektů**:
 
@@ -72,7 +72,7 @@ Instalujete  LED osvětlení, kogenerační jednotku, fotovoltaické panely či 
 
 ## Nemocnice a zdravotnická zařízení
 
- Místo, kam chodíme ničit bacily, léčit bolístky, ale také místo, kde většina z nás přišla na svět. Nemocnice, porodnice, polikliniky patří mezi energeticky velmi náročné provozy, ale zároveň je zde velký prostor pro úspory a zvyšování energetické efektivity. Nasazení on- line nástroje energetického managementu Enectiva umožňuje sledovat dosažené výsledky, manažerům nemocnic dát komplexní pohled na energetické hospodaření celých areálů ale i jednotlivých oddělení, pavilónů či menších pracovišť. Včasné detekování plýtvání, možnost napřímit investice do nejvhodnějších míst, či výrazné zjednoduššení administrativy spojené s energetickými daty jsou další přínosy řešení Enectiva. Stejně jako v případě veřejných budov, měst či obcí nabízíme i nemocnicím se průběžně porovnávat s energetickou efektivitou ostatních pracovišť.
+ Místo, kam chodíme ničit bacily, léčit bolístky, ale také místo, kde většina z nás přišla na svět. Nemocnice, porodnice, polikliniky patří mezi energeticky velmi náročné provozy, ale zároveň je zde velký prostor pro úspory a zvyšování energetické efektivity. Nasazení on-line nástroje energetického managementu Enectiva umožňuje sledovat dosažené výsledky, manažerům nemocnic dát komplexní pohled na energetické hospodaření celých areálů ale i jednotlivých oddělení, pavilónů či menších pracovišť. Včasné detekování plýtvání, možnost napřímit investice do nejvhodnějších míst, či výrazné zjednoduššení administrativy spojené s energetickými daty jsou další přínosy řešení Enectiva. Stejně jako v případě veřejných budov, měst či obcí nabízíme i nemocnicím se průběžně porovnávat s energetickou efektivitou ostatních pracovišť.
 
 **Hlavní benefity v segmentu nemocnic a zdravotnických zařízení**:
 
