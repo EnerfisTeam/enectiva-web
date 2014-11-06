@@ -210,3 +210,11 @@ en:
   activerecord:
     errors:
       <<: *errors
+
+  meta_description: 'Enectiva is web info system, for energetic managment of administrative
+    buildings, business centers and other property of commercial focus. '
+  meta_keywords: Enectiva, energetic management, info system of energetic management,
+    energy and saving, analysis of saving energy
+  intro: Energy management solution Enectiva was developed by the company
+  city: Prague
+  motto: Use energy efficiently

@@ -6,6 +6,12 @@ module Jekyll
 
     I18n.enforce_available_locales = true
 
+    def translate(input, locale = nil)
+      load_translations
+      set_locale(locale)
+      I18n.t input
+    end
+
     # Example:
     #   {{ post.date | localize: "%d.%m.%Y" }}
     #   {{ post.date | localize: ":short" }}

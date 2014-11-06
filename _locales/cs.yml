@@ -210,3 +210,8 @@ cs:
   activerecord:
     errors:
       <<: *errors
+  meta_description: 'Enectiva je webový informační systém určený pro energetický management administrativních budov, obchodních center a ostatních nemovitostí komerčního zaměření.' # duplicated in the application
+  meta_keywords: 'Enectiva, energetický management, informační systém správy energií, energie a úspory, analýza úspor energií'
+  intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
+  city: Praha
+  motto: Užívejte energie efektivně

@@ -210,3 +210,8 @@ it:
   activerecord:
     errors:
       <<: *errors
+  meta_description: 'Enectiva è un servizio web per la gestione energetica degli edifici amministrativi, centri commerciali ed altre proprietà con scopi commerciali. '
+  meta_keywords: Enectiva, gestione energetica, servizio di gestione energetico, energia e risparmio, analisi di risparmio energetico
+  intro: Enectiva, una soluzione per la gestione dell'energia, è stato sviluppato dalla ditta
+  city: Praga
+  motto: Usa l'energia in modo efficiente

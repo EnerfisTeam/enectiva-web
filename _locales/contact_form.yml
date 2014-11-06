@@ -1,0 +1,87 @@
+---
+cs:
+  required: povinná pole
+  required_error: je povinné!
+  form_type_options:
+    podpora: Technická podpora 
+    general: Obecné informace 
+    obchod: Obchodní záležitosti 
+    partner: Pro partnery 
+    test: Zřídit testovací přístup 
+  heard_of_options:
+    internet: z internetu 
+    partner: od obchodního partnera
+    letak: z letáků 
+    znamy: od známého 
+    odjinud: odjinud 
+  submit: Odeslat
+  submit_alt: Odesílá se...
+  submitted: Formulář byl odeslán
+  email: E-mail
+  first_name: Jméno
+  last_name: Příjmení
+  title: Titul
+  company: Společnost
+  position: Vaše pozice
+  tel: Telefon
+  heard_of: Jak jste se o nás dozvěděli?
+  form_type: "Dotaz se týká"
+  text: Váš vzkaz (volitelné)
+
+en:
+  required: required fields
+  required_error: is required!
+  form_type_options:
+    podpora: Technical support 
+    general: General information 
+    obchod: Businss issue 
+    partner: For bussiness partners 
+    test: Set up a test access 
+  heard_of_options:
+    internet: from the internet 
+    partner: from a business partner 
+    letak: from brochures 
+    znamy: from your friend 
+    odjinud: from another source 
+  submit: Send
+  submit_alt: Sending...
+  submitted: Form was submitted
+  company: Company
+  email: E-mail
+  first_name: Name
+  form_type: "Question concerns"
+  heard_of: "How did you find us?"
+  last_name: "Last name"
+  position: "Your position"
+  tel: Telephone
+  text: "Your message (optional)"
+  title: Title
+
+it:
+  required: campi obbligatori
+  required_error: obbligatorio!
+  form_type_options:
+    supporto: Supporto tecnico 
+    generale: Informazioni generali 
+    commercio: problema commerciali 
+    Partner: Per i partner 
+    Test: Impostazioni e accesso di prova 
+  heard_of_options:
+    Internet: da Internet 
+    Partner: da un partner commerciale 
+    volantino: dalla brochure 
+    znamy: da un tuo amico 
+    odjinud: da un'altra fonte 
+  submit: Invia
+  submit_alt: Invio ...
+  submitted: modulo è stato inviato
+  company: Azienda
+  email: E-mail
+  first_name: Nome
+  form_type: "Domande a riguardo"
+  heard_of: «Come ci hai trovato?"
+  last_name: "Cognome"
+  position: "La tua posizione"
+  tel: Telefono
+  text: "Il tuo messaggio (opzionale)"
+  title: Titolo
