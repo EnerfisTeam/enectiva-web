@@ -66,7 +66,7 @@ $ ->
       $feat.find('div.inner').slideDown FEAT_SLIDE_DELAY, 'linear', ()->
         $feat.addClass('active')
 
-    $feats.find('h4').click (e)->
+    $feats.find('h4, h2').click (e)->
       $feat = $(this).parentsUntil('body', 'div.feature')
       open_feat $feat
 

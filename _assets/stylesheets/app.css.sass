@@ -25,6 +25,8 @@ img
     margin: 0 5px
 p, ul, ol
   margin: .25em 0 .75em 0
+strong
+  font-weight: bold
 
 h1, h2, h3, h4
   margin: .75em 0 .25em 0
@@ -203,15 +205,20 @@ h2
 
 .feature
   margin-bottom: 7px
-  h4
-    font-size: 16px
+  h2
+    font-size: 20px
+    height: 24px
+    line-height: 27px
+  h2, h4
     cursor: pointer
-    height: 20px
-    line-height: 23px
     margin: 0.3em 0
     padding-left: 25px
     background: image-url('sipky_orange.png') 0 0 no-repeat
-  &.active h4
+  h4
+    font-size: 16px
+    height: 20px
+    line-height: 23px
+  &.active h2, &.active h4
     background-position: 0 -20px
   .inner
     display: none
