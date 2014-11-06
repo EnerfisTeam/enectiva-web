@@ -77,6 +77,12 @@ prose:
           type: "text"
           label: "Autor"
           placeholder: "(z /config/authors.yml)"
+      - name: "keywords"
+        field:
+          element: "text"
+          type: "text"
+          label: "Dodatečná klíčová slova"
+          placeholder: "Mělo by začínat ,"
     en/blog/_posts:
       - name: "layout"
         field:
@@ -93,3 +99,9 @@ prose:
           type: "text"
           label: "Author"
           placeholder: "(from /config/authors.yml)"
+      - name: "keywords"
+        field:
+          element: "text"
+          type: "text"
+          label: "Extra keywords"
+          placeholder: "Start with ,"
