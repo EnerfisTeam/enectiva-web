@@ -40,7 +40,7 @@ prose:
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
-    /:
+    '':
       - name: "keywords"
         field:
           element: "text"
