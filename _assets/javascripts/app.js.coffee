@@ -1,6 +1,14 @@
 FEAT_SLIDE_DELAY = 300
 
 $ ->
+  $subscribeSubmit = $('#SignupSubmit').addClass('hidden')
+  $subscribeEmail = $('#mce-EMAIL')
+  $subscribeEmail.keyup (e)->
+    if $(e.target).val().trim() == ''
+      $subscribeSubmit.addClass('hidden')
+    else
+      $subscribeSubmit.removeClass('hidden')
+
   $ContactForm = $('#ContactForm')
   if $ContactForm.length
     $requiredFields = $ContactForm.find('input.required')

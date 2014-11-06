@@ -1,0 +1,13 @@
+{% assign locale = page.url | extract_locale %}
+<div class="newsletter_signup">
+	<h2>{{ 'newsletter_signup.heading' | translate: locale }}</h2>
+    <div id="mc_embed_signup">
+        <form action="http://enerfis.us5.list-manage.com/subscribe/post?u=126da82fced2bdf165ce29cb7&amp;id={{ 'newsletter_signup.list_id' | translate: locale }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+            <input type="email" placeholder="{{ 'newsletter_signup.email_placeholder' | translate: locale }}" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+            <div id="SignupSubmit">
+            <input type="submit" value="{{ 'newsletter_signup.button' | translate: locale }}" name="subscribe" id="mc-embedded-subscribe" class="signup">
+            </div>
+        </form>
+    </div>
+</div>

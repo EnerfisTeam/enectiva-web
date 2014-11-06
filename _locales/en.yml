@@ -217,3 +217,9 @@ en:
   intro: Energy management solution Enectiva was developed by the company
   city: Prague
   motto: Use energy efficiently
+
+  newsletter_signup:
+    button: OK
+    email_placeholder: Enter your e-mail
+    heading: Sign up for our newsletter
+    list_id: 663115dcb0

@@ -67,10 +67,13 @@ h3
   h1, span
     display: none
 
-.menu
+.menu, .newsletter_signup
   float: left
+  clear: left
   width: 180px
   margin: 20px 40px
+
+.menu
   a
     color: $enerfisBlueDark
 
@@ -90,6 +93,41 @@ h3
     font-weight: bold
     text-decoration: none
 
+.newsletter_signup
+  h2
+    font-size: 1em
+  input
+    padding: .7em .5em
+    &.email
+      border-bottom-right-radius: 0
+      border-top-right-radius: 0
+      width: 90%
+      border-color: $grayMiddle
+      &:hover, &:focus
+        border-color: $enerfisBlueDark
+    &.signup
+      margin-top: .5em
+      text-transform: uppercase
+      width: 60px
+      cursor: pointer
+      cursor: hand
+      border-bottom-left-radius: 0
+      border-top-left-radius: 0
+      background: $enerfisBlueDark
+      color: white
+      &:hover, &:focus
+        background: darken($enerfisBlueDark, 10%)
+
+#SignupSubmit
+  overflow-y: hidden
+  max-height: 50px
+  transition-property: all
+  transition-duration: .75s
+  transition-timing-function: ease-in-ease-out
+  &.hidden
+    max-height: 0
+
+  
 .content
   min-height: 200px
   overflow: hidden

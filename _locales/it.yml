@@ -215,3 +215,9 @@ it:
   intro: Enectiva, una soluzione per la gestione dell'energia, è stato sviluppato dalla ditta
   city: Praga
   motto: Usa l'energia in modo efficiente
+
+  newsletter_signup:
+    button: OK
+    email_placeholder: Inserisci la tua e-mail
+    heading: Iscriviti alla nostra newsletter
+    list_id: 663115dcb0

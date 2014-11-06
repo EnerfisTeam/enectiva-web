@@ -215,3 +215,9 @@ cs:
   intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
   city: Praha
   motto: Užívejte energie efektivně
+
+  newsletter_signup:
+    button: 'OK'
+    email_placeholder: 'Vyplňte svůj e-mail'
+    heading: 'Přihlaste se k odběru novinek'
+    list_id: '18809a8f38'
