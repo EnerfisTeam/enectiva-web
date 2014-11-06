@@ -40,12 +40,24 @@ prose:
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
-    '':
+    cs:
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Dodatečná klíčová slova"
+          placeholder: "Mělo by začínat ,"
+    en:
       - name: "keywords"
         field:
           element: "text"
           label: "Extra keywords"
-          placeholder: "Start with /"
+          placeholder: "Start with ,"
+    it:
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Extra keywords"
+          placeholder: "Start with ,"
     cs/blog/_posts:
       - name: "layout"
         field:
