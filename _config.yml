@@ -40,6 +40,12 @@ prose:
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
+    /:
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Extra keywords"
+          placeholder: "Start with /"
     cs/blog/_posts:
       - name: "layout"
         field:
