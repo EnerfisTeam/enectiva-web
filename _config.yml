@@ -44,18 +44,21 @@ prose:
       - name: "keywords"
         field:
           element: "text"
+          type: "text"
           label: "Dodatečná klíčová slova"
           placeholder: "Mělo by začínat ,"
     en:
       - name: "keywords"
         field:
           element: "text"
+          type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
     it:
       - name: "keywords"
         field:
           element: "text"
+          type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
     cs/blog/_posts:
