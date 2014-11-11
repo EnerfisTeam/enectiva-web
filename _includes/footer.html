@@ -1,17 +1,20 @@
 {% assign locale = page.url | extract_locale %}
 <div class="footer">
-    <div class="authorship" itemprop="author" itemscope itemtype="http://schema.org/Organization">
-        <p>{{ 'intro' | translate: locale }}:</p>
-        <a href="http://enerfis.cz" itemprop="url">
-            <img src="/img/enerfis_logo.png" width="65" height="54" alt="enerfis s.r.o. logo">
-        </a>
-        <div class="address">
-            <span itemprop="name">Enerfis s.r.o.</span>
-            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">Drtinova 557/10</span>
-                <span itemprop="addressLocality">{{ 'city' | translate: locale }} 5</span>
+    <div class="container">
+        {% include newsletter_signup.html %}
+        <div class="footer__author" itemprop="author" itemscope itemtype="http://schema.org/Organization">
+            <p>{{ 'intro' | translate: locale }}:</p>
+            <a href="http://enerfis.cz" itemprop="url">
+                <img src="/img/enerfis_logo.png" width="65" height="54" alt="enerfis s.r.o. logo">
+            </a>
+            <div>
+                <span itemprop="name">Enerfis s.r.o.</span>
+                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">Drtinova 557/10</span>
+                    <span itemprop="addressLocality">{{ 'city' | translate: locale }} 5</span>
+                </div>
+                <a href="http://enerfis.cz">www.enerfis.cz</a>
             </div>
-            <a href="http://enerfis.cz">www.enerfis.cz</a>
         </div>
     </div>
 </div>

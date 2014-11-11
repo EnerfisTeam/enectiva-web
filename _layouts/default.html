@@ -24,19 +24,16 @@
     <body itemscope itemtype="{{ schema_type }}" >
         <meta itemprop="author">
         <meta itemprop="name" content="{{ page.title }}">
-        <div class="container">
-            {% include header.html %}
-            {% include newsletter_signup.html %}
 
-            <div class="content">
-                {{ content }}
-            </div>
+        {% include header.html %}
 
-            {% include footer.html %}
+        <div class="content">
+            {{ content }}
         </div>
 
-        {% include google-analytics.html %}
+        {% include footer.html %}
 
+        {% include google-analytics.html %}
         {% javascript application %}
     </body>
 </html>
