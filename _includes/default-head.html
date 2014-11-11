@@ -1,0 +1,28 @@
+{% assign locale = page.url | extract_locale %}
+<!DOCTYPE html>
+<html lang="{{ locale }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="{{ 'meta_description' | translate: page.language }}">
+        <meta name="keywords" content="{{ 'meta_keywords' | translate: page.language }} {{ page.keywords }}">
+        <meta name="viewport" content="width=device-width">
+        <meta name="language" content="{{ locale }}">
+        <title>{{ page.title }} - Enectiva</title>
+
+        {% stylesheet app %}
+
+        <link href="/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    </head>
+    {% if page.schema %}
+        {% assign schema_type = page.schema %}
+    {% else %}
+        {% assign schema_type = 'WebPage' %}
+    {% endif %}
+    <body itemscope itemtype="{{ schema_type }}" >
+        <meta itemprop="author">
+        <meta itemprop="name" content="{{ page.title }}">
+
+        {% include header.html %}
