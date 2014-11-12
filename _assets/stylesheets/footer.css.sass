@@ -4,10 +4,10 @@
 .footer
   clear: both
   background: #eee
-  padding: .5em 0 1.5em 0
+  +rhythm-padding(.5, 1.5)
   +adjust-font-size-to($base-font-size * .9)
   &__newsletter, &__author
-    margin: .5em 0
+    +rhythm-margins(.5, .5)
   &__menu, &__newsletter, &__author
     width: 300px
     margin-left: auto
