@@ -14,7 +14,7 @@ main:
   cs:
     - name: O Enectivě
       path: o-enective
-    - name: Vlastnosti systému
+    - name: Vlastnosti
       path: vlastnosti-systemu
     - name: Řešení
       path: reseni

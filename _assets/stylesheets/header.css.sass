@@ -5,21 +5,19 @@
  */
 
 .header
-  @include padding-leader(.5)
+  +rhythm-padding(.5)
 
-  $smallWidth: 94px
-  $smallHeight: 54px
   $width: 220px
   $height: 67px
 
-  height: $smallHeight
+  height: $height
 
   &__title
     float: left
     position: relative
     overflow: hidden
-    width: $smallWidth
-    height: $smallHeight
+    width: $width
+    height: $height
     &, a, a:after
       display: block
     a, a:after
@@ -27,7 +25,7 @@
       height: 100%
     a:after
       content: ' '
-      background: image-url('logo-small.png') left top no-repeat
+      background: image-url('logo.png') left top no-repeat
       position: absolute
       top: 0
       left: 0
@@ -61,16 +59,26 @@
       background-position: 0 -.2em
 
   @media(min-width: 450px)
-    height: $height
     &__title
-      height: $height
-      width: $width
-      a
-        &:after
-          background-image: image-url('logo.png')
-          background-size: 100%
+      margin-right: 1em
+
   @media(min-width: 800px)
+    min-height: $height
+    height: auto
+    position: relative
+    border-bottom: 1px solid #eee
+
+    &__title
+      position: absolute
+      top: 0
+      bottom: 0
+      margin: auto
     &__menu-toggle-switch
       display: none
     &__menu
       display: block
+      position: static
+      margin-bottom: auto
+      width: auto
+      float: none
+      margin-left: $width + 20

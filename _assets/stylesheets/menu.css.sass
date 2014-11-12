@@ -26,8 +26,7 @@
   &--supportive
     text-align: center
 
-@media(min-width: 400px)
-  .menu
+  @media(min-width: 400px)
     &--supportive
       text-align: center
       li
@@ -35,3 +34,12 @@
       a
         display: inline-block
         width: auto
+
+  @media(min-width: 800px)
+    li
+      display: inline
+    a
+      width: auto
+      display: inline-block
+    &--important
+      +adjust-font-size-to($base-font-size)
