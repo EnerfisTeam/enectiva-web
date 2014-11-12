@@ -14,17 +14,13 @@ main:
   cs:
     - name: O Enectivě
       path: o-enective
-    - name: Řešení
-      path: reseni
     - name: Vlastnosti systému
       path: vlastnosti-systemu
-    - name: Vyzkoušejte Enectivu
-      path: vyzkousejte-enectivu
-    - name: Pravidla Enectivy
-      path: pravidla-enectivy
-    - name: Partnerský program
-      path: partnersky-program
-    - name: Kontakty
+    - name: Řešení
+      path: reseni
+    - name: Hardware
+      path: hardware
+    - name: Kontakt
       path: kontaktujte-nas
     - name: Blog
       path: blog
@@ -32,16 +28,12 @@ main:
   en:
     - name: About Enectiva
       path: about-enectiva
-    - name: Solutions
-      path: solutions
     - name: Features
       path: features
-    - name: Try Enectiva
-      path: try-enectiva
-    - name: Enectiva Rules
-      path: enectiva-rules
-    - name: Partner Programme
-      path: partner-programme
+    - name: Solutions
+      path: solutions
+    - name: Hardware
+      path: hardware
     - name: Contact Us
       path: contact-us
     - name: Blog
@@ -50,21 +42,45 @@ main:
   it:
     - name: Enectiva
       path: enectiva
-    - name: Soluzioni
-      path: soluzioni
     - name: Caratteristiche
       path: caratteristiche
-    - name: Prova Enectiva
-      path: prova-enectiva
-    - name: Regolamento di Enectiva
-      path: regolamento-di-enectiva
-    - name: Programma partner
-      path: programma-partner
+    - name: Soluzioni
+      path: soluzioni
+    - name: Hardware
+      path: hardware
     - name: Contattaci
       path: contattaci
 foot:
   cs:
-    - name: EN
-      path:
-    - name: ITk
-      path:
+    - name: Partnerský program
+      path: partnersky-program
+    - name: Média
+      path: media
+    - name: Pravidla Enectivy
+      path: pravidla-enectivy
+    - name: Bezpečnost
+      path: bezpecnost
+    - name: Kontakt
+      path: kontaktujte-nas
+  en:
+    - name: Partner Programme
+      path: partner-programme
+    - name: Press
+      path: press
+    - name: Enectiva Rules
+      path: enectiva-rules
+    - name: Security
+      path: security
+    - name: Contact Us
+      path: contact-us
+  it:
+    - name: Programma partner
+      path: programma-partner
+    - name: Media
+      path: media
+    - name: Prova Enectiva
+      path: prova-enectiva
+    - name: Sicurezza
+      path: sicurezza
+    - name: Contattaci
+      path: contattaci
