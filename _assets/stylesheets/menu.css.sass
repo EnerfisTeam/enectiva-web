@@ -4,10 +4,22 @@
  * As a deviation from BEM doesn't use any class for items or links
  */
 .menu
-  padding: .5em 1.5em
-  li a
-    padding: .25em 0
+  padding: .5em
+  a
+    padding: .25em 1em
     display: block
     width: 100%
+    text-decoration: none
+    +box-sizing('border-box')
+    &, &:visited
+      color: $color-primary-dark
+    &:hover, &:focus
+      color: $color-secondary-very-light
+  &--activable a.active
+    background: $color-primary-very-dark
+    color: white
+    +border-radius(.2em)
   &--important
     +adjust-font-size-to($base-font-size * 1.2)
+  &--dense a
+    padding: .05em 1em

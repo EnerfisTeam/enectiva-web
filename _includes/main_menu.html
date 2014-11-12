@@ -2,7 +2,7 @@
 <label for="Menu-toggle" class="header__menu-toggle-switch">&equiv;</label>
 <input type="checkbox" id="Menu-toggle" class="header__menu-toggler">
 
-<ul class="header__menu menu menu--important" itemscope itemtype="http://schema.org/SiteNavigationElement">
+<ul class="header__menu menu menu--important menu--activable" itemscope itemtype="http://schema.org/SiteNavigationElement">
 	{% include menu_items.html locale=locale menu='login' %}
 	{% include menu_items.html locale=locale menu='main' %}
     {% for current_locale in site.authorized_locales %}
