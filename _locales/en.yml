@@ -222,3 +222,6 @@ en:
     email_placeholder: Enter your e-mail
     heading: Sign up for our newsletter
     list_id: 663115dcb0
+
+  navigation:
+    back_to_homepage: Back to homepage

@@ -1,5 +1,7 @@
 {% assign locale = page.url | extract_locale %}
-<ul class="header__menu menu" itemscope itemtype="http://schema.org/SiteNavigationElement">
+<label for="Menu-toggle" class="header__menu-toggle-switch">&equiv;</label>
+<input type="checkbox" id="Menu-toggle" class="header__menu-toggler">
+<ul class="header__menu menu menu--important" itemscope itemtype="http://schema.org/SiteNavigationElement">
 {% if locale == 'en' %}
     <li class="divideAfter"><a href="/en">Login to the system</a></li>
 	{% for item in site.data.menu.en %}

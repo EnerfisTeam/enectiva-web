@@ -1,7 +1,9 @@
 {% assign locale = page.url | extract_locale %}
 <div class="header">
     <div class="container">
-        <h1 class="header__title"><a href="/{{ locale }}" itemprop="name url">{{ site.name }}</a></h1>
+        <h1 class="header__title">
+            <a href="/{{ locale }}" itemprop="name url" title="{{ 'navigation.back_to_homepage' | translate: locale }}">{{ site.name }}</a>
+        </h1>
 
         {% include menu.html %}
     </div>

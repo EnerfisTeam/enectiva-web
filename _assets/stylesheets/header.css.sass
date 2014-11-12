@@ -1,0 +1,46 @@
+/*doc
+ * Defines header block containing logo with a link to HP and top menu with toggler
+ *
+ * CSS-only toggling based on http://www.outofscope.com/css-only-menu-toggle-no-javascript-required/
+ */
+
+.header
+  @include padding-leader(.5)
+  @include margin-trailer(1)
+
+  $width: 94px
+  $height: 54px
+  &__title
+    float: left
+    position: relative
+    overflow: hidden
+    &, a, a:after
+      width: $width
+      height: $height
+      display: block
+    a:after
+      content: ' '
+      background: image-url('logo-small.png')
+      position: absolute
+      top: 0
+      left: 0
+
+  &__menu
+    display: none
+    width: 100%
+    +box-sizing('border-box')
+    float: right
+    clear: right
+    margin-bottom: -100%
+    position: relative
+    background: white
+    border-bottom: 2px solid #eee
+  &__menu-toggle-switch
+    float: right
+    font-size: $base-font-size * 3.5
+    padding: .15em .25em .25em .25em
+    color: $color-primary-dark
+  &__menu-toggler
+    display: none
+  #Menu-toggle:checked + &__menu
+    display: block

@@ -1,0 +1,13 @@
+/*doc
+ * Defines general menu block used throughout the layout
+ *
+ * As a deviation from BEM doesn't use any class for items or links
+ */
+.menu
+  padding: .5em 1.5em
+  li a
+    padding: .25em 0
+    display: block
+    width: 100%
+  &--important
+    +adjust-font-size-to($base-font-size * 1.2)

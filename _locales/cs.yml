@@ -220,3 +220,6 @@ cs:
     email_placeholder: 'Vyplňte svůj e-mail'
     heading: 'Přihlaste se k odběru novinek'
     list_id: '18809a8f38'
+
+  navigation:
+    back_to_homepage: Zpět na úvodní stránku

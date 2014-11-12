@@ -2,13 +2,14 @@
 @import "variables.css.sass"
 @import "compass/typography/vertical_rhythm"
 @import "compass/utilities/general/clearfix"
+@import "compass/css3/box-sizing"
 @import url(http://fonts.googleapis.com/css?family=Didact+Gothic&subset=latin,latin-ext)
 @import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext)
 
 $base-font-size: 16px
 $base-line-height: 28px
 $rhythm-unit: 'em'
-@include establish-baseline($base-font-size)
++establish-baseline($base-font-size)
 
 h1, h2, h3
   font-family: 'Didact Gothic', Verdana, sans-serif
@@ -16,23 +17,31 @@ body
   font-family: 'Open Sans', Verdana, sans-serif
 
 h1
-  @include adjust-font-size-to($base-font-size * 2.6)
+  +adjust-font-size-to($base-font-size * 2.6)
 h2
-  @include adjust-font-size-to($base-font-size * 2.3)
+  +adjust-font-size-to($base-font-size * 2.3)
 h3
-  @include adjust-font-size-to($base-font-size * 2)
+  +adjust-font-size-to($base-font-size * 2)
 
-// Exception to BEM!
-// This class is used within several high level blocks and only limits the width of the content's width
+/*doc
+ * Exception to BEM!
+ *
+ * This class is used within several high level blocks and only limits the width of the content's width
+ */
 .container
   max-width: 960px
   margin: 0 auto
+  padding: 0 .5em
 
+.content, .footer
+  clear: both
 //.block
 //  &__element
 //    background: blue
 //  &--modifier
 //    background: red
 
+@import 'header'
+@import 'menu'
 
 @import "swipebox.scss"
