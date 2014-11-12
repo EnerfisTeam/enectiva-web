@@ -6,22 +6,28 @@
 
 .header
   @include padding-leader(.5)
-  @include margin-trailer(1)
 
-  $width: 94px
-  $height: 54px
-  height: $height
+  $smallWidth: 94px
+  $smallHeight: 54px
+  $width: 220px
+  $height: 67px
+
+  height: $smallHeight
+
   &__title
     float: left
     position: relative
     overflow: hidden
+    width: $smallWidth
+    height: $smallHeight
     &, a, a:after
-      width: $width
-      height: $height
       display: block
+    a, a:after
+      width: 100%
+      height: 100%
     a:after
       content: ' '
-      background: image-url('logo-small.png')
+      background: image-url('logo-small.png') left top no-repeat
       position: absolute
       top: 0
       left: 0
@@ -53,3 +59,18 @@
       +background-image(radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.8) 0%, transparent 80%))
       background-repeat: no-repeat
       background-position: 0 -.2em
+
+  @media(min-width: 450px)
+    height: $height
+    &__title
+      height: $height
+      width: $width
+      a
+        &:after
+          background-image: image-url('logo.png')
+          background-size: 100%
+  @media(min-width: 800px)
+    &__menu-toggle-switch
+      display: none
+    &__menu
+      display: block
