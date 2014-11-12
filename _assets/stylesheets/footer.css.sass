@@ -6,14 +6,23 @@
   background: #eee
   padding: .5em 0 1.5em 0
   +adjust-font-size-to($base-font-size * .9)
-  +clearfix
   &__newsletter, &__author
-    margin: 0 1.5em
-    max-width: 20em
-  &__menu
-    width: 100%
-  &__newsletter
-    float: left
-  &__author
-    float: right
-    clear: right
+    margin: .5em 0
+  &__menu, &__newsletter, &__author
+    width: 300px
+    margin-left: auto
+    margin-right: auto
+
+@media(min-width: 500px)
+  .footer
+    +clearfix
+    &__menu
+      width: auto
+    &__newsletter, &__author
+      margin-left: 0
+      margin-right: 0
+      max-width: 50%
+    &__newsletter
+      float: left
+    &__author
+      float: right

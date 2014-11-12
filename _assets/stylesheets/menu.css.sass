@@ -23,3 +23,15 @@
     +adjust-font-size-to($base-font-size * 1.2)
   &--dense a
     padding: .05em 1em
+  &--supportive
+    text-align: center
+
+@media(min-width: 400px)
+  .menu
+    &--supportive
+      text-align: center
+      li
+        display: inline
+      a
+        display: inline-block
+        width: auto
