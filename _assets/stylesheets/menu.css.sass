@@ -15,16 +15,16 @@
       color: $color-primary-dark
     &:hover, &:focus
       color: $color-secondary-very-light
-  &--activable a.active
-    background: $color-primary-very-dark
-    color: white
-    +border-radius(.2em)
-  &--important
+  &--main
     +adjust-font-size-to($base-font-size * 1.2)
-  &--dense a
-    padding: .05em 1em
+    a.active
+      background: $color-primary-very-dark
+      color: white
+      +border-radius(.2em)
   &--supportive
     text-align: center
+    a
+      padding: .05em 1em
 
   @media(min-width: 400px)
     &--supportive
@@ -36,6 +36,17 @@
         width: auto
 
   @media(min-width: 800px)
+    &__login, &__translations
+      +adjust-font-size-to($base-font-size * .8)
+      float: right
+      +margin-leader(-1)
+      +margin-trailer(.15)
+      a, a:visited
+        color: #888
+    &__login
+      margin-right: 2em
+    &__list
+      clear: right
     li
       display: inline
     a

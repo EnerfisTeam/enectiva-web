@@ -1,15 +1,5 @@
 ---
 # First item is used as an address to link to the given language
-login:
-  cs:
-    - name: Přihlášení do systému
-      path:
-  en:
-    - name: Login
-      path:
-  it:
-    - name: Login
-      path:
 main:
   cs:
     - name: O Enectivě
@@ -26,7 +16,7 @@ main:
       path: blog
 
   en:
-    - name: About Enectiva
+    - name: About
       path: about-enectiva
     - name: Features
       path: features
