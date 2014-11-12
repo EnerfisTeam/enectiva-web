@@ -58,15 +58,21 @@
       background-repeat: no-repeat
       background-position: 0 -.2em
 
-  @media(min-width: 450px)
-    &__title
-      margin-right: 1em
-
   @media(min-width: 800px)
     min-height: $height
     height: auto
     position: relative
     border-bottom: 1px solid #eee
+
+    &:after
+      $h: 2em
+      content: ' '
+      height: $h
+      width: 100%
+      display: block
+      position: absolute
+      bottom: -$h
+      +background-image(linear-gradient(rgba(0,0,0,0.05), transparent))
 
     &__title
       position: absolute
