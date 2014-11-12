@@ -10,6 +10,7 @@
 
   $width: 94px
   $height: 54px
+  height: $height
   &__title
     float: left
     position: relative
@@ -49,6 +50,6 @@
       height: .4em
       bottom: -.4em - .5em
       position: relative
-      +background-image(radial-gradient(rgba(0, 0, 0, 0.8), transparent))
+      +background-image(radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.8) 0%, transparent 80%))
       background-repeat: no-repeat
       background-position: 0 -.2em

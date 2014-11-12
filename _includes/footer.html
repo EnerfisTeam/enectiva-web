@@ -1,8 +1,8 @@
 {% assign locale = page.url | extract_locale %}
 <div class="footer">
     <div class="container">
-        {% include newsletter_signup.html %}
         {% include footer_menu.html %}
+        {% include newsletter_signup.html %}
         <div class="footer__author author" itemprop="author" itemscope itemtype="http://schema.org/Organization">
             <p>{{ 'intro' | translate: locale }}:</p>
             <a href="http://enerfis.cz" itemprop="url">
