@@ -1,54 +1,70 @@
 ---
 # First item is used as an address to link to the given language
-# Similar list is in the app
-cs:
-  - name: O Enectivě
-    path: o-enective
-  - name: Řešení
-    path: reseni
-  - name: Vlastnosti systému
-    path: vlastnosti-systemu
-  - name: Vyzkoušejte Enectivu
-    path: vyzkousejte-enectivu
-  - name: Pravidla Enectivy
-    path: pravidla-enectivy
-  - name: Partnerský program
-    path: partnersky-program
-  - name: Kontakty
-    path: kontaktujte-nas
-  - name: Blog
-    path: blog
+login:
+  cs:
+    - name: Přihlášení do systému
+      path:
+  en:
+    - name: Login
+      path:
+  it:
+    - name: Login
+      path:
+main:
+  cs:
+    - name: O Enectivě
+      path: o-enective
+    - name: Řešení
+      path: reseni
+    - name: Vlastnosti systému
+      path: vlastnosti-systemu
+    - name: Vyzkoušejte Enectivu
+      path: vyzkousejte-enectivu
+    - name: Pravidla Enectivy
+      path: pravidla-enectivy
+    - name: Partnerský program
+      path: partnersky-program
+    - name: Kontakty
+      path: kontaktujte-nas
+    - name: Blog
+      path: blog
 
-en:
-  - name: About Enectiva
-    path: about-enectiva
-  - name: Solutions
-    path: solutions
-  - name: Features
-    path: features
-  - name: Try Enectiva
-    path: try-enectiva
-  - name: Enectiva Rules
-    path: enectiva-rules
-  - name: Partner Programme
-    path: partner-programme
-  - name: Contact Us
-    path: contact-us
-  - name: Blog
-    path: blog
+  en:
+    - name: About Enectiva
+      path: about-enectiva
+    - name: Solutions
+      path: solutions
+    - name: Features
+      path: features
+    - name: Try Enectiva
+      path: try-enectiva
+    - name: Enectiva Rules
+      path: enectiva-rules
+    - name: Partner Programme
+      path: partner-programme
+    - name: Contact Us
+      path: contact-us
+    - name: Blog
+      path: blog
 
-it:
-  - name: Enectiva
-    path: enectiva
-  - name: Soluzioni
-    path: soluzioni
-  - name: Caratteristiche
-    path: caratteristiche
-  - name: Prova Enectiva
-    path: prova-enectiva
-  - name: Regolamento di Enectiva
-    path: regolamento-di-enectiva
-  - name: Programma partner
-    path: programma-partner
-  - name: Contattaci
-    path: contattaci
+  it:
+    - name: Enectiva
+      path: enectiva
+    - name: Soluzioni
+      path: soluzioni
+    - name: Caratteristiche
+      path: caratteristiche
+    - name: Prova Enectiva
+      path: prova-enectiva
+    - name: Regolamento di Enectiva
+      path: regolamento-di-enectiva
+    - name: Programma partner
+      path: programma-partner
+    - name: Contattaci
+      path: contattaci
+foot:
+  cs:
+    - name: EN
+      path:
+    - name: ITk
+      path:
