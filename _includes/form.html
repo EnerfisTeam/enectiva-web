@@ -1,40 +1,35 @@
 {% assign locale = page.url | extract_locale %}
-<fieldset class="halfPanel">
+<fieldset>
   <div class="input">
-    <label for="contact_form_email">{{ 'email' | translate: locale }} *</label><br />
-    <input id="contact_form_email" name="contact_form[email]" type="text" class="required">
-      <div class="errorMessage">{{ 'required_error' | translate: locale }}</div>
+    <label for="contact_form_email">{{ 'email' | translate: locale }} *</label>
+    <input id="contact_form_email" name="contact_form[email]" type="email" class="required">
+      <div class="error-message">{{ 'required_error' | translate: locale }}</div>
   </div>
   <div class="input">
-    <label for="contact_form_first_name">{{ 'first_name' | translate: locale }} *</label><br />
-    <input id="contact_form_first_name" name="contact_form[first_name]" type="text" class="required">
-      <div class="errorMessage">{{ 'required_error' | translate: locale }}</div>
+    <label for="contact_form_name">{{ 'name' | translate: locale }}</label>
+    <input id="contact_form_name" name="contact_form[name]" type="text">
   </div>
-  <div class="input">
-    <label for="contact_form_last_name">{{ 'last_name' | translate: locale }} *</label><br />
-    <input id="contact_form_last_name" name="contact_form[last_name]" type="text" class="required">
-      <div class="errorMessage">{{ 'required_error' | translate: locale }}</div>
-  </div>
-  <div class="input">
-    <label for="contact_form_title">{{ 'title' | translate: locale }}</label><br />
-    <input id="contact_form_title" name="contact_form[title]" type="text">
-  </div>
+    <div class="input">
+        <label for="contact_form_text">{{ 'text' | translate: locale }}</label>
+        <textarea id="contact_form_text" name="contact_form[text]"></textarea>
+    </div>
+    <input name="util[source_url]" value="{{ page.url }}" type="hidden">
 </fieldset>
-<fieldset class="halfPanel">
+<fieldset class="contact__extra">
   <div class="input">
-    <label for="contact_form_company">{{ 'company' | translate: locale }}</label><br />
+    <label for="contact_form_company">{{ 'company' | translate: locale }}</label>
     <input id="contact_form_company" name="contact_form[company]" type="text">
   </div>
   <div class="input">
-    <label for="contact_form_position">{{ 'position' | translate: locale }}</label><br />
+    <label for="contact_form_position">{{ 'position' | translate: locale }}</label>
     <input id="contact_form_position" name="contact_form[position]" type="text">
   </div>
   <div class="input">
-    <label for="contact_form_tel">{{ 'tel' | translate: locale }}</label><br />
+    <label for="contact_form_tel">{{ 'tel' | translate: locale }}</label>
     <input id="contact_form_tel" name="contact_form[tel]" type="text">
   </div>
   <div class="input">
-    <label for="contact_form_heard_of">{{ 'heard_of' | translate: locale }}</label><br />
+    <label for="contact_form_heard_of">{{ 'heard_of' | translate: locale }}</label>
     <select id="contact_form_heard_of" name="contact_form[heard_of]">
     {% for option in site.data.contact_form.heard_of_options %}
         {% assign label = option | prepend: "heard_of_options." %}
@@ -44,19 +39,11 @@
   </div>
 
 </fieldset>
-<div>
-  <div class="input">
-    <label for="contact_form_text">{{ 'text' | translate: locale }}</label><br />
-    <textarea id="contact_form_text" name="contact_form[text]"></textarea>
-  </div>
-  <input name="util[source_url]" value="{{ page.url }}" type="hidden">
-  <input type="submit" value="{{ 'submit' | translate: locale }}">
-</div>
+
+<input type="submit" value="{{ 'submit' | translate: locale }}" class="contact__submit button">
 <script type="text/javascript">
     contactFormI18n = {
         submit_alt: "{{ 'submit_alt' | translate: locale }}",
         submitted: "{{ 'submitted' | translate: locale }}"
     }
 </script>
-<br>
-<small class="povinne">* = {{ 'required' | translate: locale }}</small>
