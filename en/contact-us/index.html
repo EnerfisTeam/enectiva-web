@@ -10,6 +10,8 @@ schema: ContactPage
 
     <p>If you want to make any inquiries do not hesitate to contact the <span itemprop="name">Enectiva</span> team. You can use either the e-mail addresses below or the contact form.</p>
 
+    {% include contact_form.html %}
+
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         <div class="halfPanel">
           <h2>E-mail Contacts</h2>
@@ -32,9 +34,3 @@ schema: ContactPage
         </p>
     </div>
 </div>
-
-<br /><br />
-<h2>Contact Form</h2>
-
-{% include contact_form.html %}
-<br /><br />
