@@ -7,3 +7,16 @@
 
   img
     max-width: 100%
+
+  ul, ol
+    +rhythm-margins(.5, .75)
+  li
+    list-style-position: inside
+    padding-left: 1em
+    +rhythm-padding(.15)
+  ul li
+    list-style-type: disc
+  ol li
+    list-style-type: decimal
+  p
+    +rhythm-padding(.1)

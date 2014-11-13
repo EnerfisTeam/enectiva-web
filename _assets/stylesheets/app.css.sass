@@ -15,8 +15,7 @@ $rhythm-unit: 'em'
 
 h1, h2, h3
   font-family: 'Didact Gothic', Verdana, sans-serif
-  +padding-leader(.2)
-  +padding-trailer(.1)
+  +rhythm-margins(.2, .1)
 body
   font-family: 'Open Sans', Verdana, sans-serif
 
@@ -27,6 +26,10 @@ h2
 h3
   +adjust-font-size-to($base-font-size * 2)
 
+strong
+  font-weight: bold
+em
+  font-style: italic
 /*doc
  * Exception to BEM!
  *
