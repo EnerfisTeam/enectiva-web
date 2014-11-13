@@ -7,13 +7,18 @@
   &__title
     +adjust-font-size-to($base-font-size * 1.3)
     margin-bottom: .25em
-
+  &__form
+    +rhythm-margins(.25)
   &__email
-    width: 78%
+    width: 70%
+    margin-right: 2%
     float: left
   &__submit
     width: 20%
     float: left
     clear: right
+    input
+      width: 100%
+      min-width: 0
 
   +clearfix
