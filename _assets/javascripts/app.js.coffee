@@ -1,13 +1,14 @@
 FEAT_SLIDE_DELAY = 300
 
 $ ->
-  $subscribeSubmit = $('#SignupSubmit').addClass('hidden')
+  newlsetterHiddenClass = 'newsletter__submit--hidden'
+  $subscribeSubmit = $('#SignupSubmit').addClass(newlsetterHiddenClass)
   $subscribeEmail = $('#mce-EMAIL')
   $subscribeEmail.keyup (e)->
     if $(e.target).val().trim() == ''
-      $subscribeSubmit.addClass('hidden')
+      $subscribeSubmit.addClass(newlsetterHiddenClass)
     else
-      $subscribeSubmit.removeClass('hidden')
+      $subscribeSubmit.removeClass(newlsetterHiddenClass)
 
   $ContactForm = $('#ContactForm')
   if $ContactForm.length

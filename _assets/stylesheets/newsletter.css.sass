@@ -15,8 +15,13 @@
     float: left
   &__submit
     width: 20%
+    max-width: 20%
     float: left
     clear: right
+    +transition(width 500ms)
+    &--hidden
+      overflow: hidden
+      max-width: 0
     input
       width: 100%
       min-width: 0
