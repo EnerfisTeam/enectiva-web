@@ -5,5 +5,20 @@
             href="/{{ locale }}/{{ site.data.menu.foot[locale].last.path }}#try"
             class="quick-contact__title"
             id="CtaOpener">{{ 'try_enectiva' | translate: locale }}</a>
-    <form class="quick-contact__form"></form>
+    <form class="quick-contact__form">
+
+        <div class="input">
+            <label for="contact_form_email">{{ 'email' | translate: locale }} *</label>
+            <input id="contact_form_email" name="contact_form[email]" type="email" class="required">
+            <div class="error-message">{{ 'required_error' | translate: locale }}</div>
+        </div>
+        <div class="input">
+            <label for="contact_form_name">{{ 'name' | translate: locale }}</label>
+            <input id="contact_form_name" name="contact_form[name]" type="text">
+        </div>
+
+        <input type="hidden" value="{{ site.data.contact_form.form_type_options.last }}">
+
+        <input type="submit" value="{{ 'submit' | translate: locale }}" class="contact__submit button">
+    </form>
 </div>

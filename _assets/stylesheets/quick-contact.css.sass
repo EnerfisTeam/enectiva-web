@@ -27,17 +27,41 @@
     position: fixed
     right: 0
     top: 33%
+    margin: 0
     &--js
       right: -4.5em
-      .quick-contact__form
-        display: block
     &, &--js
       &:hover, &:focus
         right: 0 !important // overrides direct value set by JS
     &__title
-      +adjust-font-size-to($base-font-size * 0.9)
+      +adjust-font-size-to($base-font-size * .9)
       +border-top-right-radius(0)
       +border-bottom-right-radius(0)
       text-align: right
       +box-shadow()
-      +transition(all 250ms linear)
+      +transition(left 250ms linear)
+      float: left
+      clear: left
+      width: 5.5em
+      margin: 0
+    &__form
+      float: left
+      clear: right
+      width: 22em
+      margin: 0
+      +padding-trailer(.5)
+    &--opened
+      width: auto
+      right: 0 !important // overrides direct value set by JS
+      border: 1px solid $color-primary-dark
+      border-right-width: 0
+      +box-shadow()
+      +border-left-radius(.3em)
+      padding: 1em
+      background: white
+      .quick-contact__title
+        background: none
+        +box-shadow(none)
+        color: $color-primary-dark
+      .quick-contact__form
+        display: block

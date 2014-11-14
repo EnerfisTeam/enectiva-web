@@ -41,8 +41,9 @@ $ ->
 
   $ctaOpener = $cta.find('#CtaOpener')
   $ctaOpener.click (e)->
-    e.preventDefault()
-    $cta.removeClass('quick-contact--hidden')
+    if $body.width() >= 800
+      e.preventDefault()
+      $cta.toggleClass('quick-contact--opened')
 
 #  $ContactForm = $('#ContactForm')
 #  if $ContactForm.length
