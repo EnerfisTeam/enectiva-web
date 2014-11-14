@@ -1,0 +1,26 @@
+/*doc
+ * Defines single blog post
+ */
+.post
+  &__title
+    position: relative
+    color: $color-secondary
+    a
+      text-decoration: none
+      &:hover, &:focus, &:active
+        text-decoration: underline
+  &--in-list
+    .post__title
+      &:before
+        content: '¶'
+        color: $unimportant-accent
+        position: absolute
+        left: -1em
+      &:hover, &:focus, &:active
+        &:before
+          color: $unimportant
+  &__published
+    color: $unimportant
+    text-align: right
+    display: block
+    +margin-leader(-.25)

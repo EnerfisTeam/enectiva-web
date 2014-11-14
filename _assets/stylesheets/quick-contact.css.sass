@@ -1,7 +1,6 @@
 .quick-contact
   &__title
     +button($color-secondary, darken($color-secondary, 10%), $color-secondary-dark)
-    color: white
     width: 90%
     margin-left: auto
     margin-right: auto
@@ -16,6 +15,8 @@
     +rhythm-margins(.5)
     text-decoration: none
     display: block
+    &, &:visited, &:hover, &:focus, &:active
+      color: white
   &__form
     display: none
 
