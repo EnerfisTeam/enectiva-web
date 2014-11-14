@@ -1,0 +1,43 @@
+.quick-contact
+  &__title
+    +button($color-secondary, darken($color-secondary, 10%), $color-secondary-dark)
+    color: white
+    width: 90%
+    margin-left: auto
+    margin-right: auto
+    cursor: pointer
+    cursor: hand
+    +border-radius(.3em)
+    +adjust-font-size-to($base-font-size * 1.2)
+    padding-left: .5em
+    padding-right: .5em
+    text-align: center
+    +rhythm-padding(.25)
+    +rhythm-margins(.5)
+    text-decoration: none
+    display: block
+  &__form
+    display: none
+
+  @media(min-width: 400px)
+    &__title
+      max-width: 25em
+  @media(min-width: 800px)
+    width: 5.5em
+    position: fixed
+    right: 0
+    top: 33%
+    &--js
+      right: -4.5em
+      .quick-contact__form
+        display: block
+    &, &--js
+      &:hover, &:focus
+        right: 0 !important // overrides direct value set by JS
+    &__title
+      +adjust-font-size-to($base-font-size * 0.9)
+      +border-top-right-radius(0)
+      +border-bottom-right-radius(0)
+      text-align: right
+      +box-shadow()
+      +transition(all 250ms linear)

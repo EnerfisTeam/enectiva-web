@@ -40,6 +40,7 @@ main:
       path: hardware
     - name: Contattaci
       path: contattaci
+# Last position of contact is used in _includes/cta.html
 foot:
   cs:
     - name: Partnerský program

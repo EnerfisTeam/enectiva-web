@@ -1,0 +1,9 @@
+{% assign locale = page.url | extract_locale %}
+
+<div class="quick-contact" id="Cta">
+    <a
+            href="/{{ locale }}/{{ site.data.menu.foot[locale].last.path }}#try"
+            class="quick-contact__title"
+            id="CtaOpener">{{ 'try_enectiva' | translate: locale }}</a>
+    <form class="quick-contact__form"></form>
+</div>
