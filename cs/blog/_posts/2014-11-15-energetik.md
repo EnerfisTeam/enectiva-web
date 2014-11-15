@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Energetik - ohro"
+title: "Energetik - ohrožený druh?"
 author: Tým Enectiva
 keywords: "energetik,smart metering, energetický monitoring"
 ---
