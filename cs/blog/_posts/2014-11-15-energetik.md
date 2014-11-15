@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: energetik
+title: "Energetik - ohro"
 author: Tým Enectiva
 keywords: "energetik,smart metering, energetický monitoring"
 ---
 
-Energetik - ohrožený druh?
+## Energetik - ohrožený druh?
 
 Vídíme to všude. Tlak na nízké náklady se zvyšuje v každém odvětví a tím i tlak na "vyhubení" některých profesí. Když jdeme nakupovat, tak nás již nepřekvapí samoobslužné pokladny. Případně ani vůbec nepotřebujeme kamený obchod, jelikož nakupujeme už i potraviny on-line. Prodavači se stávají ohroženým druhem. Stejně jako v minulosti jím byl třeba ponocný (hlídání ulic v noci), sítař (vyráběl síta), písař (psal dokumenty a knihy), pecivál (opravoval a stavěl pece či kamna) a mnoho dalších. Jak je tomu v případě energetiků? Stává se i nyní v době nastupujícího smart meteringu **energetik ohroženým druhem**?
 
