@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: energetik
 author: Tým Enectiva
 keywords: "energetik,smart metering, energetický monitoring"
