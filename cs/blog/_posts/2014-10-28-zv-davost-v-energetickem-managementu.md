@@ -5,7 +5,7 @@ title: Zvídavost v energetickém managementu
 author: enectiva
 ---
 
-Jste dostatečně zvídaví?
+**Jste dostatečně zvídaví?**
 
 Zvídavost je vlastnost, kterou máme všichni vrozenou. Jen co spatříme světlo tohoto světa začneme objevovat, poznávat, zkoušet. Bohužel většina z nás, čím je starší tím ztrácí touhu a motivaci po zvědavosti. Asi z obavy, že "kdo je zvědavý, bude brzo starý".
 
