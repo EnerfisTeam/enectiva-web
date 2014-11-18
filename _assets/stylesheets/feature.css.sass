@@ -1,8 +1,9 @@
 .feature
-  +margin-trailer(3)
+  +rhythm-margins(1.5, 2.5)
   &__title
     max-width: 12em
-    margin: 0
+    +rhythm-margins(-.25, 0)
+    color: $color-primary
   &:nth-child(odd)
     .feature__title
       float: left
