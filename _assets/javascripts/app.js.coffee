@@ -44,6 +44,9 @@ $ ->
     if $body.width() >= 800
       e.preventDefault()
       $cta.toggleClass('quick-contact--opened')
+      old = $ctaOpener.text()
+      $ctaOpener.text($ctaOpener.attr('alt'))
+      $ctaOpener.attr('alt', old)
 
   $forms = $('#ContactForm, #Cta form')
   if $forms.length
