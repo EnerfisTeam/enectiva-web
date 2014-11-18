@@ -125,10 +125,10 @@ $ ->
 
   $('.swipebox').swipebox();
 
-#  $feats = $('div.feature')
-#
+  $feats = $('.feature')
+
 #  if $feats.length > 0
-#
+
 #    # bind opening events
 #    close_feats = ()->
 #      $feats.filter('.active').each ()->
