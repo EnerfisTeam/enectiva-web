@@ -123,8 +123,8 @@ $ ->
         $contactFormName.unbind('change')
 
 
-#  $('.swipebox').swipebox();
-#
+  $('.swipebox').swipebox();
+
 #  $feats = $('div.feature')
 #
 #  if $feats.length > 0
