@@ -1,9 +1,9 @@
 form_type_options:
+  - test # first position is used in CTA form
   - podpora
   - general
   - obchod
   - partner
-  - test # last position is used in CTA form
 
 heard_of_options:
   - internet

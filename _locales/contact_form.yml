@@ -7,7 +7,7 @@ cs:
     general: Obecné informace 
     obchod: Obchodní záležitosti 
     partner: Pro partnery 
-    test: Zřídit testovací přístup 
+    test: Testovací přístup
   heard_of_options:
     internet: z internetu 
     partner: od obchodního partnera
@@ -32,9 +32,9 @@ en:
   form_type_options:
     podpora: Technical support 
     general: General information 
-    obchod: Businss issue 
-    partner: For bussiness partners 
-    test: Set up a test access 
+    obchod: Business issue
+    partner: Bussiness partnership
+    test: Set up test access
   heard_of_options:
     internet: from the internet 
     partner: from a business partner 
@@ -57,11 +57,11 @@ it:
   required: campi obbligatori
   required_error: obbligatorio!
   form_type_options:
-    supporto: Supporto tecnico 
-    generale: Informazioni generali 
-    commercio: problema commerciali 
-    Partner: Per i partner 
-    Test: Impostazioni e accesso di prova 
+    podpora: Supporto tecnico
+    general: Informazioni generali
+    obchod: Problema commerciali
+    partner: Per i partner
+    test: Impostazioni di prova
   heard_of_options:
     Internet: da Internet 
     Partner: da un partner commerciale 

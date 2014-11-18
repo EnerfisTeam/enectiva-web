@@ -9,11 +9,22 @@
     <label for="contact_form_name">{{ 'name' | translate: locale }}</label>
     <input id="contact_form_name" name="contact_form[name]" type="text">
   </div>
-    <div class="input">
-        <label for="contact_form_text">{{ 'text' | translate: locale }}</label>
-        <textarea id="contact_form_text" name="contact_form[text]"></textarea>
-    </div>
-    <input name="util[source_url]" value="{{ page.url }}" type="hidden">
+  <div class="contact__reasons alternatives">
+      {% for option in site.data.contact_form.form_type_options %}
+      {% assign id = 'ContactReason' | append: option %}
+      {% assign label = option | prepend: "form_type_options." %}
+      <div class="alternatives__option">
+          <input type="radio" value="{{ option }}" name="contact_form[form_type]" id="{{ id }}">
+          <label for="{{ id }}">{{ label | translate: locale }}</label>
+      </div>
+      {% endfor %}
+  </div>
+  <div class="input">
+      <label for="contact_form_text">{{ 'text' | translate: locale }}</label>
+      <textarea id="contact_form_text" name="contact_form[text]"></textarea>
+  </div>
+  <input name="util[source_url]" value="{{ page.url }}" type="hidden">
+
 </fieldset>
 <fieldset class="contact__extra">
   <div class="input">
