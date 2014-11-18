@@ -107,13 +107,20 @@ $ ->
               $form.remove()
 
     $ContactForm = $('#ContactForm')
-    if $ContactForm.length and $ContactForm.find('.alternatives input:checked').length == 0
-      if window.location.hash != ''
-        toCheck = $ContactForm.
-          find(".alternatives input[value=#{window.location.hash.split('#')[1]}]")
-      else
-        toCheck = $ContactForm.find('.alternatives input:first')
-      toCheck.attr('checked', 'checked')
+    if $ContactForm.length
+      if $ContactForm.find('.alternatives input:checked').length == 0
+        if window.location.hash != ''
+          toCheck = $ContactForm.
+            find(".alternatives input[value=#{window.location.hash.split('#')[1]}]")
+        else
+          toCheck = $ContactForm.find('.alternatives input:first')
+        toCheck.attr('checked', 'checked')
+
+    $contactFormName = $('#contact_form_name')
+    $contactFormName.change ()->
+      if $(this).val().trim() != ''
+        $ContactForm.find('.contact__extra').addClass('contact__extra--shown')
+        $contactFormName.unbind('change')
 
 
 #  $('.swipebox').swipebox();

@@ -222,4 +222,7 @@ it:
     list_id: 663115dcb0
 
   navigation:
+    back_to_homepage: Torna alla homepage
     login: Login
+
+  try_enectiva: Prova Enectiva

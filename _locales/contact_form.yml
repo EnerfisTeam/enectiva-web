@@ -25,6 +25,7 @@ cs:
   heard_of: Jak jste se o nás dozvěděli?
   form_type: "Dotaz se týká"
   text: Váš vzkaz (volitelné)
+  tell_us_more: Můžete nám o sobě říct ještě pár drobností?
 
 en:
   required: required fields
@@ -52,6 +53,7 @@ en:
   position: "Your position"
   tel: Telephone
   text: "Your message (optional)"
+  tell_us_more: Can you tell us few details about you?
 
 it:
   required: campi obbligatori
@@ -63,9 +65,9 @@ it:
     partner: Per i partner
     test: Impostazioni di prova
   heard_of_options:
-    Internet: da Internet 
-    Partner: da un partner commerciale 
-    volantino: dalla brochure 
+    internet: da Internet
+    partner: da un partner commerciale
+    letak: dalla brochure
     znamy: da un tuo amico 
     odjinud: da un'altra fonte 
   submit: Invia
@@ -75,7 +77,8 @@ it:
   email: E-mail
   name: Nome Cognome
   form_type: "Domande a riguardo"
-  heard_of: «Come ci hai trovato?"
+  heard_of: Come ci hai trovato?
   position: "La tua posizione"
   tel: Telefono
   text: "Il tuo messaggio (opzionale)"
+  tell_us_more: Puoi darci alcune informazioni su di te?
