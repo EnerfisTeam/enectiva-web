@@ -84,7 +84,7 @@ $ ->
           true
 
         return unless allValid
-#
+
         normalSubmitText = $submit.text()
         alternativeSubmitText = contactFormI18n.submit_alt
         $submit
@@ -105,6 +105,16 @@ $ ->
               $form.parents("##{remove}").remove()
             else
               $form.remove()
+
+    $ContactForm = $('#ContactForm')
+    if $ContactForm.length and $ContactForm.find('.alternatives input:checked').length == 0
+      if window.location.hash != ''
+        toCheck = $ContactForm.
+          find(".alternatives input[value=#{window.location.hash.split('#')[1]}]")
+      else
+        toCheck = $ContactForm.find('.alternatives input:first')
+      toCheck.attr('checked', 'checked')
+
 
 #  $('.swipebox').swipebox();
 #
