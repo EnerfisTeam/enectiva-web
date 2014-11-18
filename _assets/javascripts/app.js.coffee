@@ -45,50 +45,63 @@ $ ->
       e.preventDefault()
       $cta.toggleClass('quick-contact--opened')
 
-#  $ContactForm = $('#ContactForm')
-#  if $ContactForm.length
-#    $requiredFields = $ContactForm.find('input.required')
-#    $submit = $ContactForm.find('input[type=submit]')
+  $forms = $('#ContactForm, #Cta form')
+  if $forms.length
+    $('.error-message').hide()
+
+    $forms.each (i, form) ->
+      $form = $(form)
+      $requiredFields = $form.find('input.required')
+      $submit = $form.find('input[type=submit]')
+      prefix = $form.data('prefix')
+      if prefix
+        prefix = "#{prefix}_"
+      else
+        prefix = ''
+
+      requireField = ($input) ->
+        $error = $input.siblings('.error-message')
+        if $input.val().trim() == ''
+          $input.addClass('error')
+          $error.show()
+          false
+        else
+          $input.removeClass('error')
+          $error.hide()
+          true
+
+      $requiredFields.blur () ->
+        requireField($(this))
+
+      $form.submit (e) ->
+        e.preventDefault()
+        allValid = true
+        $requiredFields.each () ->
+          allValid = false unless requireField($(this))
+          true
+
+        return unless allValid
 #
-#    requireField = ($input) ->
-#      $error = $input.siblings('.errorMessage')
-#      if $input.val().trim() == ''
-#        $input.addClass('error')
-#        $error.show()
-#        false
-#      else
-#        $input.removeClass('error')
-#        $error.hide()
-#        true
-#
-#    $requiredFields.blur () ->
-#      requireField($(this))
-#
-#    $ContactForm.submit (e) ->
-#      e.preventDefault()
-#      allValid = true
-#      $requiredFields.each () ->
-#        allValid = false unless requireField($(this))
-#        true
-#
-#      return unless allValid
-#
-#      normalSubmitText = $submit.text()
-#      alternativeSubmitText = contactFormI18n.submit_alt
-#      $submit
-#        .attr('disabled', 'disabled')
-#        .val(alternativeSubmitText)
-#      $.post 'http://enectiva.cz' + $ContactForm.attr('action') + '.json', $ContactForm.serialize(), (data) ->
-#        $submit.removeAttr('disabled').val(normalSubmitText)
-#        if data.errors
-#          $.each data.errors, (field, errs) ->
-#            $field = $ContactForm.find('input#contact_form_' + field)
-#            $.each errs, (i, err) ->
-#              $field.after($('<div class="errorMessage">').text(err).show())
-#        else
-#          $ContactForm.after('<div class="notice">' + contactFormI18n.submitted + '</div>')
-#          $ContactForm.remove()
-#      $ContactForm
+        normalSubmitText = $submit.text()
+        alternativeSubmitText = contactFormI18n.submit_alt
+        $submit
+          .attr('disabled', 'disabled')
+          .val(alternativeSubmitText)
+
+        $.post 'http://enectiva.cz' + $form.attr('action') + '.json', $form.serialize(), (data) ->
+          $submit.removeAttr('disabled').val(normalSubmitText)
+          if data.errors
+            $.each data.errors, (field, errs) ->
+              $field = $form.find("input##{prefix}contact_form_#{field}")
+              $.each errs, (i, err) ->
+                $field.after($('<div class="errorMessage">').text(err).show())
+          else
+            $form.after('<div class="notice">' + contactFormI18n.submitted + '</div>')
+            remove = $form.data('remove')
+            if remove
+              $form.parents("##{remove}").remove()
+            else
+              $form.remove()
 
 #  $('.swipebox').swipebox();
 #

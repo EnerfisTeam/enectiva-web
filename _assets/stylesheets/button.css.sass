@@ -19,3 +19,7 @@
   +button($color-primary-light, darken($color-primary-light, 10%), $color-primary-dark)
   &--secondary
     +button($color-secondary, darken($color-secondary, 10%), $color-secondary-dark)
+
+  &[disabled=disabled]
+    background: $unimportant
+    cursor: default
