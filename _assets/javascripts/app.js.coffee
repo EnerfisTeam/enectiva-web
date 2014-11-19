@@ -125,27 +125,19 @@ $ ->
 
   $('.swipebox').swipebox();
 
-  $feats = $('.feature')
-
-#  if $feats.length > 0
-
-#    # bind opening events
-#    close_feats = ()->
-#      $feats.filter('.active').each ()->
-#        $feat = $(this)
-#        $feat.find('div.inner').slideUp FEAT_SLIDE_DELAY, 'linear', ()->
-#          $feat.removeClass('active')
-#
-#    open_feat = ($feat)->
-#      close_feats()
-#      if $feat.hasClass('active')
-#        return
-#      $feat.find('div.inner').slideDown FEAT_SLIDE_DELAY, 'linear', ()->
-#        $feat.addClass('active')
-#
-#    $feats.find('h4, h2').click (e)->
-#      $feat = $(this).parentsUntil('body', 'div.feature')
-#      open_feat $feat
-#
-#    if document.location.hash.length > 0
-#      $("##{document.location.hash.slice(1)}").click()
+  $features = $('.feature')
+  if $features.length > 0
+    $features.find('.feature__perex').each ()->
+      $this = $(this)
+      if $this.siblings('.feature__desc').length
+        $this.append('<a href="#" class="feature__toggler feature__toggler--more" data-alt="' + less_info + '">' + more_info + '</a>')
+    $features.find('.feature__toggler').click (e)->
+      e.preventDefault()
+      $toggler = $(this)
+      $toggler.
+        toggleClass('feature__toggler--more').
+        toggleClass('feature__toggler--less').
+        parents('.feature__perex').siblings('.feature__desc').toggle()
+      old = $toggler.text()
+      $toggler.text($toggler.data('alt'))
+      $toggler.data('alt', old)

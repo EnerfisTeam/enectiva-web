@@ -1,0 +1,26 @@
+.feature
+  clear: both
+  +margin-trailer(4)
+  &__title
+    color: $color-primary
+  &__image
+    width: 300px
+    margin-right: 20px
+    +rhythm-margins(1)
+    float: left
+  &__desc
+    display: none
+  &__toggler
+    display: block
+    float: right
+    &--more
+      &:after
+        content: "▼"
+    &--less
+      &:after
+        content: "▲"
+  &:nth-child(even)
+    .feature__image
+      margin-right: 0
+      margin-left: 20px
+      float: right
