@@ -1,0 +1,5 @@
+<ul class="breadcrumbs" itemprop="breadcrumb">
+    {% for p in page.ancestors %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a>
+    {% endfor %}
+</ul>
