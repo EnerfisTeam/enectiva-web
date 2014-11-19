@@ -1,0 +1,8 @@
+{% assign locale = page.url | extract_locale %}
+
+<p><strong>{{ 'other_solutions' | translate: locale }}</strong></p>
+<ul class="menu menu--in-content">
+    {% for sibling in page.siblings %}
+        <li><a href="{{ sibling.path }}">{{ sibling.name }}</a></li>
+    {% endfor %}
+</ul>
