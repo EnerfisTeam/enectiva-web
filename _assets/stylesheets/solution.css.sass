@@ -1,0 +1,22 @@
+.solution
+  +rhythm-margins(1.5, 2.5)
+  &__title
+    max-width: 12em
+    +rhythm-margins(-.25, 0)
+    a, a:visited
+      color: $color-primary
+      text-decoration: none
+    a:hover, a:focus, a:active
+      text-decoration: underline
+
+@media(min-width: 800px)
+  .solution
+    &:nth-child(odd)
+      .solution__title
+        float: left
+        padding-right: .75em
+    &:nth-child(even)
+      .solution__title
+        float: right
+        padding-left: .75em
+        text-align: right
