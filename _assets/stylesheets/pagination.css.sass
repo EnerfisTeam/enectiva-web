@@ -1,0 +1,18 @@
+.pagination
+  text-align: center
+  em, span, a
+    display: inline-block
+    +rhythm-padding(.25)
+    margin-left: .25em
+    margin-right: .25em
+  a
+    padding-left: 1.25em
+    padding-right: 1.25em
+    font-weight: bold
+    background: $color-primary
+    +border-radius(.2em)
+    text-decoration: none
+    &, &:visited
+      color: white
+    &:hover, &:focus, &:active
+      background-color: $color-primary-very-dark

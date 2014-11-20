@@ -6,7 +6,7 @@ module Breadcrumbs
     index = 'index.html'
 
     parts = url.gsub(/^\//, '').gsub(index, '').split '/'
-    if parts.length > 1
+    if parts.length > 1 and parts[0].length == 2 #site.authorized_locales.include? parts[0]
       locale = parts[0]
       root = site.data['menu']['main'][locale][0]['path']
       if parts[1] != root
