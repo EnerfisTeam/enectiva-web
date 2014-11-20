@@ -45,8 +45,8 @@ $ ->
       e.preventDefault()
       $cta.toggleClass('quick-contact--opened')
       old = $ctaOpener.text()
-      $ctaOpener.text($ctaOpener.attr('alt'))
-      $ctaOpener.attr('alt', old)
+      $ctaOpener.text($ctaOpener.data('alt'))
+      $ctaOpener.data('alt', old)
 
   $forms = $('#ContactForm, #Cta form')
   if $forms.length
