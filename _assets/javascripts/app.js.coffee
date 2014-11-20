@@ -1,5 +1,3 @@
-FEAT_SLIDE_DELAY = 300
-
 $ ->
   newlsetterHiddenClass = 'newsletter__submit--hidden'
   $subscribeSubmit = $('#SignupSubmit').addClass(newlsetterHiddenClass)
