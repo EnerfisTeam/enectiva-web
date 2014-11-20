@@ -89,7 +89,7 @@ $ ->
           .attr('disabled', 'disabled')
           .val(alternativeSubmitText)
 
-        $.post 'http://enectiva.cz' + $form.attr('action') + '.json', $form.serialize(), (data) ->
+        $.post $form.attr('action') + '.json', $form.serialize(), (data) ->
           $submit.removeAttr('disabled').val(normalSubmitText)
           if data.errors
             $.each data.errors, (field, errs) ->
