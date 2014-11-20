@@ -10,8 +10,8 @@ gems:
 
 assets:
   dirname: assets-web
-#  js_compressor: uglifier
-#  css_compressor: sass
+  js_compressor: uglifier
+  css_compressor: sass
 
 exclude:
 - readme.md
