@@ -1,0 +1,19 @@
+.split
+  +rhythm-margins(3)
+  &__section
+    +clearfix()
+    +rhythm-margins(2, 1)
+    &--header
+      +margin-trailer(-1.5)
+  &__left, &__right
+    width: 48%
+  &__left
+    float: left
+    text-align: right
+    h2
+      color: $unimportant
+  &__right
+    float: right
+    text-align: left
+    h2
+      color: $color-secondary

@@ -1,4 +1,13 @@
 .motto
+  font-family: 'Open Sans', Verdana, sans-serif
+  text-align: center
+  +rhythm-padding(3, 2)
+  +block-down-inset-shadow()
+  &__logo
+    margin-left: 132px
   &__main
-    font-family: 'Open Sans', Verdana, sans-serif
+    +adjust-font-size-to($base-font-size * 3)
     color: $color-secondary
+  &__sub
+    +adjust-font-size-to($base-font-size * 1.7)
+    color: $color-primary
