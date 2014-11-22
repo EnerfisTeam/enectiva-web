@@ -9,6 +9,19 @@
 @import "compass/css3/transition"
 @import "compass/css3/transform"
 
+=embed-font($font-name, $font-filepath-and-name)
+  @font-face
+    font-family: $font-name
+    src: url(asset_path($font-filepath-and-name+".eot"))
+    src: url(asset_path($font-filepath-and-name+".eot?#iefix")) format('embedded-opentype'),  url(asset_path($font-filepath-and-name+".woff")) format('woff'), url(asset_path($font-filepath-and-name+".ttf"))  format('truetype')
+    font-weight: normal
+    font-style: normal
+
++embed-font('Didact Gothic', 'didactgothic')
+
+//@import url(http://fonts.googleapis.com/css?family=Didact+Gothic&subset=latin,latin-ext)
+@import url(http://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext)
+
 $base-font-size: 16px
 $base-line-height: 28px
 $rhythm-unit: 'em'

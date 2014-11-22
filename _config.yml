@@ -10,6 +10,11 @@ gems:
 
 assets:
   dirname: assets-web
+  sources:
+    - _assets/fonts
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
   js_compressor: uglifier
   css_compressor: sass
 
