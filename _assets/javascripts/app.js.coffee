@@ -9,7 +9,6 @@ $ ->
       $subscribeSubmit.removeClass(newlsetterHiddenClass)
 
   $cta = $('#Cta')
-  $cta.addClass('quick-contact--js')
 
   $body = $('body')
   $header = $('.header')
@@ -37,11 +36,17 @@ $ ->
       adjustShowingOfCta()
   , 150)
 
+  ctaOpened = false
   $ctaOpener = $cta.find('#CtaOpener')
   $ctaOpener.click (e)->
     if $body.width() >= 800
       e.preventDefault()
-      $cta.toggleClass('quick-contact--opened')
+      cls = 'quick-contact--opened'
+      if ctaOpened
+        $cta.removeClass cls
+      else
+        $cta.addClass cls
+      ctaOpened = !ctaOpened
       old = $ctaOpener.text()
       $ctaOpener.text($ctaOpener.data('alt'))
       $ctaOpener.data('alt', old)
