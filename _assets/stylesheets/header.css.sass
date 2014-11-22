@@ -20,29 +20,34 @@
     height: 100%
     padding: 0
     display: block
-    a
-      display: block
-      overflow: hidden
-      text-indent: .5em
-      width: 100%
-      height: 100%
-  &__logo
-    position: absolute
+  &__logo-link
+    display: block
+    overflow: hidden
+    text-indent: .5em
+    position: relative
     left: 0
     top: 0
     background: white
     height: 100%
     width: 100%
     &:before
-      content: ' '
-      display: inline-block
-      vertical-align: middle
+      content: " "
+      width: 100%
       height: 100%
+      background-color: white
+    &:before, img
+      position: absolute
+      left: 0
+      top: 0
     img
+      position: absolute
+      left: 0
+      right: 0
+      top: 0
+      bottom: 0
       max-height: 100%
       max-width: 100%
-      display: inline-block
-      vertical-align: middle
+      margin: auto
 
   &__menu
     display: none

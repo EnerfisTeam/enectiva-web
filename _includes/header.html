@@ -2,8 +2,8 @@
 <div class="header">
     <div class="container">
         <h1 class="header__title">
-            <a href="/{{ locale }}" itemprop="name url" title="{{ 'navigation.back_to_homepage' | translate: locale }}">{{ site.name }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-            <div class="header__logo">{% image logo.svg alt="Enectiva" title="Enectiva" %}</div>
+            <a href="/{{ locale }}" itemprop="name url" title="{{ 'navigation.back_to_homepage' | translate: locale }}" class="header__logo-link">{{ site.name }}&nbsp;&nbsp;&nbsp;&nbsp;
+                {% image logo.svg alt="Enectiva" title="Enectiva" %}</a>
         </h1>
 
         {% include main_menu.html %}
