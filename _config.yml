@@ -15,8 +15,8 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
+#  js_compressor: uglifier
+#  css_compressor: sass
 
 exclude:
 - readme.md
