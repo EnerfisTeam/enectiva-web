@@ -18,9 +18,10 @@ input, select, textarea
   +single-transition(border, 400ms, ease-in-out)
   &:focus, &:hover
     border-color: $color-primary
-input[type=text], input[type=email], select
+input, select
   line-height: normal
   height: $base-line-height
+  +box-sizing(content-box)
 input[type=radio]
   border: none
 input, select, textarea, label, .error-message
