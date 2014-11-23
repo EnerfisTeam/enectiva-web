@@ -3,7 +3,7 @@ $ ->
   $subscribeSubmit = $('#SignupSubmit').addClass(newlsetterHiddenClass)
   $subscribeEmail = $('#mce-EMAIL')
   $subscribeEmail.keyup (e)->
-    if $(e.target).val().trim() == ''
+    if $.trim($(e.target).val()) == ''
       $subscribeSubmit.addClass(newlsetterHiddenClass)
     else
       $subscribeSubmit.removeClass(newlsetterHiddenClass)
