@@ -9,5 +9,8 @@
         jQl.loadjQdep('{% asset_path "application.js" %}');
         {% asset 'setup.js' %}
     </script>
+    <!--[if lte IE 8]>
+        {% javascript 'respond.src.js' %}
+    <!--[endif]-->
 </body>
 </html>
