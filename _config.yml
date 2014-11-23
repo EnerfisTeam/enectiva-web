@@ -17,6 +17,15 @@ assets:
     - _assets/images
 #  js_compressor: uglifier
 #  css_compressor: sass
+  gzip: 
+    - text/css
+    - application/javascript
+    - image/svg+xml
+    - application/vnd.ms-fontobject
+    - application/font-woff
+    - application/x-font-woff
+    - application/font-stnt
+    - application/octet-stream
 
 exclude:
 - readme.md
