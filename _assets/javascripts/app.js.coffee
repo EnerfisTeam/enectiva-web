@@ -16,7 +16,7 @@ $ ->
     max = -4.5
     min = 0
     offset = ($body.height() - $header.height()) / 3
-    scroll = window.scrollY
+    scroll = window.pageYOffset
     if scroll <= 0
       margin = max
     else if scroll >= offset
