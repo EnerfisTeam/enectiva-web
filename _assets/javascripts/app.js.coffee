@@ -67,7 +67,7 @@ $ ->
 
       requireField = ($input) ->
         $error = $input.siblings('.error-message')
-        if $input.val().trim() == ''
+        if $.trim($input.val()) == ''
           $input.addClass('error')
           $error.show()
           false
@@ -121,7 +121,7 @@ $ ->
 
     $contactFormName = $('#contact_form_name')
     $contactFormName.change ()->
-      if $(this).val().trim() != ''
+      if $.trim($(this).val()) != ''
         $ContactForm.find('.contact__extra').addClass('contact__extra--shown')
         $contactFormName.unbind('change')
 
