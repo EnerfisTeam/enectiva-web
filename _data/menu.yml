@@ -22,8 +22,8 @@ main:
       path: features
     - name: Solutions
       path: solutions
-    - name: Hardware
-      path: hardware
+#    - name: Hardware
+#      path: hardware
     - name: Contact Us
       path: contact-us
     - name: Blog
@@ -36,8 +36,8 @@ main:
       path: caratteristiche
     - name: Soluzioni
       path: soluzioni
-    - name: Hardware
-      path: hardware
+#    - name: Hardware
+#      path: hardware
     - name: Contattaci
       path: contattaci
 # Last position of contact is used in _includes/cta.html
@@ -49,29 +49,29 @@ foot:
       path: media
     - name: Pravidla Enectivy
       path: pravidla-enectivy
-    - name: Bezpečnost
-      path: bezpecnost
+#    - name: Bezpečnost
+#      path: bezpecnost
     - name: Kontakt
       path: kontaktujte-nas
   en:
     - name: Partner Programme
       path: partner-programme
-    - name: Press
-      path: press
+#    - name: Press
+#      path: press
     - name: Enectiva Rules
       path: enectiva-rules
-    - name: Security
-      path: security
+#    - name: Security
+#      path: security
     - name: Contact Us
       path: contact-us
   it:
     - name: Programma partner
       path: programma-partner
-    - name: Media
-      path: media
+#    - name: Media
+#      path: media
     - name: Prova Enectiva
       path: prova-enectiva
-    - name: Sicurezza
-      path: sicurezza
+#    - name: Sicurezza
+#      path: sicurezza
     - name: Contattaci
       path: contattaci
