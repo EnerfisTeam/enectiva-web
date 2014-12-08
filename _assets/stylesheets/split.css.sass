@@ -1,0 +1,39 @@
+.split
+  +rhythm-margins(.5, 1.5)
+  &__section
+    +clearfix()
+    +rhythm-margins(2, 1)
+    &--header
+      +margin-trailer(-1.5)
+  &__left, &__right
+    float: left
+    text-align: left
+  &__left
+    h2
+      color: $unimportant
+  &__right
+    h2
+      color: $color-secondary
+
+  @media(max-width: 500px)
+    &__left, &__right
+      width: 80%
+      border-left: 2px solid $unimportant
+      padding-left: 5%
+    &__right
+      border-left-color: $color-secondary
+      +margin-leader(.75)
+      margin-left: 20%
+    h2
+      margin-top: 0
+
+  @media(min-width: 500px)
+    +rhythm-margins(3)
+    &__left, &__right
+      width: 48%
+    &__left
+      float: left
+      text-align: right
+    &__right
+      float: right
+      text-align: left

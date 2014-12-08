@@ -214,10 +214,16 @@ cs:
   meta_keywords: 'Enectiva, energetický management, energetický monitoring, úsporné projekty, úspory energií, monitoring energií, smart metering, dálkové odečty'
   intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
   city: Praha
-  motto: Užívejte energie efektivně
 
   newsletter_signup:
     button: 'OK'
     email_placeholder: 'Vyplňte svůj e-mail'
     heading: 'Přihlaste se k odběru novinek'
     list_id: '18809a8f38'
+
+  navigation:
+    back_to_homepage: Zpět na úvodní stránku
+    login: Přihlaste se do Enectivy
+
+  try_enectiva: Vyzkoušejte Enectivu
+  other_solutions: Další řešení

@@ -7,7 +7,7 @@ cs:
     general: Obecné informace 
     obchod: Obchodní záležitosti 
     partner: Pro partnery 
-    test: Zřídit testovací přístup 
+    test: Zkušební přístup
   heard_of_options:
     internet: z internetu 
     partner: od obchodního partnera
@@ -18,15 +18,14 @@ cs:
   submit_alt: Odesílá se...
   submitted: Formulář byl odeslán
   email: E-mail
-  first_name: Jméno
-  last_name: Příjmení
-  title: Titul
+  name: Jméno
   company: Společnost
   position: Vaše pozice
   tel: Telefon
   heard_of: Jak jste se o nás dozvěděli?
   form_type: "Dotaz se týká"
   text: Váš vzkaz (volitelné)
+  tell_us_more: Můžete nám o sobě říct ještě pár drobností?
 
 en:
   required: required fields
@@ -34,9 +33,9 @@ en:
   form_type_options:
     podpora: Technical support 
     general: General information 
-    obchod: Businss issue 
-    partner: For bussiness partners 
-    test: Set up a test access 
+    obchod: Business issue
+    partner: Bussiness partnership
+    test: Set up test access
   heard_of_options:
     internet: from the internet 
     partner: from a business partner 
@@ -48,28 +47,27 @@ en:
   submitted: Form was submitted
   company: Company
   email: E-mail
-  first_name: Name
+  name: Name
   form_type: "Question concerns"
   heard_of: "How did you find us?"
-  last_name: "Last name"
   position: "Your position"
   tel: Telephone
   text: "Your message (optional)"
-  title: Title
+  tell_us_more: Can you tell us few details about you?
 
 it:
   required: campi obbligatori
   required_error: obbligatorio!
   form_type_options:
-    supporto: Supporto tecnico 
-    generale: Informazioni generali 
-    commercio: problema commerciali 
-    Partner: Per i partner 
-    Test: Impostazioni e accesso di prova 
+    podpora: Supporto tecnico
+    general: Informazioni generali
+    obchod: Problema commerciali
+    partner: Per i partner
+    test: Impostazioni di prova
   heard_of_options:
-    Internet: da Internet 
-    Partner: da un partner commerciale 
-    volantino: dalla brochure 
+    internet: da Internet
+    partner: da un partner commerciale
+    letak: dalla brochure
     znamy: da un tuo amico 
     odjinud: da un'altra fonte 
   submit: Invia
@@ -77,11 +75,10 @@ it:
   submitted: modulo è stato inviato
   company: Azienda
   email: E-mail
-  first_name: Nome
+  name: Nome Cognome
   form_type: "Domande a riguardo"
-  heard_of: «Come ci hai trovato?"
-  last_name: "Cognome"
+  heard_of: Come ci hai trovato?
   position: "La tua posizione"
   tel: Telefono
   text: "Il tuo messaggio (opzionale)"
-  title: Titolo
+  tell_us_more: Puoi darci alcune informazioni su di te?

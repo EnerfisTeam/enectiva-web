@@ -4,18 +4,18 @@ layout: default
 
 
 {% assign locale = page.url | extract_locale %}
-<div class="postsList">
+<div class="posts">
     {% for post in paginator.posts %}
-    <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        <h2 itemprop="name headline">
+    <div class="posts__post post post--in-list" itemscope itemtype="http://schema.org/BlogPosting">
+        <h2 class="post__title" itemprop="name headline">
             <a href="{{ post.url }}" itemprop="sameAs">
                 {{ post.title }}
             </a>
         </h2>
-        <time class="published" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="dateCreated">
+        <time class="post__published" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="dateCreated">
             {{ post.date | localize: ':display', locale }}
         </time>
-        <p class="perex">{{ post.content | truncate: 600 }}</p>
+        <p class="post__perex">{{ post.content | truncate: 600 }}</p>
         </a>
     </div>
     {% endfor %}

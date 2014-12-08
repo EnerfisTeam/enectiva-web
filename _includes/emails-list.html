@@ -1,6 +1,7 @@
 {% assign locale = page.url | extract_locale %}
-<ul>
+<dl>
    {% for email in site.data.emails %}
-   <li>{{email[locale]}}: <a href="mailto:{{email.email}}" itemprop="email">{{email.email}}</a></li>
+        <dt>{{email[locale]}}</dt>
+        <dd><a href="mailto:{{email.email}}" itemprop="email">{{email.email}}</a></dd>
    {% endfor %}
-</ul>
+</dl>

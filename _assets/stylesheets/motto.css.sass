@@ -1,0 +1,20 @@
+.motto
+  font-family: 'Open Sans', Verdana, sans-serif
+  text-align: center
+  +rhythm-padding(1.5, 1)
+  &__logo
+    max-width: 95%
+    +margin-trailer(1)
+    img, source
+      max-width: 100%
+  &__main
+    +adjust-font-size-to($base-font-size * 3)
+    color: $color-secondary
+  &__sub
+    +adjust-font-size-to($base-font-size * 1.7)
+    color: $color-primary
+  @media(min-width: 800px)
+    +block-down-inset-shadow()
+    +rhythm-padding(3, 2)
+    &__logo
+      margin-left: 132px

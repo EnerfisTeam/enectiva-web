@@ -1,0 +1,24 @@
+=_block-down-shadow-core($from, $to)
+  position: relative
+
+  &:after
+    $h: 2em
+    content: ' '
+    height: $h
+    width: 100%
+    display: block
+    position: absolute
+    bottom: -$h
+    +background-image(linear-gradient($from, $to))
+
+=block-down-shadow
+  border-bottom: 1px solid #eee
+  +_block-down-shadow-core(rgba(0,0,0,0.05), transparent)
+=block-down-inset-shadow
+  +_block-down-shadow-core(transparent, rgba(0,0,0,0.05))
+
+=time
+  color: $unimportant
+  text-align: right
+  display: block
+  +margin-leader(-.25)

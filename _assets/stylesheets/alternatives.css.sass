@@ -1,0 +1,23 @@
+/*doc
+ * Defines the selection of alternatives in the form of buttons
+ */
+.alternatives
+  text-align: center
+  &__option
+    display: inline-block
+  input, label
+    display: inline-block
+    vertical-align: middle
+    float: none
+    clear: none
+  label
+    text-align: left
+    margin: 0
+  input
+    width: auto
+    min-width: 0
+    max-width: none
+    margin-right: .5em
+  input:checked + label
+    font-weight: bold
+    color: $color-secondary

@@ -1,5 +1,11 @@
 {% assign locale = page.url | extract_locale %}
-<div class="header {{ locale }}">
-    <h1 class="title" itemprop="name"><a href="/{{ locale }}">{{ site.name }}</a></h1>
-    <span class="motto">{{ 'motto' | translate: locale }}</span>
+<div class="header">
+    <div class="container">
+        <h1 class="header__title">
+            <a href="/{{ locale }}/{{ site.data.menu.main[locale].first.path }}" itemprop="name url" title="{{ 'navigation.back_to_homepage' | translate: locale }}" class="header__logo-link">{{ site.name }}&nbsp;&nbsp;&nbsp;&nbsp;
+                {% include picture_tag.html class="" filename="logo" alt="Enectiva" %}</a>
+        </h1>
+
+        {% include main_menu.html %}
+    </div>
 </div>

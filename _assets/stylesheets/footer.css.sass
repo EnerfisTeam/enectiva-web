@@ -1,0 +1,28 @@
+/*doc
+ * Defines footer block, expects to contain sub-blocks
+ */
+.footer
+  clear: both
+  background: #eee
+  +rhythm-padding(.5, 1.5)
+  +adjust-font-size-to($base-font-size * .9)
+  &__newsletter, &__author
+    +rhythm-margins(.5, .5)
+  &__menu, &__newsletter, &__author
+    width: 298px
+    margin-left: auto
+    margin-right: auto
+
+@media(min-width: 500px)
+  .footer
+    +clearfix
+    &__menu
+      width: auto
+    &__newsletter, &__author
+      margin-left: 0
+      margin-right: 0
+      max-width: 50%
+    &__newsletter
+      float: left
+    &__author
+      float: right

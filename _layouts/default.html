@@ -1,43 +1,15 @@
-{% assign locale = page.url | extract_locale %}
+{% include default-head.html %}
 
-<!DOCTYPE html>
+<div class="subheader">
+    <div class="container">
+        {% include breadcrumbs.html %}
+    </div>
+</div>
+<div class="content">
+    <div class="container">
 
-<html lang="{{ locale }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="description" content="{{ 'meta_description' | translate: page.language }}">
-        <meta name="keywords" content="{{ 'meta_keywords' | translate: page.language }} {{ page.keywords }}">
-        <title>{{ page.title }} - Enectiva</title>
-        <meta name="viewport" content="width=device-width">
+        {{ content }}
+    </div>
+</div>
 
-        {% stylesheet app %}
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <meta name="language" content="{{ locale }}">
-        <link href="/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
-    </head>
-    {% if page.schema %}
-        {% assign schema_type = page.schema %}
-    {% else %}
-        {% assign schema_type = 'WebPage' %}
-    {% endif %}
-    <body itemscope itemtype="{{ schema_type }}" >
-        <meta itemprop="author">
-        <meta itemprop="name" content="{{ page.title }}">
-        <div class="container">
-            {% include header.html %}
-            {% include menu.html %}
-            {% include newsletter_signup.html %}
-
-            <div class="content">
-                {{ content }}
-            </div>
-
-            {% include footer.html %}
-        </div>
-
-        {% include google-analytics.html %}
-        {% javascript application %}
-    </body>
-</html>
+{% include default-foot.html %}

@@ -1,0 +1,54 @@
+/*doc
+  * Defines general styles for forms
+  */
+form
+  +rhythm-margins(1, 1.5)
+  +clearfix
+
+input, select, textarea
+  border: 1px solid $unimportant-accent
+  +border-radius(.3em)
+  background: white
+  +adjust-font-size-to($base-font-size)
+  font-family: 'Open Sans', Verdana, sans-serif
+  clear: right
+  padding-left: .5em
+  padding-right: .5em
+  min-width: 8em
+  +single-transition(border, 400ms, ease-in-out)
+  &:focus, &:hover
+    border-color: $color-primary
+input, select
+  line-height: normal
+  height: $base-line-height
+  +box-sizing(content-box)
+input[type=radio]
+  border: none
+input, select, textarea, label, .error-message
+  float: left
+  +rhythm-padding(.25, .15)
+label
+  width: 8em
+  max-width: 22%
+  min-width: 6em
+  clear: left
+  text-align: right
+  margin-right: 1em
+textarea
+  min-height: 8em
+  min-width: 14em
+  width: 64%
+.input
+  +rhythm-margins(.75)
+  +clearfix
+
+.error-message
+  float: left
+  clear: right
+  min-width: 6em
+  margin-left: 8em
+  color: $color-secondary-dark
+
+@media(min-width: 600px)
+  .error-message
+    margin-left: 1em

@@ -1,0 +1,43 @@
+/*doc
+ * Defines the main content block, single column
+ */
+.content
+  clear: both
+  +rhythm-padding(.5, 1.5)
+
+  img
+    max-width: 95vw
+
+  ul, ol, dl
+    +rhythm-margins(.5, .75)
+  li
+    list-style-position: inside
+    padding-left: 1em
+    +rhythm-padding(.15)
+  ul li
+    list-style-type: disc
+  ol li
+    list-style-type: decimal
+  p
+    +rhythm-padding(.1)
+  dl
+    +clearfix
+    padding-left: 1em
+  dt
+    clear: both
+  dt, dd
+    +padding-leader(.25)
+    float: left
+  dd
+    padding-left: 1em
+    clear: right
+
+  a
+    color: $color-secondary
+    cursor: pointer
+    cursor: hand
+  a, a:visited
+    &:hover, &:focus, &:active
+      color: $color-secondary-light
+  a:visited
+    color: $color-secondary-dark

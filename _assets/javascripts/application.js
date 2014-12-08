@@ -1,2 +1,2 @@
-//= require jquery.prettyPhoto
+//= require jquery.swipebox
 //= require app

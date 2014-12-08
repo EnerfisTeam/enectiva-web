@@ -1,0 +1,74 @@
+.quick-contact
+  &__title
+    +button($color-secondary, darken($color-secondary, 10%), $color-secondary-dark)
+    width: 90%
+    margin-left: auto
+    margin-right: auto
+    cursor: pointer
+    cursor: hand
+    +border-radius(.3em)
+    +adjust-font-size-to($base-font-size * 1.2)
+    padding-left: .5em
+    padding-right: .5em
+    text-align: center
+    +rhythm-padding(.25)
+    +rhythm-margins(.5)
+    text-decoration: none
+    display: block
+    &, &:visited, &:hover, &:focus, &:active
+      color: white
+  &__form
+    display: none
+
+  @media(min-width: 400px)
+    &__title
+      max-width: 25em
+  @media(min-width: 800px)
+    width: 5.5em
+    position: fixed
+    right: 0
+    top: 33%
+    margin: 0
+    &--js
+      right: -4.5em
+    &, &--js
+      &:hover, &:focus
+        right: 0 !important // overrides direct value set by JS
+    &__title
+      +adjust-font-size-to($base-font-size * .9)
+      +border-top-right-radius(0)
+      +border-bottom-right-radius(0)
+      text-align: center
+      +box-shadow()
+      +transition(left 250ms linear)
+      float: left
+      clear: left
+      width: 5.5em
+      margin: 0
+    &__form
+      float: left
+      clear: right
+      width: 22em
+      margin: 0
+      +padding-trailer(.5)
+    &--opened
+      width: auto
+      right: 0 !important // overrides direct value set by JS
+      border: 1px solid $color-primary-dark
+      border-right-width: 0
+      +box-shadow()
+      +border-left-radius(.3em)
+      padding: 1em
+      background: white
+      .quick-contact__title
+        width: auto
+        background: none
+        +box-shadow(none)
+        color: $color-primary-dark
+        font-size: 2em
+        padding: 0
+        line-height: 1
+        &:hover, &:focus
+          font-weight: bold
+      .quick-contact__form
+        display: block

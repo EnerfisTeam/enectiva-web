@@ -1,0 +1,24 @@
+/*doc
+ * Defines breadcrumb list
+ *
+ * As a deviation from BEM doesn't use any class for items or links
+ */
+.breadcrumbs
+  +adjust-font-size-to($base-font-size * .9)
+  float: right
+  position: relative
+  z-index: 5
+  li
+    list-style-type: none
+    display: inline-block
+    padding-left: 0
+    padding-right: .5em
+    &:before
+      content: '»'
+      color: $unimportant
+      padding-right: .5em
+
+  a, a:visited
+    color: $unimportant
+  a:hover, a:focus, a:active
+    color: $color-primary

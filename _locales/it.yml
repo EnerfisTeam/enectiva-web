@@ -214,10 +214,16 @@ it:
   meta_keywords: Enectiva, monitoraggio energetico, risparmio energetico, gestione dell'energia, misurazione, contatori intelligenti, consumo di energia, tecnologia di risparmio
   intro: Enectiva, una soluzione per la gestione dell'energia, è stato sviluppato dalla ditta
   city: Praga
-  motto: Usa l'energia in modo efficiente
 
   newsletter_signup:
     button: OK
     email_placeholder: Inserisci la tua e-mail
     heading: Iscriviti alla nostra newsletter
     list_id: 663115dcb0
+
+  navigation:
+    back_to_homepage: Torna alla homepage
+    login: Login
+
+  try_enectiva: Prova Enectiva
+  other_solutions: Další řešení

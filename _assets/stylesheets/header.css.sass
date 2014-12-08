@@ -1,0 +1,105 @@
+/*doc
+ * Defines header block containing logo with a link to HP and top menu with toggler
+ *
+ * CSS-only toggling based on http://www.outofscope.com/css-only-menu-toggle-no-javascript-required/
+ */
+
+.header
+  +rhythm-padding(.5)
+
+  $width: 220px
+  $height: 67px
+
+  height: $height
+
+  &__title
+    float: left
+    position: relative
+    width: auto
+    max-width: 220px
+    height: 100%
+    padding: 0
+    display: block
+  &__logo-link
+    display: block
+    overflow: hidden
+    text-indent: .5em
+    position: relative
+    left: 0
+    top: 0
+    background: white
+    height: 100%
+    width: 100%
+    &:before
+      content: " "
+      width: 100%
+      height: 100%
+      background-color: white
+    &:before, img
+      position: absolute
+      left: 0
+      top: 0
+    img
+      position: absolute
+      left: 0
+      right: 0
+      top: 0
+      bottom: 0
+      max-height: 61px
+      max-width: 100%
+      margin: auto
+
+  &__menu
+    display: none
+    width: 100%
+    +box-sizing('border-box')
+    float: right
+    clear: right
+    margin-bottom: -100%
+    position: relative
+    background: white
+    z-index: 2
+  &__menu-toggle-switch
+    float: right
+    font-size: $base-font-size * 3.5
+    padding: .15em .25em .25em .25em
+    color: $color-primary-dark
+    margin: 0
+    width: auto
+    min-width: 0
+    clear: none
+    cursor: pointer
+    cursor: hand
+  &__menu-toggler
+    display: none
+  #Menu-toggle:checked + &__menu
+    display: block
+    &:after
+      content: ' '
+      display: block
+      height: .4em
+      bottom: -.4em - .5em
+      position: relative
+      +background-image(radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.8) 0%, transparent 80%))
+      background-repeat: no-repeat
+      background-position: 0 -.2em
+
+  @media(min-width: 800px)
+    min-height: $height
+    height: auto
+    +block-down-shadow()
+
+    &__title
+      position: absolute
+      top: 0
+      bottom: 0
+      margin: auto
+    &__menu-toggle-switch
+      display: none
+    &__menu
+      display: block
+      position: static
+      margin-bottom: auto
+      width: auto
+      float: none
+      margin-left: $width + 20

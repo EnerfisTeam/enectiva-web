@@ -216,10 +216,16 @@ en:
   meta_keywords: Enectiva, energy monitoring, energy savings, energy management, metering, smart metering, energy consumption, saving technology
   intro: Energy management solution Enectiva was developed by the company
   city: Prague
-  motto: Use energy efficiently
 
   newsletter_signup:
     button: OK
     email_placeholder: Enter your e-mail
     heading: Sign up for our newsletter
     list_id: 663115dcb0
+
+  navigation:
+    back_to_homepage: Back to homepage
+    login: Login
+
+  try_enectiva: Try Enectiva
+  other_solutions: Other solutions

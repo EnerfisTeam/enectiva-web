@@ -1,0 +1,24 @@
+{% assign locale = page.url | extract_locale %}
+
+<div class="quick-contact" id="Cta">
+    <a
+            href="/{{ locale }}/{{ site.data.menu.foot[locale].last.path }}#test"
+            class="quick-contact__title"
+            id="CtaOpener" data-alt="×">{{ 'try_enectiva' | translate: locale }}</a>
+    <form class="quick-contact__form" accept-charset="UTF-8" action="/{{ locale }}/welcome/process_contact_form" method="post" data-prefix="cta" data-remove="Cta">
+
+        <div class="input">
+            <label for="cta_contact_form_email">{{ 'email' | translate: locale }} *</label>
+            <input id="cta_contact_form_email" name="contact_form[email]" type="email" class="required">
+            <div class="error-message">{{ 'required_error' | translate: locale }}</div>
+        </div>
+        <div class="input">
+            <label for="cta_contact_form_name">{{ 'name' | translate: locale }}</label>
+            <input id="cta_contact_form_name" name="contact_form[name]" type="text">
+        </div>
+
+        <input type="hidden" value="{{ site.data.contact_form.form_type_options.first }}">
+
+        <input type="submit" value="{{ 'submit' | translate: locale }}" class="contact__submit button">
+    </form>
+</div>

@@ -1,0 +1,62 @@
+/*doc
+ * Defines general menu block used throughout the layout
+ *
+ * As a deviation from BEM doesn't use any class for items or links
+ */
+.menu
+  padding: .5em
+  a
+    padding: .25em 1em
+    display: block
+    width: 100%
+    text-decoration: none
+    +box-sizing('border-box')
+    &, &:visited
+      color: $color-primary-dark
+    &:hover, &:focus
+      color: $color-secondary-very-light
+  &--main
+    +adjust-font-size-to($base-font-size * 1.2)
+    a.active
+      background: $color-primary-very-dark
+      color: white
+      +border-radius(.2em)
+  &--supportive, &--in-content
+    text-align: center
+    a
+      padding: .7em 1em
+
+  @media(min-width: 400px)
+    &--supportive
+      text-align: center
+      li
+        display: inline
+      a
+        display: inline-block
+        width: auto
+    &--supportive, &--in-content
+      a
+        padding: .05em 1em
+
+  @media(min-width: 800px)
+    &__login, &__translations
+      +adjust-font-size-to($base-font-size * .8)
+      float: right
+      +margin-leader(-1)
+      +margin-trailer(.15)
+      a, a:visited
+        color: $unimportant
+      a:hover, a:focus, a:hover
+        color: $color-primary
+    &__login
+      margin-right: 2em
+    &__list
+      clear: right
+      float: right
+    li
+      display: inline
+    a
+      width: auto
+      display: inline-block
+    &--important
+      +adjust-font-size-to($base-font-size)
