@@ -22,8 +22,8 @@ main:
       path: features
     - name: Solutions
       path: solutions
-#    - name: Hardware
-#      path: hardware
+    - name: Hardware
+      path: hardware
     - name: Contact Us
       path: contact-us
     - name: Blog
@@ -36,8 +36,8 @@ main:
       path: caratteristiche
     - name: Soluzioni
       path: soluzioni
-#    - name: Hardware
-#      path: hardware
+    - name: Hardware
+      path: hardware
     - name: Contattaci
       path: contattaci
 # Last position of contact is used in _includes/cta.html
