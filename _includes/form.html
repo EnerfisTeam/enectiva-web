@@ -53,9 +53,4 @@
 </fieldset>
 
 <input type="submit" value="{{ 'submit' | translate: locale }}" class="contact__submit button">
-<script type="text/javascript">
-    contactFormI18n = {
-        submit_alt: "{{ 'submit_alt' | translate: locale }}",
-        submitted: "{{ 'submitted' | translate: locale }}"
-    }
-</script>
+{% include contact_form_js.html %}
