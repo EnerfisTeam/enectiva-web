@@ -6,8 +6,13 @@
     <ul class="menu__translations">
         {% for current_locale in site.authorized_locales %}
             {% if locale != current_locale %}
+                {% if page.translations[current_locale] %}
+                    {% assign translation = page.translations[current_locale] %}
+                {% else %}
+                    {% assign translation = site.data.menu.main[current_locale].first.path %}
+                {% endif %}
             <li class="langSwitch">
-                <a href="/{{ current_locale }}/{{ site.data.menu.main[current_locale].first.path }}">{{ current_locale | upcase }}</a>
+                <a href="/{{ current_locale }}/{{ translation }}" hreflang="{{ current_locale }}">{{ current_locale | upcase }}</a>
             </li>
             {% endif %}
         {% endfor %}
