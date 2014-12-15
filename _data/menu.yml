@@ -69,8 +69,8 @@ foot:
       path: programma-partner
 #    - name: Media
 #      path: media
-    - name: Prova Enectiva
-      path: prova-enectiva
+    - name: Regolamento di Enectiva
+      path: regolamento-di-enectiva
 #    - name: Sicurezza
 #      path: sicurezza
     - name: Contattaci
