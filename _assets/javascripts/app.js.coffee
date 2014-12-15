@@ -3,10 +3,17 @@ $ ->
   $subscribeSubmit = $('#SignupSubmit').addClass(newlsetterHiddenClass)
   $subscribeEmail = $('#mce-EMAIL')
   $subscribeEmail.keyup (e)->
-    if $.trim($(e.target).val()) == ''
+    email = $.trim($(e.target).val())
+
+    console.log email
+    if email == ''
       $subscribeSubmit.addClass(newlsetterHiddenClass)
     else
       $subscribeSubmit.removeClass(newlsetterHiddenClass)
+      if email.match /[^@]+@[^@]+\.[^@]+/
+        $subscribeSubmit.find('input').removeAttr('disabled')
+      else
+        $subscribeSubmit.find('input').attr('disabled', 'disabled')
 
   $cta = $('#Cta')
 
