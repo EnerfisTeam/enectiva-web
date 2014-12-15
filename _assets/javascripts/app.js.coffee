@@ -110,11 +110,14 @@ $ ->
                 $field.after($('<div class="errorMessage">').text(err).show())
           else
             $form.after('<div class="notice">' + contactFormI18n.submitted + '</div>')
-            remove = $form.data('remove')
-            if remove
-              $form.parents("##{remove}").remove()
-            else
-              $form.remove()
+            $form.find('input, select').attr('disbled', 'disabled')
+            setTimeout(->
+              remove = $form.data('remove')
+              if remove
+                $form.parents("##{remove}").remove()
+              else
+                $form.remove()
+            , 3000)
 
     $ContactForm = $('#ContactForm')
     if $ContactForm.length
