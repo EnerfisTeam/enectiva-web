@@ -1,16 +1,31 @@
+$solution-image-margin: 20px
 .solution
   +rhythm-margins(1.5, 2.5)
+  +clearfix
   &__title
     max-width: 12em
-    +rhythm-margins(-.25, 0)
+    +rhythm-margins(-.05, 0)
     a, a:visited
       color: $color-primary
       text-decoration: none
     a:hover, a:focus, a:active
       text-decoration: underline
+  &__image
+    +rounded-image(120px)
+    float: right
+    margin-left: $solution-image-margin
+  p
+    clear: left
+
 
 @media(min-width: 800px)
   .solution
+    &__title
+      max-width: 8em
+    p
+      clear: none
+    &__image
+      +margin-trailer(1)
     &:nth-child(odd)
       .solution__title
         float: left
@@ -20,3 +35,7 @@
         float: right
         padding-left: .75em
         text-align: right
+      .solution__image
+        float: left
+        margin-left: 0
+        margin-right: $solution-image-margin

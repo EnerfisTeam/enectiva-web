@@ -4,16 +4,10 @@
   &__title
     color: $color-primary
   &__image
-    $dim: 145px
-    width: $dim
-    height: $dim
-    +border-radius($dim / 2)
-    overflow: hidden
+    +rounded-image(145px)
     margin-right: 20px
-    +rhythm-margins(1)
-    float: left
-    border: 1px solid $unimportant-accent
     +single-transition(all, ease-in-out, 150ms)
+    +rhythm-margins(1)
     &:hover, &:focus, &:active
       border-color: $unimportant
   &__desc
