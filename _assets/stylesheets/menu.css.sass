@@ -39,11 +39,13 @@
         padding: .05em 1em
 
   @media(min-width: 800px)
+    &--main
+      +padding-leader(.7)
+      +clearfix
     &__login, &__translations
       +adjust-font-size-to($base-font-size * .8)
       float: right
-      +margin-leader(-1)
-      +margin-trailer(.15)
+      +margin-leader(-1.25)
       a, a:visited
         color: $unimportant
       a:hover, a:focus, a:hover
