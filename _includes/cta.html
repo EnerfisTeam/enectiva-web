@@ -7,6 +7,8 @@
             id="CtaOpener" data-alt="×">{{ 'try_enectiva' | translate: locale }}</a>
     <form class="quick-contact__form" accept-charset="UTF-8" action="/{{ locale }}/welcome/process_contact_form" method="post" data-prefix="cta" data-remove="Cta">
 
+        <p class="quick-contact__intro">{{ 'cta_intro' | translate: locale }}</p>
+
         <div class="input">
             <label for="cta_contact_form_email">{{ 'email' | translate: locale }} *</label>
             <input id="cta_contact_form_email" name="contact_form[email]" type="email" class="required">
