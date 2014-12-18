@@ -54,27 +54,30 @@ prose:
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
-    cs:
+    cs: &KEYWORDS_CS
       - name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Dodatečná klíčová slova"
           placeholder: "Mělo by začínat ,"
-    en:
+    en: &KEYWORDS_EN
       - name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
-    it:
+    it: &KEYWORDS_IT
       - name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
+    _solutions/cs: *KEYWORDS_CS
+    _solutions/en: *KEYWORDS_EN
+    _solutions/it: *KEYWORDS_IT
     cs/blog/_posts:
       - name: "layout"
         field:
@@ -91,12 +94,7 @@ prose:
           type: "text"
           label: "Autor"
           placeholder: "(z /config/authors.yml)"
-      - name: "keywords"
-        field:
-          element: "text"
-          type: "text"
-          label: "Dodatečná klíčová slova"
-          placeholder: "Mělo by začínat ,"
+      - *KEYWORDS_CS
     en/blog/_posts:
       - name: "layout"
         field:
@@ -113,9 +111,4 @@ prose:
           type: "text"
           label: "Author"
           placeholder: "(from /config/authors.yml)"
-      - name: "keywords"
-        field:
-          element: "text"
-          type: "text"
-          label: "Extra keywords"
-          placeholder: "Start with ,"
+      - *KEYWORDS_EN
