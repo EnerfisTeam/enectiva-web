@@ -7,10 +7,17 @@ module Jekyll
       @dir = target_dir
       @name = 'index.html'
 
+      @source_dir = source_dir
+      @source_filename = filename
+
       self.process(@name)
-      self.read_yaml(File.join(base, source_dir), filename)
+      self.read_yaml(File.join(base, @source_dir), @source_filename)
       self.data['siblings'] = siblings
       self.data['layout'] = 'solution'
+    end
+
+    def source_file
+      File.join @source_dir, @source_filename
     end
   end
 

@@ -34,8 +34,12 @@ module Jekyll
   class Page
     attr_accessor :name
 
+    def source_file
+      File.join @dir, @name
+    end
+
     def full_path_to_source
-      File.join(@base, @dir, @name)
+      File.join(@base, source_file)
     end
 
     def path_to_source
