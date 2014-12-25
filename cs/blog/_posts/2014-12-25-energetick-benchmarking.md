@@ -22,6 +22,6 @@ Proto abyste vždy porovávali hrušky s hruškama a jablka s jablky je nutné u
 
 Možná vás zarazil bod 2, ale výška budovy ovliňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich buvod. Např. stáří, vybavenost atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
 
-V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte nás kontaktovat.
+V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte [nás kontaktovat](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
 
 Tým Enectiva
