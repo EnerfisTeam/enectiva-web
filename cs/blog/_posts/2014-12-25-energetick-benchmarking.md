@@ -13,7 +13,7 @@ title: Energetický benchmarking
 2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
 
 ## Základní pravidla benchmarkingu
-Proto abyste vždy porovávali hrušky s hruškama a jablka s jablky je nutné u budov dodržet několik základních pravidel:
+Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovávali hrušky s hruškami a jablka s jablky je nutné dodržet několik základních pravidel:
 
 1. Porovnávajte nemovitosti ve stejné klimatické zóně
 2. Porovnávejte nemovitosti se srovnatelnou výškou
