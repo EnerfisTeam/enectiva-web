@@ -1,7 +1,7 @@
 ---
 "3": "[object Object]"
 layout: post
-published: false
+published: true
 title: Energetický benchmarking
 ---
 
@@ -26,4 +26,3 @@ Možná vás zarazil bod 2, ale výška budovy ovliňuje její vybavenost techno
 V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte nás kontaktovat.
 
 Tým Enectiva
-
