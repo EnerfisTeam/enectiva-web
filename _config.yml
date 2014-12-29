@@ -54,30 +54,36 @@ prose:
   siteurl: "http://enectiva.cz/"
   media: "img"
   metadata:
-    cs: &KEYWORDS_CS
-      - name: "keywords"
+    cs:
+      - &KEYWORDS_CS
+        name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Dodatečná klíčová slova"
           placeholder: "Mělo by začínat ,"
-    en: &KEYWORDS_EN
-      - name: "keywords"
+    en:
+      - &KEYWORDS_EN
+        name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
-    it: &KEYWORDS_IT
-      - name: "keywords"
+    it:
+      - &KEYWORDS_IT
+        name: "keywords"
         field:
           element: "text"
           type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
-    _solutions/cs: *KEYWORDS_CS
-    _solutions/en: *KEYWORDS_EN
-    _solutions/it: *KEYWORDS_IT
+    _solutions/cs:
+      - *KEYWORDS_CS
+    _solutions/en:
+      - *KEYWORDS_EN
+    _solutions/it:
+      - *KEYWORDS_IT
     cs/blog/_posts:
       - name: "layout"
         field:
