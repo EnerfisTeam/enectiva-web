@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Cena energetických dat
 author: enectiva
+keywords: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
 ---
 
 Pokud patříte mezi property manažery, facility manažery, správce či majitele nemovitostí jistě se setkáváte s problém efektivního sběru energetických dat ze spravovaných budov. K většinové metodě stále patří fyzický odečet pověřenou osobou. Nicméně tento způsob vykazuje známky jisté nespolehlivosti, časové i finanční náročnosti, která roste úměrně s velikostí spravovaného portfolia.
