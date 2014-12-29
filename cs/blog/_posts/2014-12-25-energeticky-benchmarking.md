@@ -5,7 +5,7 @@ published: true
 title: Energetický benchmarking
 ---
 
-**Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují připadá na spotřebu v budovách a jejich provozu. Nevěřili byste jak velké rozdíli jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.
+**Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují připadá na spotřebu v budovách a jejich provozu. Nevěřili byste jak velké rozdíli jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.![Benchmarking budov](/img/blog/Benchmarking budov.png)
 
 ## Proč porovnávat budovy mezi sebou? ##
 
