@@ -11,11 +11,11 @@ keywords: "energetický management,spotřeba, energie,budova"
 
 ## Proč porovnávat budovy mezi sebou? ##
 
-1. Porovnání nebo chcete-li benchmarking je první krok k nastartování procesů zvyšování energetické efektivity. Je prokázáno, že základní benchamrking snižuje náklady na energie a pro většinu majitelů i správců budov platí, že znalost spotřeb energií je prvním krokem k jejich snížení. V konečném důsledku pak k úspoře financní. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejích s jejich řízením.
+1. Porovnání nebo chcete-li benchmarking je první krok k nastartování procesů zvyšování energetické efektivity. Je prokázáno, že základní benchmarking snižuje náklady na energie a pro většinu majitelů i správců budov platí, že znalost spotřeb energií je prvním krokem k jejich snížení. V konečném důsledku pak k úspoře financní. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejích s jejich řízením.
 2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
 
 ## Základní pravidla benchmarkingu
-Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovávali hrušky s hruškami a jablka s jablky je nutné dodržet několik základních pravidel:
+Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovnávali hrušky s hruškami a jablka s jablky, je nutné dodržet několik základních pravidel:
 
 1. Porovnávajte nemovitosti ve stejné klimatické zóně
 2. Porovnávejte nemovitosti se srovnatelnou výškou
