@@ -20,7 +20,7 @@ Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovnáv
 1. Porovnávajte nemovitosti ve stejné klimatické zóně
 2. Porovnávejte nemovitosti se srovnatelnou výškou
 3. Porovávejte nemovitosti se stejným zdrojem tepla
-4. Porovnávejte nemovitosti se stejným účel užití
+4. Porovnávejte nemovitosti se stejným účelem užití
 
 Možná vás zarazí bod 2, ale výška budovy ovliňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich buvod. Např. stáří, vybavenost atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
 
