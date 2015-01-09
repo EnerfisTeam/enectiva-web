@@ -162,6 +162,6 @@ $ ->
     'autoplay': true,
     'autoplaySpeed': 5000,
     'dots': true,
-    'fade': true
-
-  $slider.find('.slide').show()
+    'draggable': false,
+    'fade': true,
+  $slider.find('.slider__slide').show()

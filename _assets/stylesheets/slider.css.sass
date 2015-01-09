@@ -33,7 +33,13 @@
     &__main, &__sub
       min-width: 30%
       max-width: 50%
-      text-align: left
       padding: .5em 20px
+    @each $side in ('left', 'right')
+      $side-val: unquote($side)
+      &__slide--#{$side}
+        .slider__main, .slider__sub
+          float: $side-val
+          clear: $side-val
+          text-align: $side-val
     &__main
       margin-top: 45px
