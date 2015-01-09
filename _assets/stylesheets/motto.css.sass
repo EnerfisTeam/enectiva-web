@@ -1,7 +1,7 @@
 .motto
   font-family: 'Open Sans', Verdana, sans-serif
   text-align: center
-  +rhythm-padding(1.5, 1)
+  max-height: $slider-height
   &__logo
     max-width: 80%
     display: block
@@ -17,10 +17,15 @@
   &__sub
     +adjust-font-size-to($base-font-size * 1.7)
     color: $color-primary
+
   @media(min-width: 800px)
-    +block-down-inset-shadow()
-    +rhythm-padding(3, 2)
+    +block-down-inset-shadow(2em)
+    +rhythm-padding(2, 1.5)
+    +box-sizing(border-box)
+    height: $slider-height
     &__logo
       margin-left: 132px
       height: 150px
       max-width: none
+      img
+        display: inline !important // overrules Slick

@@ -1,0 +1,39 @@
+.slider
+  height: $slider-height-small
+  @media(min-width: 700px)
+    height: $slider-height
+  &__slide
+    height: $slider-height-small !important
+    background-position: left center
+    @for $i from 2 through 3
+      &--slide#{$i}
+        display: none
+        background-image: url('/img/sliders/slider#{$i}.jpg')
+
+  &__main, &__sub
+    color: white
+    background: rgba(0, 0, 0, .35)
+    +border-radius(.1em)
+    padding: .25em 20px
+    +box-sizing(border-box)
+    text-align: center
+  &__main
+    margin-top: 10px
+    +adjust-font-size-to($base-font-size * 3, 2)
+  &__sub
+    +adjust-font-size-to($base-font-size * 1.7, 1.2)
+
+  @media(min-width: 500px)
+    &__main
+      margin-top: 30px
+  @media(min-width: 700px)
+    &__slide
+      height: $slider-height !important
+      background-position: center center
+    &__main, &__sub
+      min-width: 30%
+      max-width: 50%
+      text-align: left
+      padding: .5em 20px
+    &__main
+      margin-top: 45px

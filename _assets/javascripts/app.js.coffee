@@ -154,3 +154,14 @@ $ ->
       old = $toggler.text()
       $toggler.text($toggler.data('alt'))
       $toggler.data('alt', old)
+
+  $slider = $('.slider')
+  $slider.slick
+    'accesibility': true,
+    'arrows': false,
+    'autoplay': true,
+    'autoplaySpeed': 5000,
+    'dots': true,
+    'fade': true
+
+  $slider.find('.slide').show()

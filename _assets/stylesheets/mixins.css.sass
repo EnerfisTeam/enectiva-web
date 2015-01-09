@@ -1,4 +1,4 @@
-=_block-down-shadow-core($from, $to)
+=_block-down-shadow-core($from, $to, $vertical-offset: 0)
   position: relative
 
   &:after
@@ -8,14 +8,14 @@
     width: 100%
     display: block
     position: absolute
-    bottom: -$h
+    bottom: -$h + $vertical-offset
     +background-image(linear-gradient($from, $to))
 
-=block-down-shadow
+=block-down-shadow($vertical-offset: 0)
   border-bottom: 1px solid #eee
-  +_block-down-shadow-core(rgba(0,0,0,0.05), transparent)
-=block-down-inset-shadow
-  +_block-down-shadow-core(transparent, rgba(0,0,0,0.05))
+  +_block-down-shadow-core(rgba(0,0,0,0.05), transparent, $vertical-offset)
+=block-down-inset-shadow($vertical-offset: 0)
+  +_block-down-shadow-core(transparent, rgba(0,0,0,0.05), $vertical-offset)
 
 =time
   color: $unimportant
