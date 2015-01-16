@@ -2,6 +2,8 @@ name: Enectiva
 markdown: redcarpet
 highlighter: true
 
+encoding: UTF-8
+
 url: http://enectiva.cz
 
 gems:

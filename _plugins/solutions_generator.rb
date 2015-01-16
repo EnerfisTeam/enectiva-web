@@ -57,7 +57,7 @@ module Jekyll
 
     def siblings(files, base_dir)
       files.map do |dir, filename|
-        content = File.read("#{dir}#{filename}", encoding: 'utf-8')
+        content = File.read("#{dir}#{filename}")
         path = filename.gsub(/.html/, '')
         name = path
         path = '/' + base_dir + '/' + path
