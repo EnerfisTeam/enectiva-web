@@ -42,16 +42,16 @@ main:
       path: contattaci
       
   es:
-    - name: Enectiva
-      path: enectiva
-    - name: Caratteristiche
-      path: caratteristiche
-    - name: Soluzioni
-      path: soluzioni
+    - name: Acerca de Enectiva
+      path: acerca-de-enectiva
+    - name: Caracterìsticas
+      path: caracteristicas
+    - name: Soluciones
+      path: soluciones
     - name: Hardware
       path: hardware
-    - name: Contattaci
-      path: contattaci
+    - name: Contàctanos
+      path: contactanos
 # Last position of contact is used in _includes/cta.html
 foot:
   cs:
@@ -88,13 +88,13 @@ foot:
     - name: Contattaci
       path: contattaci
   es:
-    - name: Programma partner
-      path: programma-partner
-#    - name: Media
-#      path: media
-    - name: Regolamento di Enectiva
-      path: regolamento-di-enectiva
-#    - name: Sicurezza
-#      path: sicurezza
-    - name: Contattaci
-      path: contattaci
+    - name: Programa de afiliaciòn
+      path: programa-de-afiliacion
+#    - name: Prensa   
+#      path: prensa
+    - name: Reglas de Enecetiva
+      path: reglas-de-enectiva
+#    - name: Seguridad
+#      path: seguridad
+    - name: Contàctanos
+      path: contactanos
