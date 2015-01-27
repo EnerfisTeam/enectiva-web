@@ -41,7 +41,7 @@ paginate_path: /blog/page-:num
 paginate_per_category: true
 default_category: cs
 
-authorized_locales: [cs, en, it]
+authorized_locales: [cs, en, it, es]
 default_locale: cs
 
 cs:
@@ -80,12 +80,22 @@ prose:
           type: "text"
           label: "Extra keywords"
           placeholder: "Start with ,"
+    es:
+      - &KEYWORDS_ES
+        name: "keywords"
+        field:
+          element: "text"
+          type: "text"
+          label: "Extra keywords"
+          placeholder: "Start with ,"
     _solutions/cs:
       - *KEYWORDS_CS
     _solutions/en:
       - *KEYWORDS_EN
     _solutions/it:
       - *KEYWORDS_IT
+    _solutions/es:
+      - *KEYWORDS_ES
     cs/blog/_posts:
       - name: "layout"
         field:
