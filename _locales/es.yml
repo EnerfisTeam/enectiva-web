@@ -4,68 +4,68 @@ it:
     - Dom
     - Lun
     - Mar
-    - Mer
-    - Gio
-    - Ven
+    - Mier
+    - Jue
+    - Vier
     - Sab
     abbr_month_names:
     -
-    - Gen
+    - Ene
     - Feb
     - Mar
-    - Apr
-    - Mag
-    - Giu
-    - Lug
+    - Abr
+    - May
+    - Jun
+    - Jul
     - Ago
-    - Set
-    - Ott
+    - Sept
+    - Oct
     - Nov
     - Dic
     day_names:
-    - Domenica
-    - Luned�
-    - Marted�
-    - Mercoled�
-    - Gioved�
-    - Venerd�
-    - Sabato
+    - Domingo
+    - Lunes
+    - Martes
+    - Miércoles
+    - Jueves
+    - Viernes
+    - Sàbado
     formats:
       default: ! '%d-%m-%Y'
       long: ! '%d %B %Y'
       short: ! '%d %b'
     month_names:
     -
-    - Gennaio
-    - Febbraio
+    - Enero
+    - Febrero
     - Marzo
-    - Aprile
-    - Maggio
-    - Giugno
-    - Luglio
+    - Abrilé
+    - Mayo
+    - Junio
+    - Julio
     - Agosto
-    - Settembre
-    - Ottobre
-    - Novembre
-    - Dicembre
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
     order:
-    - :giorno
-    - :mese
-    - :anno
+    - :dìa
+    - :mes
+    - :año
   datetime:
     distance_in_words:
       about_x_hours:
-        one: circa 1 ora
-        other: circa %{count} ore
+        one: cerca de 1 hora
+        other: cerca de %{count} horas
       about_x_months:
-        one: circa 1 mese
-        other: circa %{count} mesi
+        one: cerca de 1 mes
+        other: cerca de %{count} meses
       about_x_years:
-        one: circa 1 anno
-        other: circa %{count} anni
+        one: cerca de 1 año
+        other: cerca de %{count} años
       almost_x_years:
-        one: quasi 1 anno
-        other: quasi %{count} anni
+        one: casi 1 año
+        other: casi %{count} años
       half_a_minute: mezzo minuto
       less_than_x_minutes:
         one: meno di un minuto
@@ -99,7 +99,7 @@ it:
     format: ! '%{attribute} %{message}'
     messages:
       accepted: dev'essere accettato
-      blank: non pu� essere vuoto
+      blank: non può essere vuoto
       present: dev'essere vuoto
       confirmation: ! "non corrisponde a %{attribute}"
       empty: non pu� essere vuoto
