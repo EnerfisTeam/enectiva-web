@@ -1,7 +1,7 @@
 ---
 layout: solution
 title: Construcciones de viviendas
-locale: it
+locale: es
 translations:
   en: solutions/apartment-buildings
   cs: reseni/bytove-domy
