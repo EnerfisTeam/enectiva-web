@@ -7,11 +7,11 @@ author: enectiva
 keywords: "energetický management,spotřeba, energie,budova"
 ---
 
-**Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují, připadá na spotřebu v budovách a jejich provozu. Nevěřili byste jak velké rozdíli jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.![Energetický benchmarking](/img/blog/Benchmarking budov2.png)
+**Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují, připadá na spotřebu v budovách a jejich provoz. Nevěřili byste, jak velké rozdíly jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu, jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.![Energetický benchmarking](/img/blog/Benchmarking budov2.png)
 
 ## Proč porovnávat budovy mezi sebou? 
 
-1. Porovnání nebo chcete-li benchmarking je první krok k nastartování procesů zvyšování energetické efektivity. Je prokázáno, že základní benchmarking snižuje náklady na energie a pro většinu majitelů i správců budov platí, že znalost spotřeb energií je prvním krokem k jejich snížení. V konečném důsledku pak k úspoře financní. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejích s jejich řízením.
+1. Porovnání nebo chcete-li benchmarking je první krok k nastartování procesů zvyšování energetické efektivity. Je prokázáno, že základní benchmarking snižuje náklady na energie a pro většinu majitelů i správců budov platí, že znalost spotřeb energií je prvním krokem k jejich snížení. V konečném důsledku pak k úspoře finanční. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejích s jejich řízením.
 2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
 
 ## Základní pravidla benchmarkingu
