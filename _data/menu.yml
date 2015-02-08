@@ -50,8 +50,8 @@ main:
       path: soluciones
     - name: Hardware
       path: hardware
-    - name: Contàctanos
-      path: contactanos
+    - name: Contáctenos
+      path: contactenos
 # Last position of contact is used in _includes/cta.html
 foot:
   cs:

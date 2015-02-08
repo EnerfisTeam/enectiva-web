@@ -82,3 +82,31 @@ it:
   tel: Telefono
   text: "Il tuo messaggio (opzionale)"
   tell_us_more: Puoi darci alcune informazioni su di te?
+
+es:
+  required: campi obbligatori
+  required_error: obbligatorio!
+  form_type_options:
+    podpora: Supporto tecnico
+    general: Informazioni generali
+    obchod: Problema commerciali
+    partner: Per i partner
+    test: Impostazioni di prova
+  heard_of_options:
+    internet: da Internet
+    partner: da un partner commerciale
+    letak: dalla brochure
+    znamy: da un tuo amico
+    odjinud: da un'altra fonte
+  submit: Invia
+  submit_alt: Invio ...
+  submitted: modulo è stato inviato
+  company: Azienda
+  email: E-mail
+  name: Nome Cognome
+  form_type: "Domande a riguardo"
+  heard_of: Come ci hai trovato?
+  position: "La tua posizione"
+  tel: Telefono
+  text: "Il tuo messaggio (opzionale)"
+  tell_us_more: Puoi darci alcune informazioni su di te?
