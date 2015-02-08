@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Motivační faktory pro zavedení energetického managementu
+author: enectiva
+keywords: "energetický management,motivace"
 ---
 
 Firmy různých velikosti i různého zaměření jsou nuceny řešit otázky energetického managementu. I když pro většinu z nich nejsou energie největší nákladovou položkou ,jsou defakto všude. V každé divizi, v každém oddělení, v každém zařízení je použita nějaká forma energie a dříve nebo později se každá firma začne potýkat s otázkami, které řeší jejich spotřebu, cenu či efektivní využití.
@@ -20,4 +22,4 @@ Narozdíl od předchozích dvou faktorů je otázka udržitelnosti vnímána u m
 **4.Legislativa**
 Další z faktorů, který je vnímán čistě jako povinnost a jen další náklad pro firmu. Nicméně legislativa má v poslední době výrazný vliv na zavádění energeticky úsporných opatření u firem, investic do renovací např. zateplení budov. Tím  v konečném důsledu i zvyšování energetické efektivity. Bohužel současná legislativa již moc neřešení jejich vyhodnocení a tak se jedná velmi často o investice ne zcela návratné.
 
-Pokud potřebujete pomoci s nastavením cílů energetické efektivity ve vaší firmě, neváhejte se obrátit na náš tým.
+Motivace je hybatelem věcí nejen v případě energetického managementu. Pokud potřebujete pomoci s nastavením cílů energetické efektivity ve vaší firmě, neváhejte se obrátit na náš tým.
