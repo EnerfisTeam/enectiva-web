@@ -42,7 +42,7 @@ main:
       path: contattaci
       
   es:
-    - name: Acerca de Enectiva
+    - name: Enectiva
       path: acerca-de-enectiva
     - name: Caracterìsticas
       path: caracteristicas
@@ -50,8 +50,8 @@ main:
       path: soluciones
     - name: Hardware
       path: hardware
-    - name: Contáctenos
-      path: contactenos
+    - name: Contáctanos
+      path: contactanos
 # Last position of contact is used in _includes/cta.html
 foot:
   cs:
