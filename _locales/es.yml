@@ -39,7 +39,7 @@ es:
     - Enero
     - Febrero
     - Marzo
-    - Abrilé
+    - Abril
     - Mayo
     - Junio
     - Julio
@@ -66,82 +66,82 @@ es:
       almost_x_years:
         one: casi 1 año
         other: casi %{count} años
-      half_a_minute: mezzo minuto
+      half_a_minute: medio minuto
       less_than_x_minutes:
-        one: meno di un minuto
-        other: meno di %{count} minuti
+        one: menos de un minuto
+        other: menos de %{count} minutos
       less_than_x_seconds:
-        one: meno di un secondo
-        other: meno di %{count} secondi
+        one: menos de un segundo
+        other: menos de %{count} segundos
       over_x_years:
-        one: oltre 1 anno
-        other: oltre %{count} anni
+        one: más de 1 año
+        other: más de %{count} años
       x_days:
-        one: 1 giorno
-        other: ! '%{count} giorni'
+        one: 1 dìa
+        other: ! '%{count} dìas'
       x_minutes:
         one: 1 minuto
-        other: ! '%{count} minuti'
+        other: ! '%{count} minutos'
       x_months:
-        one: 1 mese
-        other: ! '%{count} mesi'
+        one: 1 mes
+        other: ! '%{count} meses'
       x_seconds:
-        one: 1 secondo
-        other: ! '%{count} secondi'
+        one: 1 segundo
+        other: ! '%{count} segundos'
     prompts:
-      day: Giorno
-      hour: Ora
+      day: dìa
+      hour: Hora
       minute: Minuto
-      month: Mese
-      second: Secondo
-      year: Anno
+      month: Mes
+      second: Segundo
+      year: Año
   errors: &errors
     format: ! '%{attribute} %{message}'
     messages:
-      accepted: dev'essere accettato
-      blank: non può essere vuoto
-      present: dev'essere vuoto
-      confirmation: ! "non corrisponde a %{attribute}"
-      empty: non pu� essere vuoto
-      equal_to: dev'essere uguale a %{count}
-      even: dev'essere ancora
-      exclusion: � riservato
-      greater_than: dev'essere maggiore di %{count}
-      greater_than_or_equal_to: dev'essere uguale o maggiore di %{count}
-      inclusion: non � incluso nella lista
-      invalid: non � valido
-      less_than: dev'essere meno di %{count}
-      less_than_or_equal_to: dev'essere uguale o meno di %{count}
-      not_a_number: non � un numero
-      not_an_integer: dev'essere un numero intero
-      odd: dev'essere dispari
-      record_invalid: ! 'Convalida fallita: %{errors}'
+      accepted: debe ser aceptado
+      blank: no puede estar vacìo
+      present: debe estar vacìo
+      confirmation: ! "no corresponde a %{attribute}"
+      empty: no puede estar vacìo
+      equal_to: debe ser igual a %{count}
+      even: incluso
+      exclusion: � reservado
+      greater_than: debe ser mayor de %{count}
+      greater_than_or_equal_to: debe ser igual o mayor de %{count}
+      inclusion: no está incluido en la lista
+      invalid: no es válido 
+      less_than: debe ser menor de %{count}
+      less_than_or_equal_to: debe ser igual o menor de %{count}
+      not_a_number: no es un número
+      not_an_integer: debe ser un número entero
+      odd: debe ser impar
+      record_invalid: ! 'Registro no válido: %{errors}'
       restrict_dependent_destroy:
-        one: "Non � possibile cancellare il dato perch� esiste un %{record} dipendente "
-        many: "Non � possibile cancellare il dato perch� esistono %{record} dipendenti"
-      taken: � stato gi� preso
+        one: "No es posible borrar el dato porque existe %{record} dependiente "
+        many: "No es posible borrar los datos porque existen %{record} dependientes"
+      taken: ya ha sido recogido
       too_long:
-        one: � troppo lungo ( il massimo � 1 carattere)
-        other: � troppo lungo (il massimo � %{count} caratteri)
+        one: es demasiado largo ( el máximo es 1 carácter)
+        other: es demasiado largo (el máximo son %{count} caracteres)
       too_short:
-        one: � troppo corto ( il minimo � 1 carattere)
-        other: � troppo corto ( il minimo � %{count} caratteri)
+        one: es demasiado corto ( el mínimo es 1 carácter)
+        other: es demasiado corto ( el mínimo son %{count} caracteres)
       wrong_length:
-        one: la lunghezza � sbagliata (dev'essere 1 carattere)
-        other: la lunghezza � sbagliata (devono essere %{count} caratteri)
-      other_than: "dev'essere diverso da %{count}"
+        one: la longitud es errónea (debe ser 1 carácter)
+        other: la longitud es errónea (deben ser %{count}  caracteres)
+      other_than: "debe ser diferente de %{count}"
     template:
-      body: ! 'Ci sono stati problemi con i seguenti campi:'
+      body: ! 'ha habido problemas con el siguiente campo:'
       header:
-        one: 1 errore impedisce a questo %{model} di essere salvato
-        other: ! '%{count} errori impediscono a questo %{model} di essere salvato'
+        one: 1 error impide a este %{model} ser guardado
+        other: ! '%{count} errores impiden a este %{model} ser guardado'
   helpers:
     select:
-      prompt: Si prega di selezionare
+      prompt: Por favor seleccione
     submit:
       create: Crea %{model}
-      submit: Salva %{model}
-      update: Carica %{model}
+      submit: Guarda %{model}
+      update: Carga %{model}
   number:
     currency:
       format:
@@ -162,17 +162,17 @@ es:
       decimal_units:
         format: ! '%n %u'
         units:
-          billion: Miliardo
-          million: Milione
-          quadrillion: Quadrilione
-          thousand: Mille
-          trillion: Trilione
+          billion: Billón
+          million: Millón
+          quadrillion: Cuatrillón
+          thousand: Mil
+          trillion: Trillón
           unit: ''
       format:
         delimiter: ''
         precision: 3
-        significant: vero
-        strip_insignificant_zeros: vero
+        significant: verdad
+        strip_insignificant_zeros: verdad
       storage_units:
         format: ! '%n %u'
         units:
@@ -210,21 +210,21 @@ es:
   activerecord:
     errors:
       <<: *errors
-  meta_description: 'Enectiva è un servizio web per la gestione energetica degli edifici amministrativi, centri commerciali ed altre proprietà con scopi commerciali. '
-  meta_keywords: Enectiva, monitoraggio energetico, risparmio energetico, gestione dell'energia, misurazione, contatori intelligenti, consumo di energia, tecnologia di risparmio
-  intro: Enectiva, una soluzione per la gestione dell'energia, è stato sviluppato dalla ditta
+  meta_description: 'Enectiva es un servicio web para la gestión energética de la administración de edificios,centros comerciales y otras propiedades con propósitos comerciales '
+  meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energìa, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
+  intro: Enectiva, una solución para la gestión de la energìa, desarrollado por la empresa
   city: Praga
-  cta_intro: Inserisci il tuo indirizzo email e ti invieremo le tue informazioni di accesso
+  cta_intro: Introduce tu dirección de email y te enviaremos la información de acceso
 
   newsletter_signup:
     button: OK
-    email_placeholder: Inserisci la tua e-mail
-    heading: Iscriviti alla nostra newsletter
+    email_placeholder: Introduce tu e-mail
+    heading: Incrìbete a nuestro boletìn 
     list_id: 663115dcb0
 
   navigation:
-    back_to_homepage: Torna alla homepage
-    login: Login
+    back_to_homepage: Regresa a la pàgina principal
+    login: Iniciar sesión
 
-  try_enectiva: Prova Enectiva
-  other_solutions: Other solutions
+  try_enectiva: Prueba Enectiva
+  other_solutions: Otras soluciones 
