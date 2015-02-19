@@ -84,29 +84,29 @@ it:
   tell_us_more: Puoi darci alcune informazioni su di te?
 
 es:
-  required: campi obbligatori
-  required_error: obbligatorio!
+  required: campo obligatorio
+  required_error: obligatorio!
   form_type_options:
-    podpora: Supporto tecnico
-    general: Informazioni generali
-    obchod: Problema commerciali
-    partner: Per i partner
-    test: Impostazioni di prova
+    podpora: Soporte Técnico
+    general: Información general
+    obchod: Problemas comerciales
+    partner: Para los socios
+    test: Ajustes de prueba
   heard_of_options:
-    internet: da Internet
-    partner: da un partner commerciale
-    letak: dalla brochure
-    znamy: da un tuo amico
-    odjinud: da un'altra fonte
-  submit: Invia
-  submit_alt: Invio ...
-  submitted: modulo è stato inviato
-  company: Azienda
+    internet: de Internet
+    partner: de un socio comercial
+    letak: del folleto
+    znamy: de un amigo
+    odjinud: de otra fuente
+  submit: Envía
+  submit_alt: Envio ...
+  submitted: el formulario ha sido enviado
+  company: Hacienda
   email: E-mail
-  name: Nome Cognome
-  form_type: "Domande a riguardo"
-  heard_of: Come ci hai trovato?
-  position: "La tua posizione"
-  tel: Telefono
-  text: "Il tuo messaggio (opzionale)"
-  tell_us_more: Puoi darci alcune informazioni su di te?
+  name: Nombre Apellidos
+  form_type: "Preguntas sobre el mismo"
+  heard_of: Cómo nos ha encontrado?
+  position: "Su posición"
+  tel: Teléfono
+  text: "Tu mensaje (opcional)"
+  tell_us_more: Puede darnos alguna información sobre usted?
