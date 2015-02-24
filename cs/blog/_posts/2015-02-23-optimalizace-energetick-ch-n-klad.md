@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Optimalizace energetických nákladů
 author: enectiva
 keywords: "energetika, optimalizace, strategie"
