@@ -85,7 +85,7 @@ it:
 
 es:
   required: campo obligatorio
-  required_error: obligatorio!
+  required_error: ¡obligatorio!
   form_type_options:
     podpora: Soporte Técnico
     general: Información general
@@ -105,8 +105,8 @@ es:
   email: E-mail
   name: Nombre Apellidos
   form_type: "Preguntas sobre el mismo"
-  heard_of: Cómo nos ha encontrado?
+  heard_of: ¿Cómo nos ha encontrado?
   position: "Su posición"
   tel: Teléfono
-  text: "Tu mensaje (opcional)"
-  tell_us_more: Puede darnos alguna información sobre usted?
+  text: "Su mensaje (opcional)"
+  tell_us_more: ¿Puede darnos alguna información sobre usted?

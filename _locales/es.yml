@@ -211,19 +211,19 @@ es:
     errors:
       <<: *errors
   meta_description: 'Enectiva es un servicio web para la gestión energética de la administración de edificios,centros comerciales y otras propiedades con propósitos comerciales '
-  meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energìa, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
-  intro: Enectiva, una solución para la gestión de la energìa, desarrollado por Enerfis
+  meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energía, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
+  intro: Enectiva, una solución para la gestión de la energía, desarrollado por Enerfis
   city: Praga
   cta_intro: Introduce tu dirección de email y te enviaremos la información de acceso
 
   newsletter_signup:
     button: OK
     email_placeholder: Introduce tu e-mail
-    heading: Inscrìbete a nuestro boletìn 
+    heading: Inscríbete a nuestro boletín 
     list_id: 663115dcb0
 
   navigation:
-    back_to_homepage: Regresa a la pàgina principal
+    back_to_homepage: Regresa a la página principal
     login: Iniciar sesión
 
   try_enectiva: Prueba Enectiva
