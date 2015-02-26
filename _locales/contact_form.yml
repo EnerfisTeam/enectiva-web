@@ -93,20 +93,20 @@ es:
     partner: Para los socios
     test: Ajustes de prueba
   heard_of_options:
-    internet: de Internet
-    partner: de un socio comercial
-    letak: del folleto
-    znamy: de un amigo
-    odjinud: de otra fuente
-  submit: Envía
-  submit_alt: Envio ...
+    internet: por internet
+    partner: por medio de un socio comercial
+    letak: por un folleto
+    znamy: mediante un amigo
+    odjinud: otras fuentes
+  submit: Envíar
+  submit_alt: Enviando ...
   submitted: el formulario ha sido enviado
-  company: Hacienda
+  company: Empresa
   email: E-mail
   name: Nombre Apellidos
   form_type: "Preguntas sobre el mismo"
   heard_of: ¿Cómo nos ha encontrado?
-  position: "Su posición"
+  position: "Cargo que desempeña"
   tel: Teléfono
   text: "Su mensaje (opcional)"
   tell_us_more: ¿Puede darnos alguna información sobre usted?
