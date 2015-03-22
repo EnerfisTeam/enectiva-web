@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Slovník energetického manažera
-author: enctiva
+author: enectiva
 keywords: energetický management
 ---
 
