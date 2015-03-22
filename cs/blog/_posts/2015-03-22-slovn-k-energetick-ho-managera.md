@@ -16,7 +16,7 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 
 **EnPIs** - Energy Performance Indicators. Indikátory který si stanoví společnost pro sledovádní energetické efektivity.
 
-**EPC** - Energy Performance Contracting
+**EPC** - _Energy Performance Contracting_ je způsob jakým lze realizovat různá úsporná opatření včetně zajištěného financování. Pro klienta má tato forma poskytnutí energetických služeb výhodu v minimálním riziku. Investice do úsporného opatření je splácená až z dosažených úspor.
 
 **ERU** - Energetický Regulační Úřad
 
@@ -42,10 +42,12 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 
 **SEU** - _Significant Energy User_
 
-**Spotřeba**
+**Spotřeba** - 
 
 **Uhlíková stopa** - v zahraniční literatuře označována jako _Carbon Footprint_
-**1/4 hodinové maximum** -
+
+**1/4 hodinové maximum** - 
+
 **Watt** - jednotka výkonu, tedy výkonu, který je potřeba k vykonání práce 1 Joulu za 1 vteřinu.
 
 **Watthodina** - nejčastější jednotka energie v praxi. Jedná se o práci kterou vykoná stroj o výkonu jeden Watt za jednu hodinu.
