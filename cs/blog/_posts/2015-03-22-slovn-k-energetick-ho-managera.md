@@ -12,21 +12,21 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 
 **Denostupeň** - jedná se o ukazatel, díky kterému lze porovnávat spotřeby tepla v různých topných obdobích s různými klimatickými podmínkami. Je určen jako hodnota stanovená rozdílem mezi průměrnou vnitřní teplotou (tis) v domě a teplotou venkovní (tes) vynásobená počtem dnů otopného období. Laicky řečeno, čím více denostupňů, tím větší zima byla a tím více jste museli topit.
 
-**EM** - zkratka pro Energetický Management. Najdete spoustu odborných definic, ale energetický management je termín, kterým se vyjadřuje sledování spotřeby energií, nákladů za ně vynaložených a vyhledávání cest jak zvýšit jejich efektivnější využití.
+**EM** - zkratka pro _Energetický Management_. Najdete spoustu odborných definic, ale energetický management je termín, kterým se vyjadřuje sledování spotřeby energií, nákladů za ně vynaložených a vyhledávání cest jak zvýšit jejich efektivnější využití.
 
-**EMIS** - zkratka pro Energy Management Information System. Česky informační systém energetického managemtu. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.
+**EMIS** - zkratka pro _Energy Management Information System_. Česky informační systém energetického managemtu. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.
 
-**EnPIs** - Energy Performance Indicators. Indikátory který si stanoví společnost pro sledovádní energetické efektivity.
+**EnPIs** - _Energy Performance Indicators_. Indikátory, které si stanoví společnost pro sledování energetické efektivity.
 
 **EPC** - _Energy Performance Contracting_ je způsob jakým lze realizovat různá úsporná opatření včetně zajištěného financování. Pro klienta má tato forma poskytnutí energetických služeb výhodu v minimálním riziku. Investice do úsporného opatření je splácená až z dosažených úspor.
 
-**ERU** - Energetický Regulační Úřad je oragnizace regulujicí energetický trh v ČR. Každoročně vydává cenová rozhodnutí týkající se dodávek elektřiny i plynu.
+**ERU** - _Energetický Regulační Úřad_ je oragnizace regulujicí energetický trh v ČR. Každoročně vydává cenová rozhodnutí týkající se dodávek elektřiny i plynu.
 
 **ESCO** - _Energy Service Company_. Takto se souhrnně označují společnosti poskytující energetické služby a služby energetického managementu. 
 
 **ISO 50001** - norma definující standardy v oblasti energetického managementu v rámci organizací.
 
-**M-bus** - neboli Metering bus je název pro protokol a fyzickou sběrnici, které je hojně využívána pro sběr odečtů z měřidel energií.
+**M-bus** - neboli _Metering bus_ je název pro protokol a fyzickou sběrnici, které je hojně využívána pro sběr odečtů z měřidel energií.
 
 **Odběrné místo** - je místo, kde dochází k napojení odběratele energie na distribuční siť.
 
