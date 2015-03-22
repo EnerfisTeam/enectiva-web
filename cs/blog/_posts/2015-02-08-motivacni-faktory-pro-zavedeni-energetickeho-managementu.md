@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Motivační faktory pro zavedení energetického managementu
 author: enectiva
-keywords: "energetický management,motivace"
+keywords: "energetický management,motivace, náklady,udržitelnost"
 ---
 
 Firmy různých velikosti i různého zaměření jsou nuceny řešit otázky energetického managementu. I když pro většinu z nich nejsou energie největší nákladovou položkou ,jsou defakto všude. V každé divizi, v každém oddělení, v každém zařízení je použita nějaká forma energie a dříve nebo později se každá firma začne potýkat s otázkami, které řeší jejich spotřebu, cenu či efektivní využití. Důvody, které vedou firmy k řešení otázek energetického managementu jsou v zásadě čtyři:
