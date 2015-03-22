@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Slovník energetického manažera
 author: enctiva
 keywords: energetický management
@@ -32,7 +32,7 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 
 **Odběrový diagram** - někdy též označovaný jako diagram zatížení vyjadřuje průběh spotřeby energie za určité časové období. Můžete se setkat s diagramy denními, týdeními, měsíčními atd.
 
-**Odečet** - činnost, kdy dojde k zápisu stavu z měřidla energie.
+**Odečet** - činnost, kdy dojde k zápisu aktuálního stavu z měřidla energie.
 
 **Podružné měření** - měření energie v rámci organizace, které je umístěno za odběrným místem. Typicky se podružně měří nájemníci v administrativních budovách nebo výrobní zařízení v průmyslu.
 
@@ -53,5 +53,3 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 **Watthodina** - nejčastější jednotka energie v praxi. Jedná se o práci kterou vykoná stroj o výkonu jeden Watt za jednu hodinu.
 
 Pokud narazíte na jiný termín z oblasti energetického managementu a nebudete si s ním vědět rady, ozvěte se nám a rádi Vám ho objasníme.
-
-
