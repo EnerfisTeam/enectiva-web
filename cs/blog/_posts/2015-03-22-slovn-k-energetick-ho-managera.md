@@ -52,4 +52,5 @@ Jistě to znáte. Každá profese má svůj specifický slovník, kterým se dan
 
 **Watthodina** - nejčastější jednotka energie v praxi. Jedná se o práci kterou vykoná stroj o výkonu jeden Watt za jednu hodinu.
 
+
 Pokud narazíte na jiný termín z oblasti energetického managementu a nebudete si s ním vědět rady, ozvěte se nám a rádi Vám ho objasníme.
