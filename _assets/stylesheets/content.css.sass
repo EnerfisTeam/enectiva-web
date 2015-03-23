@@ -7,6 +7,10 @@
 
   img
     max-width: 95vw
+    &.center
+      margin-left: auto
+      margin-right: auto
+      display: block
 
   ul, ol, dl
     +rhythm-margins(.5, .75)
@@ -25,6 +29,7 @@
     padding-left: 1em
   dt
     clear: both
+    font-weight: bold
   dt, dd
     +padding-leader(.25)
     float: left
