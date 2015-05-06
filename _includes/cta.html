@@ -9,6 +9,8 @@
 
         <p class="quick-contact__intro">{{ 'cta_intro' | translate: locale }}</p>
 
+        <input id="contact_form_form_type" name="contact_form[form_type]" type="hidden" value="{{ site.data.contact_form.form_type_options.first }}" />
+
         <div class="input">
             <label for="cta_contact_form_email">{{ 'email' | translate: locale }} *</label>
             <input id="cta_contact_form_email" name="contact_form[email]" type="email" class="required">
@@ -18,8 +20,6 @@
             <label for="cta_contact_form_name">{{ 'name' | translate: locale }}</label>
             <input id="cta_contact_form_name" name="contact_form[name]" type="text">
         </div>
-
-        <input type="hidden" value="{{ site.data.contact_form.form_type_options.first }}">
 
         <input type="submit" value="{{ 'submit' | translate: locale }}" class="contact__submit button">
     </form>

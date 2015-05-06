@@ -1,4 +1,4 @@
 <form accept-charset="UTF-8" action="/{{ page.url | extract_locale }}/welcome/process_contact_form" method="post" id="ContactForm">
-    <input id="contact_form_form_type" name="contact_form[form_type]" type="hidden" value="test" />
+    <input id="contact_form_form_type" name="contact_form[form_type]" type="hidden" value="{{ site.data.contact_form.form_type_options.first }}" />
     {% include form.html %}
 </form>
