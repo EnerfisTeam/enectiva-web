@@ -16,7 +16,7 @@ module Breadcrumbs
         end
       end
     end
-    pages
+    pages.compact
   end
 
   def join(*parts)
@@ -30,6 +30,13 @@ module Breadcrumbs
     site.pages.each do |page|
       return page if page.url == url
     end
+
+    url = join parts.select { |part| part != 'index.html' }
+    site.posts.each do |post|
+      return post if post.url == url
+    end
+
+    nil
   end
 
   def ancestors
@@ -50,6 +57,10 @@ end
 module Jekyll
 
   class Page
+    include Breadcrumbs
+  end
+
+  class Post
     include Breadcrumbs
   end
 end
