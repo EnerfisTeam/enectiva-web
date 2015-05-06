@@ -1,0 +1,24 @@
+.highlight
+  font-family: 'Open Sans', Verdana, sans-serif
+  padding: 2.5em 0
+  background: $color-primary-very-light
+  border: 1px solid $color-primary
+  border-width: 1px 0
+
+  &__main
+    +adjust-font-size-to($base-font-size * 1.9)
+    color: white
+    text-align: center
+    a, a:visited
+      color: white
+      text-decoration: none
+      border-bottom: 1px solid white
+      +single-transition(border, 200ms, ease-in-out)
+    a:hover, a:focus, a:active
+      border-bottom-width: 3px
+
+
+@media(min-width: 800px)
+  .highlight
+    background: $color-primary url(asset_path('ambient.png')) center top no-repeat
+    border: 1px solid $color-primary-very-light
