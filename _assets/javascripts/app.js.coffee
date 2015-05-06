@@ -95,6 +95,8 @@ $ ->
 
         return unless allValid
 
+        $form.find('errorMessage').remove()
+
         normalSubmitText = $submit.text()
         alternativeSubmitText = contactFormI18n.submit_alt
         $submit
@@ -108,6 +110,9 @@ $ ->
               $field = $form.find("input##{prefix}contact_form_#{field}")
               $.each errs, (i, err) ->
                 $field.after($('<div class="errorMessage">').text(err).show())
+            $submit
+              .removeAttribute('disabled')
+              .val(normalSubmitText)
           else
             $form.after('<div class="notice">' + contactFormI18n.submitted + '</div>')
             $form.find('input, select').attr('disbled', 'disabled')
