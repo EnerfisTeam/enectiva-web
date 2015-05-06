@@ -95,7 +95,7 @@ $ ->
 
         return unless allValid
 
-        $(this).find('errorMessage').remove()
+        $(this).find('.errorMessage').remove()
 
         normalSubmitText = $submit.attr('value')
         alternativeSubmitText = contactFormI18n.submit_alt
