@@ -1,1 +1,2 @@
-<a href="{{ author.url }}" itemprop="name url">{{ author.name }}</a>
+{% assign locale = page.url | extract_locale %}
+<a href="{{ author.url }}" itemprop="name url">{{ author.name[locale] }}</a>

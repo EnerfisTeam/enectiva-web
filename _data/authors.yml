@@ -1,7 +1,11 @@
 enectiva:
   type: organization
   url: http://enectiva.cz
-  name: Tým Enectiva
+  name:
+    cs: Tým Enectiva
+    en: Enectiva team
+    es: Equipo Enectiva
+    it: Team di Enectiva
 vlada:
   type: person
   givenName: Vladimír
