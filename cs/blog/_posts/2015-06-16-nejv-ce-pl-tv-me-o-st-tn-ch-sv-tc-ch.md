@@ -12,6 +12,8 @@ Měrná spotřeba elektrické energie vztažená na m² užitné plochy se pohyb
 
 Co se týče měrného ukazatele spotřeby na m² užité plochy budovy, tak největší procento budov vykazuje spotřebu 52,5 kWh/m² za rok. Vždy velmi závisí na
 technologiích budovy a zda je budova strojově chlazena či nikoli. Průměrná roční spotřeba na m² z celého sledovaného souboru budov činí 110,6 kWh/m² a medián tohoto souboru pak  90,5 kWh/m².
+![Spotřeba elektřiny v administrativních budovách]({{site.baseurl}}/img/spotreba ele.png)
+
 
 ## Spotřeba vody
 
