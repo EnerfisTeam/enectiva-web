@@ -30,7 +30,9 @@ Pokud je tedy roční spotřeba vody vaší nemovitosti na m² nižší jak uved
 
 U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen naše přítomnost v kancelářích a naše chování, ale i vliv počasí a to zejména venkovní teploty. Z tohoto důvodu nemá smysl porovnávat jednotlivé dny mezi sebou, jelikož ve většině případů kopírují pouze venkovní teplotu. Zajímavým údajem je však pokles spotřeby o víkendu, který značí správné nastavení útlumu vytápění a správnou regulaci objektu. Vzali jsme proto spotřeby v jednotlivé pátky a porovnali je s nejbližšími sobotami. Pokles činil 28,31%. A poté nedělní spotřeby s pondělními, kde činil pokles spotřeby na vytápění 38,79%. 
 
-Největší procento budov vykazuje měrný ukazatel spotřeby tepla na m² plochy hodnotu 135 kWh/m² za rok. 50% budov vykazuje roční spotřebu tepla v rozmezí 123-221 kWh/m², průměrná spotřeba činí 186 kWh/m² a mnohem více vypovídající medián pak 169 kWh/m². Rozdíl je způsoben především kvalitou obálky budovy a jejími izolačními parametry. 
+Největší procento budov vykazuje měrný ukazatel spotřeby tepla na m² plochy hodnotu 135 kWh/m² za rok. 50% budov vykazuje roční spotřebu tepla v rozmezí 123-221 kWh/m², průměrná spotřeba činí 186 kWh/m² a mnohem více vypovídající medián pak 169 kWh/m². Rozdíl je způsoben především kvalitou obálky budovy a jejími izolačními parametry.
+![Spotřeba tepla v administrativních budovách]({{site.baseurl}}/img/spotreba tepla.png)
+
 
 ## Nejvíce plýtváme o státních svátcích
 
