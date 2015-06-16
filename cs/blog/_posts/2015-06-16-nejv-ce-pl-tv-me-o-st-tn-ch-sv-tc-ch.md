@@ -23,6 +23,8 @@ Se spotřebou vody je to velmi obdobné. Nejvíce vody se přes pracovní týden
 50% budov se pohybuje v rozmezí 160 l/m² až 330 l/m². Průměrná roční spotřeba ze všech sledovaných budov činí 307,6 l/m² a medián daného vzorku 235,9 l/m².
 
 Pokud je tedy roční spotřeba vody vaší nemovitosti na m² nižší jak uvedený medián 307,6 l/m², dostáváte se do lepší poloviny administrativních budov, co se využití vody týče.
+![Spotřeba vody v administrativních budovách]({{site.baseurl}}/img/spotreba vody.png)
+
 
 ## Spotřeba tepla
 
