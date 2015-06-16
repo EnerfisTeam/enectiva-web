@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Nejvíce plýtváme o státních svátcích
 ---
+
 
 Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva a to na vzorku 400 administrativních budov v městech nad deset tisíc Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva a to na vzorku 400 administrativních budov v městech nad deset tisíc obyvatel po celé České republice.
 
