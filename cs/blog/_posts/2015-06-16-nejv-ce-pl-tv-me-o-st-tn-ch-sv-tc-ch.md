@@ -5,6 +5,7 @@ title: Nejvíce plýtváme o státních svátcích
 ---
 
 
+
 Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva a to na vzorku 400 administrativních budov v městech nad deset tisíc Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva a to na vzorku 400 administrativních budov v městech nad deset tisíc obyvatel po celé České republice.
 
 ## Spotřeba elektrické energie
@@ -32,6 +33,9 @@ U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen
 
 Největší procento budov vykazuje měrný ukazatel spotřeby tepla na m² plochy hodnotu 135 kWh/m² za rok. 50% budov vykazuje roční spotřebu tepla v rozmezí 123-221 kWh/m², průměrná spotřeba činí 186 kWh/m² a mnohem více vypovídající medián pak 169 kWh/m². Rozdíl je způsoben především kvalitou obálky budovy a jejími izolačními parametry.
 ![Spotřeba tepla v administrativních budovách]({{site.baseurl}}/img/spotreba tepla.png)
+
+## Základní statistiky spotřeb energií v administrativních budovách
+![statistika.png]({{site.baseurl}}/img/statistika.png)
 
 
 ## Nejvíce plýtváme o státních svátcích
