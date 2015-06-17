@@ -13,20 +13,17 @@ For 50% of administrative buildings, electricity consumption per 1 m² of used f
 When we consider electricity consumption per 1 m² of used floor area, we see that most buildings have the consumption of  52,5 kWh/m² per year. This value very much depends on the technology used in the building and on whether there is cooling technology in the building or not. The average yearly consumption per m² of the whole analyzed set of buildings is 110,6 kWh/ m², the median value of the set is 90,5 kWh/ m².
 ![Office Building Electricity Consumption]({{site.baseurl}}/img/electricity consumption.png)
 
-
 ## Water Consumption
 
 The case is very similar with water consumption, which is the highest during working days, in particular on Mondays and then on Tuesdays. Water consumption is the lowest on Fridays. The difference between Mondays and Fridays is 5,89 % in average. During the weekends, water consumption decreases dramatically – by 87 %. The same decrease takes place over state holidays as well.
 The value of water consumed per square meter of used floor area is most commonly 165 l/ m² a year, and 50% of buildings have the consumption of 160 l/m² to 330 l/m². The average yearly consumption of the whole set of analyzed buildings is 307,6 l/m², the median value of the sample is 235,9 l/m². If the yearly water consumption of your building is lower than the median value of 307,6 l/m², you belong to the better half of administrative buildings in terms of water consumption.
 ![Water Consumption Office Buildings]({{site.baseurl}}/img/water consumption.png)
 
-
 ## Heat Consumption
 
 As for gas and heat, the situation is much more complex. Their consumption is influenced not only by our presence in the office, but also by the weather – especially the outside temperature. Therefore, there is no point in comparing individual days of the week as the consumption is parallel to the fluctuation of the outside temperature. However, it is interesting to see what happens to the consumption at weekends and to see whether the regulation of heating is set up correctly. 
 That is why we compared the data from Fridays with those of the nearest Saturdays. The consumption decreased by 28,31 %. As for the Sunday and Monday values, the difference in heat consumption is 38,79%. The value of heat consumption per m² is, for most buildings, 135 kWh/m² a year. The heat consmuption for 50% of buildings varies from 123 to 221 kWh/m², the average consumption equals to 186 kWh/m². This differences are usually determined by the quality of the building envelope and by its qualities in terms of insulation. The median value (which gives us a much better idea than the average value) is 169 kWh/m².
 ![Heat Consumption Office Buildings]({{site.baseurl}}/img/heat consumption.png)
-
 
 ## Most of power waste takes place during the state holidays.
 
