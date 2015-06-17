@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Office Buildining Energy Insigts
 ---
 
