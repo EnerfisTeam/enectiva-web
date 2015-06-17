@@ -7,6 +7,7 @@ title: Office Buildining Energy Insigts
 The results we present here are based on data gathered by the Enectiva team from 400 administration buildings located in various Czech cities of over 10.000 residents.
 
 **Consumption of Electric Energy**
+
 For 50% of administrative buildings, electricity consumption per 1 m² of used floor area varies from 50,1 to 142,7 kWh/ m². According to energy consumption, we are the most active at work on Tuesdays and then Mondays. Starting with Wednesday, our activity only decreases until the end of the week. The difference between Tuesdays and Fridays (the day we work the least according to consumption data) is 6,01 % in average. This difference is larger in open-space offices than in offices smaller than 200 m² – in this case, the difference is only 3,63 %. Over the weekend, the energy consumption of the average office decreases by 54,17 % compared to the consumption during working days. 
 
 When we consider electricity consumption per 1 m² of used floor area, we see that most buildings have the consumption of  52,5 kWh/m² per year. This value very much depends on the technology used in the building and on whether there is cooling technology in the building or not. The average yearly consumption per m² of the whole analyzed set of buildings is 110,6 kWh/ m², the median value of the set is 90,5 kWh/ m².
