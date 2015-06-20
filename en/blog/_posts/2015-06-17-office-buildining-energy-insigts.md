@@ -2,7 +2,10 @@
 layout: post
 published: true
 title: Office Buildining Energy Insigts
+author: enectiva
+keywords: "consumption,office,buildings"
 ---
+
 
 The results we present here are based on data gathered by the Enectiva team from 400 administration buildings located in various Czech cities of over 10.000 residents.
 
@@ -30,4 +33,4 @@ That is why we compared the data from Fridays with those of the nearest Saturday
 Generally, in terms of consumption it is also valuable to look at the difference between public holidays and weekends. We may consider public holidays comparable to Sundays in terms of the number of people working. However, electric energy consumption is higher by 4-8 % than that on Sundays, and the difference is even bigger when we consider heat consumption.
 ![Energy Statistics Office Buildings]({{site.baseurl}}/img/energy statistics.png)
 
-During public holidays, heat consumption is 28-40 % higher than heat consumption over the nearest weekends, and its value is therefore comparable to a regular working day. This fact shows us that there still is room for further improvement of energy efficiency in commercial buildings. 
+During public holidays, heat consumption is 28-40 % higher than heat consumption over the nearest weekends, and its value is therefore comparable to a regular working day. This fact shows us that there still is room for further improvement of energy efficiency in commercial buildings.
