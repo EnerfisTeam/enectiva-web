@@ -9,6 +9,7 @@ keywords: "spotřeba, elektřina,voda,teplo,statistika"
 
 
 
+
 Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva na vzorku více než 400 administrativních budov v městech nad deset tisíc obyvatel po celé České republice.
 
 ## Spotřeba elektrické energie
@@ -38,8 +39,13 @@ U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen
 ![Spotřeba tepla v administrativních budovách]({{site.baseurl}}/img/spotreba tepla.png)
 
 ## Základní statistiky spotřeb energií v administrativních budovách
-![statistika.png]({{site.baseurl}}/img/statistika.png)
 
+| | Elektřina<br>(kWh/m<sup>2</sup>/rok) | Voda<br>(l/m<sup>2</sup>/rok) | Teplo<br>(kWh/m<sup>2</sup>/rok) |
+|--|:-------:|:------:|:------:|
+| Průměr | 110,6 | 307,6 | 186,2 |
+| 1. kvartil | 50,1 | 160,3 | 123,7 |
+| Medián | 90,5 | 235,9 | 169,4 |
+| 3. kvartil | 143,7 | 330,1 | 221,3 |
 
 ## Nejvíce plýtváme o státních svátcích
 
