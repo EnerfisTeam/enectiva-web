@@ -40,47 +40,7 @@ U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen
 
 ## Základní statistiky spotřeb energií v administrativních budovách
 
-<table>
-<thead>
-<tr>
-<th rowspan="2"></th>
-<th style="text-align:center">Elektřina</th>
-<th style="text-align:center">Voda</th>
-<th style="text-align:center">Teplo</th>
-</tr>
-<tr>
-<td style="text-align:center">(kWh/m<sup>2</sup>/rok)</td>
-<td style="text-align:center">(l/m<sup>2</sup>/rok)</td>
-<td style="text-align:center">(kWh/m<sup>2</sup>/rok)</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Průměr</td>
-<td style="text-align:center">110,6</td>
-<td style="text-align:center">307,6</td>
-<td style="text-align:center">186,2</td>
-</tr>
-<tr>
-<td>1. kvartil</td>
-<td style="text-align:center">50,1</td>
-<td style="text-align:center">160,3</td>
-<td style="text-align:center">123,7</td>
-</tr>
-<tr>
-<td>Medián</td>
-<td style="text-align:center">90,5</td>
-<td style="text-align:center">235,9</td>
-<td style="text-align:center">169,4</td>
-</tr>
-<tr>
-<td>3. kvartil</td>
-<td style="text-align:center">143,7</td>
-<td style="text-align:center">330,1</td>
-<td style="text-align:center">221,3</td>
-</tr>
-</tbody>
-</table>
+-![statistika.png]({{site.baseurl}}/img/statistika.png)
 
 ## Nejvíce plýtváme o státních svátcích
 
