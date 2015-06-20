@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Office Buildining Energy Insigts
 author: enectiva
-keywords: "consumption,office,buildings"
+keywords: "consumption,office,buildings,energy insights"
 ---
 
 
