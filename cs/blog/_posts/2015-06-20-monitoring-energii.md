@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Monitoring energií
 author: enectiva
 keywords: "monitoring energií,energetický monitoring"
