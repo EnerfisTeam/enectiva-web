@@ -17,5 +17,7 @@ Přemýšlíte o tom jak jednoduše monitorovat energie včetně spotřeby vody?
 
 **Cenová dostupnost** zajistí krátkou dobu návratnosti do systému zajišťující monitoring energií. Obecně se předpokládá, že detailní a průběžný energetický monitoring dokáže snížit náklady na energie v dlouhodobém horizontu o 12%. Dokáže to včasným odhalením plýtvání, které způsobují havárie či špatné nastavení technologií a taktéž zvýšenou motivací lidí, kteří vnímají zvýšenou kontrolu spotřeby energií po zavedení systému energetického monitoringu.
 
+Je možné diskutovat o prioritách či důležitosti těchto jednotlivých bodů. V různých segmentech budou mít jistě rozdílnou důležitost, ale z našeho pohledu se jedná o základní pravidla funčního a z dlouhodobého hlediska efektivního systému monitoringu energií.
+
 
 
