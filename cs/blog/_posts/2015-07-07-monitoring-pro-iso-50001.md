@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Monitoring pro ISO 50001
+author: enectiva
+keywords: "ISO 50001, monitoring, norma"
 ---
 
 Ještě před měsícem by se daly počítat implementace ISO 50001 v českých firmách na prstech maximálně dvou rukou. Jedna novela zákona o hospodaření energiíí a všechno je jinak. Od 1.7.2015 vzniká velkých firmám nad 250 zaměstnanců a 50mil. EUR obrat povinnost zpracovávat energetické audity, případně jako alternativu zavést systém řízení ISO 50001. (3. variantě zavést ISO 14001 a jeden úvodní audit k tomu se nyní věnovat nebudeme). Firem, kterých se to v České republice týka je cca 2150.
