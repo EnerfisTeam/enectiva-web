@@ -52,9 +52,33 @@ main:
       path: hardware
     - name: Contacto
       path: contacto
+
+  de:
+    - name: O Enectivě
+      path: o-enective
+    - name: Vlastnosti
+      path: vlastnosti-systemu
+    - name: Řešení
+      path: reseni
+    - name: Hardware
+      path: hardware
+    - name: Kontakt
+      path: kontaktujte-nas
+
 # Last position of contact is used in _includes/cta.html
 foot:
   cs:
+    - name: Partnerský program
+      path: partnersky-program
+    - name: Média
+      path: media
+    - name: Pravidla Enectivy
+      path: pravidla-enectivy
+#    - name: Bezpečnost
+#      path: bezpecnost
+    - name: Kontakt
+      path: kontaktujte-nas
+  de:
     - name: Partnerský program
       path: partnersky-program
     - name: Média
