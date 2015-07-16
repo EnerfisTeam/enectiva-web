@@ -83,16 +83,16 @@ foot:
     - name: Kontakt
       path: kontaktujte-nas
   de:
-    - name: Partnerský program
-      path: partnersky-program
-    - name: Média
-      path: media
-    - name: Pravidla Enectivy
-      path: pravidla-enectivy
-#    - name: Bezpečnost
-#      path: bezpecnost
+    - name: Partnerprogramm
+      path: partner-programm
+    - name: Medien
+      path: medien
+    - name: Enectiva Regeln
+      path: enectiva-regeln
+#    - name: Sicherheit
+#      path: sicherheit
     - name: Kontakt
-      path: kontaktujte-nas
+      path: kontaktieren Sie-uns
   en:
     - name: Partner Programme
       path: partner-programme
