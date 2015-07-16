@@ -56,16 +56,16 @@ main:
       path: contacto
 
   de:
-    - name: O Enectivě
-      path: o-enective
-    - name: Vlastnosti
-      path: vlastnosti-systemu
-    - name: Řešení
-      path: reseni
+    - name: Über Enectiva
+      path: über-enectiva
+    - name: Eigenschaften
+      path: system-eigenschaften
+    - name: Lösung
+      path: lösung
     - name: Hardware
       path: hardware
     - name: Kontakt
-      path: kontaktujte-nas
+      path: kontaktieren Sie-uns
 
 # Last position of contact is used in _includes/cta.html
 foot:
