@@ -228,8 +228,7 @@ de:
     list_id: '18809a8f38'
 
   navigation:
-    back_to_homepage: Zpět na úvodní stránku
-    login: Přihlaste se do Enectivy
-
-  try_enectiva: Vyzkoušejte Enectivu
-  other_solutions: Další řešení
+    back_to_homepage: Züruck zur Startseite
+    login: Melden Sie sich bei Enectiva an
+  try_enectiva: Testen Sie Enectiva
+  other_solutions: Andere Lösung
