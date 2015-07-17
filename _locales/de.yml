@@ -215,7 +215,7 @@ de:
   activerecord:
     errors:
       <<: *errors
-  meta_description: 'Enectiva ist WEB-Informationssystem, das für Energiemanagement der Bürogebäude, Einkaufszentren und anderen kommerziellen Immobilien bestimmt ist.' # duplicated in the application
+  meta_description: 'Enectiva ist ein WEB-Informationssystem, das für Energiemanagement der Bürogebäude, Einkaufszentren und andere kommerziellen Immobilien bestimmt ist.' # duplicated in the application
   meta_keywords: 'Enectiva, Energiemanagement, Energieüberwachungssystem, kostensparende Projekte, Energieersparnisse, Überwachung von Energien, smart metering, Fernablesungen'
   intro: Lösung für Energiemanagement Enectiva wurde durch Firma geschafft
   city: Praha
