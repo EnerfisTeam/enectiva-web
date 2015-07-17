@@ -217,9 +217,9 @@ de:
       <<: *errors
   meta_description: 'Enectiva je webový informační systém určený pro energetický management administrativních budov, obchodních center a ostatních nemovitostí komerčního zaměření.' # duplicated in the application
   meta_keywords: 'Enectiva, energetický management, energetický monitoring, úsporné projekty, úspory energií, monitoring energií, smart metering, dálkové odečty'
-  intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
+  intro: Lösung für Energiemanagement Enectiva wurde durch Firma geschafft
   city: Praha
-  cta_intro: Zadejte e-mail a pošleme Vám přístup
+  cta_intro: Geben Sie Ihre Email Adresse ein und wir werden Ihnen die Zugangsdaten zuschicken
 
   newsletter_signup:
     button: 'OK'
