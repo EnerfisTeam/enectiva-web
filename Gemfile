@@ -1,7 +1,10 @@
 source 'http://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '~> 3.0.0.pre.beta8'
 gem 'jekyll-compass'
+gem 'jekyll-paginate'
+gem 'redcarpet'
+
 
 gem 'jekyll-assets'
 gem 'coffee-script'
