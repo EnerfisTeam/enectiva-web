@@ -2,6 +2,7 @@ _site
 /.idea
 *.iml
 
+.jekyll-metadata
 .rvmrc
 Rakefile
 Gemfile.lock

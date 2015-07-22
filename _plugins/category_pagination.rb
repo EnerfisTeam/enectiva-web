@@ -1,3 +1,5 @@
+require "jekyll-paginate"
+
 # Per-category pagination. Useful for multilingual blogs =)
 # It will react, regarding your configuration in `config.yml`:
 # 
