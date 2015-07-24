@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 ## Je nutné něco instalovat?
 
 Nikoli.Enectiva je provozována formou služby a tuto službu lze využít z jakéhokoli zařízení, které je připojeno k Internetu a současně má webový prohlížeč. Vaše data jsou Vám kdykoli a odkudkoli k disozici bez nutnosti jakékoli instalace.
