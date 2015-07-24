@@ -61,6 +61,8 @@ foot:
       path: media
     - name: Pravidla Enectivy
       path: pravidla-enectivy
+    - name: Časté dotazy
+      path: faq
 #    - name: Bezpečnost
 #      path: bezpecnost
     - name: Kontakt
@@ -72,6 +74,8 @@ foot:
 #      path: press
     - name: Enectiva Rules
       path: enectiva-rules
+    - name: FAQ
+      path: faq  
 #    - name: Security
 #      path: security
     - name: Contact Us
