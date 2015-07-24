@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Je nutné něco instalovat?
 
@@ -38,4 +39,3 @@ Všechna data jsou zálohována každý den a jsou uložena v certifikovaných d
 ## Jaké všechny energie lze v systému monitorovat?
 
 Aktuálně můžete využít monitoring pro elektrickou energii, teplo, plyn, chlad a vodu. S tím, že jednotlivé energie mohou mít jemnější dělení např. na elektřinu pro chlazení či vzduchotechniku, teplou a studenou vodu, či teplo potřebné na přípravu teplé vody.
-
