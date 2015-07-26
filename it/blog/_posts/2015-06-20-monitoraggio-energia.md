@@ -1,8 +1,13 @@
-June 20, 2015 - Sabato
+---
+layout: post
+title: Monitoraggio Energia
+published: true
+author: enectiva
+---
 
 Vi state chiedendo come può l'energia (compreso il consumo di acqua) essere facilmente monitorato? Qui ci sono diversi suggerimenti in materia di monitoraggio ad alta efficienza energetica e sugli approcci e processi che vengono applicati nello sviluppo di Enectiva - uno strumento completo per il monitoraggio energetico in linea.
 
-**Regole di monitoraggio energetico**
+## Regole di monitoraggio energetico
 
 Un monitoraggio energetico **semplice e comprensibile** significa che più utenti si capiscono e siamo in grado di usarlo, il che significa che di conseguenza sempre più persone saranno motivati a risparmiare energia e ridurre i consumi. E' un errore vedere il monitoraggio energetico come una disciplina altamente tecnica destinata solo per gli ingegneri con potere corporativo. Gestione energetica, nonché il monitoraggio che è legato ad esso, sono strettamente legati all'economia. I creatori dei sistemi di monitoraggio energetico dovrebbero tenere a mente - i sistemi di sorveglianza devono essere comprensibili anche a persone impegnate in materia finanziaria. Inoltre, se il sistema viene mantenuto semplice e di facile comprensione, costi di formazione di nuovi utenti sono significativamente ridotti. La regola generale è che un buon sistema di monitoraggio dell'energia dovrebbe servire alle esigenze degli utenti, e non viceversa, come spesso vediamo nei sistemi informativi ERP aziendale.
 
