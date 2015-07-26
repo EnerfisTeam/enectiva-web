@@ -40,6 +40,8 @@ main:
       path: hardware
     - name: Contattaci
       path: contattaci
+    - name: Blog
+      path: blog
       
   es:
     - name: Enectiva
