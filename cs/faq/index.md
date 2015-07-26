@@ -1,4 +1,9 @@
 ---
+layout: default
+title: Často kladené dotazy
+language: cs
+translations: 
+  en: faq
 published: true
 ---
 
