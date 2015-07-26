@@ -1,10 +1,11 @@
 ---
 layout: post
 published: true
-title: Office Buildining Energy Insigts
+title: Office Building Energy Insigts
 author: enectiva
 keywords: "consumption,office,buildings,energy insights"
 ---
+
 
 
 The results we present here are based on data gathered by the Enectiva team from 400 administration buildings located in various Czech cities of over 10.000 residents.
