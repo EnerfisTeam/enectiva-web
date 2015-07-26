@@ -24,11 +24,11 @@ it:
     - Dic
     day_names:
     - Domenica
-    - Luned�
-    - Marted�
-    - Mercoled�
-    - Gioved�
-    - Venerd�
+    - Lunedì
+    - Martedì
+    - Mercoledì
+    - Giovedì
+    - Venerdì
     - Sabato
     formats:
       default: ! '%d-%m-%Y'
