@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Basic Principles of Energy Monitoring
 author: enectiva
 keywords: energy monitoring
