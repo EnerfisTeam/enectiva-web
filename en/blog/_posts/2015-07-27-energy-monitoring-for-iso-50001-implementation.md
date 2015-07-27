@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Energy Monitoring for ISO 50001 Implementation
+keywords: "ISO 50001, energy monitoring"
+author: enectiva
 ---
 
 Firms Are Taking A Fresh Look at the benefits Of ISO 50001 nowdays and Enectiva as the system of energy monitoring and reporting makes implementation of this norm much easier. 
