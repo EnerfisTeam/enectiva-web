@@ -1,12 +1,12 @@
 ---
 layout: post
 published: false
-title: Energy Monitoring for ISO 50001 Implementation
+title: Energy Monitoring in ISO 50001 Standard
 keywords: "ISO 50001, energy monitoring"
 author: enectiva
 ---
 
-Firms Are Taking A Fresh Look at the benefits Of ISO 50001 nowdays and Enectiva as the system of energy monitoring and reporting makes implementation of this norm much easier. 
+Firms are taking a fresh look at the benefits of ISO 50001 nowdays and Enectiva as the system of energy monitoring and reporting makes implementation of this norm much easier. 
 Enectiva has been, from the very beginning, developed in accordance with the ISO 50001 requirements. Without even predicting the current situation, we adopted ISO 50001 as a standard of the Enectiva management tool. Enectiva is able to cover all the requirements of the ISO 50001 norm in terms of monitoring, reporting, metering & verification, monitoring and targeting. Using Enectiva, you can easily handle and simplify the implementation of the ISO 50001 standard as well as all the necessary administration.
 **The main benefits of using the Enectiva energy management tool for the implementation of ISO 50001 are:**
 1. Shorter time needed for the implementation
