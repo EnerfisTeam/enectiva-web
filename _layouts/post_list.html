@@ -15,7 +15,7 @@ layout: default
         <time class="post__published" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="dateCreated">
             {{ post.date | localize: ':display', locale }}
         </time>
-        <p class="post__perex">{{ post.content | truncate: 600 }}</p>
+        <p class="post__perex">{{ post.content | truncate: 600 | markdownify }}</p>
         </a>
     </div>
     {% endfor %}

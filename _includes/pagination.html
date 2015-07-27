@@ -1,13 +1,14 @@
 {% assign locale = page.url | extract_locale %}
+
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
     {% capture path_prefix %}{{ site.baseurl }}/{{ locale }}{% endcapture %}
     {% if paginator.previous_page == 1 %}
-        <a href="{{ '/blog' | prepend: path_prefix | replace: '//', '/' }}">&laquo; {{site.[locale].prev}}</a>
+        <a href="{{ '/blog' | prepend: path_prefix | replace: '//', '/' }}">&laquo; {{site[locale].prev}}</a>
     {% elsif paginator.previous_page > 1 %}
-        <a href="{{ paginator.previous_page_path | prepend: path_prefix | replace: '//', '/' }}">&laquo; {{site.[locale].prev}}</a>
+        <a href="{{ paginator.previous_page_path | prepend: path_prefix | replace: '//', '/' }}">&laquo; {{site[locale].prev}}</a>
     {% else %}
-        <span>&laquo; {{site.[locale].prev}}</span>
+        <span>&laquo; {{site[locale].prev}}</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
@@ -21,9 +22,9 @@
     {% endfor %}
 
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: path_prefix | replace: '//', '/' }}">{{site.[locale].next}} &raquo;</a>
+        <a href="{{ paginator.next_page_path | prepend: path_prefix | replace: '//', '/' }}">{{site[locale].next}} &raquo;</a>
     {% else %}
-        <span>{{site.[locale].next}} &raquo;</span>
+        <span>{{site[locale].next}} &raquo;</span>
     {% endif %}
 </div>
 {% endif %}

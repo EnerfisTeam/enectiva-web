@@ -9,6 +9,7 @@ url: http://enectiva.cz
 gems:
 - jekyll-compass
 - jekyll-assets
+- jekyll-paginate
 
 assets:
   dirname: assets-web
