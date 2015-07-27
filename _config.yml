@@ -49,8 +49,8 @@ cs:
   prev: Novější
   next: Starší
 en:
-  prev: Older
-  next: Newer
+  prev: Newer
+  next: Older
 
 prose:
   rooturl: ""
