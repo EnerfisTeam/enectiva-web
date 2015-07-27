@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Basic Principles of Energy Monitoring
+author: enectiva
+keywords: energy monitoring
 ---
 
 Are you wondering how can energy (including water consumption) be easily monitored? Here are several tips on efficient energy monitoring and on approaches and processes that are applied in the development of Enectiva – a complete tool for on-line energy monitoring. 
