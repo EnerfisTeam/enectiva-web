@@ -8,7 +8,7 @@ author: enectiva
 
 
 Benchmarking nebo chcete-li porovnávání spotřeb je vždy základním nástrojem energetického manažera. Prostým porovnáváním lze odhalit trendy ve spotřebách, odchylky od normálu a tímto způsobem plýtvání. Jedná se o základní a velmi rychlou pomůcku v energetickém managementu.
-![srovnavaci grafy4.png]({{site.baseurl}}/img/srovnavaci grafy4.png)
+![srovnavaci grafy4.png]({{Energetický benchmarking}}/img/srovnavaci grafy4.png)
 
 V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a ty jsem pro Vás aktuálně vylepšili. Využijí ho převážně správci a manažeři většího počtu budov. Nyní lze totiž porovnávat budovy, nájemníky, hospodářská střediska napříč celým portfoliem všech Vámi spravovaných nemovitostí.
 ![1.png]({{site.baseurl}}/img/1.png)
