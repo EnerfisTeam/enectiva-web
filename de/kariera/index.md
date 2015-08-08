@@ -14,7 +14,7 @@ Gewünschte Kenntnisse:
 - PostgreSQL
 - Git
 - Linux Grundlagen
-- weitere Kenntnisse aus den Bereichen Datenbanken und Programmierung der webapplikationen sind willkommen
+- weitere Kenntnisse aus den Bereichen Datenbanken und Programmierung der Webapplikationen sind willkommen
 
 Wir bieten an:
 
