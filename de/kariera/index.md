@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Enectiva hledá programátora/programátorku
+title: Enectiva sucht einen Programmierer/eine Programmiererin
 ---
 
-# Enectiva hledá programátora/programátorku
+# Enectiva sucht einen Programmierer/eine Programmiererin
 
-Hledáme zapáleného programátora/programátorku, který se chce zlepšovat a dál na sobě pracovat. 
+Wir suchen einen begeisterten Programmierer/eine begeisterte Programmiererin, der/die sich selbst verbessern will und weiter an sich selber arbeiten will. 
 
-Požadované znalosti:
+Gewünschte Kenntnisse:
 
 - Ruby a frame work Ruby on Rails
 - HTML, CSS, JavaScript, jQuery
 - PostgreSQL
 - Git
-- Linux základy
-- ostatní zkušenosti z oblastí databází a programování web aplikací jsou vítány
+- Linux Grundlagen
+- weitere Kenntnisse aus den Bereichen Datenbanken und Programmierung der webapplikationen sind willkommen
 
 Nabízíme:
 
