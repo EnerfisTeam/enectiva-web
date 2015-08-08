@@ -16,12 +16,12 @@ Gewünschte Kenntnisse:
 - Linux Grundlagen
 - weitere Kenntnisse aus den Bereichen Datenbanken und Programmierung der webapplikationen sind willkommen
 
-Nabízíme:
+Wir bieten an:
 
-- dlouhodobou práci na zajímavém mezinárodním projektu
-- zkušenosti ostatních lidí z týmu
-- možný part-time i možnost práce z domova
-- místo v kanceláři u Anděla, Praha 5
-- odpovídající finanční odměnu
+- langfristige Beschäftigung an einem interessanten internationalen Projekt
+- Erfahrungen der anderen Teamkollegen
+- Möglichkeit part-time Arbeit und auch Home Office
+- Arbeitsplatz im Büro Anděl, Prag 5
+- entsprechende finanzielle Belohnung 
 
-Životopis posílejte na adresu [kariera@enectiva.cz](mailto:kariera@enectiva.cz)
+Ihren Lebenslauf senden Sie an folgende Adresse [kariera@enectiva.cz](mailto:kariera@enectiva.cz)
