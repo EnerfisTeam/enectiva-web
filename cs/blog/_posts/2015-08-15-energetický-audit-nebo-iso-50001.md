@@ -1,10 +1,14 @@
 ---
+layout: post
 keywords: "iso 50001, energetický audit"
 published: true
+author: ""
+title: "Energetický audit nebo ISO 50001?"
 ---
 
 
-Máte velkou firmu a rozhodujete se zda implementovat ISO 50001 nebo energetický audit pro splnění platné legislativy k 5.prosinci 2015? Přínášíme několik argumentů pro a proti jednotlivých variant, které by Vám mohly pomoci při rozhodování.
+
+Máte velkou firmu a rozhodujete se zda implementovat ISO 50001 nebo energetický audit pro splnění platné legislativy k 5.prosinci 2015? Přínášíme několik argumentů pro a proti jednotlivých variant, které by Vám mohly pomoci při rozhodování. Pokud budete mít i po přečtení pochybnosti, neváhejte kontaktovat náš tým případně tým společnosti Enerfis.
 
 ## Varianta ISO 50001
 ### Argumenty pro:
