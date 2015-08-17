@@ -91,6 +91,8 @@ foot:
       path: enectiva-regeln
 #    - name: Sicherheit
 #      path: sicherheit
+    - name: Časté dotazy
+      path: faq
     - name: Kontakt
       path: kontaktieren-sie-uns
   en:
