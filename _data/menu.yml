@@ -57,15 +57,15 @@ main:
 
   de:
     - name: Über Enectiva
-      path: über-enectiva
+      path: ueber-enectiva
     - name: Eigenschaften
-      path: system-eigenschaften
+      path: systemeigenschaften
     - name: Lösung
-      path: lösung
+      path: loesung
     - name: Hardware
       path: hardware
     - name: Kontakt
-      path: kontaktieren Sie-uns
+      path: kontaktieren-sie-uns
 
 # Last position of contact is used in _includes/cta.html
 foot:
@@ -84,7 +84,7 @@ foot:
       path: kontaktujte-nas
   de:
     - name: Partnerprogramm
-      path: partner-programm
+      path: partnerprogramm
     - name: Medien
       path: medien
     - name: Enectiva Regeln
@@ -92,7 +92,7 @@ foot:
 #    - name: Sicherheit
 #      path: sicherheit
     - name: Kontakt
-      path: kontaktieren Sie-uns
+      path: kontaktieren-sie-uns
   en:
     - name: Partner Programme
       path: partner-programme
