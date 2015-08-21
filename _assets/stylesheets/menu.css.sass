@@ -63,6 +63,33 @@
     &--important
       +adjust-font-size-to($base-font-size)
 
+  &--sticker
+    padding: 0
+    $parts: (7 * 3 + 1 + 1)
+    width: 100%
+    clear: both
+
+    li
+      list-style-type: none
+      width: (100% / $parts * 3)
+      margin: 0
+      padding: 0
+      text-align: center
+      background: #ccc
+      box-sizing: content-box
+      height: 6em
+      display: inline-block
+      a
+        margin: 0
+        padding: 0
+        width: 100%
+        height: 100%
+        +adjust-font-size-to($base-font-size * .85)
+    .menu__more
+      width: (100% / $parts)
+      a
+        +adjust-font-size-to($base-font-size * 2)
+
 html[lang=it] .menu
   a
     padding: .25em .4em
