@@ -12,20 +12,21 @@ Máte velkou firmu a rozhodujete se zda implementovat ISO 50001 nebo energetick�
 
 ## Varianta ISO 50001
 ### Argumenty pro:
-- Jedná se o komplexní nástroj, který prostupuje napříč celou firmou, zasahuje téměř všechna oddělení od HR po správu budov. Ovlivní procesy uvnitř firmy ale i vztahy s vašimi dodavateli
+- Jedná se o komplexní nástroj, který prostupuje napříč celou firmou, zasahuje téměř všechna oddělení od HR po správu budov. Ovlivní procesy uvnitř firmy, ale i vztahy s vašimi dodavateli
 - Pokud se procesy dobře nastaví, tak systém a lidé v něm budou neustále generovat nové nápady na zlepšení
 - Každý rok je v rámci ISO 50001 provedena kontrola nastavených procesů nezávislým auditorem v rámci dozorových auditů a re-certifikačních auditů
 
 ### Argumenty proti:
 - Obvykle delší doba implementace a delší doba vedoucí k  hmatatelným výsledkům
 - Spousta administrativy kolem, která může zbytečně zatěžovat a zpomalovat vaši firmu
-- Obykle je cena za implementaci, certifikaci, následné dozorové audity a re-certifikace vyšší než v případě energetického auditu. Cenu však může velmi ovlinit počet energetických auditů, které je nutné vyhotovit např. na jednotlivé pobočky s průměrnou roční spotřebou za dva poslední roky nad 700 GJ. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
+- Obykle je cena za implementaci, certifikaci, následné dozorové audity a re-certifikace vyšší než v případě energetického auditu. Cenu však může velmi ovlinit počet energetických auditů, tedy jedntlivých lokalit. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
 
 ## Varianta Energetický audit
 ### Argumenty pro:
 - Doba zpracování a doba nutná k dosažení konkrétních výsledků je mnohem kratší než v případě implementace ISO 50001
 - Energetický audit nezatěžuje administrativně celou firmu, řeší konkrétní oblasti a definuje konkrétní výstupy 
 - Při jedné lokalitě nebo jednotkách lokalit vychází varianta energetických auditů levněji než varianta ISO 50001.
+- Provedete audit a dle platné legislativy máte další 4 roky klid, nemusí se řešit dozorové a re-certifikační audity
 
 ### Argumenty proti:
 - Jedná se pouze o "jeden výstřel" za čtyři roky, který nedokáže posuzovat možná úsporná opatření v mezidobí. Nejedná se o komplexní nástroj.
