@@ -1,28 +1,28 @@
 ---
 layout: default
-title: Často kladené dotazy
-language: cs
+title: Oft gestellte Fragen
+language: de
 translations: 
   en: faq
 published: true
 ---
 
-## Je nutné něco instalovat?
+## Muss man irgend etwas installieren?
 
-Nikoli.Enectiva je provozována formou služby a tuto službu lze využít z jakéhokoli zařízení, které je připojeno k Internetu a současně má webový prohlížeč. Vaše data jsou Vám kdykoli a odkudkoli k disozici bez nutnosti jakékoli instalace.
+Nein.Enectiva wird als Dienstleistung betrieben und diesen Dienst kann man von jedem Gerät, das Internetanschluss und zugleich web browser hat, nutzen. Ihre Daten stehen Ihnen wann auch immer und woher auch immer ohne irgendwelche Installation zur Verfügung.
 
-## Komu patří data v Enectivě?
+## Wem gehören die Daten in Enectiva?
 
-Data od všech našich zákazníků jsou stále jejich majetkem. Členové týmu Enectiva je mohou využít pouze k hromadným statistickým účelům, pro zlepšení nabízených služeb.
+Die Daten von allen unseren Kunden sind ständig ihr Eigentum. Die Mitglieder von Enectiva Team dürfen die Daten nur zu kollektiven Zwecken nutzen, um die angebotenen Dienste verbessern zu könnnen. 
 
-## Jakým způsobem se zadávají do systému odečty z měřidel?
+## Wie werden die Ablesungsdaten von Messgeräten ins System eingegeben?
 
-Existují dva způsoby. Nejepší je využít některý z našich otestovaných komnikátorů a připojit měřidla do systému k automatickému sběru. Vše probíhá pak plně automaticky s nulovou chybovostí. Druhou variantou je možnost zadávat odečty do systému ručně či importovat hromadně z .xls či .csv souborů.
+Es gibt zwei Möglichkeiten. Am besten ist es einer von unseren getesteten Kommunikationsmitteln nutzen und die Messgeräte ins System für automatisches Sammeln anschließen. Alles läuft dann voll automatisch mit Null Fehler. Die andere Variante ist die Möglichkeit die Ablesungen manuell ins System eingeben oder massenweise aus .xls oder .csv Dateien zu importieren.
 
 
-## Jak dlouho trvá závazek u Enectivy?
+## Wie lange dauert die Verpflichtung zu Enectiva?
 
-Typicky službu platíte formou měsíčních plateb. Pro našeho zákazníka to má výhodu, že kdykoli se může rozhodnout pro redukování či rozšíření služeb a vždy bude platit přesně za to, co aktuálně využívá. Roční platba je u nás taktéž možná. Při jejím využití poskytujeme slevu 10%.
+Sie zahlen monatlich für die Dienste. Für unseren Kunden gibt es Vorteil, in dem Sinne, dass er sich jeder Zeitfür Verringerung oder Verbreitung der Dienste entscheiden kann und er wird immer genau das zahlen, was er aktuell nutzt. Jahreszahlung ist bei uns auch möglich, für diese bieten wir 10% Nachlass an.
 
 ## Jakou formou probíhají platby?
 
