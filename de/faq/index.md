@@ -7,9 +7,9 @@ translations:
 published: true
 ---
 
-## Muss man irgend etwas installieren?
+## Muss man irgendetwas installieren?
 
-Nein.Enectiva wird als Dienstleistung betrieben und diesen Dienst kann man von jedem Gerät, das Internetanschluss und zugleich web browser hat, nutzen. Ihre Daten stehen Ihnen wann auch immer und woher auch immer ohne irgendwelche Installation zur Verfügung.
+Nein. Enectiva wird als Dienstleistung betrieben und diesen Dienst kann man von jedem Gerät, das Internetanschluss und zugleich web browser hat, nutzen. Ihre Daten stehen Ihnen wann auch immer und woher auch immer ohne irgendwelche Installation zur Verfügung.
 
 ## Wem gehören die Daten in Enectiva?
 
@@ -22,7 +22,7 @@ Es gibt zwei Möglichkeiten. Am besten ist es einer von unseren getesteten Kommu
 
 ## Wie lange dauert die Verpflichtung zu Enectiva?
 
-Sie zahlen monatlich für die Dienste. Für unseren Kunden gibt es Vorteil, in dem Sinne, dass er sich jeder Zeitfür Verringerung oder Verbreitung der Dienste entscheiden kann und er wird immer genau das zahlen, was er aktuell nutzt. Jahreszahlung ist bei uns auch möglich, für diese bieten wir 10% Nachlass an.
+Sie zahlen monatlich für die Dienste. Für unseren Kunden gibt es Vorteil, in dem Sinne, dass er sich jeder Zeit für Verringerung oder Verbreitung der Dienste entscheiden kann und er wird immer genau das zahlen, was er aktuell nutzt. Jahreszahlung ist bei uns auch möglich, für diese bieten wir 10% Nachlass an.
 
 ## Jakou formou probíhají platby?
 
