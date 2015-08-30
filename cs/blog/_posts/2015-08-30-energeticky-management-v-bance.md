@@ -14,8 +14,11 @@ Banka je typický zástupce podniku s velmi rozsáhlou organizační strukturou,
 ## **Hlavní úkoly energetického managementu v bankovním sektoru:**
 
 -určit tým, který bude mít energetický management ve své kompetenci a nastavit jeho krátkodobé i dlouhodobé cíle
+
 -efektivní nákup všech energií pro celé portfolio poboček a lokalit
+
 -motivovaná facility management firma, která se stará o provoz jednotlivých lokalit
+
 -energetický monitoring, benchmarking a monitoring energetických nákladů jednotlivých poboček, který dokáže odhalit zbytečné plýtvání
 
 Pokud chcete zavádět v bance pricipy funkčního energetického managementu, provést energetický audit, zavést princip řízení ISO 50001 či pomoci s vytvořením systému monitoringu energií, zašlete nám na sebe kontakt s popisem Vaší situace, řešení již bude na našem týmu.
