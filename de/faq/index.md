@@ -24,22 +24,22 @@ Es gibt zwei Möglichkeiten. Am besten ist es einer von unseren getesteten Kommu
 
 Sie zahlen monatlich für die Dienste. Für unseren Kunden gibt es Vorteil, in dem Sinne, dass er sich jeder Zeitfür Verringerung oder Verbreitung der Dienste entscheiden kann und er wird immer genau das zahlen, was er aktuell nutzt. Jahreszahlung ist bei uns auch möglich, für diese bieten wir 10% Nachlass an.
 
-## Jakou formou probíhají platby?
+## Wie laufen die Zahlungen?
 
-Aktuálně můžete využívat bezhotovostních převodů na náš účet, který je uveden v kontaktech.
+Zur Zeit können Sie bargeldlose Überweisungen auf unser Konto nutzen. Das Kontonummer ist unter unseren Kontaktdaten aufgeführt.
 
-## Pokud chci přestat využívat službu Enectiva, jak mohu odejít?
+## Wenn ich den Dienst Enectiva nicht mehr nutzen will, wie kann ich aussteigen?
 
-Je to velmi jednoduché, stačí nezaplatit další měsíční platbu a k Vašemu účtu ztratíte přístup. Na tuto situaci budete 2x upozorněn emailem.
+Es ist sehr einfach, es reicht die nächste Monatszahlung nicht überweisen und Sie verlieren den Zugang zu Ihrem Konto. Sie werden auf diese Situation 2x per Email hingewiesen.
 
-## V případě, že nezaplatím nebo zruším účet, má data budou smazána? 
+## Werden meine Daten gelöscht falls ich nicht bezahle oder das Konto auflöse? 
 
-V případě nezaplacení měsíčního tarifu, ztratíte přístup k Vašemu účtu, ale data nebudou smazána dalších 30 dní. Pokud nedojde k obnovení účtu během těchto 30i dní, budou data následně smazána.
+Wenn Sie die den Monatstarif nicht bezahlen, verlieren Sie Zugang zu Ihrem Konto, aber die Daten werden die nächsten 30 Tage nicht gelöscht. Wenn innerhalb von diesen 30 Tagen das Konto nicht wieder aktivieren wird, werden die Daten anschließend gelöscht.
 
-## Jak jsou zabezpečena moje data?
+## Wie sind meine Daten gesichert?
 
-Všechna data jsou zálohována každý den a jsou uložena v certifikovaných datových úložištích dle ISO 270001 a TIER III. Data jsou taktéž v reálném čase replikována na několik serverů, aby byla zaručena jejich 100% dostupnost v závislosti na možných HW a síťových problémech.
+Alle Daten werden jeden Tag gesichert und sind auf den zertifizierten Datenspeicherplätzen laut ISO 270001 und TIER III gespeichert. Die Daten werden in realer Zeit in einigen Servern repliziert, damit die Zugänglichkeit zu 100% in Abhängigkeit von eventueller Hardware und Netzproblemen gewährleistet ist. 
 
-## Jaké všechny energie lze v systému monitorovat?
+## Welche Energiearten kann man mit diesem System verfolgen?
 
-Aktuálně můžete využít monitoring pro elektrickou energii, teplo, plyn, chlad a vodu. S tím, že jednotlivé energie mohou mít jemnější dělení např. na elektřinu pro chlazení či vzduchotechniku, teplou a studenou vodu, či teplo potřebné na přípravu teplé vody.
+Zur Zeit können Sie Strom, Wärme, Gas, Kälte und Wasser verfolgen. Man kann die einzelnen Energien noch untergliedern z.B. Strom für Kühlung oder Lufttechnik, warmes und kaltes Wasser oder die Wärme, die man für Vorbereitung von warmen Wasser braucht.
