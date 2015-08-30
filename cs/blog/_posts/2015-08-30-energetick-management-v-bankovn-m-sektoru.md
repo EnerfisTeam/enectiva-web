@@ -2,9 +2,10 @@
 layout: post
 author: enectiva
 keywords: "energetický management, energetický monitoring"
-published: false
+published: true
 title: Energetický management v bankovním sektoru
 ---
+
 
 V našem seriálu týkající se energetického managementu se budeme zastavovat v různých odvětvích a odhalovat jeho specifické potřeby v oblasti energetické efektivity. V první dílu se podíváme na energetický management bankovního sektoru.
 
