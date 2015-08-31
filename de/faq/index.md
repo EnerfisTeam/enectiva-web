@@ -34,7 +34,7 @@ Es ist sehr einfach, es reicht die nächste Monatszahlung nicht überweisen und 
 
 ## Werden meine Daten gelöscht falls ich nicht bezahle oder das Konto auflöse? 
 
-Wenn Sie die den Monatstarif nicht bezahlen, verlieren Sie Zugang zu Ihrem Konto, aber die Daten werden die nächsten 30 Tage nicht gelöscht. Wenn innerhalb von diesen 30 Tagen das Konto nicht wieder aktivieren wird, werden die Daten anschließend gelöscht.
+Wenn Sie die den Monatstarif nicht bezahlen, verlieren Sie Zugang zu Ihrem Konto, aber die Daten werden die nächsten 30 Tage nicht gelöscht. Wenn innerhalb von diesen 30 Tagen das Konto nicht wieder aktiviert wird, werden die Daten anschließend gelöscht.
 
 ## Wie sind meine Daten gesichert?
 
@@ -42,4 +42,4 @@ Alle Daten werden jeden Tag gesichert und sind auf den zertifizierten Datenspeic
 
 ## Welche Energiearten kann man mit diesem System verfolgen?
 
-Zur Zeit können Sie Strom, Wärme, Gas, Kälte und Wasser verfolgen. Man kann die einzelnen Energien noch untergliedern z.B. Strom für Kühlung oder Lufttechnik, warmes und kaltes Wasser oder die Wärme, die man für Vorbereitung von warmen Wasser braucht.
+Zur Zeit können Sie Strom, Wärme, Gas, Kälte und Wasser verfolgen. Man kann die einzelnen Energien noch untergliedern z.B. Strom für Kühlung oder Lufttechnik, warmes und kaltes Wasser oder die Wärme, die man für Vorbereitung vom warmen Wasser braucht.
