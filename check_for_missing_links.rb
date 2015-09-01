@@ -3,7 +3,7 @@ require 'set'
 
 
 scheme = 'http'
-host = 'enectiva.cz'
+host = 'energyanalytics.eu'
 base_url = '/cs/o-enective'
 locales_to_ignore = [:ru, :sk]
 # Used to filter out paths which are not expected to be translated, must match anywhere in the path
