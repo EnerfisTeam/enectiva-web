@@ -4,6 +4,7 @@ title: Oft gestellte Fragen
 language: de
 translations: 
   en: faq
+  cs: faq
 published: true
 ---
 

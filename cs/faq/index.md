@@ -4,6 +4,7 @@ title: Často kladené dotazy
 language: cs
 translations: 
   en: faq
+  de: faq
 published: true
 ---
 
