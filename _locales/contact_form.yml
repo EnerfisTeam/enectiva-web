@@ -110,3 +110,31 @@ es:
   tel: Teléfono
   text: "Su mensaje (opcional)"
   tell_us_more: ¿Puede darnos alguna información sobre usted?
+
+de:
+  required: Pflichtfelder
+  required_error: ist obligatorisch!
+  form_type_options:
+    podpora: Technische Unterstützung
+    general: Allgemeine Informationen
+    obchod: Ge&shy;schäfts&shy;an&shy;ge&shy;le&shy;gen&shy;hei&shy;ten
+    partner: Für Partner
+    test: Testzugang
+  heard_of_options:
+    internet: vom Internet
+    partner: vom Geschäftspartner
+    letak: aus den Prospekten
+    znamy: vom Bekannten
+    odjinud: anderswoher
+  submit: Senden
+  submit_alt: Wird gesendet...
+  submitted:  Das Formular wurde gesendet 
+  email: E-mail
+  name: Name
+  company: Gesellschaft
+  position: Ihre Position
+  tel: Telefon
+  heard_of: Wie haben Sie über uns erfahren?
+  form_type: "Anfrage betrifft"
+  text: Ihre Nachricht (fakultativ)
+  tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
