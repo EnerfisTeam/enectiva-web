@@ -9,6 +9,9 @@ translations:
 published: true
 ---
 
+{% assign anchors = "stats|reports|savings|meteo|users|readings|prices|events" | split: "|" %}
+{% assign texts = "Podrobné statistiky|Automatické reporty|Analýza úspor|Meteodata|∞ uživatelů na&nbsp;licenci|Snadné zadávání odečtů|Integrované ceníky energií|Upozornění" | split: "|" %}
+
 <div class="subheader">
     <div class="container">
         {% include breadcrumbs.html %}
@@ -16,14 +19,21 @@ published: true
 </div>
 
 <div class="container">
-    <ul class="menu menu--sticker">
-        <li><a href="#stats">Podrobné statistiky</a></li>
-        <li><a href="#stats">Automatické reporty</a></li>
-        <li><a href="#stats">Analýza úspor</a></li>
-        <li><a href="#stats">Meteodata</a></li>
-        <li><a href="#google">Podpora Google Maps</a></li>
-        <li><a href="#stats">Neomezené množství uživatelů v rámci licence</a></li>
-        <li><a href="#stats">Snadné zadávání odečtů</a></li>
+    <div class="menu__placeholder" rel="menu--sticky"></div>
+    <ul class="menu menu--sticky">
+
+        <div class="hidden">{% include generated/features.svg %}</div>
+
+        {% for anchor in anchors %}
+        <li>
+            <a href="#{{ anchor | capitalize }}" class="feature__icon">
+                <svg viewBox="0 0 100 100">
+                    <use xlink:href="#features-{{ anchor }}"></use>
+                </svg>
+                <span class="feature__icon-text">{{ texts[forloop.index0] }}</span>
+            </a>
+        </li>
+        {% endfor %}
         <li class="menu__more"><a href="#more">+</a></li>
     </ul>
 </div>
@@ -31,96 +41,54 @@ published: true
 <div class="content">
     <div class="container">
 
-        <div class="feature2" id="Stats" >
-            <h2 class="feature2__title">Podrobné statistiky spotřeb a nákladů</h2>
+        <div class="feature">
+            <h2 class="feature__title" id="Stats" >Podrobné statistiky spotřeb a nákladů</h2>
             <p>Díky Enectivě budete mít všechna data o spotřebě přehledně upořádaná na jednom místě. Můžete tak sledovat spotřebu veškerých energií v budově (plyn, studená a teplá voda, teplo, chlad, elektrická energie – odděleně pro obsluhu VZT, osvětlení, spotřebičů a výrobu chladu).</p>
-            <div class="feature2__tour">
-                <div class="feature2__plan">
+            <div class="feature__tour">
+                <div class="feature__plan">
                     <img src="/img/features/stats.png">
-                    <span class="feature2__step-number" style="left: 50%;top: 14%">1</span>
-                    <span class="feature2__step-number" style="left: 13%;top: 33%">2</span>
-                    <span class="feature2__step-number" style="left: 75%;top: 27%">3</span>
-                    <span class="feature2__step-number" style="left: 72%;top: 78%">4</span>
+                    <span class="feature__step-number" style="left: 50%;top: 14%">1</span>
+                    <span class="feature__step-number" style="left: 13%;top: 33%">2</span>
+                    <span class="feature__step-number" style="left: 75%;top: 27%">3</span>
+                    <span class="feature__step-number" style="left: 72%;top: 78%">4</span>
                 </div>
-                <ul class="feature2__steps">
-                    <li><span class="feature2__step-number">1</span>Vyberte energie, které si přejete zobrazit</li>
-                    <li><span class="feature2__step-number">2</span>Nastavte parametry</li>
-                    <li><span class="feature2__step-number">3</span>Zvolte časové období</li>
-                    <li><span class="feature2__step-number">4</span>Výsledky si můžete stáhnout ve formátu .xls</li>
+                <ul class="feature__steps">
+                    <li><span class="feature__step-number">1</span>Vyberte energie, které si přejete zobrazit</li>
+                    <li><span class="feature__step-number">2</span>Nastavte parametry</li>
+                    <li><span class="feature__step-number">3</span>Zvolte časové období</li>
+                    <li><span class="feature__step-number">4</span>Výsledky si můžete stáhnout ve formátu .xls</li>
                 </ul>
-                <div class="feature2__details">
-                    <div class="feature2__detail">
+                <div class="feature__details">
+                    <div class="feature__detail">
                         <img src="/img/features/stats1.png">
-                        <div class="feature2__detail-text">
+                        <div class="feature__detail-text">
                             <h2>Podílové grafy</h2>
 
                             <p>Ukáží Vám, jaký vliv má která energie na konečné náklady, která část budovy má jakou spotřebu vůči celkové spotřebě objektu, jaký podíl mají nájemníci, zázemí a neměřená spotřeba.</p>
                         </div>
-                    </div><div class="feature2__detail">
+                    </div><div class="feature__detail">
                         <img src="/img/features/stats2.png">
-                        <div class="feature2__detail-text">
+                        <div class="feature__detail-text">
                             <h2>Srovnávací grafy</h2>
 
                             <p>Slouží k porovnání spotřeb dvou či více částí na stejné úrovni (budovy, nájemníci, zázemí, ...). Díky porovnání srovnatelných částí portfolia (tzv. benchmarking) lze odhalit, která budova nebo nájemník se výrazně odlišuje od ostatních.</p>
                         </div>
-                    </div><div class="feature2__detail">
+                    </div><div class="feature__detail">
                         <img src="/img/features/stats3.png">
-                        <div class="feature2__detail-text">
+                        <div class="feature__detail-text">
                             <h2>Měsíční spotřeby</h2>
 
                             <p>Zobrazuje vývoj spotřeb jednotlivých energií v průběhu roku. Do grafu můžete přidat i vývoj teplot a tím sledovat, jestli výše spotřeby odpovídá klimatickým podmínkám v dané lokalitě. Díky integrovaným ceníkům veškerých energií lze tyto grafy přepnout i na grafy konečných nákladů.</p>
                         </div>
-                    </div><div class="feature2__detail">
+                    </div><div class="feature__detail">
                         <img src="/img/features/stat4.png">
-                        <div class="feature2__detail-text">
+                        <div class="feature__detail-text">
                             <h2>Vývojové grafy</h2>
 
                             <p>Tyto grafy zobrazují kumulativní součet spotřeb či nákladů. Snadno tak uvidíte, jak rychle narůstá Vaše spotřeba během sledovaného období.</p>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-
-        <div class="feature">
-            {{ "podrobné statistiky 1" | gallery_link: "statistics.en", 1, 'feature__image' }}
-            <h2 id="" class="feature__title">Podrobné statistiky spotřeb a nákladů</h2>
-
-            <div class="feature__perex">
-                <p>Díky Enectivě budete mít všechna data ohledně spotřeb přehledně upořádaná na jednom místě. Můžete tak
-                    sledovat
-                    spotřeby veškerých energií v budově (plyn, studená voda, teplá voda, teplo, chlad, elektrická energie –
-                    odděleně
-                    pro obsluhu VZT, osvětlení, spotřebičů, výrobu chladu).</p>
-            </div>
-            <div class="feature__desc">
-                <p>Zobrazit si můžete například:</p>
-                <ul>
-                    <li><strong>Podílové grafy</strong> – ukáží Vám, jaký vliv má která energie na konečné náklady, která část
-                        budovy má jakou spotřebu vůči celkové spotřebě objektu, jaký podíl mají nájemníci, zázemí a neměřená
-                        spotřeba.
-                    </li>
-                    <li><strong>Srovnávací grafy</strong> – slouží k porovnání spotřeb dvou či více částí na stejné úrovni
-                        (budovy,
-                        části budov, nájemníci, zázemí,…). Díky porovnání srovnatelných částí portfolia (tzv. Benchmarking) lze
-                        odhalit, která budova nebo nájemník se výrazně odlišuje od ostatních. Tím odhalit zbytečné plýtvání
-                        energiemi.
-                        <br/>{{ "podrobné statistiky 2" | gallery_link: "statistics_2.cs", 1 }}
-                    </li>
-                    <li><strong>Měsíční spotřeby</strong> – uvidíte vývoj spotřeb jednotlivých energií v průběhu roku. Navíc
-                        můžete
-                        graf proložit průběhem teplot a tím kontrolovat, jestli vývoj spotřeb odpovídá klimatickým podmínkám
-                        v dané
-                        lokalitě. Díky integrovaným ceníkům veškerých energií lze tyto grafy přepnout i na grafy konečných
-                        nákladů.
-                        <br/>{{ "podrobné statistiky 3" | gallery_link: "meteo.cs", 1 }}
-                    </li>
-                    <li><strong>Vývojové grafy</strong> – tyto grafy zobrazují kumulativní součet spotřeb či nákladů. Velmi
-                        lehce
-                        tak uvidíte, jak rychle narůstá Vaše spotřeba během sledovaného období.
-                        <br/>{{ "podrobné statistiky 4" | gallery_link: "reports.cs", 1 }}
-                    </li>
-                </ul>
             </div>
         </div>
 
