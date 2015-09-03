@@ -1,3 +1,5 @@
+@import "compass/css3/transform"
+
 .feature
   margin-bottom: 2.5em
   &__title
@@ -17,7 +19,8 @@
       top: 60px
   &__step-number
     $dim: 40px
-    background: $logo-color
+    background: $color-secondary-light
+    border: 1px solid transparent
     color: white
     width: $dim
     height: $dim
@@ -27,6 +30,14 @@
     text-align: center
     font-weight: bold
     margin-right: .5em
+    +transition(all 200ms linear)
+
+    &--active
+      color: $color-secondary-light
+      background-color: white
+      border-color: $color-secondary-light
+      +scale(1.2, 1.2)
+
   ul.feature__steps
     display: inline-block
     padding: 0
@@ -35,6 +46,8 @@
     li
       padding: .5em 0
       list-style-type: none
+  &__plan, ul.feature__steps
+    vertical-align: middle
 
   &__details
     margin-top: 1em
@@ -69,9 +82,9 @@
 
     &:hover, &--active
       .feature__icon-text
-        color: $color-secondary
+        color: $color-secondary-light
       svg
-        fill: $color-secondary
+        fill: $color-secondary-light
 
     &--inactive
       .feature__icon-text
@@ -79,8 +92,3 @@
       svg
         fill: $unimportant
 
-
-    //$types: 'stats' 'reports' 'analysis' 'meteo' 'licence' 'remote_readings' 'price_lists' 'events'
-    //@each $type in $types
-    //  &--#{$type}:before
-    //    background-image: url(asset_path("features/" + $type + ".svg"))
