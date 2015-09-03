@@ -60,8 +60,15 @@
     h2
       +adjust-font-size-to($base-font-size * 1.1)
       font-weight: bold
-  &__detail:nth-of-type(odd)
-    direction: rtl
+    &--criss-cross
+      &:nth-of-type(odd)
+        direction: rtl
+    &--split
+      display: inline-block
+      vertical-align: top
+      width: 47%
+      &:nth-of-type(odd)
+        margin-right: 3%
   &__detail-text
     width: 66%
     display: inline-block
