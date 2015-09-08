@@ -55,7 +55,8 @@
     margin: 2em 0
     position: relative
     img
-      width: 30%
+      width: 10%
+      margin-top: 1.2em
       display: inline-block
     h2
       +adjust-font-size-to($base-font-size * 1.1)
@@ -63,6 +64,8 @@
     &--criss-cross
       &:nth-of-type(odd)
         direction: rtl
+      img
+        vertical-align: bottom
     &--split
       display: inline-block
       vertical-align: top
@@ -70,7 +73,7 @@
       &:nth-of-type(odd)
         margin-right: 3%
   &__detail-text
-    width: 66%
+    width: 86%
     display: inline-block
     margin-left: 3%
     direction: ltr
@@ -79,13 +82,13 @@
       margin-left: 0
       margin-right: 3%
   &__icon
-    +single-transition(all, ease-in-out, 150ms)
+    +single-transition(all, ease-in-out, 200ms)
     svg
       width: 90%
       height: 5em
       display: inline-block
       fill: $color-primary
-      +single-transition(all, ease-in-out, 150ms)
+      +single-transition(all, ease-in-out, 200ms)
 
     &:hover, &--active
       .feature__icon-text
