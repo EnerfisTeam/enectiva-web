@@ -35,7 +35,7 @@ Es ist sehr einfach, es reicht die nächste Monatszahlung nicht überweisen und 
 
 ## Werden meine Daten gelöscht falls ich nicht bezahle oder das Konto auflöse? 
 
-Wenn Sie die den Monatstarif nicht bezahlen, verlieren Sie Zugang zu Ihrem Konto, aber die Daten werden die nächsten 30 Tage nicht gelöscht. Wenn innerhalb von diesen 30 Tagen das Konto nicht wieder aktiviert wird, werden die Daten anschließend gelöscht.
+Wenn Sie den Monatstarif nicht bezahlen, verlieren Sie Zugang zu Ihrem Konto, aber die Daten werden die nächsten 30 Tage nicht gelöscht. Wenn innerhalb von diesen 30 Tagen das Konto nicht wieder aktiviert wird, werden die Daten anschließend gelöscht.
 
 ## Wie sind meine Daten gesichert?
 
