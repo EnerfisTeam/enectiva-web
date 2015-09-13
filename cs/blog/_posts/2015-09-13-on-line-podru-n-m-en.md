@@ -1,7 +1,7 @@
 ---
 layout: post
-author: ""
-keywords: ""
+author: enectiva
+keywords: podružné měření
 published: false
 title: "On-line podružné měření"
 ---
