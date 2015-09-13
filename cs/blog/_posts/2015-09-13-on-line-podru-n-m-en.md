@@ -2,9 +2,10 @@
 layout: post
 author: enectiva
 keywords: podružné měření
-published: false
+published: true
 title: "On-line podružné měření"
 ---
+
 
 V případech, kde jeden objekt obývá více nájemníků je jen jedinný způsob, jak spravědlivě rozdělit náklady na energie. **Instalovat podružné měření**. Nejsnažší je zavést podružné měření v případě elektřiny, vody a plynu. O něco složitější je to pak v případě tepla a chladu. Spravidlivé rozdělení nákladů, ale není jediný důvod pro zavedení produžného měření. Mezi další patří:
 
