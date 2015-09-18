@@ -18,7 +18,6 @@ $ ->
       if $icon.length
         $icon.click()
 
-    inactiveCls = 'feature__icon--inactive'
     activeCls = 'feature__icon--active'
     stuckMenuCls = 'menu--stuck'
 
@@ -28,11 +27,9 @@ $ ->
 
         if direction == 'down'
           $menu.addClass stuckMenuCls
-          $icons.addClass inactiveCls
           height = menuHeight
         else
           $menu.removeClass stuckMenuCls
-          $icons.removeClass inactiveCls
           $icons.removeClass activeCls
           height = 0
         $placeholder.height height
@@ -88,8 +85,8 @@ $ ->
 
       # If active item changed, toggle classes
       if active != lastActive
-        $icons.addClass(inactiveCls).removeClass activeCls
-        $icons.filter("[href=##{active}]").removeClass(inactiveCls).addClass activeCls
+        $icons.removeClass activeCls
+        $icons.filter("[href=##{active}]").addClass activeCls
         lastActive = active
     , 50
     $w.scroll()
