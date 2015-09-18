@@ -1,12 +1,9 @@
 $ ->
+
   do () ->
     $menu = $('.menu--sticky')
     $icons = $menu.find('.feature__icon')
-
     menuHeight = $menu.outerHeight()
-    inactiveCls = 'feature__icon--inactive'
-    activeCls = 'feature__icon--active'
-    stuckMenuCls = 'menu--stuck'
 
     $icons.click (e) ->
       e.preventDefault()
@@ -15,6 +12,15 @@ $ ->
         scrollTop: $(anchor).offset().top - menuHeight
       , 500
       window.location.hash = anchor
+
+    if document.location.hash
+      $icon = $icons.filter("[href=#{document.location.hash}]")
+      if $icon.length
+        $icon.click()
+
+    inactiveCls = 'feature__icon--inactive'
+    activeCls = 'feature__icon--active'
+    stuckMenuCls = 'menu--stuck'
 
     $('.menu__placeholder').waypoint
       handler: (direction) ->
@@ -60,7 +66,6 @@ $ ->
         ), delay)
         return
 
-
     # Debounce scroll - some browsers trigger scroll all the time + it gives
     # better behaviour when using programmatic scroll
     $w.scroll debounce () ->
@@ -87,6 +92,7 @@ $ ->
         $icons.filter("[href=##{active}]").removeClass(inactiveCls).addClass activeCls
         lastActive = active
     , 50
+    $w.scroll()
 
   do () ->
     cls = 'feature__step-number'
