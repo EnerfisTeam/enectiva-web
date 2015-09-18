@@ -23,6 +23,8 @@ $ ->
 
     $('.menu__placeholder').waypoint
       handler: (direction) ->
+        return if $menu.is(':hidden')
+
         $placeholder = $(this.element)
 
         if direction == 'down'

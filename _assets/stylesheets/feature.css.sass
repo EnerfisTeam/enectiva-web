@@ -7,47 +7,64 @@
     padding-top: .5em
   &__tour
     margin-top: .5em
+
   &__plan
-    display: inline-block
-    width: 55%
     position: relative
     img
       width: 100%
     .feature__step-number
       position: absolute
-      left: 20px
-      top: 60px
-  &__step-number
-    $dim: 40px
-    background: $color-secondary-light
-    border: 1px solid transparent
-    color: white
+      left: 120px
+      top: 120px
+  =step-number($dim)
     width: $dim
     height: $dim
     line-height: $dim
-    display: inline-block
     border-radius: $dim
+
+  &__step-number
+    +adjust-font-size-to($base-font-size * .65)
+    +step-number(20px)
+    background: $color-secondary-light
+    border: 1px solid transparent
+    color: white
+    display: inline-block
     text-align: center
     font-weight: bold
     margin-right: .75em
     +transition(all 200ms linear)
-
     &--active
       color: $color-secondary-light
       background-color: white
       border-color: $color-secondary-light
       +scale(1.2, 1.2)
 
+  @media(min-width: 500px)
+    &__step-number
+      +adjust-font-size-to($base-font-size * .8)
+      +step-number(20px + (20 / 7 * 3))
+
   ul.feature__steps
     display: inline-block
     padding: 0
     margin: 0 0 0 2%
-    width: 40%
     li
       padding: .5em 0
       list-style-type: none
   &__plan, ul.feature__steps
     vertical-align: middle
+
+  @media(min-width: 750px)
+    &__plan
+      display: inline-block
+      width: 55%
+
+    &__step-number
+      +adjust-font-size-to($base-font-size * 1)
+      +step-number(40px)
+
+    ul.feature__steps
+      width: 40%
 
   &__details
     margin-top: 1em
@@ -55,32 +72,59 @@
     margin: 2em 0
     position: relative
     img
-      width: 10%
-      margin-top: 1.2em
+      width: 30%
+      margin-top: .7em
       display: inline-block
+
+    @media(min-width: 400px)
+      img
+        width: 18%
+
+    @media(min-width: 800px)
+      img
+        width: 10%
+        margin-top: 1.2em
     h2
       +adjust-font-size-to($base-font-size * 1.1)
       font-weight: bold
+
     &--criss-cross
+      img
+        vertical-align: top
       &:nth-of-type(odd)
         direction: rtl
-      img
-        vertical-align: bottom
+    @media(min-width: 800px)
+      &--criss-cross
+        img
+          vertical-align: bottom
+
     &--split
       display: inline-block
-      vertical-align: top
-      width: 47%
-      &:nth-of-type(odd)
-        margin-right: 3%
+    @media(min-width: 800px)
+      &--split
+        vertical-align: top
+        width: 47%
+        &:nth-of-type(odd)
+          margin-right: 3%
+
   &__detail-text
-    width: 86%
     display: inline-block
+    width: 65%
     margin-left: 3%
     direction: ltr
   &__detail:nth-of-type(odd)
     .feature__detail-text
       margin-left: 0
       margin-right: 3%
+
+  @media(min-width: 400px)
+    &__detail-text
+      width: 77%
+
+  @media(min-width: 800px)
+    &__detail-text
+      width: 86%
+
   &__icon
     +single-transition(all, ease-in-out, 200ms)
     svg
