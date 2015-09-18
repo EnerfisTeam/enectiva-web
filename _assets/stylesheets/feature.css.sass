@@ -129,7 +129,7 @@
     +single-transition(all, ease-in-out, 200ms)
     svg
       width: 90%
-      height: 5em
+      height: 4vh
       display: inline-block
       fill: $color-primary
       +single-transition(all, ease-in-out, 200ms)
@@ -139,4 +139,14 @@
         color: $color-secondary-light
       svg
         fill: $color-secondary-light
+  @media(min-height: 800px)
+    &__icon
+      svg
+        height: 6vh
 
+  &__icon-text
+    font-size: $base-font-size * .65
+    line-height: .8em
+  @media(min-height: 600px)
+    &__icon-text
+      +adjust-font-size-to($base-font-size * .85)
