@@ -14,7 +14,7 @@ Máte-li na starost energetický management a plníte-li roli energetického man
 - chladící systémy
 - vzduchotechnické systémy
 
-V případě umístění poboček v obchodních centrech je zajímavé, že spotřeba na vytápění hlavně díky výkonu svítidel je velmi často zcela nulová a to i zimních měsících. O to více ale obchodny spotřebují energie na své chlazení a udržení tepelného komfortu.
+Pokud se pobočky nachází v obchodních centrech je zajímavé, že spotřeba na vytápění hlavně díky výkonu svítidel je velmi často zcela nulová a to i zimních měsících. O to více ale obchodny spotřebují energie na své chlazení a udržení tepelného komfortu.
 
 **Hlavní úkoly energetického manažera v oblasti maloobchodu:**
 - zamezit plýtvání v době mimo otevírací hodiny
