@@ -18,8 +18,8 @@ V případě umístění poboček v obchodních centrech je zajímavé, že spot
 
 **Hlavní úkoly energetického manažera v oblasti maloobchodu:**
 - zamezit plýtvání v době mimo otevírací hodiny
-- detekovat včas havárie a špatně nastavené technologie
-- aktivně zkoušet nová úsporná opatření, která lze postupně nasazovat na všech lokalitách
+- detekovat včas havárie a špatně nastavené technologie, tzn. zavést energetický monitoring
+- aktivně zkoušet a vyhledávat nová úsporná opatření, která lze postupně nasazovat na všech lokalitách
 - provádět vicekolové tendry na výběr dotavele energií
 
 V případě, že chcete v oblasti retailu pomoci s nastavením procesů energetického managementu či zavést energetický monitoring, neváhejte se na nás obrátit. 
