@@ -24,4 +24,4 @@ Pokud se pobočky nachází v obchodních centrech je zajímavé, že spotřeba 
 - aktivně zkoušet a vyhledávat nová úsporná opatření, která lze postupně nasazovat na všech lokalitách
 - provádět vicekolové tendry na výběr dotavele energií
 
-V případě, že chcete v oblasti retailu pomoci s nastavením procesů energetického managementu či zavést energetický monitoring, neváhejte se na nás obrátit.
+V případě, že chcete v oblasti retailu pomoci s nastavením procesů energetického managementu, zvést [ISO 50001](http://www.enerfis.cz/sluzby/energeticky-management/implementace-iso-50001/general-energy-management "ISO 50001") či zprovoznit energetický monitoring, neváhejte se na nás obrátit.
