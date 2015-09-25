@@ -10,7 +10,7 @@ published: true
 ---
 
 {% assign anchors = "stats|reports|savings|meteo|users|readings|prices|events" | split: "|" %}
-{% assign texts = "Podrobné statistiky|Automatické reporty|Analýza úspor|Meteodata|∞ uživatelů na&nbsp;licenci|Snadné zadávání odečtů|Integrované ceníky energií|Upozornění" | split: "|" %}
+{% assign texts = "Podrobné statistiky|Automatické reporty|Analýza úspor|Meteodata|∞ uživatelů|Snadné odečty|Integrované ceníky|Upozornění" | split: "|" %}
 
 <div class="subheader">
     <div class="container">
@@ -24,16 +24,14 @@ published: true
 
         <div class="hidden">{% include generated/features.svg %}</div>
 
-        {% for anchor in anchors %}
-        <li>
+        {% for anchor in anchors %}<li>
             <a href="#{{ anchor | capitalize }}" class="feature__icon">
                 <svg viewBox="0 0 100 100">
                     <use xlink:href="#features-{{ anchor }}"></use>
                 </svg>
                 <span class="feature__icon-text">{{ texts[forloop.index0] }}</span>
             </a>
-        </li>
-        {% endfor %}
+        </li>{% endfor %}
         <li class="menu__more"><a href="#more">+</a></li>
     </ul>
 </div>
