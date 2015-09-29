@@ -1,7 +1,7 @@
 ---
 layout: post
-author: ""
-keywords: ""
+author: enectiva
+keywords: podružné měření
 published: false
 title: Energetický management ve strojírenství
 ---
@@ -16,5 +16,5 @@ V dalším díle našeho seriálu týkající se energetického managementu se b
 
 Kapitolu samotnou ve strojírenských firmám tvoří oblast stlačeného vzuchu, který je zde hojně využíván. Málo firem si však uvědomuje o jak drahé medium se jedná. Energetická efektivita v oblasti stlačeného vzduchu začíná již ve fázi návrhu, kde je jednak navrhovat rozvody na minimální tlakové ztráty, zdroj stlačeného vzduchu dimenzovat dle potřeb firmy s možností regulace výkonu a taktéž motivovat zaměstnance, aby byli ochotni hlásit alespoň ty slyšitelné úniky. Stejně tak vnímáme jako naprostý základ instalaci regulátoru 1/4 hodinového maxima v případě velkoodběratelů elektrické energie.
 
-V případě, že provozujete strojírenský podnik a nevíte si rady s nastavením funkčního energetického managementu, využijte našeho kontaktního formuláře k dalším dotazům.
+V případě, že provozujete strojírenský podnik a nevíte si rady s nastavením funkčního energetického managementu, využijte našeho [Kontakt Enectiva](http://www.enectiva.cz/cs/kontaktujte-nas/) k dalším dotazům.
 
