@@ -1,4 +1,22 @@
 $ ->
+  # Old features, except CS
+  do () ->
+    $features = $('.feature')
+    if $features.length > 0
+      $features.find('.feature__perex').each ()->
+        $this = $(this)
+        if $this.siblings('.feature__desc').length
+          $this.append('<a href="#" class="feature__toggler feature__toggler--more" data-alt="' + less_info + '">' + more_info + '</a>')
+      $features.find('.feature__toggler').click (e)->
+        e.preventDefault()
+        $toggler = $(this)
+        $toggler.
+        toggleClass('feature__toggler--more').
+        toggleClass('feature__toggler--less').
+        parents('.feature__perex').siblings('.feature__desc').toggle()
+        old = $toggler.text()
+        $toggler.text($toggler.data('alt'))
+        $toggler.data('alt', old)
 
   do () ->
     $menu = $('.menu--sticky')
@@ -96,11 +114,11 @@ $ ->
   do () ->
     cls = 'feature__step-number'
     activeCls = "#{cls}--active"
-    $('.feature').each (i, e) ->
-      $feature = $(e)
+    $('.feature__tour').each (i, e) ->
+      $tour = $(e)
 
-      $steps = $feature.find(".#{cls}")
-      $feature.find(".feature__plan .#{cls}").add($feature.find('.feature__steps li')).hover (e) ->
+      $steps = $tour.find(".#{cls}")
+      $tour.find(".feature__plan .#{cls}").add($tour.find('.feature__steps li')).hover (e) ->
         $target = $(e.target)
         $step = if $target.is(".#{cls}")
           $target

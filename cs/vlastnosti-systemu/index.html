@@ -32,7 +32,7 @@ published: true
                 <span class="feature__icon-text">{{ texts[forloop.index0] }}</span>
             </a>
         </li>{% endfor %}
-        <li class="menu__more"><a href="#more">+</a></li>
+        <li class="menu__more"><a href="#More" class="feature__icon">+</a></li>
     </ul>
 </div>
 
@@ -93,16 +93,16 @@ published: true
         <div class="feature">
             <h2 class="feature__title" id="Reports" >Automatické reporty</h2>
             <p>Nastavte si snadno automaticky generované reporty denních, týdeních či měsíčních spotřebách, nákladech nebo o výsledcích zavedených
-                úsporných opatření. Automatizujte pravidelné činnosti a snižtě tak administrativní zátěž vašeho týmu.</p>
+                úsporných opatření. Automatizujte pravidelné činnosti a snižte tak administrativní zátěž vašeho týmu.</p>
             <div class="feature__tour">
                 <div class="feature__plan">
                     <img src="/img/features/reports.png">
-                    <span class="feature__step-number" style="left: 67%;top: 17%" data-i="1">1</span>
-                    <span class="feature__step-number" style="left: 20%;top: 59%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 91%;top: 0%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 24%;top: 51%" data-i="2">2</span>
                 </div>
                 <ul class="feature__steps">
-                    <li><span class="feature__step-number" data-i="1">1</span>Možnost zasílat více reportů v rámci jednoho účtu</li>
-                    <li><span class="feature__step-number" data-i="2">2</span>Jeden report může obsahovat jakékoli grafy, které si sami zvolíte</li>
+                    <li><span class="feature__step-number" data-i="1">1</span>Reporty můžete přidávat pro jakékoli grafy</li>
+                    <li><span class="feature__step-number" data-i="2">2</span>Vyberte si, jak často chcete tento report zasílat</li>
                 </ul>
                 <div class="feature__details">
                     <div class="feature__detail feature__detail--split">
@@ -111,7 +111,7 @@ published: true
                     </div>
                     <div class="feature__detail feature__detail--split">
                         <h2>Krizové upozornění</h2>
-                        <p>Krizové upozornění má za úkol informovat Vás o dosažení určitého kritického bodu. Opět záleží jen na Vás, co vše má Enectiva hlídat. Může se jednat například o překročení určité hodnoty spotřeby nebo nákladů, potřebu provedení revize na některé z technologií nebo měřidel, změnu venkovní teploty nebo dokonce (díky napojení Enectivy na burzy energií) i o vývoj cen energií na burzách PEX a EEX. </p>
+                        <p>Krizové upozornění má za úkol informovat Vás o dosažení určitého kritického bodu. Opět záleží jen na Vás, co vše má Enectiva hlídat. Může se jednat například o překročení určité hodnoty spotřeby nebo nákladů, potřebu provedení revize na některé z technologií nebo měřidel, změnu venkovní teploty nebo dokonce (díky napojení Enectivy na burzy energií) i o vývoj cen energií na burzách PEX a EEX.</p>
                     </div>
                 </div>
             </div>
@@ -148,12 +148,14 @@ published: true
             <div class="feature__tour">
                 <div class="feature__plan">
                     <img src="/img/features/meteo.png">
-                    <span class="feature__step-number" style="left: 44%;top: 3%" data-i="1">1</span>
-                    <span class="feature__step-number" style="left: 40%;top: 57%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 51%;top: 7%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 47%;top: 53%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 70%;top: 77%" data-i="3">3</span>
                 </div>
                 <ul class="feature__steps">
-                    <li><span class="feature__step-number" data-i="1">1</span>Zaškrtněte zobrazení průměrné teploty</li>
+                    <li><span class="feature__step-number" data-i="1">1</span>Zaškrtněte zobrazení teploty</li>
                     <li><span class="feature__step-number" data-i="2">2</span>Odhalte případy, kdy topíte či chladíte zbytečně</li>
+                    <li><span class="feature__step-number" data-i="3">3</span>Zobrazte si průměrnou, minimální či maximální teplotu</li>
                 </ul>
             </div>
         </div>
@@ -165,13 +167,13 @@ published: true
             <div class="feature__tour">
                 <div class="feature__plan">
                     <img src="/img/features/users.png">
-                    <span class="feature__step-number" style="left: 35%;top: 3%" data-i="1">1</span>
-                    <span class="feature__step-number" style="left: 35%;top: 35%" data-i="2">2</span>
-                    <span class="feature__step-number" style="left: 81%;top: 3%" data-i="3">3</span>
+                    <span class="feature__step-number" style="left: 28%;top: 14%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 28%;top: 32%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 28%;top: 69%" data-i="3">3</span>
                 </div>
                 <ul class="feature__steps">
                     <li><span class="feature__step-number" data-i="1">1</span>Vyplňte přihlašovací údaje nového uživatele</li>
-                    <li><span class="feature__step-number" data-i="2">2</span>Zvolte jeho roli a oprávnění, co smí zobrazit a editovat</li>
+                    <li><span class="feature__step-number" data-i="2">2</span>Zvolte jeho oprávnění</li>
                     <li><span class="feature__step-number" data-i="3">3</span>V případě potřeby doplňte další informace</li>
                 </ul>
                 <div class="feature__details">
@@ -208,152 +210,104 @@ published: true
             <div class="feature__tour">
                 <div class="feature__plan">
                     <img src="/img/features/prices.png">
+                    <span class="feature__step-number" style="left: 0%;top: 25%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 0%;top: 40%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 59%;top: 7%" data-i="3">3</span>
                 </div>
+                <ul class="feature__steps">
+                    <li><span class="feature__step-number" data-i="1">1</span>Zvolte název, dodavatele a typ energie</li>
+                    <li><span class="feature__step-number" data-i="2">2</span>Přidejte jednotkovou cenu komodity</li>
+                    <li><span class="feature__step-number" data-i="3">3</span>Zobrazte si další složky ceny</li>
+                </ul>
             </div>
         </div>
 
         <div class="feature">
             <h2 class="feature__title" id="Events" >Události a upozornění</h2>
             <p>Do Enectivy můžete uložit jakoukoliv změnu, která se ve Vaší budově nebo portfoliu odehraje (například výměna zdroje tepla/chladu, změna dodavatele energie, změna ceny energie, výměna oken nebo zateplení objektu). Tyto změny si pak můžete zobrazit v měsíčních grafech spotřeb. Jednoduše tak uvidíte, jaký vliv tyto události měly na spotřebu a náklady.</p>
-        </div>
+            <div class="feature__tour">
+                <div class="feature__plan">
+                    <img src="/img/features/events1.png">
+                    <span class="feature__step-number" style="left: 92%;top: 1%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 67%;top: 52%" data-i="2">2</span>
+                </div>
+                <ul class="feature__steps">
+                    <li><span class="feature__step-number" data-i="1">1</span>Uložené události se zobrazují přímo u přehledu spotřeby</li>
+                    <li><span class="feature__step-number" data-i="2">2</span>Snadno tak zjistíte, jaký měla událost vliv na spotřebu</li>
+                </ul>
+            </div>
 
-        <div class="feature">
-
-            <h2 id="Maps" class="feature__title">Podpora Google Maps</h2>
-
-            <div class="feature__perex">
-                <p>Potřebujete rychle zjistit informace z několika různých budov Vašeho portfolia? Zanechte otravného hledání a
-                    otvírání různých šanonů z archivu. V Enectivě díky napojení na Google Maps pomocí 3 kliknutí přejdete
-                    z jedné budovy na druhou.</p>
+            <p>V Enectivě si zároveň můžete nastavit upozornění pro případ neočekávaného nárůstu či poklesu spotřeby, venkovní teploty, nákladů a podobně. Pokud k takové změně dojde, Enectiva automaticky zašle upozornění na všechny e-mailové adresy, které si v systému nastavíte. Můžete se tak vyhnout zbytečným výdajům v případě poruchy (únik vody či plynu) či rychleji reagovat na nepředvídatelné výkyvy počasí.</p>
+            <div class="feature__tour">
+                <div class="feature__plan">
+                    <img src="/img/features/events2.png">
+                    <span class="feature__step-number" style="left: 0%;top: 19%" data-i="1">1</span>
+                    <span class="feature__step-number" style="left: 0%;top: 34%" data-i="2">2</span>
+                    <span class="feature__step-number" style="left: 0%;top: 58%" data-i="3">3</span>
+                    <span class="feature__step-number" style="left: 66%;top: 48%" data-i="4">4</span>
+                </div>
+                <ul class="feature__steps">
+                    <li><span class="feature__step-number" data-i="1">1</span>Zadejte kritéria zaslání upozornění</li>
+                    <li><span class="feature__step-number" data-i="2">2</span>Přidejte zprávu</li>
+                    <li><span class="feature__step-number" data-i="3">3</span>Vyberte, komu bude upozornění zasíláno</li>
+                    <li><span class="feature__step-number" data-i="4">4</span>Vyvarujte se plýtvání způsobeného např. noční poruchou</li>
+                </ul>
             </div>
         </div>
 
 
-        <div class="feature">
-            <h2 id="Import" class="feature__title">Podpora automatických dálkových odečtů</h2>
-
-            <div class="feature__perex">
-                <p>Data do systému Enectiva je možné odesílat pomocí dálkových odečtů. Ušetříte tak čas, který stráví každý
-                    měsíc Váš technik prováděním odečtů ručních.</p>
-            </div>
-            <div class="feature__desc">
-                <p>Enectiva je předpřipravena na celou škálu hardwarových výrobků umožňujících dálkové odečty. Není důležité,
-                    zda jsou data z měřidel v budově sbírána drátově nebo bezdrátově. Stejně tak nehraje roli výrobce ani typ
-                    dálkového měřidla či sběrnice, na jejíž bázi funguje. Základem správné funkce Enectivy jsou správná data ve
-                    správný čas. Tato data si proto systém může sám získávat z vašeho interního shromaždiště, nebo mohou být
-                    odesílána přes Vámi vybraný hardware rovnou na náš server, kde budou zaznamenána a zpracována.</p>
-            </div>
-        </div>
 
         <div class="feature">
-            {{ "Hierarchie práv uživatelů" | gallery_link: "status.cs", 7, 'feature__image' }}
-            <h2 id="Auth" class="feature__title">Hierarchie práv uživatelů</h2>
+            <h2 class="feature__title" id="EasyControl">Jednoduché ovládání</h2>
+            <p>I netechnitčtí uživatelé mohou porozumět energetice a energetickému managementu. Při vývoji uživatelského rozhraní kladl náš tým důraz na maximální jednoduchost a intuitivnost Enectivy. Veškeré funkce a ovládání jsou postaveny tak, aby se po krátkém vstupním školení s Enectivou každý uživatel doslova sžil. Inspirací nám ve vývoji uživatelského rozhraní a jeho funkcí byly například produkty firmy Google.</p>
 
-            <div class="feature__perex">
-                <p>Každá společnost má postavenou hierarchii pracovníků podle jejich kompetencí. Enectiva tuto skutečnost odráží
-                    možností přidělit každému uživateli jeho kompetence v systému. Snadno tak každému uživateli nastavením typu
-                    účtu stanovíte, co smí v systému zobrazit a editovat.</p>
-            </div>
-            <div class="feature__desc">
-                <p>V současnosti respektujeme tyto <strong>typy uživatelů</strong>:<br/>
-                    Administrátor, Technik, Nájemník, Facility manažer, Property manažer,Assett manažer, Portfolio manažer,
-                    Majitel. Všichni tito uživatelé jsou odlišení různými právy a možnostmi zasahovat do systému.</p>
-            </div>
-        </div>
+            <div class="feature__details">
+                <div class="feature__detail feature__detail--criss-cross">
+                    <img src="/img/features/easy_control1.svg">
+                    <div class="feature__detail-text">
+                        <h2>Snadná orientace v měřidlech</h2>
 
-        <div class="feature">
-            <h2 id="UI" class="feature__title">Jednoduché ovládání</h2>
+                        <p>Měřidla jsou v Enectivě zanesena do půdorysů budovy. Snadno si tak můžete zobrazit budovu po jednotlivých patrech a editovat měřidla přímo z půdorysů. Odpadá tak úmorné prohledávání dokumentů a tabulek jen proto, abyste Vy nebo Váš technik našel, kde se které měřidlo nachází.</p>
+                    </div>
+                </div><div class="feature__detail feature__detail--criss-cross">
+                    <img src="/img/features/easy_control2.svg">
+                    <div class="feature__detail-text">
+                        <h2>Funkce Drag&Drop</h2>
 
-            <div class="feature__perex">
-                <p>I netechnitčtí uživatelé mohou porozumět energetice a energetickému managementu. Při vývoji uživatelského rozhraní kladl náš tým důraz na maximální jednoduchost a intuitivnost Enectivy.
-                    Veškeré funkce a ovládání jsou postaveny tak, aby se po krátkém vstupním školení s Enectivou každý uživatel
-                    doslova sžil. Inspirací nám ve vývoji uživatelského rozhraní a jeho funkcí byly například produkty firmy
-                    Google.</p>
+                        <p>Enectiva se snaží jakýkoliv úkol řešit co nejjednodušeji a nejelegantněji. Funkce Drag&Drop vám umožní pouhým uchopením a přetáhnutím nájemníka, budovy nebo komplexu přemístit veškerá data do nově zvolené nadřazené kategorie. Pokud například spravujete portfolio více investorů a jeden od druhého odkoupí nemovitost, přenesete veškerá data o této nemovitosti jedním jediným pohybem do portfolia nového majitele.</p>
+                    </div>
+                </div>
             </div>
         </div>
 
         <div class="feature">
+            <h2 class="feature__title" id="More">Další funkce</h2>
+            <p>I netechnitčtí uživatelé mohou porozumět energetice a energetickému managementu. Při vývoji uživatelského rozhraní kladl náš tým důraz na maximální jednoduchost a intuitivnost Enectivy. Veškeré funkce a ovládání jsou postaveny tak, aby se po krátkém vstupním školení s Enectivou každý uživatel doslova sžil. Inspirací nám ve vývoji uživatelského rozhraní a jeho funkcí byly například produkty firmy Google.</p>
 
-            <h2 id="Meters" class="feature__title">Snadná orientace v měřidlech</h2>
+            <div class="feature__details">
+                <div class="feature__detail feature__detail--criss-cross">
+                    <img src="/img/features/more1.svg">
+                    <div class="feature__detail-text">
+                        <h2>Napojení na burzy PEX a EEX</h2>
 
-            <div class="feature__perex">
-                <p>Měřidla jsou v Enectivě zanesena do půdorysů budovy. Snadno si tak můžete zobrazit budovu po jednotlivých
-                    patrech a editovat měřidla přímo z půdorysů. Odpadá tak úmorné prohledávání dokumentů a tabulek jen proto,
-                    abyste Vy nebo Váš technik našel, kde se které měřidlo nachází.</p>
+                        <p>Díky napojení na burzy energií PEX a EEX můžete přímo z rozhraní Enectivy sledovat vývoj cen elektrické energie a plynu. Jednoduše tak zjistíte, jaký je trend vývoje cen a kdy je nejvýhodnější uspořádat tendr na dodavatele energií. Pomocí automatického reportu si také můžete nastavit, aby Vám Enectiva sama poslala upozornění ve chvíli, kdy cena energie dosáhne Vámi požadované hodnoty.</p>
+                    </div>
+                </div><div class="feature__detail feature__detail--criss-cross">
+                    <img src="/img/features/more2.svg">
+                    <div class="feature__detail-text">
+                        <h2>Podpora Google Maps</h2>
+
+                        <p>Potřebujete rychle zjistit informace z několika různých budov Vašeho portfolia? Zanechte otravného hledání a otvírání různých šanonů z archivu. V Enectivě díky napojení na Google Maps pomocí 3 kliknutí přejdete z jedné budovy na druhou.</p>
+                    </div>
+                </div><div class="feature__detail feature__detail--criss-cross">
+                    <img src="/img/features/more3.svg">
+                    <div class="feature__detail-text">
+                        <h2>Facility management</h2>
+
+                        <p>Enectiva obsahuje základní prvky facility managementu, jako jsou parametry „celková podlahová plocha“, „hrubá podlahová plocha“ nebo hrubá pronajímatelná plocha“. Tyto plochy lze v Enectivě rozlišit podle použití (například na kanceláře, sklady, zázemí, retail, atd.) Stejně tak jde do systému zadat počet obyvatel objektu, počet parkovacích míst, kuchyněk, WC, pisoárů apod. Všechny tyto parametry jsou děleny na celkový počet a aktuálně obsazený nebo využívaný. Díky tomu umožňuje Enectiva přepočítávat spotřeby a náklady na měrné spotřeby nebo měrné náklady podle zvoleného kritéria. Data se archivují a kdykoliv v budoucnu si tak můžete zobrazit jejich historický vývoj.</p>
+                    </div>
+                </div>
             </div>
         </div>
-
-        <div class="feature">
-            {{ 'Funkce Drag&Drop' | gallery_link: 'drag_drop.cs', 10, 'feature__image' }}
-            <h2 id="Drag" class="feature__title">Funkce Drag&amp;Drop</h2>
-
-            <div class="feature__perex">
-                <p>Enectiva se snaží jakýkoliv úkol řešit co nejjednodušeji a nejelegantněji. Funkce Drag&amp;Drop vám umožní
-                    pouhým uchopením a přetáhnutím nájemníka, budovy nebo komplexu přemístit veškerá data do nově zvolené
-                    nadřazené kategorie. </p>
-            </div>
-            <div class="feature__desc">
-                <p>Pokud například spravujete portfolio více investorů a jeden od druhého odkoupí nemovitost, přenesete veškerá
-                    data o této nemovitosti jedním jediným pohybem do portfolia nového majitele.</p>
-            </div>
-        </div>
-
-        <div class="feature">
-            {{ 'Facility management 1' | gallery_link: 'facility_management.cs', 11, 'feature__image' }}
-            <h2 id="Facility" class="feature__title">Facility management</h2>
-
-            <div class="feature__perex">
-                <p>Enectiva obsahuje základní prvky facility managementu, jako jsou parametry „celková podlahová plocha“, „hrubá
-                    podlahová plocha“ nebo hrubá pronajímatelná plocha“. Tyto plochy lze v Enectivě rozlišit podle použití
-                    (například na kanceláře, sklady, zázemí, retail, atd.)</p>
-            </div>
-            <div class="feature__desc">
-                <p>Stejně tak jde do systému zadat počet obyvatel objektu, počet parkovacích míst, kuchyněk, WC, pisoárů apod.
-                    Všechny tyto parametry jsou děleny na celkový počet a aktuálně obsazený nebo využívaný.</p>
-
-                <p>Díky tomu umožňuje Enectiva přepočítávat spotřeby a náklady na měrné spotřeby nebo měrné náklady podle
-                    zvoleného kriteria. Data se archivují a kdykoliv v budoucnu si tak můžete zobrazit historický vývoj těchto
-                    parametrů.</p>
-                {{ 'Facility management 2' | gallery_link: 'facility_management.cs', 11 }}
-            </div>
-        </div>
-
-        <div class="feature">
-            {{ 'Události' | gallery_link: 'event.cs', 12, 'feature__image' }}
-            <h2 id="Events" class="feature__title">Události</h2>
-
-            <div class="feature__perex">
-                <p>Do Enectivy si můžete zanést jakoukoliv změnu, která se ve Vaší budově nebo portfoliu odehraje (například
-                    výměna zdroje tepla/chladu, změna dodavatele energie, změna ceny energie, výměna oken nebo zateplení objektu
-                    apod.).</p>
-            </div>
-            <div class="feature__desc">
-                <p>Tyto změny si pak můžete nechat zobrazit v měsíčních grafech spotřeb. Jednoduše a rychle tak uvidíte, jak se
-                    změnil průběh spotřeb a nákladů vlivem těchto událostí.</p>
-            </div>
-        </div>
-
-        <div class="feature">
-            {{ 'Napojení na burzy PEX a EEX' | gallery_link: 'PXE.cs', 13, 'feature__image' }}
-            <h2 id="Exchanges" class="feature__title">Napojení na burzy PEX a EEX</h2>
-
-            <div class="feature__perex">
-                <p>Díky napojení na burzy energií PEX a EEX můžete přímo z rozhraní Enectivy sledovat vývoj cen elektrické
-                    energie a plynu. Jednoduše tak můžete sledovat, jaký je trend vývoje cen a ve vhodnou dobu tak uspořádat
-                    tendr na dodavatele energií. Pomocí automatického reportu si také můžete nastavit, aby Vám Enectiva sama
-                    poslala upozornění ve chvíli, kdy cena energie dosáhne Vámi požadovanou hodnotu.</p>
-
-            </div>
-        </div>
-
-        <div id="more">More</div>
     </div>
 </div>
-
-
-
-
-<script type="text/javascript">
-    var more_info = 'Více';
-    var less_info = 'Méně'
-</script>
