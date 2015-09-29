@@ -6,7 +6,7 @@ published: false
 title: Energetický management ve strojírenství
 ---
 
-V dalším díle našeho seriálu týkající se energetického managementu se budeme věnovat oblasti strojírenských podniků. Strojírenství má v naší republice dlouhotrvající tradici a tato historie nezřídka kdy ovliňuje i nahlížení na energetiku ve strojírenských firmách. Pro většinu těchto firem jsou energetické náklady až na třetím místě v jejich nákladové struktuře. Na prvním místě stojí náklady na zaměstanance  a jejich mzdy, na druhém jsou to náklady na materiál a na třetím náklady na energie. Z tohoto důvodu je energetika velmi často přehlíženým tématem a aktivní přístup k energetickému managementu je výsadou jen malého procenta firem.
+V dalším díle našeho seriálu týkající se energetického managementu se budeme věnovat oblasti strojírenských podniků. Strojírenství má v naší republice dlouhotrvající tradici a tato historie nezřídka kdy ovliňuje i nahlížení na energetiku ve strojírenských firmách. Pro většinu těchto firem jsou energetické náklady až na třetím místě v jejich nákladové struktuře. Na prvním místě stojí náklady na zaměstanance  a jejich mzdy, na druhém jsou to náklady na materiál a na třetím náklady na energie. Z tohoto důvodu je energetika velmi často přehlíženým tématem a aktivní přístup k energetickému managementu je výsadou jen malého procenta českých firem.
 
 **Ve strojírenských firmám z pohledu energetického managementu vnímáme jako klíčové:**
 
