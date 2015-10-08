@@ -1,12 +1,15 @@
 ---
 layout: default
 title: Všeobecné obchodní podmínky
-translations:
+translations: null
+published: true
+keywords: ""
 ---
+
 
 <div style="text-align: center">
     <h1>Všeobecné obchodní podmínky používání aplikace Enectiva</h1>
-    <p>uzavírané podle §273 odst. 1. obchodního zákoníku, ve znění pozdějších předpisů (dále jen jako „Obchodní podmínky“)</p>
+    <p>uzavírané podle §273 odst. 1 zák. č. 89/2012 Sb., ve znění pozdějších předpisů (dále jen jako „Obchodní podmínky“)</p>
 </div>
 
 ## 1. Základní ustanovení
@@ -19,19 +22,19 @@ translations:
 
 ## 2. Práva a povinnosti smluvních stran
 
-**2.1.** Objednatel je povinen používat službu v souladu s těmito podmínkami, zejména pak nesmí poskytovat žádné informace třetím stranám, které by mohli poškodit zájmy dodavatele, či jeho autorská práva. Služba slouží výhradně objednateli a jeho vlastním potřebám.
+**2.1.** Objednatel je povinen používat službu v souladu s těmito podmínkami, zejména pak nesmí poskytovat žádné informace třetím stranám, které by mohli poškodit zájmy dodavatele, či autorská práva Dodavatele. Služba slouží výhradně objednateli a jeho vlastním potřebám.
 
 **2.2.** Objednatel souhlasí, že dodavateli nahradí veškerou škodu způsobenou nedodržením těchto obchodních podmínek. Veškerá škoda sestává z reálně způsobené škody a z ušlého zisku.
 
 **2.3.** Dodavatel je povinen poskytovat objednateli objednanou službu po celou dobu trvání smlouvy, pokud není stanoveno jinak. Dodavatel je rovněž povinen objednateli poskytnout daňový doklad.
 
-**2.4.** Společnost Enerfis, s.r.o., garantuje, že po dobu využívání služby bude poskytovaná kvalita služeb stejná.
+**2.4.** Dodavatel garantuje, že po dobu využívání služby bude poskytovaná kvalita služeb stejná.
 
-**2.5.** Dodavatel poskytuje služby na úrovni znalostí a péče, které jsou přiměřené v tomto obchodním odvětví.
+**2.5.** Dodavatel poskytuje služby na úrovni znalostí a péče, které jsou přiměřené a standardní v tomto obchodním odvětví.
 
 **2.6.** Dodavatel nenese odpovědnost za ušlý zisk, ztrátu tržeb nebo dat, finanční ztráty ani za nepřímé, zvláštní, následné či exemplární škody nebo za náhradu škody se sankční funkcí, které budou způsobeny nekvalifikovaným užíváním systému Enectiva.
 
-**2.7.** Odpovědnost společnosti Enerfis, s.r.o. za jakýkoli nárok vznesený na základě těchto podmínek, včetně veškerých záruk vyplývajících ze zákona je omezena výší částky, kterou objednatel za použití služeb zaplatil. Vždy platí, že společnost Enerfis, s.r.o. nenese odpovědnost za jakékoli ztráty či škody, které nelze přiměřeným způsobem předvídat.
+**2.7.** Odpovědnost Dodavatele za jakýkoli nárok vznesený na základě těchto podmínek, včetně veškerých záruk vyplývajících ze zákona je omezena výší částky, kterou objednatel za použití služeb zaplatil. Vždy platí, že Dodavatel nenese odpovědnost za jakékoli ztráty či škody, které nelze přiměřeným způsobem předvídat.
 
 ## 3. Ochrana know – how dodavatele
 
