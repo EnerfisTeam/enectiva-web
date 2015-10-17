@@ -19,6 +19,6 @@ Odpověď závisí na mnoha faktorech, ale nejvíce na aktuální situaci z kter
 ## 3.Která měřidla a která místa máme automaticky odečítat, aby to mělo nějaký význam?
 Naprostým základem je automatický a průběžný odečet fakturačních měřidel. Čim detailněji (čtěte podružněji) energie měříte tím vice nehospodárnosti dokážete odhalit. Bytová družstva by Vám řekli, že po instalaci indikátorů topných nákladů se snížila spotřeba tepla o 30-40% a takový výsledků by jste zcela jistě při osazení pouze hlavních měřidel nedosáhli. Stejně tak těžko odhalíte protékající toaletu, když sledujete pouze hlavní domovní vodoměr, nebo špatně nastavený chladící systém, při měření pouze hlavního elektroměru. Základní poučkou v managementu je "co neměřím, nemůžu ani řídit".
 
-4.Naše budovy nemají systém měření a regulace, vadí to něčemu?
+## 4.Naše budovy nemají systém měření a regulace, vadí to něčemu?
 
-5.Proč bych měl využívat on-line monitoring a management dlouhodobě?
+## 5.Proč bych měl využívat on-line monitoring a management dlouhodobě?
