@@ -24,3 +24,5 @@ V případě, že v budově existuje systém měření a regulace, máte však m
 
 ## 5.Proč bych měl využívat on-line monitoring a management dlouhodobě? Vždyť mi stačí za pomoci jednorázového měření zjistit úniky a těm zamezit.
 Souhlasíme, že u malých instalací je tento přístup možný. Jednou za rok si nechat systém proměřit a následně systémy optimalizovat. Pokud se však staráte o větší portfolio budov, je tento přístup těžko realizovatelný. Jak z pohledu nákladů na takováto jednorázová měření, tak z pohledu jejich efektivity. U většího počtu budov rapidně roste pravděpodobnost problémů a ty se pak vyskytují častějši. Tím že máte nasazen on-line monitoring, je můžete odhalovat ihned a nečekat další rok na jejich odhalení.
+
+Máte i Vy dotaz týkající se energetického monitoringu? Neváhejte nám ho napsat. Velmi rádi ho zodpovíme.
