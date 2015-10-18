@@ -2,7 +2,7 @@
 layout: post
 author: ""
 keywords: ""
-published: false
+published: true
 title: "On-line energetický management: 5 základních otázek "
 ---
 
