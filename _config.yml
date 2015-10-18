@@ -18,8 +18,9 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
+#  js_compressor: uglifier
+#  css_compressor: sass
+  digest: true
   gzip:
     - text/css
     - application/javascript

@@ -74,15 +74,7 @@
     display: none
   #Menu-toggle:checked + &__menu
     display: block
-    &:after
-      content: ' '
-      display: block
-      height: .4em
-      bottom: -.4em - .5em
-      position: relative
-      +background-image(radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.8) 0%, transparent 80%))
-      background-repeat: no-repeat
-      background-position: 0 -.2em
+    +block-bottom-shadow
 
   @media(min-width: 800px)
     min-height: $height

@@ -1,0 +1,10 @@
+{
+  "name": "SVGs",
+  "version": "1.0.0",
+  "description": "Dev project to preprocess SVGs for in-lining https://css-tricks.com/svg-sprites-use-better-icon-fonts/",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-svgstore": "^0.5.0"
+  }
+}

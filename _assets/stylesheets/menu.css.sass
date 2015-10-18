@@ -63,6 +63,52 @@
     &--important
       +adjust-font-size-to($base-font-size)
 
+  &__placeholder
+    width: 100%
+    height: 0
+
+  &--sticky
+    display: none
+
+  @media(min-width: 600px)
+    &--sticky
+      display: block
+      padding: 2vh 0 1vh 0
+      background: white
+      $parts: (8 * 3 + 1 + 1)
+      width: 100%
+      clear: both
+
+      li
+        list-style-type: none
+        height: 11vh
+        max-width: (100% / $parts * 3)
+        margin: 0
+        padding: 0
+        text-align: center
+        box-sizing: content-box
+        display: inline-block
+        vertical-align: top
+        a
+          margin: 0
+          padding: 0
+          width: 100%
+          height: 100%
+          +adjust-font-size-to($base-font-size * .85)
+          line-height: 1.5em
+      .menu__more
+        width: (100% / $parts)
+        a
+          +adjust-font-size-to($base-font-size * 3)
+
+  &--stuck
+    max-width: $max-content-width
+    position: fixed
+    top: 0
+    z-index: $z-index-stuck-menu
+    background: white
+    +block-bottom-shadow
+
 html[lang=it] .menu
   a
     padding: .25em .4em
