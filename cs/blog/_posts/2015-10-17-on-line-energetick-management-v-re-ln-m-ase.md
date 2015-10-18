@@ -1,7 +1,7 @@
 ---
 layout: post
-author: ""
-keywords: ""
+author: enectiva
+keywords: "energetický monitoring, on-line"
 published: true
 title: "On-line energetický management: 5 základních otázek "
 ---
