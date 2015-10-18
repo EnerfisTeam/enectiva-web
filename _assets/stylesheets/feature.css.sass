@@ -150,3 +150,34 @@
   @media(min-height: 600px)
     &__icon-text
       +adjust-font-size-to($base-font-size * .85)
+
+
+// Legacy style for non-CS versions
+.feature
+  clear: both
+  +margin-trailer(4)
+  &__image
+    +rounded-image(145px)
+    margin-right: 20px
+    +single-transition(all, ease-in-out, 150ms)
+    +rhythm-margins(1)
+    img
+      margin: 0
+    &:hover, &:focus, &:active
+      border-color: $unimportant
+  &__desc
+    display: none
+  &__toggler
+    display: block
+    float: right
+    &--more
+      &:after
+        content: "▼"
+    &--less
+      &:after
+        content: "▲"
+  &:nth-child(even)
+    .feature__image
+      margin-right: 0
+      margin-left: 20px
+      float: right
