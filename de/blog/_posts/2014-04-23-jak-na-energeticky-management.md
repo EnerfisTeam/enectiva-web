@@ -3,10 +3,10 @@ layout: post
 title: Jak na energetický management
 published: true
 author: enectiva
-keywords: "energetický management, snížení spotřeby"
+keywords: "Energie Management, Senkung des Vebrauchs"
 ---
 
-Většina lidí má obavy ze slov energetický management. Ve své praxi se setkávám denně s lidmi na manažerských pozicích, kteří se dostanou do pozice, kdy jsou nuceni zavádět procesy energetického managementu a neví, jak s tímto úkolem naložit. Na začátku jsou zde zbytečné obavy z nového, přitom zásady dobrého energetického managementu vychází ze selského rozumu každého dobrého hospodáře. Uvedu jen několik základních pouček:
+Die meisten Leute haben Angst vor den Wörtern Energie Management. Ve své praxi se setkávám denně s lidmi na manažerských pozicích, kteří se dostanou do pozice, kdy jsou nuceni zavádět procesy energetického managementu a neví, jak s tímto úkolem naložit. Na začátku jsou zde zbytečné obavy z nového, přitom zásady dobrého energetického managementu vychází ze selského rozumu každého dobrého hospodáře. Uvedu jen několik základních pouček:
 ![mozna-upspory_edit.png](/img/mozna-upspory_edit.png)
 
 - Stanovte si cíle, jakých chcete dosáhnout - např. snížení spotřeby na jednoho nájemníka či vyrobený výrobek do konce roku
