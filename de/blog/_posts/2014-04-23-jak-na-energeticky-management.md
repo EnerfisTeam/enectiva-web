@@ -14,4 +14,4 @@ Die meisten Leute haben Angst vor den Wörtern Energie Management. Ich treffe mi
 - Motivieren Sie die Anderen zu Verbesserungsvorschlägen - entweder obligatorisch oder z.B. durch einen Wettbewerb
 - Stellen Sie Termine für regelmässige Treffen ein, wo man die Lage bewertet und bestimmt weitere Vorgehensweise
 
-To hlavní na závěr "Nedávejte lidem energii zadarmo". Spotřebitel si musí být vědom toho, že energie není zdarma a ideální pokud je na tomto základním principu přímo motivován.
+Das wichtigste zum Schluss "Geben Sie den Leuten die Energie nicht umsonst". Dem Verbraucher muss es bewusst sein, dass die Energie nicht umsonst ist und idealerweise ist er durch diesen Grundprinzip direkt motiviert.
