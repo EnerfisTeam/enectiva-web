@@ -6,7 +6,7 @@ author: enectiva
 keywords: "Energie Management, Senkung des Vebrauchs"
 ---
 
-Die meisten Leute haben Angst vor den Wörtern Energie Management. Ve své praxi se setkávám denně s lidmi na manažerských pozicích, kteří se dostanou do pozice, kdy jsou nuceni zavádět procesy energetického managementu a neví, jak s tímto úkolem naložit. Na začátku jsou zde zbytečné obavy z nového, přitom zásady dobrého energetického managementu vychází ze selského rozumu každého dobrého hospodáře. Uvedu jen několik základních pouček:
+Die meisten Leute haben Angst vor den Wörtern Energie Management. Ich treffe mich in meiner Praxis jeden Tag mit Leuten in Führungspositionen, die in einer Position kommen,dass sie die Prozesse von Energie Management einführen sollen und sie wissen nicht, wie sie diese Aufgabe bewältigen sollen.Ve své praxi se setkávám denně s lidmi na manažerských pozicích, kteří se dostanou do pozice, kdy jsou nuceni zavádět procesy energetického managementu a neví, jak s tímto úkolem naložit. Na začátku jsou zde zbytečné obavy z nového, přitom zásady dobrého energetického managementu vychází ze selského rozumu každého dobrého hospodáře. Uvedu jen několik základních pouček:
 ![mozna-upspory_edit.png](/img/mozna-upspory_edit.png)
 
 - Stanovte si cíle, jakých chcete dosáhnout - např. snížení spotřeby na jednoho nájemníka či vyrobený výrobek do konce roku
