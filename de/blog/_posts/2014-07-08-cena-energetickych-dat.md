@@ -3,10 +3,10 @@ layout: post
 published: true
 title: Cena energetických dat
 author: enectiva
-keywords: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
+keywords: "Property Manager, Facility Manager, Energiedaten, Messgeräte Ablesungen, automatische Ablesung"
 ---
 
-Pokud patříte mezi property manažery, facility manažery, správce či majitele nemovitostí jistě se setkáváte s problémem efektivního sběru energetických dat ze spravovaných budov. K většinové metodě stále patří fyzický odečet pověřenou osobou. Nicméně tento způsob vykazuje známky jisté nespolehlivosti, časové i finanční náročnosti, která roste úměrně s velikostí spravovaného portfolia.
+Wenn Sie zu Property Manager, Facility Manager, Hausmeister oder Immobilienbesitzer gehören, stossen Sie bestimmt gegen dem Problem wie man die Energiedaten von den verwalteten Gebäuden effizient sammeln kann. Die meist angewendete Methode ist immer noch die physische Ablesung durch eine beauftragte Person. Dessen ungeachtet weist dieses Verfahren gewisse Spuren von Unzuverlässigkeit, Zeit- und finanzielle Aufwendigkeit auf, die entsprechend der Grösse des verwalteten Gebäudeportfolios wächst.
 
 Řešení na tento problém je spousta. Enectiva je jedno z nich, nicméně každý, kdo chce využívat energetická data musí nejdříve akceptovat fakt, že ani automatický sběr dat není zdarma. Vždy dojde k zatížení rozpočtu ať již na pořízení vhodného softwaru nebo měřidel s datovými výstupy. Ve valné většině na pořízení obého.
 
