@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Cena energetických dat
+title: Energiedaten Preise
 author: enectiva
 keywords: "Property Manager, Facility Manager, Energiedaten, Messgeräte Ablesungen, automatische Ablesung"
 ---
@@ -10,6 +10,6 @@ Wenn Sie zu Property Manager, Facility Manager, Hausmeister oder Immobilienbesit
 
 Für dieses Problem gibt es viele Lösungen. Enectiva ist eins davon, trotzdem jeder, der Energiedaten nutzen will, muss zuerst die Tatsache akzeptieren, dass auch die automatische Sammlung nicht umsonst ist. Es kommt immer zu Budget Belastung entweder durch Anschaffung vom geeigneten Software oder von Messgeräten mit Datenausgang. In den meisten Fällen muss beides angeschafft werden.
 
-Na aktuálním trhu se krystalizují dva druhy firem nebo chcete-li zákazníků. Na ty, které si význam energetických dat uvědomují a na ty, které si ho teprve uvědomí. Zní to tak, že zákazník dříve nebo později přistoupí na hru s automatickými a podrobnými odečty spotřeb. Jen za poslední měsíc jsem ale slyšel tři příběhy, které mohly mít šťastnější konec v případě, že by byl zaveden důslednější energetický monitoring. Jednalo se o úniky plynu netěsností za 1,2 mil Kč, únik vody za 20 000 Kč způsobený vadným pojišťovacím ventilem v kotelně a plýtváním v hodnotě 200 000 Kč na chlazení způsobené nekompetentním přenastavením technologie.
+Auf dem aktuellen Markt kann man zwischen zwei Firmenarten bzw. Kundengruppen unterscheiden. Die, denen die Bedeutung der Energiedaten bewusst ist und die, denen es erst bewusst wird. Es klingt so, als ob der Kunde früher oder später den Weg mit automatischen und genauen Verbrauchsablesungen gehen wird. In dem letzten Monat habe ich drei Fälle gehört, die ein besseres Ende haben könnten, im Falle man hätte ein gründliches Energie Überwachungssystem eingeführt. Es handelte sich um eine Gasleckage in Höhe von 1,2 Mio. Kč, um einen Wasserschwund in Höhe von 20 000 Kč, der durch ein defektes Sicherheitsventil im Heizraum verursacht wurde und um eine Verschwendung in Höhe von 200 000 Kč bei der Kühlung, die durch unsachgemässe Technologie Einstellung verursacht wurde.
 
-Všechny tyto subjekty se nyní již dívají na cenu energetických dat úplně jinou perspektivou, než ty, které tyto zkušenosti zatím nemají.
+Alle diese Subjekte sehen die Energiepreise jetzt schon mit ganz andere Perspektive als die, die diese Erfahrungen noch nicht haben.
