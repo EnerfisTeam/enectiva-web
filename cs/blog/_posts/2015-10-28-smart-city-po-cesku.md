@@ -2,7 +2,7 @@
 layout: post
 author: enectiva
 keywords: "smart metering, monitoring energií, město, smart city"
-published: false
+published: true
 title: Smart City po česku
 ---
 
