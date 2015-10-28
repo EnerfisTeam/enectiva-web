@@ -15,6 +15,6 @@ Rozhodli jsme se provést **analýzu typického okresního města v ČR**, co by
 
 **Náklady na realizaci:**
 
-Zřízení centrálního přijímače stojí 18 200,- Kč Včetně antény BO 160, bleskojistky, koncentrátoru dat, antnéních kabelů a napájení. Dále vysílač 169 MHz pro každé z měřidel3 300,- Kč. Baterie vysílače je dimenzovaná na 10let při frekvenci odečtů 10min. Je třeba mít z každého měřidla připraven impulsní výstup. Celkové náklady projektu smart meteringu v tomto rozsahu činí 141 300,- Kč bez DPH, včetně montážních prací. 
+Zřízení centrálního přijímače stojí 18 200,- Kč Včetně antény BO 160, bleskojistky, koncentrátoru dat, antnéních kabelů a napájení. Dále vysílač 169 MHz pro každé z měřidel 3 300,- Kč. Baterie vysílače je dimenzovaná na 10let při frekvenci odečtů 10min. Je třeba mít z každého měřidla připraven impulsní výstup. Celkové náklady projektu smart meteringu v tomto rozsahu činí 141 300,- Kč bez DPH, včetně montážních prací. 
 
 Za tuto cenu získává město nástroj, který jednak ušetří čas, jenž je nyní třeba k sledování energetických spotřeb, jejich fakturací nájemníkům i jednotlivým složkám města. Ale taktéž velmi efektivní nástroj pro odahlování ztrát, úniků a plýtvání v energetickém hospodářství, kterým město již v minulosti čelilo.
