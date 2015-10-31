@@ -23,4 +23,5 @@ C. Cashflow EPC projektu
 
 D. Ekonomický souhrn vztahující se k realizovanému EPC projektu
 
-V týmu Enectiva neustále pracujeme na vylepšení algoritmů počítajících úspory dosažené vlivem úsporných událostí na budovách. Pokud máte zrealizovaných EPC projekt, nebo takový plánujete, neváhejte se nám ozvat s návrhem vhodného řešení pro jeho monitoring.
+
+V týmu Enectiva neustále pracujeme na vylepšení algoritmů počítajících úspory dosažené vlivem úsporných událostí a úsporných projektů. Pokud máte zrealizovaných EPC projekt, nebo takový plánujete, neváhejte se nám ozvat s návrhem vhodného řešení pro jeho monitoring.
