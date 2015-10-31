@@ -2,10 +2,9 @@
 layout: post
 author: enectiva
 keywords: "EPC, monitoring"
-published: false
+published: true
 title: Vyhodnocení EPC projektů
 ---
-
 
 Chystáte se realizovat EPC projekt? Čeká vás komplexní technicko-administrativní úkol. Nejprve navrhnout samotné technické řešení, získat finance na profinancování celého projektu, následně přijde na řadu realizace a v neposlední řadě bude třeba monitorovat výsledky na základě kterých dochází k splácení celé investice do EPC projektu.
 
