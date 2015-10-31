@@ -12,16 +12,16 @@ keywords: "Energie Management, Verbrauch, Energie, Gebäude"
 ## Warum sollte man die Gebäude untereinander vergleichen? 
 
 1. Vergleich oder wenn Sie wollen Benchmarking ist der erste Schritt um die Prozesse zur Erhöhung der Energie Effizienz zu starten. Es ist bewiesen, dass das fundamentales Benchmarking die Energiekosten senkt.Für die meisten Besitzer und auch Gebäudeverwalter gilt, dass die Kenntnis über Energieverbrauch  ist der erste Schritt zu dessen Senkung. Die Schlussfolge ist dann auch das finanzielle Ersparnis. Es wird Sie vielleicht überraschen, aber mehr als die Hälfte der Energieersparnisse in den Gebäuden wurden durch Massnahmen erreicht, die niedrige Kosten oder keine Kosten verursacht haben.
-2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
+2. Bei größerem Gebäude Portfolio, wo beim Vergleich der einzelnen Gebäuden große Mengen von Informationen entstehen, gewinnt das Benchmarking eine strategische Bedeutung. Dank ihm kann man besser planen, priorisieren, Finanzen für richtige Investitionen so verteilen, damit man seine Ziele in Energieeffizienz und Aufrechthaltung erreicht.
 
-## Základní pravidla benchmarkingu
-Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovnávali hrušky s hruškami a jablka s jablky, je nutné dodržet několik základních pravidel:
+## Grundregeln Benchmarking
+Unterschiedliche Gebäudearten können unterschiedliche Werte aufweisen. Damit Sie immer Birnen mit Birnen und Äpfel mit Äpfeln vergleichen, ist es nötig ein paar Grundregeln einzuhalten:
 
-1. Porovnávejte nemovitosti ve stejné klimatické zóně
-2. Porovnávejte nemovitosti se srovnatelnou výškou
-3. Porovnávejte nemovitosti se stejným zdrojem tepla
-4. Porovnávejte nemovitosti se stejným účelem užití
+1. Vergleichen Sie Immobilien in der gleichen klimatischen Zone
+2. Vergleichen Sie Immobilien mit der vergleichbaren Höhe
+3. Vergleichen Sie Immobilien mit der gleichen Wärmequelle
+4. Vergleichen Sie Immobilien mit dem gleichen Nutzungszweck
 
-Možná vás zarazí bod 2, ale výška budovy ovlivňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich budov. Např. stáří, vybavenost, počet obyvatel, výšku nájemného atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
+Vielleicht überrascht Sie Punkt 2, aber die Gebäudehöhe beeinflusst Možná vás zarazí bod 2, ale výška budovy ovlivňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich budov. Např. stáří, vybavenost, počet obyvatel, výšku nájemného atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
 
 V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte [nás kontaktovat](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
