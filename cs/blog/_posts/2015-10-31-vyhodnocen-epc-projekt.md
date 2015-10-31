@@ -1,7 +1,7 @@
 ---
 layout: post
-author: ""
-keywords: ""
+author: enectiva
+keywords: "EPC, monitoring"
 published: false
 title: Vyhodnocení EPC projektů
 ---
