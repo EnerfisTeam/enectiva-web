@@ -13,7 +13,7 @@ Enectiva dokáže být právě co se týče **monitoringu výsledků EPC** zdatn
 
 **Jeden z příkladů, jakým způsobem vyhodnocujeme EPC projekty je uveden na obrázku níže:**
 
-![]({{site.baseurl}}/img/Vyhodnoceni%20EPC%20projektu.png)
+![vyhodnoceni_EPC_projektu.png]({{site.baseurl}}/img/vyhodnoceni_EPC_projektu.png)
 
 A. Vývoj nákladů a úspor v historii a jejich predikce na další roky
 B. Aktuální úspory EPC projektu v jednotlivých měsících
