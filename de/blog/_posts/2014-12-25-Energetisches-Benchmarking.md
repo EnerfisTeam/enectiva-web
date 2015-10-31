@@ -7,11 +7,11 @@ author: enectiva
 keywords: "Energie Management, Verbrauch, Energie, Gebäude"
 ---
 
-**Vergleichen Sie Verbrauch Ihrer Immobilien**. 40% aller Energien, die auf der Welt verbraucht werden, sind Verbräuche in Gebäuden und für deren Betrieb. Sie würden es nicht glauben, welche Unterschiede es zwischen einzelnen Gebäuden gibt. Wir haben in unserem Team Erfahrungen mit den gleichen Gebäudearten, deren Verbrauch sich ruhig auch um 100% unterscheidet. Auch in Bürogebäuden "A" Standard gibt es markante Unterschiede. Das beste durch uns beobachtete A Standard Gebäude weist gesamter Jahresverbrauch 169 kWh/m2 auf und das am wenigsten Energie effizientes Gebäude 304 kWh/m2.![Energetisches Benchmarking](/img/blog/Benchmarking budov2.png)
+**Vergleichen Sie Verbrauch Ihrer Immobilien**. 40% aller Energien, die auf der Welt verbraucht werden, sind Verbräuche in Gebäuden und für deren Betrieb. Sie würden es nicht glauben, welche Unterschiede es zwischen einzelnen Gebäuden gibt. Wir haben in unserem Team Erfahrungen mit den gleichen Gebäudearten, deren Verbrauch sich ruhig auch um 100% unterscheidet. Auch in Bürogebäuden "A" Standard gibt es markante Unterschiede. Das beste durch uns beobachtete A Standard Gebäude weist gesamter Jahresverbrauch von 169 kWh/m2 auf und das am wenigsten Energie effizientes Gebäude von 304 kWh/m2.![Energetisches Benchmarking](/img/blog/Benchmarking budov2.png)
 
-## Proč porovnávat budovy mezi sebou? 
+## Warum sollte man die Gebäude untereinander vergleichen? 
 
-1. Porovnání nebo chcete-li benchmarking je první krok k nastartování procesů zvyšování energetické efektivity. Je prokázáno, že základní benchmarking snižuje náklady na energie a pro většinu majitelů i správců budov platí, že znalost spotřeb energií je prvním krokem k jejich snížení. V konečném důsledku pak k úspoře finanční. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejícími s jejich řízením.
+1. Vergleich oder wenn Sie wollen Benchmarking ist der erste Schritt um die Prozesse zur Erhöhung der Energie Effizienz zu starten. Es ist bewiesen, dass das fundamentales Benchmarking die Energiekosten senkt.Für die meisten Besitzer und auch Gebäudeverwalter gilt, dass die Kenntnis über Energieverbrauch  ist der erste Schritt zu dessen Senkung. Die Schlussfolge ist dann auch das finanzielle Ersparnis. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejícími s jejich řízením.
 2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
 
 ## Základní pravidla benchmarkingu
