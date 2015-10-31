@@ -16,8 +16,11 @@ Enectiva dokáže být právě co se týče **monitoringu výsledků EPC** zdatn
 ![vyhodnoceni_EPC_projektu.png]({{site.baseurl}}/img/vyhodnoceni_EPC_projektu.png)
 
 A. Vývoj nákladů a úspor v historii a jejich predikce na další roky
+
 B. Aktuální úspory EPC projektu v jednotlivých měsících
+
 C. Cashflow EPC projektu
+
 D. Ekonomický souhrn vztahující se k realizovanému EPC projektu
 
 V týmu Enectiva neustále pracujeme na vylepšení algoritmů počítajících úspory dosažené vlivem úsporných událostí na budovách. Pokud máte zrealizovaných EPC projekt, nebo takový plánujete, neváhejte se nám ozvat s návrhem vhodného řešení pro jeho monitoring.
