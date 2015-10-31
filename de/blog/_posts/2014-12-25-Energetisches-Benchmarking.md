@@ -2,12 +2,12 @@
 "3": "[object Object]"
 layout: post
 published: true
-title: Energetický benchmarking
+title: Energetisches Benchmarking
 author: enectiva
-keywords: "energetický management,spotřeba, energie,budova"
+keywords: "Energie Management, Verbrauch, Energie, Gebäude"
 ---
 
-**Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují, připadá na spotřebu v budovách a jejich provoz. Nevěřili byste, jak velké rozdíly jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu, jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.![Energetický benchmarking](/img/blog/Benchmarking budov2.png)
+**Vergleichen Sie Verbrauch Ihrer Immobilien**. 40% aller Energien, die auf der Welt verbraucht werden, sind Verbräuche in Gebäuden und für deren Betrieb. Sie würden es nicht glauben, welche Unterschiede es zwischen einzelnen Gebäuden gibt. Wir haben in unserem Team Erfahrungen mit den gleichen Gebäudearten, deren Verbrauch sich ruhig auch um 100% unterscheidet. Auch in Bürogebäuden "A" Standard gibt es markante Unterschiede. Das beste durch uns beobachtete A Standard Gebäude weist gesamter Jahresverbrauch 169 kWh/m2 auf und das am wenigsten Energie effizientes Gebäude 304 kWh/m2.![Energetisches Benchmarking](/img/blog/Benchmarking budov2.png)
 
 ## Proč porovnávat budovy mezi sebou? 
 
