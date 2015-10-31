@@ -11,7 +11,7 @@ keywords: "Energie Management, Verbrauch, Energie, Gebäude"
 
 ## Warum sollte man die Gebäude untereinander vergleichen? 
 
-1. Vergleich oder wenn Sie wollen Benchmarking ist der erste Schritt um die Prozesse zur Erhöhung der Energie Effizienz zu starten. Es ist bewiesen, dass das fundamentales Benchmarking die Energiekosten senkt.Für die meisten Besitzer und auch Gebäudeverwalter gilt, dass die Kenntnis über Energieverbrauch  ist der erste Schritt zu dessen Senkung. Die Schlussfolge ist dann auch das finanzielle Ersparnis. Možná budete překvapeni, ale více než polovina energetických úspor je v budovách dosaženo nízkonákladovými nebo beznákladovými opatřeními souvisejícími s jejich řízením.
+1. Vergleich oder wenn Sie wollen Benchmarking ist der erste Schritt um die Prozesse zur Erhöhung der Energie Effizienz zu starten. Es ist bewiesen, dass das fundamentales Benchmarking die Energiekosten senkt.Für die meisten Besitzer und auch Gebäudeverwalter gilt, dass die Kenntnis über Energieverbrauch  ist der erste Schritt zu dessen Senkung. Die Schlussfolge ist dann auch das finanzielle Ersparnis. Es wird Sie vielleicht überraschen, aber mehr als die Hälfte der Energieersparnisse in den Gebäuden wurden durch Massnahmen erreicht, die niedrige Kosten oder keine Kosten verursacht haben.
 2. U větších portfolií, kdy porovnávání jednotlivých budov poskytuje velké množství informací, získává benchmarking na strategickém významu. Dokážete díky němu lépe plánovat, prioritizovat, alokovat finance pro správné investice tak, abyste dosáhli svých cílů v oblasti energetické efektivity a udržitelnosti.
 
 ## Základní pravidla benchmarkingu
