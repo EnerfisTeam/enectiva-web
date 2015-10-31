@@ -13,7 +13,6 @@ Enectiva dokáže být právě co se týče monitoringu výsledků EPC zdatným 
 
 ![Vyhodnoceni EPC projektu.png]({{site.baseurl}}/img/Vyhodnoceni EPC projektu.png)
 
-
 A. Vývoj nákladů a úspor v historii a jejich predikce na další roky
 B. Aktuální úspory EPC projektu v jednotlivých měsících
 C. Cashflow EPC projektu
