@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Motivační faktory pro zavedení energetického managementu
+title: Motivationsfaktoren für Einführung des Energie Managements
 author: enectiva
 keywords: "energetický management,motivace, náklady,udržitelnost"
 ---
