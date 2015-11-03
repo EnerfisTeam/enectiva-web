@@ -22,6 +22,6 @@ Unterschiedliche Gebäudearten können unterschiedliche Werte aufweisen. Damit S
 3. Vergleichen Sie Immobilien mit der gleichen Wärmequelle
 4. Vergleichen Sie Immobilien mit dem gleichen Nutzungszweck
 
-Vielleicht überrascht Sie Punkt 2, aber die Gebäudehöhe beeinflusst Možná vás zarazí bod 2, ale výška budovy ovlivňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich budov. Např. stáří, vybavenost, počet obyvatel, výšku nájemného atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
+Vielleicht überrascht Sie Punkt 2, aber die Gebäudehöhe beeinflusst ihre Technologieausrüstung. Darum ist es gut das Gebäudeportfolio in 3 Grundkategorien einzuteilen. Erdgeschoss, mittel-hohes Gebäude und Hochhaus Ggbf können Sie sich ein anderes Kriterium aussuchen, das die beste Aussage über Ihre Gebäudespektrum macht. Z.B. Alter, Ausrüstung, Bewohneranzahl, Höhe der Miete usw. Die Gebäude vergleichen Sie untereinander, aber gleichzeitig auch zu dem Durchschnitt und auch immer mit dem besten Gebäude im Portfolio.
 
-V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte [nás kontaktovat](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
+Im Falle Sie brauchen Hilfe mit der Einstellung der Kriterien für Energie Effizienz für ein wirksames Benchmarking, zögern Sie sich nicht [uns zu kontaktieren](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktformular").
