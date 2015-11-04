@@ -24,4 +24,4 @@ Unterschiedliche Gebäudearten können unterschiedliche Werte aufweisen. Damit S
 
 Vielleicht überrascht Sie Punkt 2, aber die Gebäudehöhe beeinflusst ihre Technologieausrüstung. Darum ist es gut das Gebäudeportfolio in 3 Grundkategorien einzuteilen. Erdgeschoss, mittel-hohes Gebäude und Hochhaus Ggbf können Sie sich ein anderes Kriterium aussuchen, das die beste Aussage über Ihre Gebäudespektrum macht. Z.B. Alter, Ausrüstung, Bewohneranzahl, Höhe der Miete usw. Die Gebäude vergleichen Sie untereinander, aber gleichzeitig auch zu dem Durchschnitt und auch immer mit dem besten Gebäude im Portfolio.
 
-Im Falle Sie brauchen Hilfe mit der Einstellung der Kriterien für Energie Effizienz für ein wirksames Benchmarking, zögern Sie sich nicht [uns zu kontaktieren](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktformular").
+Wenn Sie Hilfe mit der Einstellung der Kriterien für Energie Effizienz für ein wirksames Benchmarking brauchen, zögern Sie sich nicht [uns zu kontaktieren](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktformular").
