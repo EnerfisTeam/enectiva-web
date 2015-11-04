@@ -12,10 +12,10 @@ Die Firmen unterschiedlicher Größe und auch unterschiedlicher Richtungen sind 
 Wenn Sie einem Manager die Worte Energie Management sagen, 98% davon stellt sich Energie Ersparnisse und somit Kosten vor. Es ist das größte Motivation Element bei Einführung der Grundsätze der Energielenkung in den Firmen.
 
 **der Kunde**
-Nižší provozní náklady a efektivnější výroba jsou faktory, které přináší více finančních prostředků do vývoje, marketingu a obchodu. Tedy možnosti získávat nové trhy a zákazníky na nich.
+Niedrigere Betriebskosten und effiziente Herstellung sind Faktoren, die mehr finanzielle Mittel in die Entwicklung, in das Marketing und Geschäft bringen. Also Möglichkeiten neue Märkte und hier die Kunden gewinnen.
 
 **die Nachhaltigkeit/sustainability**
-Narozdíl od předchozích dvou faktorů je otázka udržitelnosti vnímána u manažerů čistě nákladově. Pokud pomineme vrcholový management, tak u manažerů je dlouhodobější horizont fungování firmy zcela opomíjen. Z těchto důvodů je nutno stanovovat strategické cíle i v oblasti energetického managementu na úrovni vrcholového managementu.
+Im Unterschied zu den zwei vorherigen Faktoren wird die Frage der Nachhaltigkeit durch die Manager rein als Kostenfrage wahrgenommen. Ausgenommen höher Management, wird eine langfristigere Funktionieren der Firma  bei den Managern ganz unterlassen. Aus diesen Gründen ist es nötig die strategischen Ziele in dem Bereich Energie Management auf der Ebene vom Topmanagement setzen. Z těchto důvodů je nutno stanovovat strategické cíle i v oblasti energetického managementu na úrovni vrcholového managementu.
 
 **die Legislative**
 Další z faktorů, který je vnímán čistě jako povinnost a jen další náklad pro firmu. Nicméně legislativa má v poslední době výrazný vliv na zavádění energeticky úsporných opatření u firem, investic do renovací např. zateplení budov. Tím  v konečném důsledu i zvyšování energetické efektivity. Bohužel současná legislativa již moc neřešení jejich vyhodnocení a tak se jedná velmi často o investice ne zcela návratné.
