@@ -9,7 +9,7 @@ keywords: "energetický management,motivace, náklady,udržitelnost"
 Firmy různých velikosti i různého zaměření jsou nuceny řešit otázky energetického managementu. I když pro většinu z nich nejsou energie největší nákladovou položkou ,jsou defakto všude. V každé divizi, v každém oddělení, v každém zařízení je použita nějaká forma energie a dříve nebo později se každá firma začne potýkat s otázkami, které řeší jejich spotřebu, cenu či efektivní využití. Důvody, které vedou firmy k řešení otázek energetického managementu jsou v zásadě čtyři:
 
 **Ekonomika**
-Pokud řeknete manařerovi slova energetický management, 98% z nich si vybaví úsporu energií a tedy nákadů. Je to největší motivační prvek k zavádění principů řízení energií ve firmách.
+Pokud řeknete manažerovi slova energetický management, 98% z nich si vybaví úsporu energií a tedy nákladů. Je to největší motivační prvek k zavádění principů řízení energií ve firmách.
 
 **Zákazník**
 Nižší provozní náklady a efektivnější výroba jsou faktory, které přináší více finančních prostředků do vývoje, marketingu a obchodu. Tedy možnosti získávat nové trhy a zákazníky na nich.

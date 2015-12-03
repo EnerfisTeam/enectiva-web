@@ -1,17 +1,17 @@
 ---
 layout: post
 published: true
-title: Slovník energetického manažera
+title: Energie Manager Wortschatz
 author: enectiva
-keywords: energetický management
+keywords: Energie Management
 ---
 
-Jistě to znáte. Každá profese má svůj specifický slovník, kterým se daná profese odlišuje od ostatních. Někdy se zdá, že dané obory si snad vytváří tyto termíny jen proto, aby bylo složitější je pochopit. A nejinak je tomu i v případě energetického managementu. Naším cílem je však zvyšovat povědomí. Chceme aby se společnosti chovaly efektivněji, a tak v tomto článku přinášíme soupis a vysvětlení těch nejčastějších pojmů, s kterými se můžete v oboru energetického managementu setkat.
-<img src="/img/blog/blog_slovnik.png" alt="Slovník energetického manažera" class="center">
+Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den sich der Job von den anderen unterscheidet. Manchmal scheint es, als ob sich die Bereiche diese Termine ausdenken, damit es schwieriger wäre sie zu begreifen. Und es ist nicht anders auch im Falle des Energie Managements. Unser Ziel ist aber das Bewusstsein zu erhöhen. Wir wollen, dass sich die Gesellschaften effizienter benehmen, und somit bringen wir in diesem Artikel eine Aufstellung und Erklärung der meistbenutzten Begriffen, die man im Bereich Energie Management begegnen kann.
+<img src="/img/blog/blog_wortschatz.png" alt="Energie Manager Wortschatz" class="center">
 
 <dl>
 <dt>Baseline</dt>
-<dd>úroveň spotřeby energie, která je použita pro stanovení úspor u zavedených úsporných opatření. Jedná se většinou o kombinaci teoretické spotřeby a naměřených reálných spotřeb za dobu 12-36 měsíců zpětně.</dd>
+<dd>die Höhe des Energieverbrauches, die für die Fest úroveň spotřeby energie, která je použita pro stanovení úspor u zavedených úsporných opatření. Jedná se většinou o kombinaci teoretické spotřeby a naměřených reálných spotřeb za dobu 12-36 měsíců zpětně.</dd>
 
 <dt>Denostupeň</dt>
 <dd>jedná se o ukazatel, díky kterému lze porovnávat spotřeby tepla v různých topných obdobích s různými klimatickými podmínkami. Je určen jako hodnota stanovená rozdílem mezi průměrnou vnitřní teplotou (tis) v domě a teplotou venkovní (tes) vynásobená počtem dnů otopného období. Laicky řečeno, čím více denostupňů, tím větší zima byla a tím více jste museli topit.</dd>
