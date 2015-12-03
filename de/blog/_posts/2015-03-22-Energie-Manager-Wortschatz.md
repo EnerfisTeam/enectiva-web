@@ -11,10 +11,10 @@ Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den
 
 <dl>
 <dt>Baseline</dt>
-<dd>die Höhe des Energieverbrauches, die für die Fest úroveň spotřeby energie, která je použita pro stanovení úspor u zavedených úsporných opatření. Jedná se většinou o kombinaci teoretické spotřeby a naměřených reálných spotřeb za dobu 12-36 měsíců zpětně.</dd>
+<dd>die Höhe des Energieverbrauches, die für die Ermittlung der Ersparnisse bei eingeführten Sparmaßnahmen. Es handelt sich meistens um Kombination von theoretischen Verbrauch und den realen gemessenen Verbrauch in den letzten 12-36 Monate. </dd>
 
-<dt>Denostupeň</dt>
-<dd>jedná se o ukazatel, díky kterému lze porovnávat spotřeby tepla v různých topných obdobích s různými klimatickými podmínkami. Je určen jako hodnota stanovená rozdílem mezi průměrnou vnitřní teplotou (tis) v domě a teplotou venkovní (tes) vynásobená počtem dnů otopného období. Laicky řečeno, čím více denostupňů, tím větší zima byla a tím více jste museli topit.</dd>
+<dt>Denograd</dt>
+<dd>es handelt sich um eine Kennzahl, dank dieser man den Heizverbrauch in verschiedenen Heizzeiträumen mit verschiedenen klimatischen Bedingungen vergleichen kann. Es wird bestimmt als Wert, der als Unterschied zwischen der durchschnittlichen Aussentempertur (tis) im Haus und Innentemperatur (tes) multipliziert Anzahl der Tage der Heizperiode, definiert ist. Laienhaft gesagt, je mehr Denograde, desto grösser die Kälte war und man musste mehr heizen.</dd>
 
 <dt>EM</dt>
 <dd>zkratka pro <em>Energetický Management</em>. Najdete spoustu odborných definic, ale energetický management je termín, kterým se vyjadřuje sledování spotřeby energií, nákladů za ně vynaložených a vyhledávání cest jak zvýšit jejich efektivnější využití.</dd>
