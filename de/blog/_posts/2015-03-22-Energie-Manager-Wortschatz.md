@@ -17,7 +17,7 @@ Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den
 <dd>es handelt sich um eine Kennzahl, dank dieser man den Heizverbrauch in verschiedenen Heizzeiträumen mit verschiedenen klimatischen Bedingungen vergleichen kann. Es wird bestimmt als Wert, der als Unterschied zwischen der durchschnittlichen Aussentempertur (tis) im Haus und Innentemperatur (tes) multipliziert Anzahl der Tage der Heizperiode, definiert ist. Laienhaft gesagt, je mehr Denograde, desto grösser die Kälte war und man musste mehr heizen.</dd>
 
 <dt>EM</dt>
-<dd>zkratka pro <em>Energetický Management</em>. Najdete spoustu odborných definic, ale energetický management je termín, kterým se vyjadřuje sledování spotřeby energií, nákladů za ně vynaložených a vyhledávání cest jak zvýšit jejich efektivnější využití.</dd>
+<dd>Abkürzung für<em>Energie Management</em>. Man findet viele fachliche Definitionen, aber Energie Management ist ein Begriff, der Verfolgung von Energieverbrauch, Energiekosten und das Suchen nach den Wegen wie man die Effizienz steigen kann, ausdrückt.</dd>
 
 <dt>EMIS</dt>
 <dd>zkratka pro <em>Energy Management Information System</em>. Česky informační systém energetického managemtu. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.</dd>
