@@ -66,6 +66,8 @@ main:
       path: hardware
     - name: Kontakt
       path: kontaktieren-sie-uns
+    - name: Blog
+      path: blog
 
 # Last position of contact is used in _includes/cta.html
 foot:
