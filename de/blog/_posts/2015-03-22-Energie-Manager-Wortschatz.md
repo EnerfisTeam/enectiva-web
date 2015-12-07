@@ -6,7 +6,7 @@ author: enectiva
 keywords: Energie Management
 ---
 
-Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den sich der Job von den anderen unterscheidet. Manchmal scheint es, als ob sich die Bereiche diese Termine ausdenken, damit es schwieriger wäre sie zu begreifen. Und es ist nicht anders auch im Falle des Energie Managements. Unser Ziel ist aber das Bewusstsein zu erhöhen. Wir wollen, dass sich die Gesellschaften effizienter benehmen, und somit bringen wir in diesem Artikel eine Aufstellung und Erklärung der meistbenutzten Begriffen, die man im Bereich Energie Management begegnen kann.
+Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den sich der Job von den anderen unterscheidet. Manchmal scheint es, als ob sich die Bereiche diese Termine ausdenken, damit es schwieriger wäre sie zu begreifen. Und es ist nicht anders auch im Falle des Energie Managements. Unser Ziel ist aber das Bewusstsein zu erhöhen. Wir wollen, dass sich die Gesellschaften effizienter benehmen, und somit bringen wir in diesem Artikel eine Aufstellung und Erklärung der meistbenutzten Begriffen, die man im Bereich Energie Management begegnen kann.
 <img src="/img/blog/blog_wortschatz.png" alt="Energie Manager Wortschatz" class="center">
 
 <dl>
@@ -20,10 +20,10 @@ Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den
 <dd>Abkürzung für<em>Energie Management</em>. Man findet viele fachliche Definitionen, aber Energie Management ist ein Begriff, der Verfolgung von Energieverbrauch, Energiekosten und das Suchen nach den Wegen wie man die Effizienz steigen kann, ausdrückt.</dd>
 
 <dt>EMIS</dt>
-<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen annehmen für Lenkung der Energieverbrauches und damit verbundenen Kosten ermöglicht. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.</dd>
+<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen annehmen für Lenkung der Energieverbrauches und damit verbundenen Kosten ermöglicht.</dd>
 
 <dt>EnPIs</dt>
-<dd><em>Energy Performance Indicators</em>. Indikátory, které si stanoví společnost pro sledování energetické efektivity.</dd>
+<dd><em>Energy Performance Indicators</em>. Bezugszahlen, die die Gesellschaft für Energieeffizienz Verfolgung festlegt.</dd>
 
 <dt>EPC</dt>
 <dd><em>Energy Performance Contracting</em> je způsob jakým lze realizovat různá úsporná opatření včetně zajištěného financování. Pro klienta má tato forma poskytnutí energetických služeb výhodu v minimálním riziku. Investice do úsporného opatření je splácená až z dosažených úspor.</dd>
