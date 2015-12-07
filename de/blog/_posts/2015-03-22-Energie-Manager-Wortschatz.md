@@ -20,7 +20,7 @@ Das können Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den
 <dd>Abkürzung für<em>Energie Management</em>. Man findet viele fachliche Definitionen, aber Energie Management ist ein Begriff, der Verfolgung von Energieverbrauch, Energiekosten und das Suchen nach den Wegen wie man die Effizienz steigen kann, ausdrückt.</dd>
 
 <dt>EMIS</dt>
-<dd>Abkürzung für <em>Energy Management Information System</em>. Česky informační systém energetického managemtu. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.</dd>
+<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen annehmen für Lenkung der Energieverbrauches und damit verbundenen Kosten ermöglicht. Jedná se o nástroj, který umožňuje organizacím plánovat, rozhodovat se a přijmout opatření pro řízení spotřeby energie i nákladů s nimi spojených.</dd>
 
 <dt>EnPIs</dt>
 <dd><em>Energy Performance Indicators</em>. Indikátory, které si stanoví společnost pro sledování energetické efektivity.</dd>
