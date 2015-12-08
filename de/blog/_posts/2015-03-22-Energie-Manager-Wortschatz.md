@@ -32,13 +32,13 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd><em>Energieregulierungsamt</em> ist eine Organisation die den Energiemarkt in Tschechien reguliert. Jedes Jahr gibt Preisbestimmungen bezüglich Strom- und Gasbelieferung heraus.</dd>
 
 <dt>ESCO</dt>
-<dd><em>Energy Service Company</em>. Takto se souhrnně označují společnosti poskytující energetické služby a služby energetického managementu. </dd>
+<dd><em>Energy Service Company</em>. So werden Gesellschaften, die Energiedienstleistungen und Leistungen des Energie Management anbieten, bezeichnet. </dd>
 
 <dt>ISO 50001</dt>
-<dd>norma definující standardy v oblasti energetického managementu v rámci organizací.</dd>
+<dd>Eine Norm, die die Standards im Bereich Energie Management im Rahmen der Organisationen definiert.</dd>
 
 <dt>M-bus</dt>
-<dd>neboli <em>Metering bus</em> je název pro protokol a fyzickou sběrnici, které je hojně využívána pro sběr odečtů z měřidel energií.</dd>
+<dd>oder <em>Metering bus</em> je název pro protokol a fyzickou sběrnici, které je hojně využívána pro sběr odečtů z měřidel energií.</dd>
 
 <dt>Odběrné místo</dt>
 <dd>je místo, kde dochází k napojení odběratele energie na distribuční siť.</dd>
