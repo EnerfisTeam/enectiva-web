@@ -26,10 +26,10 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd><em>Energy Performance Indicators</em>. Bezugszahlen, die die Gesellschaft für Energieeffizienz Verfolgung festlegt.</dd>
 
 <dt>EPC</dt>
-<dd><em>Energy Performance Contracting</em> je způsob jakým lze realizovat různá úsporná opatření včetně zajištěného financování. Pro klienta má tato forma poskytnutí energetických služeb výhodu v minimálním riziku. Investice do úsporného opatření je splácená až z dosažených úspor.</dd>
+<dd><em>Energy Performance Contracting</em>  ist eine Art wie man verschiedene Sparmaßnahmen inklusive gesicherten Finanzierung realisieren kann. Für den Kunden hat diese Form der Energiedienstleistungen den Vorteil, dass es für den Kunden minimal Risiko gibt. Die Investition in die Sparmaßnahmen wird zurückgezahlt erst aus den erreichten Einsparungen.</dd>
 
 <dt>ERÚ</dt>
-<dd><em>Energetický Regulační Úřad</em> je oragnizace regulujicí energetický trh v ČR. Každoročně vydává cenová rozhodnutí týkající se dodávek elektřiny i plynu.</dd>
+<dd><em>Energieregulierungsamt</em> ist eine Organisation die den Energiemarkt in Tschechien reguliert. Jedes Jahr gibt Preisbestimmungen bezüglich Strom- und Gasbelieferung heraus.</dd>
 
 <dt>ESCO</dt>
 <dd><em>Energy Service Company</em>. Takto se souhrnně označují společnosti poskytující energetické služby a služby energetického managementu. </dd>
