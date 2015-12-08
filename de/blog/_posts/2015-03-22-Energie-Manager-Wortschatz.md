@@ -38,10 +38,10 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>Eine Norm, die die Standards im Bereich Energie Management im Rahmen der Organisationen definiert.</dd>
 
 <dt>M-bus</dt>
-<dd>oder <em>Metering bus</em> je název pro protokol a fyzickou sběrnici, které je hojně využívána pro sběr odečtů z měřidel energií.</dd>
+<dd>oder <em>Metering bus</em> ist Bezeichnung für ein Protokoll und eine physische Übertragungsleitung, die häufig für Sammeln der Ablesungen von den Energiemessgeräten genutzt werden.</dd>
 
-<dt>Odběrné místo</dt>
-<dd>je místo, kde dochází k napojení odběratele energie na distribuční siť.</dd>
+<dt>Entnahmestelle</dt>
+<dd>ist ein Ort, wo der Abnehmer an die  kde dochází k napojení odběratele energie na distribuční siť.</dd>
 
 <dt>Odběrový diagram</dt>
 <dd>někdy též označovaný jako diagram zatížení vyjadřuje průběh spotřeby energie za určité časové období. Můžete se setkat s diagramy denními, týdeními, měsíčními atd.</dd>
