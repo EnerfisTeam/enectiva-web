@@ -59,7 +59,7 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>ist eine Tätigkeit, die zu Erhöhung der Energie Effizienz bei der Energienutzung führt. Es muss sich nicht nur um Energieverbrauch Senkung handeln, aber auch um Kostensenkung, die für den Betrieb ausgegeben werden.</dd>
 
 <dt>Reservierte Kapazität</dt>
-<dd>ist abgemachter Wert von elektrischer Leistung, der der Großabnehmer  je sjednaná hodnota elektrického výkonu, který se velkoodběratel zavázal nepřekročit v časovém období. Typicky se jedná o jeden měsíc.</dd>
+<dd>ist abgemachter Wert von elektrischer Leistung, bei dem sich der Großabnehmer in bestimmten Zeitraum verpflichtet hat diesen nicht zu überschreiten. Typicky se jedná o jeden měsíc.</dd>
 
 <dt>SEU</dt>
 <dd><em>Significant Energy User</em> se označuje zařízení, které bylo shledáno jako významné z hlediska spotřeby v rámci organizace, kde se nachází.</dd>
