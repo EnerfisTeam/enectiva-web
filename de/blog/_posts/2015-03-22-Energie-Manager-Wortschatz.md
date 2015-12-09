@@ -55,8 +55,8 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dt>Primärenergie</dt>
 <dd>fachlich handelt es sich um Energie, bei der kein Prozesswechsel passiert ist. Es ist Energie, die in den Naturschätzen beinhaltet ist.</dd>
 
-<dt>Úsporné opatření</dt>
-<dd>taková činnost, která vede ke zvýšení efektivity při využití energie. Nemusí se jednat jen o snížení její spotřeby, ale i nákladů vynaložených na provoz.</dd>
+<dt>Sparmaßnahmen</dt>
+<dd>ist eine Tätigkeit, die zu Erhöhung der Energie Effizienz bei der Energienutzung führt. Es muss sich nicht nur um Energieverbrauch Senkung handeln, aber auch um Kostensenkung, die für den Betrieb ausgegeben werden.</dd>
 
 <dt>Rezervovaná kapacita</dt>
 <dd>je sjednaná hodnota elektrického výkonu, který se velkoodběratel zavázal nepřekročit v časovém období. Typicky se jedná o jeden měsíc.</dd>
