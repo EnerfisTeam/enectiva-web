@@ -46,14 +46,14 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dt>Entnahmediagramm</dt>
 <dd>manchmal auch als Belastungsdiagramm bezeichnet, zeigt den Verlauf von Energieverbrauch über einen bestimmten Zeitraum. Es gibt Tages-, Wochen-, Monatsdiagramme usw.</dd>
 
-<dt>Odečet</dt>
-<dd>činnost, kdy dojde k zápisu aktuálního stavu z měřidla energie.</dd>
+<dt>Ablesung</dt>
+<dd>eine Tätigkeit, bei der der aktuelle Stand des Energiemessgerätes eingetragen wird.</dd>
 
-<dt>Podružné měření</dt>
-<dd>měření energie v rámci organizace, které je umístěno za odběrným místem. Typicky se podružně měří nájemníci v administrativních budovách nebo výrobní zařízení v průmyslu.</dd>
+<dt>Nebenmessung</dt>
+<dd>Energiemessung im Rahmen einer Organisation, die hinter der Entnahmestelle plaziert ist. Als typische Nebenmessung sind Mieter in Bürogebäuden oder Produktionsanlagen in der Industrie.</dd>
 
-<dt>Primární energie</dt>
-<dd>odborně se jedná o energii, která neprošla žádným procesem přeměny. Je to energie, která obsažena v přírodních zdrojích.</dd>
+<dt>Primärenergie</dt>
+<dd>fachlich handelt es sich um Energie, bei der kein Prozesswechsel passiert ist. Es ist Energie, die in den Naturschätzen beinhaltet ist.</dd>
 
 <dt>Úsporné opatření</dt>
 <dd>taková činnost, která vede ke zvýšení efektivity při využití energie. Nemusí se jednat jen o snížení její spotřeby, ale i nákladů vynaložených na provoz.</dd>
