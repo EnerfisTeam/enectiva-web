@@ -41,10 +41,10 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>oder <em>Metering bus</em> ist Bezeichnung für ein Protokoll und eine physische Übertragungsleitung, die häufig für Sammeln der Ablesungen von den Energiemessgeräten genutzt werden.</dd>
 
 <dt>Entnahmestelle</dt>
-<dd>ist ein Ort, wo der Abnehmer an die  kde dochází k napojení odběratele energie na distribuční siť.</dd>
+<dd>ist ein Ort, wo der Energieabnehmer an das Distributionsnetz angeschlossen ist.</dd>
 
-<dt>Odběrový diagram</dt>
-<dd>někdy též označovaný jako diagram zatížení vyjadřuje průběh spotřeby energie za určité časové období. Můžete se setkat s diagramy denními, týdeními, měsíčními atd.</dd>
+<dt>Entnahmediagramm</dt>
+<dd>manchmal auch als Belastungsdiagramm bezeichnet, zeigt den Verlauf von Energieverbrauch über einen bestimmten Zeitraum. Es gibt Tages-, Wochen-, Monatsdiagramme usw.</dd>
 
 <dt>Odečet</dt>
 <dd>činnost, kdy dojde k zápisu aktuálního stavu z měřidla energie.</dd>
