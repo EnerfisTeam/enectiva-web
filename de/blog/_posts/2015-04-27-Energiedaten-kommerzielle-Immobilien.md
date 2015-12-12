@@ -1,12 +1,12 @@
 ---
 layout: post
 published: false
-title: "Energetická data - komerční nemovitosti"
+title: "Energiedaten - kommerzielle Immobilien"
 ---
 
-## Nejvíce v kancelářích plýtváme během státních svátků.
+## Am meistens verschwenden wir in den Büros während der Feiertage.
 
-Enectiva (www.enectiva.cz) je on-line nástroj pro energetický monitoring, který dokáže nejen odhalovat plýtvání, motivovat k úsporám, ale také poskytovat mnoho informací o energetických spotřebách. Ty následně leccos vypovídají o našem běžném chování. Statistiky, které zde prezentujeme byly vytvořeny ze vzorku 480 administrativních budov v městech nad 10tis. obyvatel po celé České republice.
+Enectiva (www.enectiva.cz) ist on-line Mittel für Energie Monitoring, das nicht nur die Verschwendungen entdecken kann und zur Ersparnissen motivieren kann, sondern auch viele Informationen über Energieverbräuche erteilen kann. Diese sagen folglich etliches über unserem üblichen Verhalten aus. Auswertungen, die wir hier präsentieren wurden aus Proben der 480 Bürogebäude in Städten über 10 Tausend Einwohner über die ganze Tschechische Republik zusammengebildet.
 
 Dle spotřeby elektrické energie pracujeme nejvíce v úterý a hned poté v pondělí. Od středy je to s naší pracovitostí čím dál horší. Rozdíl mezi úterkem a pátkem, kdy se dle spotřeby pracuje nejméně, je v průměru  6,01%. Tento rozdíl je výraznější ve větších open-space kancelářích než v menších do 200m2, kde činí tento rozdíl pouze 3,63 %. O víkendu klesne spotřeba kanceláře v průměru o 54,17% v porovnání se spotřebou během pracovního týdne. Co se týče měrného ukazatele spotřeny na m2 užitné plochy budovy, tak největší proceto budov vykazuje spotřebu 52,5 kWh/m2 za rok. Vždy velmi závisí na technologiích boduvy a zda je budova strojově chlazena či nikoli.
 
