@@ -73,9 +73,9 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dt>Watt</dt>
 <dd>ist Einheit für die Leistung. Ein Watt ist gleich der Leistung, um pro Sekunde eine mechanische Arbeit von einem Joule zu verrichten.</dd>
 
-<dt>Watthodina</dt>
-<dd>nejčastější jednotka energie v praxi. Jedná se o práci kterou vykoná stroj o výkonu jeden Watt za jednu hodinu.</dd>
+<dt>Wattstunde</dt>
+<dd>ist die häufigste Energieeinheit in der Praxis. Eine Wattstunde entspricht der Energie, welche eine Maschine mit einer Leistung von einem Watt in einer Stunde aufnimmt oder abgibt.</dd>
 </dl>
 
 
-Pokud narazíte na jiný termín z oblasti energetického managementu a nebudete si s ním vědět rady, ozvěte se nám a rádi Vám ho objasníme.
+Falls Sie auf einen anderen Fachausdruck aus dem Bereich der Energie Management stoßen und Sie wissen sich nicht zu helfen, melden Sie sich bei uns und wir erklären es Ihnen gerne.
