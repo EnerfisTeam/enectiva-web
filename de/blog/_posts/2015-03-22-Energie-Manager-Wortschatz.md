@@ -59,19 +59,19 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>ist eine Tätigkeit, die zu Erhöhung der Energie Effizienz bei der Energienutzung führt. Es muss sich nicht nur um Energieverbrauch Senkung handeln, aber auch um Kostensenkung, die für den Betrieb ausgegeben werden.</dd>
 
 <dt>Reservierte Kapazität</dt>
-<dd>ist abgemachter Wert von elektrischer Leistung, bei dem sich der Großabnehmer in bestimmten Zeitraum verpflichtet hat diesen nicht zu überschreiten. Typicky se jedná o jeden měsíc.</dd>
+<dd>ist abgemachter Wert von elektrischer Leistung, bei dem sich der Großabnehmer in bestimmten Zeitraum verpflichtet hat diesen nicht zu überschreiten. Es handelt sich meistens um einen Monat.</dd>
 
 <dt>SEU</dt>
-<dd><em>Significant Energy User</em> se označuje zařízení, které bylo shledáno jako významné z hlediska spotřeby v rámci organizace, kde se nachází.</dd>
+<dd><em>mit Significant Energy User</em> bezeichnet man eine Anlage, die als bedeutend im Hinblick auf Verbrauch im Rahmen einer Organisation vorgefunden wurde.</dd>
 
-<dt>Uhlíková stopa</dt>
-<dd>v zahraniční literatuře označována jako <em>Carbon Footprint</em> je celkové množství emisí skleníkových plynů (jako je oxid uhličitý a metan) vyjádřeno v ekvivalentech tun oxidu uhličitého.</dd>
+<dt>Kohlenstoffspur</dt>
+<dd>in ausländischer Literatur wird es als<em>Carbon Footprint</em> bezeichnet. Es ist gesamte Menge der Treibhausgasemissionen (wie Kohlendioxid und Methan) ausgedrückt in Aquivalent der Tonnen von Kohlendioxid.</dd>
 
-<dt>1/4 hodinové maximum</dt>
-<dd>v praxi se jedná o stejnou hodnotu jakou je rezervovaná kapacita. Limit pro maximální odebíraný příkon je stanoven na dobu 15 minut.</dd>
+<dt>15 Minuten Maximum</dt>
+<dd>In der Praxis handelt es sich um den gleichen Wert als reservierte Kapazität. Der Grenzwert für den maximal abnehmenden Leistung wurde auf 15 Minuten festgelegt.</dd>
 
 <dt>Watt</dt>
-<dd>jednotka výkonu, tedy výkonu, který je potřeba k vykonání práce 1 Joulu za 1 sekundu.</dd>
+<dd>ist Einheit für die Leistung. Ein Watt ist gleich der Leistung, um pro Sekunde eine mechanische Arbeit von einem Joule zu verrichten.</dd>
 
 <dt>Watthodina</dt>
 <dd>nejčastější jednotka energie v praxi. Jedná se o práci kterou vykoná stroj o výkonu jeden Watt za jednu hodinu.</dd>
