@@ -33,14 +33,14 @@ Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgefü
 
 ## Wärmeverbrauch
 
-Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch hat Einfluss nicht nur unsere Anwesenheit im Büro und unser Verhalten, aber auch Wetter, v. a. die Außentemperaturen. Aus diesem Grund macht es keinen Sinn die einzelnen Tage untereinander zu vergleichen, weil in den meisten Fällen sie nur die Außentemperaturen kopieren. Interresant ist aber Verbrauch Senkung am Wochenende, die an richtige Heizungseinstellung und richtige Gebäudereguliereung deutet. Vzali jsme proto spotřeby v jednotlivé pátky a porovnali je s nejbližšími sobotami. Pokles činil 28,31%. A poté nedělní spotřeby s pondělními, kde činil pokles spotřeby na vytápění 38,79%. 
+Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch hat Einfluss nicht nur unsere Anwesenheit im Büro und unser Verhalten, aber auch Wetter, v. a. die Außentemperaturen. Aus diesem Grund macht es keinen Sinn die einzelnen Tage untereinander zu vergleichen, weil in den meisten Fällen sie nur die Außentemperaturen kopieren. Interresant ist aber Verbrauch Senkung am Wochenende, die an richtige Heizungseinstellung und richtige Gebäudereguliereung deutet. Wir haben deswegen Verbräuche an einzelnen Freitagen genommen und haben diese mit nächsten Samstagen verglichen. Die Senkung betrug 28,31 %. Und dann die Verbräuche am Sonntag mit den Verbräuchen am Montag, wo Heizungsverbrauch um 38,79 % sinkte.      
+ 
+**Der meiste Prozentsatz der Gebäude weist spezifische Kennzahl für Wärmeverbrauch auf m² Fläche einen Wert von 135 kWh/m² im Jahr auf**. 50% der Gebäude weist einen Wärmejahresverbrauch zwischen 123-221 kWh/m² auf, durchschnittlicher Verbrauch beträgt 186 kWh/m² und mehr aussagekräftig ist dann Median 169 kWh/m². Der Unterschied ist vor allen verursacht durch die Qualität der Gebäudehülle und deren Isolationsparameter.
+![Wärmeverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba tepla.png)
 
-**Největší procento budov vykazuje měrný ukazatel spotřeby tepla na m² plochy hodnotu 135 kWh/m² za rok**. 50% budov vykazuje roční spotřebu tepla v rozmezí 123-221 kWh/m², průměrná spotřeba činí 186 kWh/m² a mnohem více vypovídající medián pak 169 kWh/m². Rozdíl je způsoben především kvalitou obálky budovy a jejími izolačními parametry.
-![Spotřeba tepla v administrativních budovách]({{site.baseurl}}/img/spotreba tepla.png)
+## Grundauswertungen von Energieverbräuchen in Verwaltungsgebäuden
 
-## Základní statistiky spotřeb energií v administrativních budovách
-
--![statistika.png]({{site.baseurl}}/img/statistika.png)
+-![Auswertung.png]({{site.baseurl}}/img/statistika.png)
 
 ## Nejvíce plýtváme o státních svátcích
 
