@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: Nejvíce plýtváme o státních svátcích
+title: Am meisten verschwenden wir die Energie am Feiertagen
 author: enectiva
-keywords: "spotřeba, elektřina,voda,teplo,statistika,administrativní"
+keywords: "Verbrauch, Strom, Wasser, Wärme, Auswertung, Verwaltungs-"
 ---
 
 
@@ -11,11 +11,11 @@ keywords: "spotřeba, elektřina,voda,teplo,statistika,administrativní"
 
 
 
-Statistiky a analýzy energetických dat, které zde uvádíme, byly vytvořeny týmem Enectiva na vzorku více než 400 administrativních budov v městech nad deset tisíc obyvatel po celé České republice.
+Energiedaten Auswertungen und Analysen, die wir hier aufführen, wurden durch Enectiva Team in einer Stichprobe von mehr als 400 Verwaltungsgebäude in den Städten über 10 000 Einwohner in der ganzen Tschechischen Republik geschafft. 
 
-## Spotřeba elektrické energie
+## Stromverbrauch
 
-Měrná spotřeba elektrické energie vztažená na m² užitné plochy se pohybuje u 50% administrativních budov v rozmezí 50,1-143,7 kWh/m². **Dle spotřeby elektrické energie pracujeme nejvíce v úterý**, kdy je spotřeba elektřiny nejvyšší a hned poté v pondělí. Od středy je to s naší pracovitostí čím dál horší. Rozdíl mezi úterkem a pátkem, kdy se dle spotřeby pracuje nejméně, je v průměru 6,01%. Tento rozdíl je výraznější ve větších open-space kancelářích než v menších do 200m². Tam činí tento rozdíl pouze 3,63%. O víkendu klesne spotřeba kanceláře v porovnání se spotřebou během pracovního týdne v průměru o 54,17%. 
+Spezifischer Stromverbrauch bezogen auf na m² der Nutzfläche bei 50% Verwaltungsgebäude beträgt 50,1-143,7 kWh/m². **Laut Stromverbrauch arbeiten wir am meisten am Dienstag**, wann der Stromverbrauch am höchsten ist und dann gleich am Montag. Ab Mittwoch ist es mit unserer Od středy je to s naší pracovitostí čím dál horší. Rozdíl mezi úterkem a pátkem, kdy se dle spotřeby pracuje nejméně, je v průměru 6,01%. Tento rozdíl je výraznější ve větších open-space kancelářích než v menších do 200m². Tam činí tento rozdíl pouze 3,63%. O víkendu klesne spotřeba kanceláře v porovnání se spotřebou během pracovního týdne v průměru o 54,17%. 
 
 Co se týče měrného ukazatele spotřeby na m² užité plochy budovy, tak největší procento budov vykazuje spotřebu 52,5 kWh/m² za rok. Vždy velmi závisí na
 technologiích budovy a zda je budova strojově chlazena či nikoli. Průměrná roční spotřeba na m² z celého sledovaného souboru budov činí 110,6 kWh/m² a medián tohoto souboru pak  90,5 kWh/m².
