@@ -17,12 +17,11 @@ Energiedaten Auswertungen und Analysen, die wir hier aufführen, wurden durch En
 
 Spezifischer Stromverbrauch bezogen auf na m² der Nutzfläche bei 50% Verwaltungsgebäude beträgt 50,1-143,7 kWh/m². **Laut Stromverbrauch arbeiten wir am meisten am Dienstag**, wann der Stromverbrauch am höchsten ist und dann gleich am Montag. Ab Mittwoch ist es mit unserer Arbeitsamkeit immer schlimmer. Unterschied zwischen Dienstag und Freitag, wann laut Verbrauch am wenigsten gearbeitet wird, ist im Durchschnitt 6,01%. Dieser Unterscheid ist markanter in größeren open-space Büros als in kleineren bis 200m². Hier ist der Unterschied nur 3,63%. Am Wochenende sinkt der Verbrauch im Büro im Vergleich mit dem Verbrauch während der Arbeitswoche im Durchschnitt um 54,17%. 
 
-Was spezifischenCo se týče měrného ukazatele spotřeby na m² užité plochy budovy, tak největší procento budov vykazuje spotřebu 52,5 kWh/m² za rok. Vždy velmi závisí na
-technologiích budovy a zda je budova strojově chlazena či nikoli. Průměrná roční spotřeba na m² z celého sledovaného souboru budov činí 110,6 kWh/m² a medián tohoto souboru pak  90,5 kWh/m².
-![Spotřeba elektřiny v administrativních budovách]({{site.baseurl}}/img/spotreba ele.png)
+Was spezifischer Kennzahl für Verbrauch auf m² der Gebäudenutzfläche betrifft, weist der meiste Prozentzahl der Gebäude einen Verbrauch von 52,5 kWh/m² im Jahr auf. Es ist immer sehr abhängig von Gebäudetechnologien und ob das Gebäude maschinell gekühlt wird oder nicht. Durchschnittlicher Jahresverbrauch auf m² von allen verfolgten Gebäuden beträgt 110,6 kWh/m² a Median beträgt dann 90,5 kWh/m².
+![Stromverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba ele.png)
 
 
-## Spotřeba vody
+## Wasserverbrauch
 
 Se spotřebou vody je to velmi obdobné. Nejvíce vody se přes pracovní týden spotřebuje v pondělí a hned poté v úterý. Nejmenší spotřeba je stejně jako v případě elektrické energie opět v pátek. Rozdíl mezi pondělkem a pátkem činí tentokrát 5,89%. **Během víkendu je patrný dramatický pokles o 87%** a v podstatě stejný pokles nastává i ve státní svátky. Měrný ukazatel spotřeby na užitnou plochu budovy vykazuje nejčastěji hodnotu 165 l/m² za rok a běžně se spotřeby pohybují v rozmezí 140-240 l/m².
 
