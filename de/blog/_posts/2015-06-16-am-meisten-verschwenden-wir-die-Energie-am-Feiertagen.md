@@ -23,17 +23,17 @@ Was spezifischer Kennzahl für Verbrauch auf m² der Gebäudenutzfläche betriff
 
 ## Wasserverbrauch
 
-Se spotřebou vody je to velmi obdobné. Nejvíce vody se přes pracovní týden spotřebuje v pondělí a hned poté v úterý. Nejmenší spotřeba je stejně jako v případě elektrické energie opět v pátek. Rozdíl mezi pondělkem a pátkem činí tentokrát 5,89%. **Během víkendu je patrný dramatický pokles o 87%** a v podstatě stejný pokles nastává i ve státní svátky. Měrný ukazatel spotřeby na užitnou plochu budovy vykazuje nejčastěji hodnotu 165 l/m² za rok a běžně se spotřeby pohybují v rozmezí 140-240 l/m².
+Beim Wasserverbrauch ist es ähnlich. Das meiste Wasser in der Arbeitswoche wird am Montag und dann gleich am Dienstag verbraucht. Der kleinste Verbrauch ist wie beim Strom wieder am Freitag. Unterschied zwischen Montag und Freitag beträgt diesmal 5,89%. **Am Wochenende ist ein dramatisches Sinken um 87% ersichtlich** und im wesentlichen das gleiche Absinken erfolgt auch am Feiertagen. Spezifische Verbrauchkennzahl auf Gebäudenutzfläche weist am meisten den Wert 165 l/m² im Jahr auf und Verbrauch bewegt sich zwischen 140-240 l/m².
 
-50% budov se pohybuje v rozmezí 160 l/m² až 330 l/m². Průměrná roční spotřeba ze všech sledovaných budov činí 307,6 l/m² a medián daného vzorku 235,9 l/m².
+50% der Gebäude bewegt sich im Bereich von 160 l/m² bis 330 l/m². Durchschnittlicher Jahreverbrauch aller verfolgten Gebäuden beträgt 307,6 l/m² a Median ist 235,9 l/m².
 
-Pokud je tedy roční spotřeba vody vaší nemovitosti na m² nižší jak uvedený medián 307,6 l/m², dostáváte se do lepší poloviny administrativních budov, co se využití vody týče.
-![Spotřeba vody v administrativních budovách]({{site.baseurl}}/img/spotreba vody.png)
+Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgeführter Median 307,6 l/m², gehören Sie zu der besseren Hälfte der Verwaltungsgebäude, was Wasserverbrauch betrifft.
+![Wasserverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba vody.png)
 
 
-## Spotřeba tepla
+## Wärmeverbrauch
 
-U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen naše přítomnost v kancelářích a naše chování, ale i vliv počasí a to zejména venkovní teploty. Z tohoto důvodu nemá smysl porovnávat jednotlivé dny mezi sebou, jelikož ve většině případů kopírují pouze venkovní teplotu. Zajímavým údajem je však pokles spotřeby o víkendu, který značí správné nastavení útlumu vytápění a správnou regulaci objektu. Vzali jsme proto spotřeby v jednotlivé pátky a porovnali je s nejbližšími sobotami. Pokles činil 28,31%. A poté nedělní spotřeby s pondělními, kde činil pokles spotřeby na vytápění 38,79%. 
+Bei Wärme und Gas ist die Situation mehr abwechslungsreich.. Na jeho spotřebu má vliv nejen naše přítomnost v kancelářích a naše chování, ale i vliv počasí a to zejména venkovní teploty. Z tohoto důvodu nemá smysl porovnávat jednotlivé dny mezi sebou, jelikož ve většině případů kopírují pouze venkovní teplotu. Zajímavým údajem je však pokles spotřeby o víkendu, který značí správné nastavení útlumu vytápění a správnou regulaci objektu. Vzali jsme proto spotřeby v jednotlivé pátky a porovnali je s nejbližšími sobotami. Pokles činil 28,31%. A poté nedělní spotřeby s pondělními, kde činil pokles spotřeby na vytápění 38,79%. 
 
 **Největší procento budov vykazuje měrný ukazatel spotřeby tepla na m² plochy hodnotu 135 kWh/m² za rok**. 50% budov vykazuje roční spotřebu tepla v rozmezí 123-221 kWh/m², průměrná spotřeba činí 186 kWh/m² a mnohem více vypovídající medián pak 169 kWh/m². Rozdíl je způsoben především kvalitou obálky budovy a jejími izolačními parametry.
 ![Spotřeba tepla v administrativních budovách]({{site.baseurl}}/img/spotreba tepla.png)
