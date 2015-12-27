@@ -42,8 +42,8 @@ Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch
 
 -![Auswertung.png]({{site.baseurl}}/img/statistika.png)
 
-## Nejvíce plýtváme o státních svátcích
+## Am meisten verschwenden wir die Energie am Feiertagen
 
-U všech energií je zajímavým údajem rozdíl spotřeby mezi státním svátkem a víkendem. Z hlediska obsazenosti a odvedené práce můžeme státní svátek považovat za srovantelný s nedělí a taktéž spotřeba by tomu měla odpovídat. Nicméně spotřeba elektřiny ve státní svátek je v průměru o 4-8% vyšší než právě v neděli a v případě tepla se jedná o řádově vyšší hodnoty. 
+Bei allen Energien ist interessante Angabe Verbrauchsunterschied zwischen einem Feiertag und Wochenende. Aus der Sicht der Belegungsdichte und der abgelieferten Arbeit kann man den Feiertag als Sonntag betrachten und es sollte auch der Verbrauch dazu entsprechen. Trotzdem ist Stromverbrauch am Feiertag höher im Durchschnitt um 4-8% als am Sonntag und im Falle der Wärme geht es um höchstwertige Werte.   
 
-**Ve státní svátky je spotřeba tepla o 28-40% vyšší než během nejbližšího víkendu**. Spotřeba tedy de-facto odpovídá běžnému pracovnímu dnu. To jen odhaluje potenciál, jaký je možno využít při zvyšování energetické efektivity v komerčních nemovitostech.
+**An Feiertagen ist Wärmeverbrauch um 28-40% höher als am nächsten Wochenende**.  Verbrauch entspricht also de-facto einem gängigen Arbeitstag. Das entdeckt das Potenzial, das man bei Steigung der Energieeffizienz in komerziellen Gebäuden nutzen kann.  
