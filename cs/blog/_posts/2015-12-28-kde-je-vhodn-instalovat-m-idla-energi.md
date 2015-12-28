@@ -2,9 +2,10 @@
 layout: post
 author: enectiva
 keywords: podružné měření
-published: false
+published: true
 title: Kde je vhodné instalovat měřidla energií
 ---
+
 
 V poslední době se množí dotazy našich zákazníků na téma, kam instalovat měřidla, případně detailnější podružné měření. Chtějí, aby následné měření energií dávalo smysl a mělo ekonomický přínos.
 
