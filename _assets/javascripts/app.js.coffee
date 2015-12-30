@@ -95,7 +95,7 @@ $ ->
 
         return unless allValid
 
-        $(this).find('.errorMessage').remove()
+        $(this).find('.error-message').remove()
 
         normalSubmitText = $submit.attr('value')
         alternativeSubmitText = contactFormI18n.submit_alt
@@ -109,7 +109,7 @@ $ ->
             $.each data.errors, (field, errs) ->
               $field = $form.find("input##{prefix}contact_form_#{field}")
               $.each errs, (i, err) ->
-                $field.after($('<div class="errorMessage">').text(err).show())
+                $field.after($('<div class="error-message">').text(err).show())
             $submit
               .removeAttr('disabled')
               .val(normalSubmitText)
