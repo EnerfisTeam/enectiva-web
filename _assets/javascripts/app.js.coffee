@@ -115,7 +115,7 @@ $ ->
               .val(normalSubmitText)
           else
             $form.after('<div class="notice">' + contactFormI18n.submitted + '</div>')
-            $form.find('input, select').attr('disbled', 'disabled')
+            $form.find('input, select').attr('disabled', 'disabled')
             setTimeout(->
               remove = $form.data('remove')
               if remove
