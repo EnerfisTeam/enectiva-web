@@ -1,0 +1,68 @@
+---
+layout: manual
+title: Enectiva REST API
+translations:
+---
+
+<div class="subheader">
+    <div class="container">
+        {% include breadcrumbs.html %}
+    </div>
+</div>
+
+<div class="content">
+    <div class="container">
+        <h1>Enectiva REST API</h1>
+        <p>Enectiva poskytuje <a href="https://jsapi.apiary.io/previews/enectivalibrarian/reference">REST API
+            Librarian</a>, která umožňuje automatizovat zadávání odečtů energií do Enectivy z jiných systémů.</p>
+    </div>
+</div>
+
+<div class="highlight">
+    <div class="container">
+        <div class="highlight__main">
+            Snadná Enectivy integrace s Vašimi systémy
+        </div>
+    </div>
+</div>
+
+
+<div class="content">
+    <div class="container">
+        
+        <h2>Kdy se hodí</h2>
+        <ul>
+            <li>Již sbíráte energetická data pomocí jiného systemu a chcete jej integrovat s Enectivou</li>
+            <li>Máte měřící hardware ve své kontrole a chcete využít Enectivu</li>
+        </ul>
+        <p>Enectiva je nástroj pro energetický management a odečty energií jsou pro ni klíčové. Nabízíme instalaci a konfiguraci měřícího vybavení, o které se plně staráme, ale pokud již energie měříte a data máte k dispozici, stačí je posílat do Enectivy pomocí této API.</p>
+        
+        <h2>Jak to funguje</h2>
+        <p>Použití API je velmi jednoduché: odečty se posílají v HTTP požadavcích, tj. pomocí technologie, na které stojí web a kterou lze snadno použít v jakémkoliv prostředí s přístupem k internetu. API zkontorluje každý přijatý odečet a předá ho Enectivě, kde se promítne do statistik. <a href="https://jsapi.apiary.io/previews/enectivalibrarian/reference">Kompletní technická dokumentace
+            (EN)</a> obsahuje připravený kód pro použití ve více než tuctu programovacích jazyků, tudíž propojení stávajícího systému s Enectivou je otázkou několika minut.</p>
+        
+        <figure>
+            <figcaption>Příklad pro ruční odeslání odečtu (cURL):</figcaption>
+<pre>
+<code>
+curl --include \
+     --request POST \
+     --header "Content-Type: application/vnd.api+json" \
+     --header "Authorization: Bearer: long.api.token" \
+     --header "Accept: application/vnd.api+json" \
+     --data-binary "{
+         \"data\": {
+             \"time\": \"2015-11-18T09:54:23+01:00\",
+             \"state\": 123456.78,
+             \"meter_id\": \"40AABB_007\",
+             \"unit\": \"kW\"
+         }
+     }" \
+'http://enectiva.cz:41115/readings/customerId'
+</code>
+</pre>
+        </figure>
+        
+        <p>Pro pravidelné odesílání odečtů stačí poskytnutý kód napojit na zdroj dat a posílat odečty periodicky.</p>
+    </div>
+</div>
