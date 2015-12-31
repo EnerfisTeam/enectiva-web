@@ -13,11 +13,11 @@ keywords: "Energie Überwachungssystem"
 
 **Zugänglichkeit heißt die Daten on-line zu haben.** Ihre Daten sollten woher auch immer und wann auch immer zugänglich sein. Vor allem in unserer Zeit, wann Flexibilität und Schnelligkeit bei den Entscheidungen gewünscht und Wettbewerbsvorteil ist. Wenn Ihre Energie Daten on-line sind, gibt es die Möglichkeit automatische Berichte oder Benachrichtigungen über Verschwendung auf Ihre Email Adresse oder direkt auf Ihr Handy zu senden. 
 
-**Otevřený, ale bezpečný systém** postavený na otevřených rozhraních dává možnost volby do budoucna. Implementovat proprietární řešení, která nejsou postavena na otevřených rozhraních zybtečné svazují ruce, jelikož ztrácíte možnost změny jak softwarové části energetického monitoringu, tak možnost změny hardwaru, který zajišťuje odečty měřidel.
+**Offenes aber sicheres System** gebaut auf offenen Schnittstellen gibt eine Wahlmöglichkeit für die Zukunft. Die proprietäre Lösungen zu implementieren, die nicht auf offenen Schnittstellen aufgebaut sind, wo man die Hände gebunden hat, weil man die Änderungsmöglichkeit von Software von Energie Überwachungssystem und auch Möglichkeit Hardware (Ablesungen von den Messgeräten) zu ändern verliert.
 
-**Cenová dostupnost** zajistí krátkou dobu návratnosti do systému zajišťující monitoring energií. Obecně se předpokládá, že detailní a průběžný energetický monitoring dokáže snížit náklady na energie v dlouhodobém horizontu o 12%. Dokáže to včasným odhalením plýtvání, které způsobují havárie či špatné nastavení technologií a taktéž zvýšenou motivací lidí, kteří vnímají zvýšenou kontrolu spotřeby energií po zavedení systému energetického monitoringu.
+**Zugänglicher Preis** gewährleistet in kurzer Zeit die Rückvergütung in das Energie Überwachungssystem. Allgemein wird vorrausgesetzt, dass detaillierte und kontinuierliche Energie Überwachung langfristig gesehen die Energiekosten rechtzeitig um 12% senken kann. Das passiert durch rechtzeitiges Erkennen von Verschwendungen, die Störungen oder fehlerhafte Technologie Einstellungen verursachen und genauso durch erhöhte Motivation der Leute, die strengere Kontrolle von Energie Verbrauch nach der Einführung von Überwachungssystem wahrnehmen.
 
-Je možné diskutovat o prioritách či důležitosti těchto jednotlivých bodů. V různých segmentech budou mít jistě rozdílnou důležitost, ale z našeho pohledu se jedná o základní pravidla funčního a z dlouhodobého hlediska efektivního systému monitoringu energií.
+Es ist möglich über die Prioritäten oder Wichtigkeit der einzelnen Punkte zu diskutieren. In verschiedenen Bereichen werden diese Punkte bestimmt unterschiedliche Wichtigkeit haben, aber aus unserer Sicht handelt es sich um Grundregeln von einem funktionierenden und langfristig gesehen effizienten Energie Überwachungssystem. 
 
 
 
