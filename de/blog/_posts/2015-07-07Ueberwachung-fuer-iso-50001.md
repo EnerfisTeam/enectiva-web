@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-title: Monitoring pro ISO 50001
+title: Überwachung für ISO 50001
 author: enectiva
-keywords: "ISO 50001, monitoring, norma"
+keywords: "ISO 50001, Überwachung, Norm"
 ---
 
 
-Ještě před měsícem by se daly počítat implementace ISO 50001 v českých firmách na prstech maximálně dvou rukou. Jedna novela zákona o hospodaření energiíí a všechno je jinak. Od 1.7.2015 vzniká velkých firmám nad 250 zaměstnanců a 50mil. EUR obrat povinnost zpracovávat energetické audity, případně jako alternativu zavést systém řízení ISO 50001. (3. variantě zavést ISO 14001 a jeden úvodní audit k tomu se nyní věnovat nebudeme). **Firem, kterých se to v České republice týka je cca 2150.**
+Noch vor einem Monat könnte man die Impementierung von ISO 50001 in tschechischen Firmen an den Fingern von maximal zwei Händen abzählen. Eine Gesetzesnovelle über Energiewirtschaft und alles ist anders. Ab dem 1.7.2015 entsteht bei den Großunternehmen über 250 Mitarbeiter und mit Umsatz 50 Millionen EUR Energieauditpflicht, eventuell als Alternative Energie Management System ISO 50001 einführen. (3. Variante ist ISO 14001 einführen und dazu ein Einführungsaudit, damit werden wir uns nicht beschäftigen). **Unternehmen, die es in der Tschechischen Republik betrifft sind cca 2150.**
 
 Díky systému monitoringu a reportingu Enectiva si můžete značně zjednodušit implementaci takovéto normy řízení. Od počátku byla Enectiva vyvíjena v souladu s požadavky normy ISO 50001. Aniž bychom někdy takovýto souběh zamýšleli, norma ISO 50001 se pro nás stala v některých chvílích vývoje etalonem, podle kterého jsme si uvtrzovali správnost našich rozhodnutí.**Enectiva může zcela pokrýt požadavky normy ISO 50001 na části monitoring, reporting, metering&verfication či monitoring a targeting**. S její pomocí dokážete velmi jendoduše zvládnout veškerou administrativu těchto oblastí a doba implementece celého systému ISO 50001 bude značně zkrácena.
 
