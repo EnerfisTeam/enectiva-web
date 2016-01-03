@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-title: Vylepšený energetický benchmarking
+title: Verbessertes Energie Benchmarking
 ---
 
 
-Benchmarking nebo chcete-li porovnávání spotřeb je vždy základním nástrojem energetického manažera. Prostým porovnáváním lze odhalit trendy ve spotřebách, odchylky od normálu a tímto způsobem plýtvání. Jedná se o základní a velmi rychlou pomůcku v energetickém managementu.
+Benchmarking oder wenn Sie möchten Vergleich von Verbräuchen ist immer grundlegendes Mittel vom Energie Manager. Durch einfachen Vergleich kann man Trends in Verbräuchen, Abweichungen von Normalstand und dadurch Verschwendungen entdecken. Es geht um ein grundlegendes und sehr schnelles Hilfsmittel in Energie Management.
 
-<img src="/img/srovnavaci grafy4.png" alt="Energetický benchmarking" class="center">
+<img src="/img/Vergleichsgrafiken4.png" alt="Energie Benchmarking" class="center">
 
 V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a ty jsem pro Vás aktuálně vylepšili. Využijí ho převážně správci a manažeři většího počtu budov. Nyní lze totiž porovnávat budovy, nájemníky, hospodářská střediska napříč celým portfoliem všech Vámi spravovaných nemovitostí.
 
