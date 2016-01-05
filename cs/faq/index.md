@@ -35,7 +35,7 @@ Je to velmi jednoduché, stačí nezaplatit další měsíční platbu a k Vaše
 
 ## V případě, že nezaplatím nebo zruším účet, má data budou smazána? 
 
-V případě nezaplacení měsíčního tarifu, ztratíte přístup k Vašemu účtu, ale data nebudou smazána dalších 30 dní. Pokud nedojde k obnovení účtu během těchto 30i dní, budou data následně smazána.
+V případě nezaplacení měsíčního tarifu, ztratíte přístup k Vašemu účtu, ale data nebudou smazána dalších 30 dní. Pokud nedojde k obnovení účtu během těchto 30 dní, budou data následně smazána.
 
 ## Jak jsou zabezpečena moje data?
 

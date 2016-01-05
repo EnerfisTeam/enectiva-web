@@ -24,7 +24,7 @@ keywords: ""
 <div class="highlight">
     <div class="container">
         <div class="highlight__main">
-            Propojte Enectivu snadno s Vašimi systémy přes API
+            Propojte Enectivu snadno s&nbsp;Vašimi systémy přes API
         </div>
     </div>
 </div>
@@ -32,28 +32,42 @@ keywords: ""
 
 <div class="content">
     <div class="container">
-        
+
         <h2>Příklady použití</h2>
-        <h3>Propojení se systémy MaR</h3>
-  
-        <p>Systémy měření a regulace mohou zasílat odečty z měřidel přímo na naše Enectiva servery. Tímto způsobem lze Enectiva taktéž integrovat i s jinými výrobci harwarových zařízení, které zajišťují odečty měřidel.</p>
-  
-        <h3>Propojení s účetním systémem</h3>
-  
-        <p>Náklady z faktur za energie mohou být zasílány přímo do Enectivy a ta je následně využívat pro statistiky související s energetickým managementem. Již nemusíte zadávat tyto údaje pouze ručně, ale proces plně automatizovat.</p>
-      
-      <h3>Propojení s firemními ERP systémy</h3>
-  
-        <p>Stejně jako s účetním SW lze Enectivu integrovat i s ostatními firemními systémy. Enectiva pak dokáže v rámci energetického managementu zpracovávat údaje o výrobě, obsazenosti, prodeji a další parametry, které jsou podstatné pro jakýkoli energetický benchmarking.</p>
-      
-      <h3>Propojení s vlastní meteostanicí</h3>
-  
-        <p>Pokud chcete aby vaše meteodata odpovídala přesně vaší nemovitosti, můžete vaši meteostanici propojit přímo s Enectiva serverem. Zasílat data o teplotě a ta mít následně propojena s vašim účtem a statistikami spotřeb plynu či tepla.</p>
-      
+        <div class="staggered">
+            <div class="staggered__item">
+                <h3>&hellip;se systémy MaR</h3>
+
+                <p>Systémy měření a regulace mohou zasílat odečty z měřidel přímo na naše Enectiva servery. Tímto způsobem lze Enectivu taktéž integrovat i s jinými výrobci harwarových zařízení, která zajišťují odečty měřidel.</p>
+            </div>
+
+            <div class="staggered__item staggered__item--inactive">
+                <h3>&hellip;s účetním systémem</h3>
+
+                <p>Náklady z faktur za energie mohou být zasílány přímo do Enectivy a ta je následně využívá pro statistiky související s energetickým managementem. Již nemusíte zadávat tyto údaje pouze ručně, ale proces plně automatizovat.</p>
+            </div>
+
+            <div class="staggered__item staggered__item--inactive">
+                <h3>&hellip;s firemními ERP systémy</h3>
+
+                <p>Stejně jako s účetním SW lze Enectivu integrovat i s ostatními firemními systémy. Enectiva pak dokáže v rámci energetického managementu zpracovávat údaje o výrobě, obsazenosti, prodeji a další parametry, které jsou podstatné pro jakýkoli energetický benchmarking.</p>
+            </div>
+
+            <div class="staggered__item staggered__item--inactive">
+                <h3>&hellip;s vlastní meteostanicí</h3>
+
+                <p>Pokud chcete aby vaše meteodata odpovídala přesně vaší nemovitosti, můžete vaši meteostanici propojit přímo s Enectiva serverem &mdash; zasílat data o teplotě a ta mít následně propojena s Vašim účtem a statistikami spotřeb plynu či tepla.</p>
+            </div>
+        </div>
+
         <h2>Jak to funguje</h2>
-        <p>Použití API je velmi jednoduché: odečty se posílají v HTTP požadavcích, tj. pomocí technologie, na které stojí web a kterou lze snadno použít v jakémkoliv prostředí s přístupem k internetu. API zkontorluje každý přijatý odečet a předá ho Enectivě, kde se promítne do statistik. <a href="http://docs.enectivalibrarian.apiary.io/">Kompletní technická dokumentace
-            (EN)</a> obsahuje připravený kód pro použití ve více než tuctu programovacích jazyků, tudíž propojení stávajícího systému s Enectivou je otázkou několika minut.</p>
-        
+        <p>Použití API je velmi jednoduché: odečty se posílají v HTTP požadavcích, tj. pomocí technologie, na které
+            stojí web a kterou lze snadno použít v jakémkoliv prostředí s přístupem k internetu. API zkontroluje každý
+            přijatý odečet a předá ho Enectivě, kde se promítne do statistik. <a
+                    href="http://docs.enectivalibrarian.apiary.io/">Kompletní technická dokumentace
+                (EN)</a> obsahuje připravený kód pro použití ve více než tuctu programovacích jazyků, tudíž propojení
+            stávajícího systému s Enectivou je otázkou několika minut.</p>
+
         <figure>
             <figcaption>Příklad pro ruční odeslání odečtu (cURL):</figcaption>
 <pre>

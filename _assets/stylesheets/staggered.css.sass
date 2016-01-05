@@ -1,0 +1,17 @@
+@import "variables.css.sass"
+
+.staggered
+  &__item
+    +margin-trailer(1)
+    h3
+      +adjust-font-size-to($base-font-size * 1.7)
+      line-height: 1.25em
+      margin-bottom: 0
+      padding-bottom: 0
+    @media(min-width: 700px)
+      display: inline-block
+      width: 47%
+      &:nth-child(2n+1)
+        margin-right: 2%
+    &--inactive
+      color: $unimportant

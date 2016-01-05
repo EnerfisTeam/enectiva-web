@@ -2,12 +2,12 @@
 # First item is used as an address to link to the given language
 main:
   cs:
-    - name: O Enectivě
-      path: o-enective
-    - name: Vlastnosti
-      path: vlastnosti-systemu
     - name: Řešení
       path: reseni
+    - name: Vlastnosti
+      path: vlastnosti-systemu
+    - name: API
+      path: api
     - name: Hardware
       path: hardware
     - name: Kontakt
