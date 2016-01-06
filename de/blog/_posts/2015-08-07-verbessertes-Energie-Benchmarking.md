@@ -20,7 +20,7 @@ Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese
 <div class="standalone">
  <img src="/img/2.png" class="left" alt="2" > 
  
- V dalších kroku vyberte typ entity, který chcete mezi s sebou porovnat. Pokud jste dle obrázku na úrovni kraje, můžete porovnat např. všechny nájemníky, budovy a skupiny budov v rámci zvoleného kraje a odhalit tak jeho nejhorší a nejlepší nemovitosti.
+ Im nächsten Schritt wählen Sie den Typ des Objektes, das Sie untereinander vergleichen wollen. Wenn Sie laut dem Bild auf der Ebene Landkreis sind, können Sie z.B. alle Mieter, Gebäude und Gebäudegruppen im Rahmen des ausgewählten Landkreises vergleichen und somit die besten und die schlechtesten Immobilien entdecken. Pokud jste dle obrázku na úrovni kraje, můžete porovnat např. všechny nájemníky, budovy a skupiny budov v rámci zvoleného kraje a odhalit tak jeho nejhorší a nejlepší nemovitosti.
 </div>
 
 <div class="standalone">
