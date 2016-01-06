@@ -1,18 +1,18 @@
 ---
 layout: post
-keywords: "iso 50001, energetický audit, implementace, pro, proti"
+keywords: "ISO 50001, Energieaudit, Einführunge, für, gegen"
 published: true
 author: enectiva
-title: "Energetický audit nebo ISO 50001?"
+title: "Energieaudit oder ISO 50001?"
 ---
 
 
 
-Máte velkou firmu a rozhodujete se zda implementovat ISO 50001 nebo energetický audit pro splnění platné legislativy k 5.prosinci 2015? Přínášíme několik argumentů pro a proti jednotlivých variant, které by Vám mohly pomoci při rozhodování. Pokud budete mít i po přečtení pochybnosti, neváhejte kontaktovat náš tým případně tým společnosti Enerfis.
+Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen oder Energieaudit durchführen um die gültige Legislative von 5.Dezember 2015 zu erfüllen? Wir bringen ein paar Argumente für und gegen die einzelnen Varianten, die Ihnen bei der Entscheidung helfen könnten. Falls Sie auch nach der dem Durchlesen Zweifel haben, zögern Sie sich nicht unser Team ggf. Team der Gesellschaft Enerfis zu kontaktieren..
 
-## Varianta ISO 50001
-### Argumenty pro:
-- Jedná se o komplexní nástroj, který prostupuje napříč celou firmou, zasahuje téměř všechna oddělení od HR po správu budov. Ovlivní procesy uvnitř firmy, ale i vztahy s vašimi dodavateli
+## Variante ISO 50001
+### Argumente für:
+- Es handelt sich um ein komplexes Werkzeug, das durch die ganze Firma Jedná se o komplexní nástroj, který prostupuje napříč celou firmou, zasahuje téměř všechna oddělení od HR po správu budov. Ovlivní procesy uvnitř firmy, ale i vztahy s vašimi dodavateli
 - Pokud se procesy dobře nastaví, tak systém a lidé v něm budou neustále generovat nové nápady na zlepšení
 - Každý rok je v rámci ISO 50001 provedena kontrola nastavených procesů nezávislým auditorem v rámci dozorových auditů a re-certifikačních auditů
 
