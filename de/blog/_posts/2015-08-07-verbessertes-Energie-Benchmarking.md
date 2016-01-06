@@ -37,5 +37,5 @@ Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese
 <div class="standalone">
  <img src="/img/5.png" class="left" alt="5" > 
  
- Veškeré statistiky lze zobrazit souhrnně v tabulce a následně exportovat do .xls. Na čtyři kliknutí myši dokážete tímto způsobem vyhodnotit energetickou efektivitu celého Vašeho portfolia, odhalit nejméně hospodárné jednotky a napřímit budoucí investice tam, kde budou mít největší efekt.
+ Alle Auswertungen kann man zusammenfassend in einer Tabelle darstellen und anschließend in .xls Format exportieren. Auf diese Art können Sie mit vier Mausklicks die Energieeffizienz von Ihrem Gebäudeportfolio auswerten, die Einheiten entdecken, die am wenigsten wirtschaftlich sind und die zukünftigen Investitionen so ausrichten, wo sie die meiste Wirkung haben werden.
 </div>
