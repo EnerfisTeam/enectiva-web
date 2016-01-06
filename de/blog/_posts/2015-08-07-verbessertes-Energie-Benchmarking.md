@@ -9,12 +9,12 @@ Benchmarking oder wenn Sie möchten Vergleich von Verbräuchen ist immer grundle
 
 <img src="/img/Vergleichsgrafiken4.png" alt="Energie Benchmarking" class="center">
 
-V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a ty jsem pro Vás aktuálně vylepšili. Využijí ho převážně správci a manažeři většího počtu budov. Nyní lze totiž porovnávat budovy, nájemníky, hospodářská střediska napříč celým portfoliem všech Vámi spravovaných nemovitostí.
+Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese habe ich wir für Sie aktuell verbessert. Diese werden überwiegend von Wirtschaftlern und Managern mehreren Gebäude genutzt. Jetzt kann man nämlich Gebäude, Mieter, wirtschaftliche Einheiten durch das ganzes Portfolio aller von Ihnen verwalteten Immobilien vergleichen.
 
 <div class="standalone">
  <img src="/img/1.png" class="left" alt="1">
  
- Vyberte si z možností zobrazení statistiky volbu srovnávacího grafu. Tato skupina statistik slouží k porovnávání energetické efektivity, nebo chcete-li benchmarkingu jednotlivých nájemníku, hospodářských středisek, budov, komplexů, celých regionů atd. mezi sebou.
+ Wählen Sie die Möglichkeit wie Sie die Auswertung der Vergleichsgrafik dargestellt werden haben wollen. Diese Gruppe der Auswertungen dient zum Vergleich der Energieeffizienz, oder anders gesagt zu Benchmarking der einzelnen Mieter, wirtschaftlicher Einheiten, Gebäude, Gebäudekomplexe oder ganzer Gebiete usw. untereinander.
 </div>
 
 <div class="standalone">
