@@ -20,19 +20,18 @@ Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese
 <div class="standalone">
  <img src="/img/2.png" class="left" alt="2" > 
  
- Im nächsten Schritt wählen Sie den Typ des Objektes, das Sie untereinander vergleichen wollen. Wenn Sie laut dem Bild auf der Ebene Landkreis sind, können Sie z.B. alle Mieter, Gebäude und Gebäudegruppen im Rahmen des ausgewählten Landkreises vergleichen und somit die besten und die schlechtesten Immobilien entdecken. Pokud jste dle obrázku na úrovni kraje, můžete porovnat např. všechny nájemníky, budovy a skupiny budov v rámci zvoleného kraje a odhalit tak jeho nejhorší a nejlepší nemovitosti.
+ Im nächsten Schritt wählen Sie den Typ des Objektes, das Sie untereinander vergleichen wollen. Wenn Sie laut dem Bild auf der Ebene Landkreis sind, können Sie z.B. alle Mieter, Gebäude und Gebäudegruppen im Rahmen des ausgewählten Landkreises vergleichen und somit die besten und die schlechtesten Immobilien entdecken. 
 </div>
 
 <div class="standalone">
  <img src="/img/3.png" class="left" alt="3" > 
  
- Vaše porovnání je vždy v určitém časovém intervalu. Typicky se porovnání nastavuje za jeden měsíc nebo rok, ale můžete porovnávat klidně za jeden den, týden či jiný rozsah. Velmi užitečnou funkcí je nastavení poměrového ukazatele, kdy je spotřeba vztažena na jednotku plochy nebo počet osob.
-</div>
+ Ihr Vergleich ist immer für einen bestimmten Zeitraum. Typisch ist die Einstellung - monatlicher oder jährlicher Vergleich, aber Sie können ruhig täglichen, wöchentlichen oder anderen Zeitraum einstellen. Nützliche Funktion ist die Einstellung von einer Verhältniskennzahl, wann der Verbrauch auf Flächeneinheit oder Personenanzahl bezogen ist. </div>
 
 <div class="standalone">
  <img src="/img/4.png" class="left" alt="4" > 
  
- V našem vzorovém příkladu porovnáváme spotřebu elektrické energie vztaženu na m2 obsazené plochy v rámci jednotlivých krajů. Enectiva bere v potaz spotřebu elektrické energie všech budov v rámci daného kraje. Nejhoší výsledek vykzuje hl.město Praha a např. Zlínský kraj 47,3 kWh/m2.
+ In unserem Musterbeispiel vergleichen wir Stromverbrauch auf m2 belegter Fläche in verschiedenen Landkreisen. Enectiva betrachtet Stromverbrauch aller Gebäude in einem Landkreis. Das schlechteste Ergebnis weist die Hauptstadt Prag und z.B. Zliner Landkreis 47,3 kWh/m2 auf.
 </div>
 
 <div class="standalone">
