@@ -24,9 +24,9 @@ Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen od
 ## Variante Energieaudit
 ### Argumente für:
 - Die Bearbeitungszeit und die Zeit zu Erreichung der konkreten Ergenisse ist viel mehr kürzer als im Falle der Einführung der ISO 50001
-- Energetický audit nezatěžuje administrativně celou firmu, řeší konkrétní oblasti a definuje konkrétní výstupy 
-- Při jedné lokalitě nebo jednotkách lokalit vychází varianta energetických auditů levněji než varianta ISO 50001.
-- Provedete audit a dle platné legislativy máte další 4 roky klid, nemusí se řešit dozorové a re-certifikační audity
+- Energieaudit belastet nicht administrativ die ganze Firma, löst konkrete Bereiche und definiert konkrete Outputs 
+- Bei einem Standort oder ein paar Standorten kommt die Variante Energieaudit billiger als die Variante ISO 50001
+- Sie führen ein Audit laut gültiger Legislative durch und die nächsten 4 Jahre haben Sie Ruhe, sie müssen keine Überwachungsaudits und Rezertifizierungen lösen
 
 ### Argumenty proti:
 - Jedná se pouze o "jeden výstřel" za čtyři roky, který nedokáže posuzovat možná úsporná opatření v mezidobí. Nejedná se o komplexní nástroj.
