@@ -12,9 +12,9 @@ Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen od
 
 ## Variante ISO 50001
 ### Argumente für:
-- Es handelt sich um ein komplexes Werkzeug, das durch die ganze Firma Jedná se o komplexní nástroj, který prostupuje napříč celou firmou, zasahuje téměř všechna oddělení od HR po správu budov. Ovlivní procesy uvnitř firmy, ale i vztahy s vašimi dodavateli
-- Pokud se procesy dobře nastaví, tak systém a lidé v něm budou neustále generovat nové nápady na zlepšení
-- Každý rok je v rámci ISO 50001 provedena kontrola nastavených procesů nezávislým auditorem v rámci dozorových auditů a re-certifikačních auditů
+- Es handelt sich um ein komplexes Werkzeug, das die ganze Firma beeinflusst und betrifft alle Abteilungen von HR bis zu Gebäudeverwaltung. Es beeinflusst die Prozesse innerhalb des Unternehmens, aber auch die Lieferantenbeziehungen
+- Falls dir Prozesse richtig eingestellt sind, dann wird das System und die Leute dauernd neue Verbesserungsideen bilden
+- Jedes Jahr im Rahmen ISO 50001 wird eine Überprüfung der eingestellten Prozesse durch einen unabhängigen Auditor durch ein Überwachungsaudits und durch eine Rezertifizierung durchgeführt
 
 ### Argumenty proti:
 - Obvykle delší doba implementace a delší doba vedoucí k  hmatatelným výsledkům
