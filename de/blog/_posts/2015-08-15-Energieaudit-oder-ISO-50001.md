@@ -19,11 +19,11 @@ Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen od
 ### Argumente gegen:
 - Meistens längere Einführungszeit und längere Zeit bis zu greifbaren Ergebnissen 
 - Viel Verwaltung rundherum, die Ihr Unternehmen unnötig belasten und bremsen kann
-- Meistens ist der Preis für Einführung, Zertifizierung, anschliessende Überwachungsaudits und Rezertifizierungen höher als bei einem Energieaudit.Cenu však může velmi ovlinit počet energetických auditů, tedy jedntlivých lokalit. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
+- Meistens ist der Preis für Einführung, Zertifizierung, anschliessende Überwachungsaudits und Rezertifizierungen höher als bei einem Energieaudit. Der Preis ist beeinflusst durch Anzahl der Energieaudits also durch Anzahl der einzelnen Standorte. Wenn es mehrere Standorte in einem Unternehmen gibt, dann ist der Preis für Energieaudits fast gleich wie bei Einführung von ISO 50001.
 
-## Varianta Energetický audit
-### Argumenty pro:
-- Doba zpracování a doba nutná k dosažení konkrétních výsledků je mnohem kratší než v případě implementace ISO 50001
+## Variante Energieaudit
+### Argumente für:
+- Die Bearbeitungszeit und die Zeit zu Erreichung der konkreten Ergenisse ist viel mehr kürzer als im Falle der Einführung der ISO 50001
 - Energetický audit nezatěžuje administrativně celou firmu, řeší konkrétní oblasti a definuje konkrétní výstupy 
 - Při jedné lokalitě nebo jednotkách lokalit vychází varianta energetických auditů levněji než varianta ISO 50001.
 - Provedete audit a dle platné legislativy máte další 4 roky klid, nemusí se řešit dozorové a re-certifikační audity
