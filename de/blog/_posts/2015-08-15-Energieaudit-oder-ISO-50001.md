@@ -16,10 +16,10 @@ Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen od
 - Falls dir Prozesse richtig eingestellt sind, dann wird das System und die Leute dauernd neue Verbesserungsideen bilden
 - Jedes Jahr im Rahmen ISO 50001 wird eine Überprüfung der eingestellten Prozesse durch einen unabhängigen Auditor durch ein Überwachungsaudits und durch eine Rezertifizierung durchgeführt
 
-### Argumenty proti:
-- Obvykle delší doba implementace a delší doba vedoucí k  hmatatelným výsledkům
-- Spousta administrativy kolem, která může zbytečně zatěžovat a zpomalovat vaši firmu
-- Obykle je cena za implementaci, certifikaci, následné dozorové audity a re-certifikace vyšší než v případě energetického auditu. Cenu však může velmi ovlinit počet energetických auditů, tedy jedntlivých lokalit. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
+### Argumente gegen:
+- Meistens längere Einführungszeit und längere Zeit bis zu greifbaren Ergebnissen 
+- Viel Verwaltung rundherum, die Ihr Unternehmen unnötig belasten und bremsen kann
+- Meistens ist der Preis für Einführung, Zertifizierung, anschliessende Überwachungsaudits und Rezertifizierungen höher als bei einem Energieaudit.Cenu však může velmi ovlinit počet energetických auditů, tedy jedntlivých lokalit. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
 
 ## Varianta Energetický audit
 ### Argumenty pro:
