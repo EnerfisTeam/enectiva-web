@@ -28,9 +28,9 @@ Haben Sie ein großes Unternehmen und entscheiden Sie ob ISO 50001 einführen od
 - Bei einem Standort oder ein paar Standorten kommt die Variante Energieaudit billiger als die Variante ISO 50001
 - Sie führen ein Audit laut gültiger Legislative durch und die nächsten 4 Jahre haben Sie Ruhe, sie müssen keine Überwachungsaudits und Rezertifizierungen lösen
 
-### Argumenty proti:
-- Jedná se pouze o "jeden výstřel" za čtyři roky, který nedokáže posuzovat možná úsporná opatření v mezidobí. Nejedná se o komplexní nástroj.
-- Pokud dojde k rekonstrukci nebo větší změně na lokalitě, kde byl již audit zpracován, tak nový audit zcela pozbývá platnosti.
-- Valná většina auditorů bude vyhledávat jako úsporná opatření ta, jenž mají velmi dlouhou dobu návratnosti jako zateplení, výměna oken, změna způsobu vytápění atp. Takováto opatření je poté v komerční sféře v podstatě nemožné implementovat. Tento argument lze vyvážit výběrem vhodné auditora, např. z týmu Enerfis, kde jsou cíleně školeni na vyhledávání beznákladových a nízkonákladových opatření.
+### Argumente gegen:
+- Es handelt sich nur um "einen Schuss" alle vier Jahre, der nicht die möglichen Sparmaßnahmen in der Zwischenzeit beurteilen kann. Es ist kein komplexes Werkzeug.
+- Wenn es zu einer Neugestaltung oder größerer Änderung am Standort, wo das Audit durchgeführt wurde, kommt, somit das neue Audit verliert ihre Gültigkeit.
+- Die meisten Auditoren werden Sparmaßnahmen aussuchen, die langfristige Rückflussdauer haben, wie z.B. Valná většina auditorů bude vyhledávat jako úsporná opatření ta, jenž mají velmi dlouhou dobu návratnosti jako zateplení, výměna oken, změna způsobu vytápění atp. Takováto opatření je poté v komerční sféře v podstatě nemožné implementovat. Tento argument lze vyvážit výběrem vhodné auditora, např. z týmu Enerfis, kde jsou cíleně školeni na vyhledávání beznákladových a nízkonákladových opatření.
 
 Věříme, že těchto několik argumentů Vám pomůže při rozhodování, jakou variantu zvolit. Pokud přeci jen váháte, tak nás neváhejte kontaktovat pro další konzultaci, případně našim zákazníkům nabízíme zpracování SWOT analýzy na konkrétní situace u konkrétní firmy. Kontaktovat můžete jak specialisty z týmu Enerfis tak z týmu Enectiva.
