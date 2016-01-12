@@ -13,9 +13,9 @@ Eine Bank ist ein typisches Modell für ein Unternehmen mit sehr umfangreicher O
 
 **Hauptaufgaben des Energie Managements im Bankwesen:**
 
-- ein Team bestimmen, das für das Energie Management zuständig ist und wird die kurzfristigen und auch die langfristigen Ziele einstellen
-- efektivní nákup všech energií pro celé portfolio poboček a lokalit
-- motivovaná facility management firma, která se stará o provoz jednotlivých lokalit
-- energetický monitoring, benchmarking a monitoring energetických nákladů jednotlivých poboček, který dokáže odhalit zbytečné plýtvání
+- ein Team bestimmen, das für das Energie Management zuständig ist und die kurzfristigen und auch die langfristigen Ziele einstellen wird
+- efizzienter Energieeinkauf für alle Standorte 
+- motivierte Facility Management Firma, die sich um Betrieb der einzelnen Standorte kümmert
+- Energie Überwachungssystem, Benchmarking und Überwachung der Energiekosten der einzelnen Standorte, die unnötige Verschwendung entdecken können
 
-Pokud chcete zavádět v bance pricipy funkčního energetického managementu, provést energetický audit, zavést princip řízení ISO 50001 či pomoci s vytvořením systému monitoringu energií, zašlete nám na sebe kontakt s popisem Vaší situace, řešení již bude na našem týmu.
+Falls Sie in Ihrer Bank die Grundsätze eines funktionellen Energie Managements einführen wollen, ein Energie Audit durchführen wollen, die Grundsätze von ISO 50001 einführen wollen oder Sie brauchen Hilfe mit Gestaltung von einem Energieüberwachungssystem, senden Sie uns Ihre Kontaktdaten mit Beschreibung Ihrer Situation und die Lösung liegt dann schon an unserem Team.
