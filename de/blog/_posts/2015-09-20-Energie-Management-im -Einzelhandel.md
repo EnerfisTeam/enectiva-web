@@ -15,12 +15,12 @@ Der nächste Teil, in dem wir uns mit den Individualitäten von Energie Manageme
 - Kühlsysteme
 - Lufttechniksysteme
 
-Pokud se pobočky nachází v obchodních centrech je zajímavé, že spotřeba na vytápění hlavně díky výkonu svítidel je velmi často zcela nulová a to i zimních měsících. O to více ale obchodny spotřebují energie na své chlazení a udržení tepelného komfortu.
+Wenn sich die Niederlasungen in Einkaufszentren befinden, ist es interessant, dass der Verbrauch für Heizung dank der Leistung der Leuchten oft fast Null ist und das auch im Wintermonaten. Um so mehr Energie verbrauchen die Geschäfte für ihr Abkühlen und Aufrechhaltung von dem Wärmekomfort.
 
-**Hlavní úkoly energetického manažera v oblasti maloobchodu:**
-- zamezit plýtvání v době mimo otevírací hodiny
-- detekovat včas havárie a špatně nastavené technologie, tzn. zavést energetický monitoring
-- aktivně zkoušet a vyhledávat nová úsporná opatření, která lze postupně nasazovat na všech lokalitách
-- provádět vicekolové tendry na výběr dotavele energií
+**Hauptaufgaben von Energie Manager im Bereich Einzelhandel:**
+- Verschwendung ausser Öffnungszeiten verhindern
+- Störungen und falsch eingestellte Technologien entdecken, d.h. Energie Überwachungssystem einführen
+- neue Sparmaßnahmen suchen und aktiv probieren, die man nach und nach in jeder Niederlasung einführen kann
+- Mehr-Runden-Ausschreibungen für Energielieferanten durchführen
 
-V případě, že chcete v oblasti retailu pomoci s nastavením procesů energetického managementu, zvést [ISO 50001](http://www.enerfis.cz/sluzby/energeticky-management/implementace-iso-50001/general-energy-management "ISO 50001") či zprovoznit energetický monitoring, neváhejte se na nás obrátit.
+Im Falle Sie brauchen im Bereich Einzelhandel Hilfe mit Einstellung der Prozesse des Energie Managements, [ISO 50001] einführen (http://www.enerfis.cz/sluzby/energeticky-management/implementace-iso-50001/general-energy-management "ISO 50001") oder ein Energie Überwachungssystem zum Laufen bringen, zögern Sie sich nicht an uns zu wenden.
