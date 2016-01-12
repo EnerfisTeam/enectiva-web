@@ -8,12 +8,12 @@ title: Energie Management im Einzelhandel
 
 
 
-Der nächste Teil, in dem wir uns mit den Individualitäten von Energie Management beschäftigen, betriftt Einzelhandel Bereiche und Einzelhandelsketten. Wenn Sie für Energie Management sorgen und sie haben die Rolle von Energie Manager für Einzelhandel, verfügen Sie gewöhnlich über einen wichtigen Vorteil gegenüber die anderen Energie Manager. Sie verwalten nämlich ein Gebäudeportfolio von Niederlasungen, das meistens sehr einfach zu vergleichen ist. Die einzelnen Niederlasungen/Geschäfte sind oft gleich was Größe, Anzahl der Mitarbeiter betriftt und genauso was den eingebauten Technologien betrifft. Diese Eigenschaft als [Energie Manager](http://www.enerfis.cz/sluzby/energeticky-management/externi-energetik "Externer Energetik") können Sie nutzen zum Verbrauchsvergleich zwischen den Niederlasungen auf ein m2, auf ein m2 der Verkaufsfläche, auf einen Angestellten oder zum Vergleich der Niederlasungen und ihrer Verbrauch während der Öffnungszeiten und während der Zeiten wenn geschlossen ist. V případě velkého portfolia je vzájemné porovnávání poboček vždy důležité a umožní se zaměřit rychle na nejproblematičtější pobočky, které zároveň skýtají největší potenciál. Ze zkušenosti víme, že taktéž monitoring spotřeby mimo otvírací hodiny je naprostou nutností, která dokáže odhalit nemalé plýtvání.
+Der nächste Teil, in dem wir uns mit den Individualitäten von Energie Management beschäftigen, betriftt Einzelhandel Bereiche und Einzelhandelsketten. Wenn Sie für Energie Management sorgen und sie haben die Rolle von Energie Manager für Einzelhandel, verfügen Sie gewöhnlich über einen wichtigen Vorteil gegenüber die anderen Energie Manager. Sie verwalten nämlich ein Gebäudeportfolio von Niederlasungen, das meistens sehr einfach zu vergleichen ist. Die einzelnen Niederlasungen/Geschäfte sind oft gleich was Größe, Anzahl der Mitarbeiter betriftt und genauso was den eingebauten Technologien betrifft. Diese Eigenschaft als [Energie Manager](http://www.enerfis.cz/sluzby/energeticky-management/externi-energetik "Externer Energetik") können Sie nutzen zum Verbrauchsvergleich zwischen den Niederlasungen auf ein m2, auf ein m2 der Verkaufsfläche, auf einen Angestellten oder zum Vergleich der Niederlasungen und ihrer Verbrauch während der Öffnungszeiten und während der Zeiten wenn geschlossen ist. Bei einem großen Gebäudeportfolio ist gegenseitiger Vergleich der Niederlasungen immer wichtig und es ermöglicht sich schnell auf die problematichsten Niederlasungen zu richten, wo das größte Potenzial versteckt ist. Aus der Erfahrung heraus, wissen wir das auch Energie Überwachung ausser die Öffnungszeiten unbedingt nötig ist, es kann eine nicht unbedeutende Verschwendung entdecken.
 
-**Nevjvýznamnějšími spotřebiči v maloobchodu jsou:**
-- osvětlení
-- chladící systémy
-- vzduchotechnické systémy
+**Die wichtigsten Energieverbrauchsgeräte im Einzelhandel sind:**
+- Beleuchtung
+- Kühlsysteme
+- Lufttechniksysteme
 
 Pokud se pobočky nachází v obchodních centrech je zajímavé, že spotřeba na vytápění hlavně díky výkonu svítidel je velmi často zcela nulová a to i zimních měsících. O to více ale obchodny spotřebují energie na své chlazení a udržení tepelného komfortu.
 
