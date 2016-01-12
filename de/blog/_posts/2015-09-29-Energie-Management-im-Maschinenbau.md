@@ -3,11 +3,11 @@ layout: post
 author: enectiva
 keywords: podružné měření
 published: true
-title: Energetický management ve strojírenství
+title: Energie Management im Maschinenbau
 ---
 
 
-V dalším dílu našeho seriálu týkající se energetického managementu se budeme věnovat oblasti strojírenských podniků. Strojírenství má v naší zemi dlouhotrvající tradici a tato historie nezřídka kdy ovliňuje i nahlížení na energetiku ve strojírenských firmách. Pro většinu těchto firem jsou energetické náklady až na třetím místě v jejich nákladové struktuře z čehož pramení částečný nezájem o tuto problematiku. Na prvním místě stojí náklady na zaměstanance a jejich mzdy, na druhém jsou to náklady na materiál a až na třetím náklady na energie. Z tohoto důvodu je energetika velmi často přehlíženým tématem a aktivní přístup k energetickému managementu je výsadou jen malého procenta českých strojírenských firem.
+Im nächsten Teil unserer Serie, die Energie Management betrifft, werden wir uns dem Bereich Maschinenbau Betriebe widmen. Maschinenbau hat in unserem Land lange Tradition und diese beeinflusst nicht selten auch die Ansicht auf die Energetik in Maschinenbau Betrieben.  Für die meisten Betriebe sind Energiekosten erst auf dritter Stelle in der Kostenstruktur und daher kommt auch teilweise Desinteresse für diese Problematik. Auf der ersten Stelle stehen die Kosten für Arbeitnehmer und ihre Löhne, auf der zweiten Stelle sind es die Materialkosten und erst auf der dritten Stelle die Energiekosten. Aus diesem Grund ist die Energetik oft ein übersehenes Thema und eine aktive Einstellung zu Energie Management gibt es nur bei wenigen tschechischen Maschinenbau Firmen.
 
 **Ve strojírenských firmám z pohledu energetického managementu vnímáme jako klíčové:**
 
