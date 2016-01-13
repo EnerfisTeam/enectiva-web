@@ -12,8 +12,8 @@ Im nächsten Teil unserer Serie, die Energie Management betrifft, werden wir uns
 **Aus der Sicht des Energie Managements im Maschinenbau Firmen halten wir für wichtig:**
 
 - Die Position von einem Betriebsenergetiker zu definieren. Dieser kümmert sich um Energie Management der Firma und ist dafür zuständig.
-- Laufendes Energie Überwachungssystem aller Eingangsenergien und anschließende Průběžný energetický monitoring všech vstupních energií a následné podružné měření dílčích hospodářských středisek i energeticky náročných výrobních technologií.
-- Energetický management je povýšen na sledovanou a vyhodnocovanou oblast z pozice top-managementu firmy.
+- Laufendes Energie Überwachungssystem aller Eingangsenergien und anschließendes Submetering einzelner wirtschaftlichen Einheiten und auch anspruchsvoller Herstellungstechnologien.  
+- Aus der Sicht des Top Magements erhebt sich Energie Management zu einem verfolgten und bewerteten Bereichy.
 
 Kapitolu samotnou ve strojírenských firmám tvoří oblast stlačeného vzuchu, který je zde hojně využíván. Jen málo firem si však uvědomuje o jak drahé medium se jedná. Energetická efektivita v oblasti stlačeného vzduchu začíná již ve fázi návrhu celého systému. Je nutné jednak navrhovat rozvody na minimální tlakové ztráty, zdroj stlačeného vzduchu dimenzovat dle potřeb firmy s možností regulace výkonu, umístění jednotlivých kompresorů s ohledem na možné využití odpadního tepla, které generují a v neposlední řadě motivovat zaměstnance, aby byli ochotni hlásit alespoň ty slyšitelné úniky vzuchu ze systému. Stejně tak vnímáme jako naprostý základ instalaci regulátoru 1/4 hodinového maxima v případě velkoodběratelů elektrické energie.
 
