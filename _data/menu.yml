@@ -59,7 +59,7 @@ main:
       path: contattaci
     - name: Blog
       path: blog
-      
+
   es:
     - name: Enectiva
       path: acerca-de-enectiva
@@ -83,6 +83,18 @@ main:
       path: hardware
     - name: Kontakt
       path: kontaktieren-sie-uns
+
+  fr:
+    - name: Řešení
+      path: reseni
+    - name: Vlastnosti
+      path: vlastnosti-systemu
+    - name: API
+      path: api
+    - name: Hardware
+      path: hardware
+    - name: Contactez-nous
+      path: contactez-nous
 
 # Last position of contact is used in _includes/cta.html
 foot:
@@ -131,7 +143,7 @@ foot:
     - name: Enectiva Rules
       path: enectiva-rules
     - name: FAQ
-      path: faq  
+      path: faq
 #    - name: Security
 #      path: security
     - name: Contact Us
@@ -150,7 +162,7 @@ foot:
   es:
     - name: Programa de afiliación
       path: programa-de-afiliacion
-#    - name: Prensa   
+#    - name: Prensa
 #      path: prensa
     - name: Política de privacidad de Enectiva
       path: politica-de-privacidad-de-enectiva
@@ -158,3 +170,14 @@ foot:
 #      path: seguridad
     - name: Contacto
       path: contacto
+  fr:
+    - name: Programme de partenariat
+      path: programme-de-partenariat
+    - name: Média
+      path: media
+    - name: Règles d'Enectiva
+      path: regles-d-enectiva
+#    - name: Bezpečnost
+#      path: bezpecnost
+    - name: Contactez-nous
+      path: contactez-nous
