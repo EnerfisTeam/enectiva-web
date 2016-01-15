@@ -1,4 +1,21 @@
 ---
+home:
+  cs:
+    name: O Enectivě
+    path: o-enective
+  en:
+    name: About
+    path: about-enectiva
+  it:
+    name: Enectiva
+    path: enectiva
+  es:
+    name: Enectiva
+    path: acerca-de-enectiva
+  de:
+    name: Über Enectiva
+    path: ueber-enectiva
+
 # First item is used as an address to link to the given language
 main:
   cs:
