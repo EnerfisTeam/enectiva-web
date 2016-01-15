@@ -16,8 +16,8 @@ home:
     name: Über Enectiva
     path: ueber-enectiva
   fr:
-    name: Nous révélons les gaspillages et nous incitons aux économies
-    path: Nous-revelons-les-gaspillages-et-nous-incitons-aux-economies
+    name: Enectiva
+    path: enectiva
 
 # First item is used as an address to link to the given language
 main:
