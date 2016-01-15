@@ -138,3 +138,31 @@ de:
   form_type: "Anfrage betrifft"
   text: Ihre Nachricht (fakultativ)
   tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
+
+fr:
+  required: povinná pole
+  required_error: je povinné!
+  form_type_options:
+    podpora: Technická podpora
+    general: Obecné informace
+    obchod: Obchodní záležitosti
+    partner: Pro partnery
+    test: Zkušební přístup
+  heard_of_options:
+    internet: z internetu
+    partner: od obchodního partnera
+    letak: z letáků
+    znamy: od známého
+    odjinud: odjinud
+  submit: Odeslat
+  submit_alt: Odesílá se...
+  submitted: Formulář byl odeslán
+  email: E-mail
+  name: Jméno
+  company: Společnost
+  position: Vaše pozice
+  tel: Telefon
+  heard_of: Jak jste se o nás dozvěděli?
+  form_type: "Dotaz se týká"
+  text: Váš vzkaz (volitelné)
+  tell_us_more: Můžete nám o sobě říct ještě pár drobností?
