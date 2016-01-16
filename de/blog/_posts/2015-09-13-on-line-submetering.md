@@ -1,15 +1,15 @@
 ---
 layout: post
 author: enectiva
-keywords: podružné měření
+keywords: Submetering
 published: true
-title: "On-line podružné měření"
+title: "On-line Submetering"
 ---
 
 
-V případech, kde jeden objekt obývá více nájemníků je jen jedinný způsob, jak spravědlivě rozdělit náklady na energie. **Instalovat podružné měření**. Nejsnažší je zavést podružné měření v případě elektřiny, vody a plynu. O něco složitější je to pak v případě tepla a chladu. Spravidlivé rozdělení nákladů, ale není jediný důvod pro zavedení produžného měření. Mezi další patří:
+Im Falle, wenn ein Gebäude mehrere Mieter bewohnen, gibt es nur ein einziger Weg wie man die Energiekosten gerechtigt verteilen kann. **Submetering installieren**. Am einfachsten ist Submetering einführen bei Strom, Wasser und Gas. Ein bisschen schwieriger ist es bei Wärme und Kühlung. Die gerechtigte Kostenverteilung ist nicht der einzige Grund umd Submetering einzuführen. Unter andere Gründe gehören:
 
-- monitoring spotřeby jednotlivých technologií a jejich efektivního chodu
+- Überwachung von Verbräuchen der einzelnen Technologien und deren effizienter Betrieb
 - detekce úníků, černých odběrů a havárií
 - zvýšení povědomí o spotřebě energií
 - kontrola nákladů a spotřeb fakturovaných ze strany distribučních společností
