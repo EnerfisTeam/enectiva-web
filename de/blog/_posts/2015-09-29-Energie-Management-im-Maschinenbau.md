@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: podružné měření
+keywords: Submetering
 published: true
 title: Energie Management im Maschinenbau
 ---
