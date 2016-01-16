@@ -7,7 +7,7 @@ title: "On-line Submetering"
 ---
 
 
-Im Falle, wenn ein Gebäude mehrere Mieter bewohnen, gibt es nur ein einziger Weg wie man die Energiekosten gerechtigt verteilen kann. **Submetering installieren**. Am einfachsten ist Submetering einführen bei Strom, Wasser und Gas. Ein bisschen schwieriger ist es bei Wärme und Kühlung. Die gerechtigte Kostenverteilung ist nicht der einzige Grund umd Submetering einzuführen. Unter andere Gründe gehören:
+Im Falle, wenn ein Gebäude mehrere Mieter bewohnen, gibt es nur ein einziger Weg wie man die Energiekosten gerechtigt verteilen kann. **Submetering installieren**. Am einfachsten ist Submetering einführen bei Strom, Wasser und Gas. Ein bisschen schwieriger ist es bei Wärme und Kühlung. Die gerechtigte Kostenverteilung ist nicht der einzige Grund um Submetering einzuführen. Unter andere Gründe gehören:
 
 - Überwachung von Verbräuchen der einzelnen Technologien und deren effizienter Betrieb
 - Verschwendungen, illegale Stromabnahme und Störungen entdecken
