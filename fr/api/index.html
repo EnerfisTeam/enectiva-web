@@ -1,0 +1,96 @@
+---
+layout: manual
+title: Enectiva REST API
+translations:
+  cs: api
+published: true
+keywords: ""
+---
+
+
+<div class="subheader">
+    <div class="container">
+        {% include breadcrumbs.html %}
+    </div>
+</div>
+
+<div class="content">
+    <div class="container">
+        <h1>Enectiva REST API</h1>
+        <p>Enectiva <a href="http://docs.enectivalibrarian.apiary.io/">REST API
+            Librarian</a> permet à tous les utilisateurs de profiter de la fonctionnalité du système Enectiva sans qu'ils soient obligés d'installer un dispositif hardware approprié pour le rassemblement des données issues des compteurs. Grâce à API, il est possible de relier Enectiva avec vos systèmes d'entreprise, y compris avec le système comptable, le site, ou avec le système de mesure et régulation. Actuellement, nous offrons à votre pleine disposition API, qui sert à l'envoi des relevés énergétiques, comme il est décrit ci-dessous.</p>
+    </div>
+</div>
+
+<div class="highlight">
+    <div class="container">
+        <div class="highlight__main">
+            Relier simplement Enectiva avec&nbsp;vos système à l'aide d'API
+        </div>
+    </div>
+</div>
+
+
+<div class="content">
+    <div class="container">
+
+        <h2>Exemples de l'emploi</h2>
+        <div class="staggered">
+            <div class="staggered__item">
+                <h3>&hellip;avec les sytèmes de mesure et régulation</h3>
+
+                <p>Il est possible que les sytèmes de mesure et régulation envoient les relevés des compteurs directement sur nos serveurs Enectiva. Il est ainsi possible de relier Enectiva avec d'autres dispositifs hardware des producteurs différents.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;avec le système comptable</h3>
+
+                <p>Il est possible d'envoyer les frais issus des factures directement à Enectiva, qui s'en sert successivement pour l'élaboration des statistiques concernant le management énergétique. Vous ne serez plus obligé d'entrer les données manuellement, le processus est entièrement automatisé.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;avec les systèmes ERP d'entreprise</h3>
+
+                <p>De la même manière qu'avec des logiciels comptables, il est possible de relier Enectiva avec d'autres systèmes d'entreprise. Enectiva sera ainsi capable, en cadre du management énergétique, élaborer les données sur la production, le niveau d'occupation, la vente et sur d'autres parametres importants pour le benchmarking énergétique.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;avec votre station météo</h3>
+
+                <p>Si vous désirez que vos données météo correspondent exactement à votre bien immobilier, il est possible de relier votre station météo directement avec le serveur Enectiva &mdash; envoyer les données sur la température et avoir celles-ci successivement eliées avec votre compte et statistiques de la consommation du gaz et du chaleur.</p>
+            </div>
+        </div>
+
+        <h2>Comment ça fonctionne</h2>
+        <p>L'utilisation d'API est très simple: les relevés sont envoyés en protocole HTTP, c'est à dire, à l'aide de la technologie, qui
+            est à la base des sites et qui est facilement applicable dans n'importe quel environnement muni de l'accès sur Internet. API contrôle chaque
+            relevé reçu, pour le passer ensuite à Enectiva, ou il fera partie des statistiques. <a
+                    href="http://docs.enectivalibrarian.apiary.io/">Documentation technique complète
+                (EN)</a> comprend un code préparé pour l'application dans une douzaine de langages de programmation, cela veut dire que l'interconnexion
+            du système existant avec Enectiva ne prend que quelques minutes.</p>
+
+        <figure>
+            <figcaption>Exemple pour un envoi manuel du relevé (cURL):</figcaption>
+<pre>
+<code>
+curl --include \
+     --request POST \
+     --header "Content-Type: application/vnd.api+json" \
+     --header "Authorization: Bearer: long.api.token" \
+     --header "Accept: application/vnd.api+json" \
+     --data-binary "{
+         \"data\": {
+             \"time\": \"2015-11-18T09:54:23+01:00\",
+             \"state\": 123456.78,
+             \"meter_id\": \"40AABB_007\",
+             \"unit\": \"kW\"
+         }
+     }" \
+'http://enectiva.cz:41115/readings/customerId'
+</code>
+</pre>
+        </figure>
+        
+        <p>Pour un envoi régulier des relevés, il suffit de connecter le code préparé à la source des données et envoyer les relevés périodiquement.</p>
+    </div>
+</div>

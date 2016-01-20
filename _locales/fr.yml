@@ -1,53 +1,53 @@
-cs:
+fr:
   date:
     abbr_day_names:
-    - Ne
-    - Po
-    - Út
-    - St
-    - Čt
-    - Pá
-    - So
+    - Dim
+    - Lun
+    - Mar
+    - Mer
+    - Jeu
+    - Ven
+    - Sam
     abbr_month_names:
     -
-    - Led
-    - Úno
-    - Bře
-    - Dub
-    - Kvě
-    - Čvn
-    - Čvc
-    - Srp
-    - Zář
-    - Říj
-    - Lis
-    - Pro
+    - Janv
+    - Févr
+    - Mars
+    - Avr
+    - Mai
+    - Juin
+    - Juill
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Déc
     day_names:
-    - Neděle
-    - Pondělí
-    - Úterý
-    - Středa
-    - Čtvrtek
-    - Pátek
-    - Sobota
+    - Dimanche
+    - Lundi
+    - Mardi
+    - Mercredi
+    - Jeudi
+    - Vendredi
+    - Samedie
     formats:
-      default: ! '%d. %m. %Y'
-      long: ! '%d. %B %Y'
-      short: ! '%d %b'
+      default: "%d/%m/%Y"
+      short: "%e %b"
+      long: "%e %B %Y"
     month_names:
     -
-    - Leden
-    - Únor
-    - Březen
-    - Duben
-    - Květen
-    - Červen
-    - Červenec
-    - Srpen
-    - Září
-    - Říjen
-    - Listopad
-    - Prosinec
+    - Janvier
+    - Février
+    - Mars
+    - Avril
+    - Mai
+    - Juin
+    - Juillet
+    - Auguste
+    - Septembre
+    - Octobre
+    - Novembre
+    - Décembre
     order:
     - :day
     - :month
@@ -55,96 +55,94 @@ cs:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: asi hodinou
-        few: asi %{count} hodinami
-        other: asi %{count} hodinami
+        one: une heure environ
+        few: environ %{count} heures
+        other: environ %{count} heures
       about_x_months:
-        one: asi měsícem
-        few: asi %{count} měsíci
-        other: asi %{count} měsíci
+        one: un mois environ
+        few: environ %{count} mois
+        other: environ %{count} mois
       about_x_years:
-        one: asi rokem
-        few: asi %{count} roky
-        other: asi %{count} roky
+        one: un an environ
+        few: environ %{count} ans
+        other: environ %{count} ans
       almost_x_years:
-        one: téměř rokem
-        few: téměř %{count} roky
-        other: téměř %{count} roky
-      half_a_minute: půl minutou
+        one: presqu´un an
+        few: presque %{count} ans
+        other: presque %{count} ans
+      half_a_minute: 30 secondes
       less_than_x_minutes:
-        one: necelou minutou
-        few: ani ne %{count} minutami
-        other: ani ne %{count} minutami
+        one: presqu´une minute
+        few: ni %{count} minutes
+        other: ni %{count} minutes
       less_than_x_seconds:
-        one: necelou sekundou
-        few: ani ne %{count} sekundami
-        other: ani ne %{count} sekundami
+        one: presque une seconde
+        few: ni %{count} secondes
+        other: ni %{count} secondes
       over_x_years:
-        one: více než rokem
-        few: více než %{count} roky
-        other: více než %{count} roky
+        one: plus qu´un an
+        few: plus que %{count} ans
+        other: plus que %{count} ans
       x_days:
-        one: 24 hodinami
-        few: ! '%{count} dny'
-        other: ! '%{count} dny'
+        one: 24 heures
+        few: ! '%{count} jours'
+        other: ! '%{count} jours'
       x_minutes:
-        one: minutou
-        few: ! '%{count} minutami'
-        other: ! '%{count} minutami'
+        one: minute
+        few: ! '%{count} minutes'
+        other: ! '%{count} minutes'
       x_months:
-        one: měsícem
-        few: ! '%{count} měsíci'
-        other: ! '%{count} měsíci'
+        one: mois
+        few: ! '%{count} mois'
+        other: ! '%{count} mois'
       x_seconds:
-        one: sekundou
-        few: ! '%{count} sekundami'
-        other: ! '%{count} sekundami'
+        one: seconde
+        few: ! '%{count} secondes'
+        other: ! '%{count} secondes'
     prompts:
-      day: Den
-      hour: Hodina
-      minute: Minuta
-      month: Měsíc
-      second: Sekunda
-      year: Rok
+      day: Jour
+      hour: Heure
+      minute: Minute
+      month: Mois
+      second: Seconde
+      year: An
   errors: &errors
     format: ! '%{attribute} %{message}'
     messages:
-      accepted: musí být potvrzeno
-      blank: je povinná položka
-      confirmation: nebylo potvrzeno
-      empty: nesmí být prázdný/á/é
-      equal_to: musí být rovno %{count}
-      even: musí být sudé číslo
-      exclusion: je vyhrazeno pro jiný účel
-      greater_than: musí být větší než %{count}
-      greater_than_or_equal_to: musí být větší nebo rovno %{count}
-      inclusion: není v seznamu povolených hodnot
-      invalid: není platná hodnota
-      less_than: musí být méně než %{count}
-      less_than_or_equal_to: musí být méně nebo rovno %{count}
-      not_a_number: není číslo
-      not_an_integer: musí být celé číslo
-      odd: musí být liché číslo
-      record_invalid: ! 'Validace je neúspešná: %{errors}'
-      taken: již databáze obsahuje
-      too_long: je příliš dlouhý/á/é (max. %{count} znaků)
-      too_short: je příliš krátký/á/é (min. %{count} znaků)
-      wrong_length: nemá správnou délku (očekáváno %{count} znaků)
+      accepted: il faut confirmer
+      blank: c´est un élément obligatoire
+      confirmation: vous n´avez pas confirmé
+      empty: doit être rempli
+      equal_to: doit être égal %{count}
+      even: doit être un chiffre pair
+      exclusion: est exclu pour des buts différents
+      greater_than: doit être plus grand que %{count}
+      greater_than_or_equal_to: doit être plus grand ou égal %{count}
+      inclusion: ccela ne se trouve pas sur la liste des valeurs
+      invalid: cela n´est pas une valeur valide
+      less_than: doit être moins que %{count}
+      less_than_or_equal_to: doit être moins ou égal %{count}
+      not_a_number: pas de chiffre
+      not_an_integer: doit être un chiffre complet
+      odd: doit être un chiffre impair
+      record_invalid: ! 'Validation non réussie: %{errors}'
+      taken: la base de données déjà contient cela
+      too_long: trop long (max. %{count} de signes)
+      too_short: trop court (min. %{count} de signes)
+      wrong_length: mauvaise longueur (attendu %{count} de signes)
     template:
-      body: ! 'Následující pole obsahují chybně vyplněné údaje: '
+      body: ! 'Le champ suivant contient des erreurs: '
       header:
-        one: Při ukládání objektu %{model} došlo k chybám a nebylo jej možné uložit
-        few: Při ukládání objektu %{model} došlo ke %{count} chybám a nebylo možné
-          jej uložit
-        other: Při ukládání objektu %{model} došlo ke %{count} chybám a nebylo možné
-          jej uložit
+        one: La sauvegarde %{model} échouée, le contenu n'a pas pu être sauvegardé
+        few: La sauvegarde %{model} échouée %{count} le contenu n'a pas pu être sauvegardé
+        other: La sauvegarde %{model} échouée %{count} le contenu n'a pas pu être sauvegardé
   helpers:
     select:
-      prompt: Prosím vyberte si
+      prompt: Choisissez, s'il vous plaît
     submit:
-      create: Vytvořit %{model}
-      submit: Uložit %{model}
-      update: Aktualizovat %{model}
+      create: Créer %{model}
+      submit: Sauvegarder %{model}
+      update: Renouveller %{model}
   number:
     currency:
       format:
@@ -165,10 +163,10 @@ cs:
       decimal_units:
         format: ! '%n %u'
         units:
-          billion: Miliarda
+          billion: Miliard
           million: Milion
           quadrillion: Kvadrilion
-          thousand: Tisíc
+          thousand: Mille
           trillion: Bilion
           unit: ''
       format:
@@ -196,13 +194,12 @@ cs:
       two_words_connector: ! ' a '
       words_connector: ! ', '
   time:
-    am: ''
+    am: am
     formats:
-      default: ! '%a %d. %B %Y %H:%M %z'
-      long: ! '%A %d. %B %Y %H:%M'
-      display: ! '%e. %B %Y, %A'
-      short: ! '%d. %m. %H:%M'
-    pm: ''
+      default: "%d %B %Y %Hh %Mmin %Ss"
+      long: "%A %d %B %Y %Hh%M"
+      short: "%d %b %Hh%M"
+    pm: pm
   # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
   activemodel:
     errors:
@@ -210,21 +207,21 @@ cs:
   activerecord:
     errors:
       <<: *errors
-  meta_description: 'Enectiva je webový informační systém určený pro energetický management administrativních budov, obchodních center a ostatních nemovitostí komerčního zaměření.' # duplicated in the application
-  meta_keywords: 'Enectiva, energetický management, energetický monitoring, úsporné projekty, úspory energií, monitoring energií, smart metering, dálkové odečty'
-  intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
+  meta_description: "Enectiva est un système de site informatif designé pour le managemet énergétique des bâtiments d'administration, des centres commerciaux et d'autres biens immobiliers de caractère commercial." # duplicated in the application
+  meta_keywords: "Enectiva, management énergétique, monitoring énergétique, projets d'économie, économies des énergies, smart metering, relevé à distence"
+  intro: La solution du management énergétique a été inventée par la société 
   city: Praha
-  cta_intro: Zadejte e-mail a pošleme Vám přístup
+  cta_intro: Remplissez votre e-mail ou nous vous enverrons l'accès
 
   newsletter_signup:
     button: 'OK'
-    email_placeholder: 'Vyplňte svůj e-mail'
-    heading: 'Přihlaste se k odběru novinek'
+    email_placeholder: 'Remplissez votre e-mail'
+    heading: 'Inscrivez-vous pour les actualités'
     list_id: '18809a8f38'
 
   navigation:
-    back_to_homepage: Zpět na úvodní stránku
-    login: Přihlaste se do Enectivy
+    back_to_homepage: Retour à la première page
+    login: Registrer-vous à Enectiva
 
-  try_enectiva: Vyzkoušejte Enectivu
-  other_solutions: Další řešení
+  try_enectiva: Essayez Enectiva
+  other_solutions: D'autres solutions

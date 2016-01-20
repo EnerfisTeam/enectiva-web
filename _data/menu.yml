@@ -88,10 +88,10 @@ main:
       path: kontaktieren-sie-uns
 
   fr:
-    - name: Řešení
-      path: reseni
-    - name: Vlastnosti
-      path: vlastnosti-systemu
+    - name: Solutions
+      path: solutions
+    - name: Caractère du système
+      path: caractere-du-systeme
     - name: API
       path: api
     - name: Hardware
@@ -176,8 +176,8 @@ foot:
   fr:
     - name: Programme de partenariat
       path: programme-de-partenariat
-    - name: Média
-      path: media
+    - name: Medias
+      path: medias
     - name: Règles d'Enectiva
       path: regles-d-enectiva
 #    - name: Bezpečnost

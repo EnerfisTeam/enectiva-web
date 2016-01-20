@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enectiva hledá programátora/programátorku
+title: Enectiva cherche un programmateur/ une programmatrice
 ---
 
 # Enectiva cherche un programmateur/ une programmatrice

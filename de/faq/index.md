@@ -5,7 +5,7 @@ language: de
 translations: 
   en: faq
   cs: faq
-published: true
+  fr: foire-aux-questions
 ---
 
 ## Muss man irgendetwas installieren?

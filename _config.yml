@@ -117,7 +117,7 @@ prose:
     _solutions/de:
       - *KEYWORDS_DE
     _solutions/fr:
-      - *KEYWORDS_FR  
+      - *KEYWORDS_FR
     cs/blog/_posts:
       - name: "layout"
         field:
