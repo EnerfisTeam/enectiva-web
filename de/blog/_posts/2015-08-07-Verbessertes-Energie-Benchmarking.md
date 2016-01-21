@@ -9,7 +9,7 @@ Benchmarking oder wenn Sie möchten Vergleich von Verbräuchen ist immer grundle
 
 <img src="/img/Vergleichsgrafiken4.png" alt="Energie Benchmarking" class="center">
 
-Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese habe ich wir für Sie aktuell verbessert. Diese werden überwiegend von Wirtschaftlern und Managern mehreren Gebäude genutzt. Jetzt kann man nämlich Gebäude, Mieter, wirtschaftliche Einheiten durch das ganzes Portfolio aller von Ihnen verwalteten Immobilien vergleichen.
+Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese haben wir für Sie aktuell verbessert. Diese werden überwiegend von Wirtschaftlern und Managern mehreren Gebäude genutzt. Jetzt kann man nämlich Gebäude, Mieter, wirtschaftliche Einheiten durch das ganzes Portfolio aller von Ihnen verwalteten Immobilien vergleichen.
 
 <div class="standalone">
  <img src="/img/1.png" class="left" alt="1">
