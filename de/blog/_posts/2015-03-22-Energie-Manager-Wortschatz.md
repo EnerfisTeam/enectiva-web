@@ -11,7 +11,7 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 
 <dl>
 <dt>Baseline</dt>
-<dd>die Höhe des Energieverbrauches, die für die Ermittlung der Ersparnisse bei eingeführten Sparmaßnahmen. Es handelt sich meistens um Kombination von theoretischen Verbrauch und den realen gemessenen Verbrauch in den letzten 12-36 Monate. </dd>
+<dd>ist die Höhe des Energieverbrauches, die für die Ermittlung der Ersparnisse bei eingeführten Sparmaßnahmen benutzt wird. Es handelt sich meistens um Kombination von theoretischen Verbrauch und den realen gemessenen Verbrauch in den letzten 12-36 Monaten. </dd>
 
 <dt>Denograd</dt>
 <dd>es handelt sich um eine Kennzahl, dank dieser man den Heizverbrauch in verschiedenen Heizzeiträumen mit verschiedenen klimatischen Bedingungen vergleichen kann. Es wird bestimmt als Wert, der als Unterschied zwischen der durchschnittlichen Aussentempertur (tis) im Haus und Innentemperatur (tes) multipliziert Anzahl der Tage der Heizperiode, definiert ist. Laienhaft gesagt, je mehr Denograde, desto grösser die Kälte war und man musste mehr heizen.</dd>
@@ -20,7 +20,7 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>Abkürzung für<em>Energie Management</em>. Man findet viele fachliche Definitionen, aber Energie Management ist ein Begriff, der Verfolgung von Energieverbrauch, Energiekosten und das Suchen nach den Wegen wie man die Effizienz steigen kann, ausdrückt.</dd>
 
 <dt>EMIS</dt>
-<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen annehmen für Lenkung der Energieverbrauches und damit verbundenen Kosten ermöglicht.</dd>
+<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen für Lenkung der Energieverbrauches Einführung und damit verbundenen Kosten ermöglicht.</dd>
 
 <dt>EnPIs</dt>
 <dd><em>Energy Performance Indicators</em>. Bezugszahlen, die die Gesellschaft für Energieeffizienz Verfolgung festlegt.</dd>
@@ -49,8 +49,8 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dt>Ablesung</dt>
 <dd>eine Tätigkeit, bei der der aktuelle Stand des Energiemessgerätes eingetragen wird.</dd>
 
-<dt>Nebenmessung</dt>
-<dd>Energiemessung im Rahmen einer Organisation, die hinter der Entnahmestelle plaziert ist. Als typische Nebenmessung sind Mieter in Bürogebäuden oder Produktionsanlagen in der Industrie.</dd>
+<dt>Submetering</dt>
+<dd>Energiemessung im Rahmen einer Organisation, die hinter der Entnahmestelle plaziert ist. Als typisches Submetering kann man bezeichnen: Mieter in Bürogebäuden oder Produktionsanlagen in der Industrie.</dd>
 
 <dt>Primärenergie</dt>
 <dd>fachlich handelt es sich um Energie, bei der kein Prozesswechsel passiert ist. Es ist Energie, die in den Naturschätzen beinhaltet ist.</dd>
