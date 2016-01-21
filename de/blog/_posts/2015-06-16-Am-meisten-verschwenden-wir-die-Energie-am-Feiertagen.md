@@ -25,7 +25,7 @@ Was spezifischer Kennzahl für Verbrauch auf m² der Gebäudenutzfläche betriff
 
 Beim Wasserverbrauch ist es ähnlich. Das meiste Wasser in der Arbeitswoche wird am Montag und dann gleich am Dienstag verbraucht. Der kleinste Verbrauch ist wie beim Strom wieder am Freitag. Unterschied zwischen Montag und Freitag beträgt diesmal 5,89%. **Am Wochenende ist ein dramatisches Sinken um 87% ersichtlich** und im wesentlichen das gleiche Absinken erfolgt auch am Feiertagen. Spezifische Verbrauchkennzahl auf Gebäudenutzfläche weist am meisten den Wert 165 l/m² im Jahr auf und Verbrauch bewegt sich zwischen 140-240 l/m².
 
-50% der Gebäude bewegt sich im Bereich von 160 l/m² bis 330 l/m². Durchschnittlicher Jahreverbrauch aller verfolgten Gebäuden beträgt 307,6 l/m² a Median ist 235,9 l/m².
+50% der Gebäude bewegt sich im Bereich von 160 l/m² bis 330 l/m². Durchschnittlicher Jahresverbrauch aller verfolgten Gebäuden beträgt 307,6 l/m² a Median ist 235,9 l/m².
 
 Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgeführter Median 307,6 l/m², gehören Sie zu der besseren Hälfte der Verwaltungsgebäude, was Wasserverbrauch betrifft.
 ![Wasserverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba vody.png)
@@ -33,7 +33,7 @@ Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgefü
 
 ## Wärmeverbrauch
 
-Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch hat Einfluss nicht nur unsere Anwesenheit im Büro und unser Verhalten, aber auch Wetter, v. a. die Außentemperaturen. Aus diesem Grund macht es keinen Sinn die einzelnen Tage untereinander zu vergleichen, weil in den meisten Fällen sie nur die Außentemperaturen kopieren. Interresant ist aber Verbrauch Senkung am Wochenende, die an richtige Heizungseinstellung und richtige Gebäudereguliereung deutet. Wir haben deswegen Verbräuche an einzelnen Freitagen genommen und haben diese mit nächsten Samstagen verglichen. Die Senkung betrug 28,31 %. Und dann die Verbräuche am Sonntag mit den Verbräuchen am Montag, wo Heizungsverbrauch um 38,79 % sinkte.      
+Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch hat Einfluss nicht nur unsere Anwesenheit im Büro und unser Verhalten, aber auch Wetter, v. a. die Außentemperaturen. Aus diesem Grund macht es keinen Sinn die einzelnen Tage untereinander zu vergleichen, weil in den meisten Fällen kopieren sie nur die Außentemperaturen. Interresant ist aber Verbrauch Senkung am Wochenende, die an richtige Heizungseinstellung und richtige Gebäudereguliereung deutet. Wir haben deswegen Verbräuche an einzelnen Freitagen genommen und haben diese mit nächsten Samstagen verglichen. Die Senkung betrug 28,31 %. Und dann die Verbräuche am Sonntag mit den Verbräuchen am Montag, wo Heizungsverbrauch um 38,79 % sinkte.      
  
 **Der meiste Prozentsatz der Gebäude weist spezifische Kennzahl für Wärmeverbrauch auf m² Fläche einen Wert von 135 kWh/m² im Jahr auf**. 50% der Gebäude weist einen Wärmejahresverbrauch zwischen 123-221 kWh/m² auf, durchschnittlicher Verbrauch beträgt 186 kWh/m² und mehr aussagekräftig ist dann Median 169 kWh/m². Der Unterschied ist vor allen verursacht durch die Qualität der Gebäudehülle und deren Isolationsparameter.
 ![Wärmeverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba tepla.png)
@@ -46,4 +46,4 @@ Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch
 
 Bei allen Energien ist interessante Angabe Verbrauchsunterschied zwischen einem Feiertag und Wochenende. Aus der Sicht der Belegungsdichte und der abgelieferten Arbeit kann man den Feiertag als Sonntag betrachten und es sollte auch der Verbrauch dazu entsprechen. Trotzdem ist Stromverbrauch am Feiertag höher im Durchschnitt um 4-8% als am Sonntag und im Falle der Wärme geht es um höchstwertige Werte.   
 
-**An Feiertagen ist Wärmeverbrauch um 28-40% höher als am nächsten Wochenende**.  Verbrauch entspricht also de-facto einem gängigen Arbeitstag. Das entdeckt das Potenzial, das man bei Steigung der Energieeffizienz in komerziellen Gebäuden nutzen kann.  
+**An Feiertagen ist Wärmeverbrauch um 28-40% höher als am nächsten Wochenende**.  Verbrauch entspricht also de-facto einem gängigen Arbeitstag. Das entdeckt das Potenzial, das man bei Steigung der Energieeffizienz in kommerziellen Gebäuden nutzen kann.  
