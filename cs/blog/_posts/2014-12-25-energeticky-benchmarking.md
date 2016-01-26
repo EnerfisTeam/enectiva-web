@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Energetický benchmarking
 author: enectiva
-keywords: "energetický management,spotřeba, energie,budova"
+keywords: "energetický management, spotřeba, energie, budova"
 ---
 
 **Porovnávejte spotřeby svých nemovitostí**. 40% veškerých energií, které se ve světě spotřebují, připadá na spotřebu v budovách a jejich provoz. Nevěřili byste, jak velké rozdíly jsou mezi jednotlivými budovami. V našem týmu máme zkušenosti s budovami stejného typu, jejichž spotřeba se liší klidně i o 100%. I v kancelářských budovách "A" standardu jsou výrazné rozdíly. Námi sledovaná nejlepší budova A standardu vykazuje celkovou roční spotřebu 169 kWh/m2 a nejméně energeticky efektivní budova 304 kWh/m2.![Energetický benchmarking](/img/blog/Benchmarking budov2.png)
