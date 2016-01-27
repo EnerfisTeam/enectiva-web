@@ -140,29 +140,29 @@ de:
   tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
 
 fr:
-  required: povinná pole
-  required_error: je povinné!
+  required: champs obligatoires
+  required_error: c'est obligtoire!
   form_type_options:
-    podpora: Technická podpora
-    general: Obecné informace
-    obchod: Obchodní záležitosti
-    partner: Pro partnery
-    test: Zkušební přístup
+    podpora: Soutien technique
+    general: Informations générales
+    obchod: Affaires de commerce
+    partner: Pour les partenaires
+    test: Acces provisoire
   heard_of_options:
-    internet: z internetu
-    partner: od obchodního partnera
-    letak: z letáků
-    znamy: od známého
-    odjinud: odjinud
-  submit: Odeslat
-  submit_alt: Odesílá se...
-  submitted: Formulář byl odeslán
+    internet: sur Internete
+    partner: de la part d'un partenaire
+    letak: d'un prospectus
+    znamy: de la part d'un ami
+    odjinud: autrement
+  submit: Envoyer
+  submit_alt: Envoi en processus...
+  submitted: Le formulaire a été envoyé
   email: E-mail
-  name: Jméno
-  company: Společnost
-  position: Vaše pozice
-  tel: Telefon
-  heard_of: Jak jste se o nás dozvěděli?
-  form_type: "Dotaz se týká"
-  text: Váš vzkaz (volitelné)
-  tell_us_more: Můžete nám o sobě říct ještě pár drobností?
+  name: Nom
+  company: Société
+  position: Votre poste
+  tel: Téléphone
+  heard_of: Comment avez-vous découvert Enectiva?
+  form_type: "Le sujet de l question"
+  text: Votre message (facultatif)
+  tell_us_more: Pourriez-vous partager avec nous d'autres renseignements sur votre société?
