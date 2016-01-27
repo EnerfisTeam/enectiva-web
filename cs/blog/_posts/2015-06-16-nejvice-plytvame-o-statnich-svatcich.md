@@ -45,6 +45,6 @@ U tepla a plynu je situace mnohem pestřejší. Na jeho spotřebu má vliv nejen
 
 ## Nejvíce plýtváme o státních svátcích
 
-U všech energií je zajímavým údajem rozdíl spotřeby mezi státním svátkem a víkendem. Z hlediska obsazenosti a odvedené práce můžeme státní svátek považovat za srovantelný s nedělí a taktéž spotřeba by tomu měla odpovídat. Nicméně spotřeba elektřiny ve státní svátek je v průměru o 4-8% vyšší než právě v neděli a v případě tepla se jedná o řádově vyšší hodnoty. 
+U všech energií je zajímavým údajem rozdíl spotřeby mezi státním svátkem a víkendem. Z hlediska obsazenosti a odvedené práce můžeme státní svátek považovat za srovnatelný s nedělí a taktéž spotřeba by tomu měla odpovídat. Nicméně spotřeba elektřiny ve státní svátek je v průměru o 4-8% vyšší než právě v neděli a v případě tepla se jedná o řádově vyšší hodnoty. 
 
 **Ve státní svátky je spotřeba tepla o 28-40% vyšší než během nejbližšího víkendu**. Spotřeba tedy de-facto odpovídá běžnému pracovnímu dnu. To jen odhaluje potenciál, jaký je možno využít při zvyšování energetické efektivity v komerčních nemovitostech.
