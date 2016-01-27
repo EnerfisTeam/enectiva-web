@@ -7,7 +7,7 @@ title: "On-line podružné měření"
 ---
 
 
-V případech, kde jeden objekt obývá více nájemníků je jen jedinný způsob, jak spravědlivě rozdělit náklady na energie. **Instalovat podružné měření**. Nejsnažší je zavést podružné měření v případě elektřiny, vody a plynu. O něco složitější je to pak v případě tepla a chladu. Spravidlivé rozdělení nákladů, ale není jediný důvod pro zavedení produžného měření. Mezi další patří:
+V případech, kde jeden objekt obývá více nájemníků je jen jedinný způsob, jak spravedlivě rozdělit náklady na energie. **Instalovat podružné měření**. Nejsnažší je zavést podružné měření v případě elektřiny, vody a plynu. O něco složitější je to pak v případě tepla a chladu. Spravedlivé rozdělení nákladů, ale není jediný důvod pro zavedení podružného měření. Mezi další patří:
 
 - monitoring spotřeby jednotlivých technologií a jejich efektivního chodu
 - detekce úníků, černých odběrů a havárií
