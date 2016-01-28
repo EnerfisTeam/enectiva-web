@@ -93,19 +93,8 @@ foot:
       path: media
     - name: Pravidla Enectivy
       path: pravidla-enectivy
-#    - name: Bezpečnost
-#      path: bezpecnost
-    - name: Kontakt
-      path: kontaktujte-nas
-  de:
-    - name: Partnerský program
-      path: partnersky-program
-    - name: Média
-      path: media
-    - name: Pravidla Enectivy
-      path: pravidla-enectivy
-    - name: Časté dotazy
-      path: faq
+    - name: Vývojový blog
+      subdomain: developing
 #    - name: Bezpečnost
 #      path: bezpecnost
     - name: Kontakt
@@ -121,6 +110,8 @@ foot:
 #      path: sicherheit
     - name: Oft gestellte Fragen
       path: faq
+    - name: Entwickler Blog
+      subdomain: developing
     - name: Kontakt
       path: kontaktieren-sie-uns
   en:
@@ -134,6 +125,8 @@ foot:
       path: faq  
 #    - name: Security
 #      path: security
+    - name: Development blog
+      subdomain: developing
     - name: Contact Us
       path: contact-us
   it:
@@ -145,6 +138,8 @@ foot:
       path: regolamento-di-enectiva
 #    - name: Sicurezza
 #      path: sicurezza
+    - name: Blog sviluppo
+      subdomain: developing
     - name: Contattaci
       path: contattaci
   es:
@@ -156,5 +151,7 @@ foot:
       path: politica-de-privacidad-de-enectiva
 #    - name: Seguridad
 #      path: seguridad
+    - name: Blog de desarrollo
+      subdomain: developing
     - name: Contacto
       path: contacto
