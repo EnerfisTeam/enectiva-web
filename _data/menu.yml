@@ -138,7 +138,7 @@ foot:
       path: regolamento-di-enectiva
 #    - name: Sicurezza
 #      path: sicurezza
-    - name: Blog sviluppo
+    - name: Blog di sviluppo
       subdomain: developing
     - name: Contattaci
       path: contattaci
