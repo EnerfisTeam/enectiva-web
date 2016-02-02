@@ -39,6 +39,8 @@ main:
       path: features
     - name: Solutions
       path: solutions
+    - name: API
+      path: api
     - name: Hardware
       path: hardware
     - name: Contact Us
