@@ -1,0 +1,227 @@
+fr:
+  date:
+    abbr_day_names:
+    - Dim
+    - Lun
+    - Mar
+    - Mer
+    - Jeu
+    - Ven
+    - Sam
+    abbr_month_names:
+    -
+    - Janv
+    - Févr
+    - Mars
+    - Avr
+    - Mai
+    - Juin
+    - Juill
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Déc
+    day_names:
+    - Dimanche
+    - Lundi
+    - Mardi
+    - Mercredi
+    - Jeudi
+    - Vendredi
+    - Samedie
+    formats:
+      default: "%d/%m/%Y"
+      short: "%e %b"
+      long: "%e %B %Y"
+    month_names:
+    -
+    - Janvier
+    - Février
+    - Mars
+    - Avril
+    - Mai
+    - Juin
+    - Juillet
+    - Auguste
+    - Septembre
+    - Octobre
+    - Novembre
+    - Décembre
+    order:
+    - :day
+    - :month
+    - :year
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        one: une heure environ
+        few: environ %{count} heures
+        other: environ %{count} heures
+      about_x_months:
+        one: un mois environ
+        few: environ %{count} mois
+        other: environ %{count} mois
+      about_x_years:
+        one: un an environ
+        few: environ %{count} ans
+        other: environ %{count} ans
+      almost_x_years:
+        one: presqu´un an
+        few: presque %{count} ans
+        other: presque %{count} ans
+      half_a_minute: 30 secondes
+      less_than_x_minutes:
+        one: presqu´une minute
+        few: ni %{count} minutes
+        other: ni %{count} minutes
+      less_than_x_seconds:
+        one: presque une seconde
+        few: ni %{count} secondes
+        other: ni %{count} secondes
+      over_x_years:
+        one: plus qu´un an
+        few: plus que %{count} ans
+        other: plus que %{count} ans
+      x_days:
+        one: 24 heures
+        few: ! '%{count} jours'
+        other: ! '%{count} jours'
+      x_minutes:
+        one: minute
+        few: ! '%{count} minutes'
+        other: ! '%{count} minutes'
+      x_months:
+        one: mois
+        few: ! '%{count} mois'
+        other: ! '%{count} mois'
+      x_seconds:
+        one: seconde
+        few: ! '%{count} secondes'
+        other: ! '%{count} secondes'
+    prompts:
+      day: Jour
+      hour: Heure
+      minute: Minute
+      month: Mois
+      second: Seconde
+      year: An
+  errors: &errors
+    format: ! '%{attribute} %{message}'
+    messages:
+      accepted: il faut confirmer
+      blank: c´est un élément obligatoire
+      confirmation: vous n´avez pas confirmé
+      empty: doit être rempli
+      equal_to: doit être égal %{count}
+      even: doit être un chiffre pair
+      exclusion: est exclu pour des buts différents
+      greater_than: doit être plus grand que %{count}
+      greater_than_or_equal_to: doit être plus grand ou égal %{count}
+      inclusion: ccela ne se trouve pas sur la liste des valeurs
+      invalid: cela n´est pas une valeur valide
+      less_than: doit être moins que %{count}
+      less_than_or_equal_to: doit être moins ou égal %{count}
+      not_a_number: pas de chiffre
+      not_an_integer: doit être un chiffre complet
+      odd: doit être un chiffre impair
+      record_invalid: ! 'Validation non réussie: %{errors}'
+      taken: la base de données déjà contient cela
+      too_long: trop long (max. %{count} de signes)
+      too_short: trop court (min. %{count} de signes)
+      wrong_length: mauvaise longueur (attendu %{count} de signes)
+    template:
+      body: ! 'Le champ suivant contient des erreurs: '
+      header:
+        one: La sauvegarde %{model} échouée, le contenu n'a pas pu être sauvegardé
+        few: La sauvegarde %{model} échouée %{count} le contenu n'a pas pu être sauvegardé
+        other: La sauvegarde %{model} échouée %{count} le contenu n'a pas pu être sauvegardé
+  helpers:
+    select:
+      prompt: Choisissez, s'il vous plaît
+    submit:
+      create: Créer %{model}
+      submit: Sauvegarder %{model}
+      update: Renouveller %{model}
+  number:
+    currency:
+      format:
+        delimiter: ! ' '
+        format: ! '%n %u'
+        precision: 2
+        separator: ! ','
+        significant: false
+        strip_insignificant_zeros: false
+        unit: Kč
+    format:
+      delimiter: ! ','
+      precision: 3
+      separator: .
+      significant: false
+      strip_insignificant_zeros: false
+    human:
+      decimal_units:
+        format: ! '%n %u'
+        units:
+          billion: Miliard
+          million: Milion
+          quadrillion: Kvadrilion
+          thousand: Mille
+          trillion: Bilion
+          unit: ''
+      format:
+        delimiter: ''
+        precision: 1
+        significant: false
+        strip_insignificant_zeros: false
+      storage_units:
+        format: ! '%n %u'
+        units:
+          byte: B
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        delimiter: ''
+    precision:
+      format:
+        delimiter: ''
+  support:
+    array:
+      last_word_connector: ! ' a '
+      two_words_connector: ! ' a '
+      words_connector: ! ', '
+  time:
+    am: am
+    formats:
+      default: "%d %B %Y %Hh %Mmin %Ss"
+      long: "%A %d %B %Y %Hh%M"
+      short: "%d %b %Hh%M"
+    pm: pm
+  # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
+  activemodel:
+    errors:
+      <<: *errors
+  activerecord:
+    errors:
+      <<: *errors
+  meta_description: "Enectiva est un système de site informatif designé pour le managemet énergétique des bâtiments d'administration, des centres commerciaux et d'autres biens immobiliers de caractère commercial." # duplicated in the application
+  meta_keywords: "Enectiva, management énergétique, monitoring énergétique, projets d'économie, économies des énergies, smart metering, relevé à distence"
+  intro: La solution du management énergétique a été inventée par la société 
+  city: Praha
+  cta_intro: Remplissez votre e-mail ou nous vous enverrons l'accès
+
+  newsletter_signup:
+    button: 'OK'
+    email_placeholder: 'Remplissez votre e-mail'
+    heading: 'Inscrivez-vous pour les actualités'
+    list_id: '18809a8f38'
+
+  navigation:
+    back_to_homepage: Retour à la première page
+    login: Registrer-vous à Enectiva
+
+  try_enectiva: Essayez Enectiva
+  other_solutions: D'autres solutions

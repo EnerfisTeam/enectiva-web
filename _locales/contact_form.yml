@@ -138,3 +138,31 @@ de:
   form_type: "Anfrage betrifft"
   text: Ihre Nachricht (fakultativ)
   tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
+
+fr:
+  required: champs obligatoires
+  required_error: c'est obligtoire!
+  form_type_options:
+    podpora: Soutien technique
+    general: Informations générales
+    obchod: Affaires de commerce
+    partner: Pour les partenaires
+    test: Acces provisoire
+  heard_of_options:
+    internet: sur Internete
+    partner: de la part d'un partenaire
+    letak: d'un prospectus
+    znamy: de la part d'un ami
+    odjinud: autrement
+  submit: Envoyer
+  submit_alt: Envoi en processus...
+  submitted: Le formulaire a été envoyé
+  email: E-mail
+  name: Nom
+  company: Société
+  position: Votre poste
+  tel: Téléphone
+  heard_of: Comment avez-vous découvert Enectiva?
+  form_type: "Le sujet de l question"
+  text: Votre message (facultatif)
+  tell_us_more: Pourriez-vous partager avec nous d'autres renseignements sur votre société?

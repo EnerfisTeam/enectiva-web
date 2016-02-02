@@ -5,7 +5,7 @@ language: cs
 translations: 
   en: faq
   de: faq
-published: true
+  fr: foire-aux-questions
 ---
 
 ## Je nutné něco instalovat?
