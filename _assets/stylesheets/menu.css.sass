@@ -6,7 +6,7 @@
 .menu
   padding: .5em
   a
-    padding: .25em .9em
+    padding: .25em .4em
     display: block
     width: 100%
     text-decoration: none
@@ -63,6 +63,10 @@
     &--important
       +adjust-font-size-to($base-font-size)
 
+  @media(min-width: 920px)
+    a
+      padding: .25em .6em
+
   &__placeholder
     width: 100%
     height: 0
@@ -110,13 +114,9 @@
     +block-bottom-shadow
 
 html[lang=it] .menu
-  a
-    padding: .25em .4em
   &--main
     +adjust-font-size-to($base-font-size)
 
   @media(min-width: 920px)
-    a
-      padding: .25em .6em
     &--main
       +adjust-font-size-to($base-font-size * 1.1)
