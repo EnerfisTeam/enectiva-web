@@ -9,7 +9,7 @@ Benchmarking nebo chcete-li porovnávání spotřeb je vždy základním nástro
 
 <img src="/img/srovnavaci grafy4.png" alt="Energetický benchmarking" class="center">
 
-V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a ty jsem pro Vás aktuálně vylepšili. Využijí ho převážně správci a manažeři většího počtu budov. Nyní lze totiž porovnávat budovy, nájemníky, hospodářská střediska napříč celým portfoliem všech Vámi spravovaných nemovitostí.
+V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a ty jsme pro Vás aktuálně vylepšili. Využijí ho převážně správci a manažeři většího počtu budov. Nyní lze totiž porovnávat budovy, nájemníky, hospodářská střediska napříč celým portfoliem všech Vámi spravovaných nemovitostí.
 
 <div class="standalone">
  <img src="/img/1.png" class="left" alt="1">
@@ -32,7 +32,7 @@ V Enectivě je řešen energetický benchmarking pomocí srovnávacích grafů a
 <div class="standalone">
  <img src="/img/4.png" class="left" alt="4" > 
  
- V našem vzorovém příkladu porovnáváme spotřebu elektrické energie vztaženu na m2 obsazené plochy v rámci jednotlivých krajů. Enectiva bere v potaz spotřebu elektrické energie všech budov v rámci daného kraje. Nejhoší výsledek vykzuje hl.město Praha a např. Zlínský kraj 47,3 kWh/m2.
+ V našem vzorovém příkladu porovnáváme spotřebu elektrické energie vztaženu na m2 obsazené plochy v rámci jednotlivých krajů. Enectiva bere v potaz spotřebu elektrické energie všech budov v rámci daného kraje. Nejhorší výsledek vykazuje hl.město Praha a např. Zlínský kraj 47,3 kWh/m2.
 </div>
 
 <div class="standalone">

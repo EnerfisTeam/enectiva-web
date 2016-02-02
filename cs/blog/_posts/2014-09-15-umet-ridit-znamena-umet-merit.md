@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Umět řídit znamená umět měřit
 author: enectiva
-keywords: "odečty energií, energetický management, plýtvání,monitoring energií, spotřeba energií"
+keywords: "odečty energií, energetický management, plýtvání, monitoring energií, spotřeba energií"
 ---
 
 Nemůžete řídit, pokud nedokážete měřit. Tato odvěká poučka všech příruček pro manažery, platí v oblasti energetického managementu dvojnásob. Rozhodnutí se dělají vždy mnohem lépe a jsou i kvalitnější, pokud jsou **informace (energetická data) přesné, včas dostupné a důvěryhodné**. Velké procento organizací však stále spoléhá i při mnohamilionových investicích na ruční odečty měřidel. Ty jsou však velmi často nejen neúplné, ale i nepřesné.

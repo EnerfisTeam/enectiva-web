@@ -17,7 +17,7 @@ Máte velkou firmu a rozhodujete se zda implementovat ISO 50001 nebo energetick�
 - Každý rok je v rámci ISO 50001 provedena kontrola nastavených procesů nezávislým auditorem v rámci dozorových auditů a re-certifikačních auditů
 
 ### Argumenty proti:
-- Obvykle delší doba implementace a delší doba vedoucí k  hmatatelným výsledkům
+- Obvykle delší doba implementace a delší doba vedoucí k hmatatelným výsledkům
 - Spousta administrativy kolem, která může zbytečně zatěžovat a zpomalovat vaši firmu
 - Obykle je cena za implementaci, certifikaci, následné dozorové audity a re-certifikace vyšší než v případě energetického auditu. Cenu však může velmi ovlinit počet energetických auditů, tedy jedntlivých lokalit. Pokud je těchto poboček, lokalit více, tak cena za energetické audity v podstatě vyrovnává cenu za implementaci ISO 50001.
 
