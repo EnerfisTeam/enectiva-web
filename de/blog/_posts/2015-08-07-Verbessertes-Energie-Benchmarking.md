@@ -14,7 +14,7 @@ Bei Enectiva ist Energie Benchmarking gelöst durch Vergleichsgrafiken und diese
 <div class="standalone">
  <img src="/img/1.png" class="left" alt="1">
  
- Wählen Sie die Möglichkeit wie Sie die Auswertung der Vergleichsgrafik dargestellt werden haben wollen. Diese Gruppe der Auswertungen dient zum Vergleich der Energieeffizienz, oder anders gesagt zu Benchmarking der einzelnen Mieter, wirtschaftlicher Einheiten, Gebäude, Gebäudekomplexe oder ganzer Gebiete usw. untereinander.
+ Wählen Sie die Möglichkeit wie Sie die Auswertung der Vergleichsgrafik darstellen wollen. Diese Gruppe der Auswertungen dient zum Vergleich der Energieeffizienz, oder anders gesagt zu Benchmarking der einzelnen Mieter, wirtschaftlicher Einheiten, Gebäude, Gebäudekomplexe oder ganzer Gebiete usw. untereinander.
 </div>
 
 <div class="standalone">
