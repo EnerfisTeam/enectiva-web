@@ -8,7 +8,7 @@ title: "Energieaudit oder ISO 50001?"
 
 
 
-Haben Sie ein großes Unternehmen und entscheiden Sie sich ob ISO 50001 einzuführen oder Energieaudit durchzuführen um die gültige Legislative von 5.Dezember 2015 zu erfüllen? Wir bringen ein paar Argumente für und gegen die einzelnen Varianten, die Ihnen bei der Entscheidung helfen könnten. Falls Sie auch nach der dem Durchlesen Zweifel haben, zögern Sie sich nicht unser Team ggf. Team der Gesellschaft Enerfis zu kontaktieren..
+Haben Sie ein großes Unternehmen und entscheiden Sie sich ob ISO 50001 einzuführen oder Energieaudit durchzuführen um die gültige Legislative von 5.Dezember 2015 zu erfüllen? Wir bringen ein paar Argumente für und gegen die einzelnen Varianten, die Ihnen bei der Entscheidung helfen könnten. Falls Sie auch nach dem Durchlesen Zweifel haben, zögern Sie sich nicht unser Team ggf. Team der Gesellschaft Enerfis zu kontaktieren.
 
 ## Variante ISO 50001
 ### Argumente für:
@@ -33,4 +33,4 @@ Haben Sie ein großes Unternehmen und entscheiden Sie sich ob ISO 50001 einzufü
 - Wenn es zu einer Neugestaltung oder größerer Änderung am Standort, wo das Audit durchgeführt wurde, kommt, verliert somit das neue Audit ihre Gültigkeit.
 - Die meisten Auditoren werden Sparmaßnahmen aussuchen, die langfristige Rückflussdauer haben, wie z.B. Dämmung, Fensterwechsel, Heizungssystem Wechsel usw. Solche Maßnahmen sind dann in den kommerziellen Bereich im Grunde unmöglich zu verwirklichen. Dieses Argument kann man mit der Wahl des geeigneten Auditors ausgleichen, z.B. vom Team Enerfis, wo man gezielt geschult ist die Maßnahmen suchen, die geringe oder keine Kosten verursachen.
 
-Wir hoffen, dass diese Argumente Ihnen beim Entscheiden helfen können, welche Variante zu wählen. Falls Sie doch noch Zweifel haben, zögern Sie sich nicht uns zu kontaktieren für Beratung. Ggf. bieten wir unseren Kunden Bearbeitung der SWOT Analyse mit konkreter Situation bei konkreter Firma. Sie können Fachleute von Team Enerfis wie auch von Team Enectiva kontaktieren.
+Wir hoffen, dass Ihnen diese Argumente beim Entscheiden helfen können, welche Variante zu wählen. Falls Sie doch noch Zweifel haben, zögern Sie sich nicht uns zu kontaktieren, wir beraten Sie gerne. Ggf. bieten wir unseren Kunden Bearbeitung der SWOT Analyse mit konkreter Situation bei konkreter Firma. Sie können Fachleute von Team Enerfis wie auch von Team Enectiva kontaktieren.
