@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Am meisten verschwenden wir die Energie am Feiertagen
+title: Die meiste Energie verschwenden wir am Feiertagen
 author: enectiva
 keywords: "Verbrauch, Strom, Wasser, Wärme, Auswertung, Verwaltungs-"
 ---
@@ -27,7 +27,7 @@ Beim Wasserverbrauch ist es ähnlich. Das meiste Wasser in der Arbeitswoche wird
 
 50% der Gebäude bewegt sich im Bereich von 160 l/m² bis 330 l/m². Durchschnittlicher Jahresverbrauch aller verfolgten Gebäuden beträgt 307,6 l/m² a Median ist 235,9 l/m².
 
-Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgeführter Median 307,6 l/m², gehören Sie zu der besseren Hälfte der Verwaltungsgebäude, was Wasserverbrauch betrifft.
+Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner als aufgeführter Median 307,6 l/m² ist, gehören Sie zu der besseren Hälfte der Verwaltungsgebäude, was Wasserverbrauch betrifft.
 ![Wasserverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba vody.png)
 
 
@@ -35,14 +35,14 @@ Also wenn Jahreswasserverbrauch Ihrer Immobilie auf m² kleiner ist als aufgefü
 
 Bei Wärme und Gas ist die Situation mehr abwechslungsreich. Auf deren Verbrauch hat Einfluss nicht nur unsere Anwesenheit im Büro und unser Verhalten, aber auch Wetter, v. a. die Außentemperaturen. Aus diesem Grund macht es keinen Sinn die einzelnen Tage untereinander zu vergleichen, weil in den meisten Fällen kopieren sie nur die Außentemperaturen. Interresant ist aber Verbrauch Senkung am Wochenende, die an richtige Heizungseinstellung und richtige Gebäudereguliereung deutet. Wir haben deswegen Verbräuche an einzelnen Freitagen genommen und haben diese mit nächsten Samstagen verglichen. Die Senkung betrug 28,31 %. Und dann die Verbräuche am Sonntag mit den Verbräuchen am Montag, wo Heizungsverbrauch um 38,79 % sinkte.      
  
-**Der meiste Prozentsatz der Gebäude weist spezifische Kennzahl für Wärmeverbrauch auf m² Fläche einen Wert von 135 kWh/m² im Jahr auf**. 50% der Gebäude weist einen Wärmejahresverbrauch zwischen 123-221 kWh/m² auf, durchschnittlicher Verbrauch beträgt 186 kWh/m² und mehr aussagekräftig ist dann Median 169 kWh/m². Der Unterschied ist vor allen verursacht durch die Qualität der Gebäudehülle und deren Isolationsparameter.
+**Der meiste Prozentsatz der Gebäude weist spezifische Kennzahl für Wärmeverbrauch auf m² Fläche einen Wert von 135 kWh/m² im Jahr auf**. 50% der Gebäude weist einen Wärmejahresverbrauch zwischen 123-221 kWh/m² auf, durchschnittlicher Verbrauch beträgt 186 kWh/m² und mehr aussagekräftig ist dann Median 169 kWh/m². Der Unterschied ist vor allen durch die Qualität der Gebäudehülle und deren Isolationsparameter verursacht.
 ![Wärmeverbrauch in Verwaltungsgebäuden]({{site.baseurl}}/img/spotreba tepla.png)
 
 ## Grundauswertungen von Energieverbräuchen in Verwaltungsgebäuden
 
 -![Auswertung.png]({{site.baseurl}}/img/statistika.png)
 
-## Am meisten verschwenden wir die Energie am Feiertagen
+## Die meiste Energie verschwenden wir am Feiertagen
 
 Bei allen Energien ist interessante Angabe Verbrauchsunterschied zwischen einem Feiertag und Wochenende. Aus der Sicht der Belegungsdichte und der abgelieferten Arbeit kann man den Feiertag als Sonntag betrachten und es sollte auch der Verbrauch dazu entsprechen. Trotzdem ist Stromverbrauch am Feiertag höher im Durchschnitt um 4-8% als am Sonntag und im Falle der Wärme geht es um höchstwertige Werte.   
 
