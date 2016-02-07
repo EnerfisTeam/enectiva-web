@@ -1,12 +1,12 @@
 ---
 layout: post
-author: ""
-keywords: ""
+author: enectiva
+keywords: "měření vody, vodoměr"
 published: false
 title: Měření spotřeby vody
 ---
 
-Mezi měřidla spotřeb energií bezpochyby patří i vodoměry. Jedná se o zařízení, které měří průtočný objem vody uzavřeným potrubím typicky v m3 za dané časové období a z naší zkušenosti vyplývá, že voda patří mezi nejčastější medium u kterého dochází ke zbytečnému plýtvání.
+Mezi měřidla spotřeb energií bezpochyby patří i vodoměry. Jedná se o zařízení, které měří průtočný objem vody uzavřeným potrubím typicky v m3 za dané časové období a z naší zkušenosti vyplývá, že voda patří mezi nejčastější medium u kterého dochází ke zbytečnému plýtvání. Vodoměr pak slouží nejen k fakturačním účelům, ale také jako detekce úniku vody.
 
 ### Existuje několik účelů pro měření spotřeby vody.
 
