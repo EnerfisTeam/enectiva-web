@@ -12,7 +12,7 @@ Mezi měřidla spotřeb energií bezpochyby patří i vodoměry. Jedná se o za�
 ### Existuje několik účelů pro měření spotřeby vody.
 
 Nejprve zmíníme **vodoměr fakturační** – použitý pro obchodní styk mezi odběratelem 
-a dodavatelem vody. Takové vodoměry musejí být **stanovenými měřidly** a s periodou pěti let musejí být kalibrovány. Tyto vodoměry musejí být umístěny na každou vodovodní přípojku veřejného vodovodu (nejčastěji mezi ní a vlastní vodovod). Pro rozpočtení spotřeby vody mezi více odběratelů slouží **bytový vodoměr**.
+a dodavatelem vody. Takové vodoměry musejí být označena za **stanovené měřidla** a s periodou pěti let musejí být kalibrovány. Tyto vodoměry musejí být umístěny na každou vodovodní přípojku veřejného vodovodu (nejčastěji mezi ní a vlastní vodovod). Pro rozpočtení spotřeby vody mezi více odběratelů slouží **bytový vodoměr**.
 
 **Provozní vodoměr** – slouží k interní potřebě provozovatele. Jedná se o vodoměry v úpravnách vod, vodojemech. Dále pro účel provozů, výroby a to především v průmyslu, mají informativní charakter, nemusí se jednat o kalibrovaná měřidla.
 
