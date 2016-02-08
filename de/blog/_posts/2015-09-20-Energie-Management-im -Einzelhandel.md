@@ -23,4 +23,4 @@ Wenn sich die Niederlasungen in Einkaufszentren befinden, ist es interessant, da
 - neue Sparmaßnahmen suchen und diese aktiv probieren, die man nach und nach in jeder Niederlasung einführen kann
 - Mehr-Runden-Ausschreibungen für Energielieferanten durchführen
 
-Im Falle Sie brauchen im Bereich Einzelhandel Hilfe mit Einstellung der Prozesse des Energie Managements, [ISO 50001] einführen (http://www.enerfis.cz/sluzby/energeticky-management/implementace-iso-50001/general-energy-management "ISO 50001") oder ein Energie Überwachungssystem zum Laufen bringen, zögern Sie sich nicht an uns zu wenden.
+Im Falle Sie brauchen im Bereich Einzelhandel Hilfe mit Einstellung der Prozesse des Energie Managements, [ISO 50001 einführen](http://www.enerfis.cz/en/sluzby/energeticky-management/implementace-iso-50001/general-energy-management "ISO 50001") oder ein Energie Überwachungssystem zum Laufen bringen, zögern Sie sich nicht an uns zu wenden.
