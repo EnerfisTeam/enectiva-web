@@ -6,7 +6,7 @@ author: enectiva
 keywords: Energie Management
 ---
 
-Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den sich der Job von den anderen unterscheidet. Manchmal scheint es, als ob sich die Bereiche diese Termine ausdenken, damit es schwieriger wäre sie zu begreifen. Und es ist nicht anders auch im Falle des Energie Managements. Unser Ziel ist aber das Bewusstsein zu erhöhen. Wir wollen, dass sich die Gesellschaften effizienter benehmen, und somit bringen wir in diesem Artikel eine Aufstellung und Erklärung der meistbenutzten Begriffen, die man im Bereich Energie Management begegnen kann.
+Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den sich der Job von den anderen unterscheidet. Manchmal scheint es, als ob sich die Bereiche diese Termine ausdenken, damit es schwieriger wäre sie zu begreifen. Und es ist nicht anders auch im Falle des Energie Managements. Unser Ziel ist aber das Bewusstsein zu erhöhen. Wir wollen, dass sich die Unternehmen effizienter benehmen, und somit bringen wir in diesem Artikel eine Aufstellung und Erklärung der meistbenutzten Begriffen, die man im Bereich Energie Management begegnen kann.
 <img src="/img/blog/blog_wortschatz.png" alt="Energie Manager Wortschatz" class="center">
 
 <dl>
@@ -20,7 +20,7 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>Abkürzung für<em>Energie Management</em>. Man findet viele fachliche Definitionen, aber Energie Management ist ein Begriff, der Verfolgung von Energieverbrauch, Energiekosten und das Suchen nach den Wegen wie man die Effizienz steigen kann, ausdrückt.</dd>
 
 <dt>EMIS</dt>
-<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen planen, entscheiden und Maßnahmen für Lenkung der Energieverbrauches Einführung und damit verbundenen Kosten ermöglicht.</dd>
+<dd>Abkürzung für <em>Energy Management Information System</em>. Auf deutsch Informationssystem des Energie Managements. Es handelt sich um ein Mittel, das den Organisationen das Planen, eEtscheiden und Maßnahmen für Lenkung der Energieverbrauches Einführung und damit verbundenen Kosten ermöglicht.</dd>
 
 <dt>EnPIs</dt>
 <dd><em>Energy Performance Indicators</em>. Bezugszahlen, die die Gesellschaft für Energieeffizienz Verfolgung festlegt.</dd>
@@ -47,7 +47,7 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>manchmal auch als Belastungsdiagramm bezeichnet, zeigt den Verlauf von Energieverbrauch über einen bestimmten Zeitraum. Es gibt Tages-, Wochen-, Monatsdiagramme usw.</dd>
 
 <dt>Ablesung</dt>
-<dd>eine Tätigkeit, bei der der aktuelle Stand des Energiemessgerätes eingetragen wird.</dd>
+<dd>ist eine Tätigkeit, bei der der aktuelle Stand des Energiemessgerätes eingetragen wird.</dd>
 
 <dt>Submetering</dt>
 <dd>Energiemessung im Rahmen einer Organisation, die hinter der Entnahmestelle plaziert ist. Als typisches Submetering kann man bezeichnen: Mieter in Bürogebäuden oder Produktionsanlagen in der Industrie.</dd>
@@ -62,10 +62,10 @@ Das kennen Sie sicher. Jeder Beruf hat ihren spezifischen Wortschatz, durch den 
 <dd>ist abgemachter Wert von elektrischer Leistung, bei dem sich der Großabnehmer in bestimmten Zeitraum verpflichtet hat diesen nicht zu überschreiten. Es handelt sich meistens um einen Monat.</dd>
 
 <dt>SEU</dt>
-<dd><em>mit Significant Energy User</em> bezeichnet man eine Anlage, die als bedeutend im Hinblick auf Verbrauch im Rahmen einer Organisation vorgefunden wurde.</dd>
+<dd>mit <em>Significant Energy User</em> bezeichnet man eine Anlage, die als bedeutend im Hinblick auf Verbrauch im Rahmen einer Organisation vorgefunden wurde.</dd>
 
 <dt>Kohlenstoffspur</dt>
-<dd>in ausländischer Literatur wird es als<em>Carbon Footprint</em> bezeichnet. Es ist gesamte Menge der Treibhausgasemissionen (wie Kohlendioxid und Methan) ausgedrückt in Aquivalent der Tonnen von Kohlendioxid.</dd>
+<dd>in ausländischer Literatur wird es als<em> Carbon Footprint</em> bezeichnet. Es ist gesamte Menge der Treibhausgasemissionen (wie Kohlendioxid und Methan) ausgedrückt in Aquivalent der Tonnen von Kohlendioxid.</dd>
 
 <dt>15 Minuten Maximum</dt>
 <dd>In der Praxis handelt es sich um den gleichen Wert als reservierte Kapazität. Der Grenzwert für den maximal abnehmenden Leistung wurde auf 15 Minuten festgelegt.</dd>

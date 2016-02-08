@@ -6,7 +6,7 @@ author: enectiva
 keywords: "Energie Management, Motivation, Kosten, Nachhaltigkeit"
 ---
 
-Firmen unterschiedlicher Größe und auch unterschiedlicher Richtungen sind gezwungen die Fragen des Energie Managements zu lösen. Obwohl die Energiekosten für die meisten Firmen nicht der größte Kostenanteil sind, sind diese tatsächlich überall. In jeder Division, in jeder Abteilung, bei jeder Anlage wird irgendeine Energieform genutzt und jede Firma fängt früher oder später an die Fragen bezüglich Verbrauchsenkung, Preisen oder effizienter Nutzung zu lösen. Gründe, die die Firmen zu Lösung der Energie Management Fragen führen sind im Prinzip vier:
+Unternehmen unterschiedlicher Größe und auch unterschiedlicher Richtungen sind gezwungen die Fragen des Energie Managements zu lösen. Obwohl die Energiekosten für die meisten Unternehmen nicht der größte Kostenanteil sind, sind diese tatsächlich überall. In jeder Division, in jeder Abteilung, bei jeder Anlage wird irgendeine Energieform genutzt und jede Firma fängt früher oder später an die Fragen bezüglich Verbrauchsenkung, Preisen oder effizienter Nutzung zu lösen. Gründe, die die Unternehmen zu Lösung der Energie Management Fragen führen sind im Prinzip vier:
 
 **die Wirtschaft**
 Wenn Sie einem Manager die Worte Energie Management sagen, 98% davon stellt sich Energie Ersparnisse und somit Kosten vor. Es ist das größte Motivation Element bei Einführung der Grundsätze der Energielenkung in den Firmen.
