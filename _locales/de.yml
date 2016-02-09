@@ -207,6 +207,7 @@ de:
       default: "%A, %d. %B %Y, %H:%M Uhr"
       long: "%A, %d. %B %Y, %H:%M Uhr"
       short: "%d. %B, %H:%M Uhr"
+      display: ! '%e. %B %Y, %A'
     pm: nachmittags
 
   activemodel:
