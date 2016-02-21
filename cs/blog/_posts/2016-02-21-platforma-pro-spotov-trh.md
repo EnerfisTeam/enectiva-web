@@ -1,0 +1,28 @@
+---
+layout: post
+author: ""
+keywords: ""
+published: false
+title: Platforma pro spotový trh
+---
+
+
+nabízíme alternativním 
+platforma pro spotový trh,alternativní dodavatelé získají možnost fakturovat dle spotových cen
+
+propojení s OTE
+
+porovnání oproti předchozím cenám
+
+Enectiva jako platfoma pro spotový trh s elektřinou i plynem
+
+Spotový trh představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své odběry elektřiny či plynu řídit, případně je realizují v dobách, kdy je cena energie nižší. Tzn. ve večerních hodinách nebo během víkendů.V těchto časech jsou energie několikanásobně levnější než ve špičkách, kdy je jí nedostatek a její cena naopak roste.
+
+
+Pro Enectivu se rozhodla společnost Erste Energy, která nabízí nákup energií na spotovém trhu ji
+
+Pracujeme na přímén napojení s operátorem trhu (OTE ČR)
+
+Enerfis zajišťuje instalaci měření.
+
+Podklady pro fakturaci, hodinové profily s elektřinou
