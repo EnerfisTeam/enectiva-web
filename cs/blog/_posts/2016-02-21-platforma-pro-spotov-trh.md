@@ -7,7 +7,7 @@ title: Enectiva jako platforma pro spotový trh
 ---
 
 
-Spotový trh představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své odběry elektřiny či plynu řídit, případně je realizují v dobách, kdy je cena energie nižší. Tzn. ve večerních hodinách nebo během víkendů.V těchto časech jsou energie několikanásobně levnější než ve špičkách, kdy je jí nedostatek a její cena naopak roste.
+Spotový trh představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své odběry elektřiny či plynu řídit, případně je realizují v dobách, kdy je cena energie nižší. Jedná se především o noční hodiny nebo během víkendů a státních svátků. V těchto časech jsou energie několikanásobně levnější než ve špičkách, kdy je jí nedostatek a její cena naopak roste.
 
 nabízíme alternativním 
 platforma pro spotový trh,alternativní dodavatelé získají možnost fakturovat dle spotových cen
