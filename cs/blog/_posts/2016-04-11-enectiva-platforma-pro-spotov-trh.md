@@ -27,5 +27,7 @@ Pro alternativní dodavatele a jejich zákazníky se jedná o **win-win řešen�
 - úspora administrativních nákladů související se zpracováním energetických dat
 - 
 
-Jsme rádi, že si naše řešení zvolila společnost Erste energy a.s. při svém projektu právě pro zákazníka využívající nákup energií na základě spotových cen. V případě zájmu o naše řešení nás kontaktuje na obchod@enectiva.cz a rádi Vám řešení představíme.
+Jsme rádi, že si naše řešení zvolila společnost Erste energy a.s. při svém projektu právě pro zákazníka využívající nákup energií na základě spotových cen. 
+
+V případě zájmu o naše řešení nás kontaktuje na obchod@enectiva.cz a velmi rádi Vám řešení představíme.
 
