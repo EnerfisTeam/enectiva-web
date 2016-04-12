@@ -7,7 +7,8 @@ title: "Enectiva - platforma pro spotový trh"
 ---
 
 
-Objem obchodů na spotových trzích neustále roste a s roustoucím podílem obnovitelných zdrojů v rámci energetického mixu se jejich význam bude nadále zvyšovat. Spotový trh taktéž představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své spotřeby elektřiny řídit nebo odběry realizují v dobách, kdy je v síti energie přebytek, tedy i nižší cena. Jedná se především o večerní hodiny a víkendy.
+Objem obchodů na spotových trzích neustále roste a s roustoucím podílem obnovitelných zdrojů v rámci energetického mixu se jejich význam bude nadále zvyšovat. Spotový trh taktéž představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své spotřeby elektřiny řídit nebo odběry realizují v dobách, kdy je v síti energie přebytek, tedy i nižší cena. Jedná se především o večerní hodiny a víkendy.![Spotový trh s energiemi]({{site.baseurl}}/img/spot market_lr.png)
+
 
 Díky našemu řešení Enectiva, získávají alternativní dodavatelé možnost energii fakturovat dle **spotových cen a to jak na krátkodobém trhu s elektřinou**, tak na **denním trhu s plynem.** Platforma Enectiva zajišťuje sběr veškerých dat z fakturačních měřidel v požadovaných intervalech a následnou analytickou práci nad těmito daty.
 
