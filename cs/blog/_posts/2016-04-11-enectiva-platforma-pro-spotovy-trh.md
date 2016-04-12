@@ -29,6 +29,6 @@ Pro alternativní dodavatele a jejich zákazníky se jedná o **win-win řešen�
 - úspora administrativních nákladů související se zpracováním energetických dat
 - 
 
-Jsme rádi, že si naše řešení zvolila společnost Erste energy a.s. při svém projektu právě pro zákazníka využívající nákup energií na základě spotových cen. 
+Jsme rádi, že si naše řešení zvolila společnost Erste Energy Services, a.s., Člen finanční skupiny České spořitelny, při svém projektu pro zákazníka využívající nákup energií na základě spotových cen. 
 
 V případě zájmu o naše řešení nás kontaktuje na obchod@enectiva.cz a velmi rádi Vám Enectivu představíme, případně vyhotovíme konkrétní cenovou nabídku. Ceny se pohybují v závislosti na vlastnictví hardwaru od 50Kč do 790Kč na jedno odběrné místo za měsíc.
