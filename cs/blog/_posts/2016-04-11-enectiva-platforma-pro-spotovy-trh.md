@@ -7,6 +7,7 @@ title: "Enectiva - platforma pro spotový trh"
 ---
 
 
+
 Objem obchodů na spotových trzích neustále roste a s roustoucím podílem obnovitelných zdrojů v rámci energetického mixu se jejich význam bude nadále zvyšovat. Spotový trh taktéž představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své spotřeby elektřiny řídit nebo odběry realizují v dobách, kdy je v síti energie přebytek, tedy i nižší cena. Jedná se především o večerní hodiny a víkendy.![Spotový trh s energiemi]({{site.baseurl}}/img/spot market_lr.png)
 
 
@@ -23,11 +24,11 @@ Pro alternativní dodavatele a jejich zákazníky se jedná o **win-win řešen�
 - snižování objemu systémové odchylky
 
 **Výhody pro odběratele:**
+
 - neustálý přehled o svých spotřebách všech médií (elektřina, voda, teplo, plyn)
 - neustálý přehled o svých nákladech za energie včetně podružných měření
 - automatická detekce plýtvání, upozornění na kritické stavy
 - úspora administrativních nákladů související se zpracováním energetických dat
-- 
 
 Jsme rádi, že si naše řešení zvolila společnost Erste Energy Services, a.s., Člen finanční skupiny České spořitelny, při svém projektu pro zákazníka využívající nákup energií na základě spotových cen. 
 
