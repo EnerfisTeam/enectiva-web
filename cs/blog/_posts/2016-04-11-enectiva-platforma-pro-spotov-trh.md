@@ -1,10 +1,11 @@
 ---
 layout: post
-author: ""
-keywords: ""
-published: false
+author: enectiva
+keywords: spotový trh
+published: true
 title: "Enectiva - platforma pro spotový trh"
 ---
+
 
 Objem obchodů na spotových trzích neustále roste a s roustoucím podílem obnovitelných zdrojů v rámci energetického mixu se jejich význam bude nadále zvyšovat. Spotový trh taktéž představuje zajímavý prostor pro značnou část odběratelů, kteří dokáží své spotřeby elektřiny řídit nebo odběry realizují v dobách, kdy je v síti energie přebytek, tedy i nižší cena. Jedná se především o večerní hodiny a víkendy.
 
@@ -30,4 +31,3 @@ Pro alternativní dodavatele a jejich zákazníky se jedná o **win-win řešen�
 Jsme rádi, že si naše řešení zvolila společnost Erste energy a.s. při svém projektu právě pro zákazníka využívající nákup energií na základě spotových cen. 
 
 V případě zájmu o naše řešení nás kontaktuje na obchod@enectiva.cz a velmi rádi Vám Enectivu představíme, případně vyhotovíme konkrétní cenovou nabídku. Ceny se pohybují v závislosti na vlastnictví hardwaru od 50Kč do 790Kč na jedno odběrné místo za měsíc.
-
