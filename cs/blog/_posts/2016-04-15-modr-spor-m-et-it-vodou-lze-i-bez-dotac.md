@@ -22,14 +22,20 @@ Není to jen o spotřebě, ale také o schopnosti vodu zadržet. Poslední roky 
 **Poznatek V**
 Havárie a únik vody nemusí být vidět, dokud nemáte průběhové měření. Několikrát jsme se setkali v praxi s haváriemi vody. Všechny mají stejný průběh. Nejprve klient nevěřil, že naše technologie měří správně. Po přezkoumání systému, po ověření správnosti měřidel, přišla na řadu sonda na vyhledávání prasklin v potrubí a hned bylo jasněji. Obzvláště pokud provozujete starší budovy, tak jsou úniky vody za vaši přípojkou a předávacím místem celkem běžnou záležitostí. Bohužel rozlišovací schopnot faktur není tak velká, abyste byli schopni odhalit ztrátu vody v běžném měřítku. Bez instalace průběhového měření, kdy uvidíte spotřebu v nočních hodinách se neobejdete.
 
-A teď k našemu programu "Modrá úsporám". Uvádíme nejběžnější tipy, jak snížit spotřebu vody:
+A teď k našemu programu "Modrá úsporám". Uvádíme pár tipů, jak snížit spotřebu vody:
 
 
-Úspory vody v domácnosti:
+**Úspory vody v domácnosti:**
+- nádobí neumývejte pod stále tekoucí vodou, ale vždy si napusťte dřez
+- při čištění zubů vodu zastavujte
+- jedna sklenička na pití po celý den zamezí zbytečnému umývání dalších
+- ovoce a zeleninu umývejte po více kusech v nádobě místo pod tekoucí vodou
+- učte svoje děti neplýtvat vodou
 
-Úspory vody v administrativních budovách:
+**Úspory vody v administrativních budovách:**
 
-Úspory vody v zemědělství:
+**Úspory vody v zemědělství:**
 
-Úspory vody v průmyslu:
+**Úspory vody v průmyslu:**
 
+Stačí chvíli hledat na internetu a naleznete kvatna informací o tom, jak zcela zdarma nebo s drobnými investicemi šetřit vodou. Lze to i bez dotací.
