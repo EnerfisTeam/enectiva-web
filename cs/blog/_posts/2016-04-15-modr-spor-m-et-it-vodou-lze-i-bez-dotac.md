@@ -25,13 +25,11 @@ Havárie a únik vody nemusí být vidět, dokud nemáte průběhové měření.
 A teď k našemu programu "Modrá úsporám". Uvádíme nejběžnější tipy, jak snížit spotřebu vody:
 
 
-Typy jak jednoduše uspořit vodu v domácnostech:
+Úspory vody v domácnosti:
 
-Typy jak snížit spotřebu vody pro správce objektů:
+Úspory vody v administrativních budovách:
 
-Typy jak snížit spotřebu vody v zemědělství:
+Úspory vody v zemědělství:
 
-Typy jak snížit spotřebu vody v průmyslu:
-
-Technologie mohou pomoci, viz. mosaic house.
+Úspory vody v průmyslu:
 
