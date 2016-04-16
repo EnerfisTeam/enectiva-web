@@ -39,8 +39,17 @@ A teď k našemu programu "Modrá úsporám". Uvádíme pár tipů, jak snížit
 - instalace dešťových senzorů na zavlažovací systém
 
 **Úspory vody v zemědělství:**
-- 
+- maximalizujte schopnost zadržet vodu v krajině, obnovte jezírka, nádrže, dodržujte principy srpávné orby
+- v případě umělého zavlažování používejte časovače v návaznosti na předpověď počasí i aktuální srážky
+- měřte průtok vody i její spotřebu, zabráníte zbytečným ztrátám
+- učme se od států, které to již umí (Californie, Texas, Austrálie apod.)
 
 **Úspory vody v průmyslu:**
+- pokud máte možnost, porovnávejte měrné spotřeby s ostatními v rámci svého oboru
+- maximalizujte využití šedé vody a opětovného využití vody např. při procesech chlazení
+- důsledně oddělujte užitkovou vodu od pitné
+- měření spotřeby je základem pro úspěšné řízení spotřeby
+- zvyšujte povědomí a motivaci u jednotlivých zaměstnanců
+
 
 Stačí chvíli hledat na internetu a naleznete kvatna informací o tom, jak zcela zdarma nebo s drobnými investicemi šetřit vodou. Lze to i bez dotací.
