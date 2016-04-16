@@ -51,5 +51,4 @@ A teď k našemu programu "Modrá úsporám". Uvádíme pár tipů, jak snížit
 - měření spotřeby je základem pro úspěšné řízení spotřeby
 - zvyšujte povědomí a motivaci u jednotlivých zaměstnanců
 
-
-Stačí chvíli hledat na internetu a naleznete kvatna informací o tom, jak zcela zdarma nebo s drobnými investicemi šetřit vodou. Lze to i bez dotací.
+Stačí chvíli hledat na internetu a naleznete spoustu informací o tom, jak zcela zdarma nebo s drobnými investicemi šetřit vodou ve všech oblastech lidské činnosti. Lze to opravdu i bez dotací.
