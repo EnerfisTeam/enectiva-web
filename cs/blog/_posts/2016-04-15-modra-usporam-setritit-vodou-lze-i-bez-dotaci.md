@@ -33,6 +33,10 @@ A teď k našemu programu "Modrá úsporám". Uvádíme pár tipů, jak snížit
 - učte svoje děti neplýtvat vodou
 
 **Úspory vody v administrativních budovách:**
+- využití dešťové vody ze střechy na zalévání zeleně případně splachování, pokud to rozvody dovolí
+- snížení tlaku v soustavě, které způsobuje zvýšený průtok v koncových bateriích
+- detektory úniku vody a automatické ventili na toaletách reagující na pohybová čidla
+- 
 
 **Úspory vody v zemědělství:**
 
