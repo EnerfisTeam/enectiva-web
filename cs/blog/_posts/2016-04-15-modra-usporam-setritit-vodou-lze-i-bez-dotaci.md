@@ -9,6 +9,8 @@ Spotřeba pitné vody na osobu v ČR rok od roku klesá, její cena naopak každ
 
 **Poznatek I**
 I malý únik za den způsobí velké ztráty za celý rok. Kapající kohoutek, protékající toaleta, nětěsnící ventil, to jsou naprosto běžné věci, které způsobují úniky v řádku litrů za hodinu. Za celý rok, ale narostou do nevídaných čísel. 6 l za hodinu znamená více jak 52 000 l vody za rok. V domácnosti se takový únik odhalí celkem snadno a rozumný člověk jemu zamezí, ale co třeba takové veřejné záchody? Náš graf ukazuje průběh spotřeby vody na veřejných toaletách v centru města (střední čechy), kde je takový únik jasně detekovatelný.
+![Spotřeba vody - veřejné toalety]({{site.baseurl}}/img/spotreba vody verejne toalety_lr.png)
+
 
 **Poznatek II**
 V každodením chování je ukrytý **potenciál 10-12% možných úspor**. Ve výsledku je to opravdu na nás, na lidech. Je to o každodením rozhodování, jestli necháme vodu téct při čištění zubů, jestli se sprchujeme nebo napustíme vanu, jestli na zalití květin použijeme dešťovou vodu nebo pitnou z kohoutku. Uměli to již naše babičky, takže není důvod zbytečně plýtvat.
