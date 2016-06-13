@@ -1,0 +1,14 @@
+{{ partial "head" . }}
+<div class="content">
+    <div class="container">
+        <div class="posts">
+            {{ range $index, .Paginator.Pages }}
+                {{ .Render "list.li" }}
+            {{ end }}
+        </div>
+
+        {{ partial "internal/pagination.html" . }}
+	</div>
+</div>
+{{ partial "cta.html" .}}
+{{ partial "base/footer" . }}

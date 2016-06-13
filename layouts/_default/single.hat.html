@@ -1,0 +1,16 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ .Render "breadcrumbs" }}
+
+{{ if isset .Params "feature" }}
+    {{ partial "feature.html" . }}
+{{ end }}
+
+{{ if isset .Params "contact"}}
+    {{ partial "contact.html" . }}
+    {{ .Render "form" }}
+    {{ partial "contact_foot.html" . }}
+{{ end }}

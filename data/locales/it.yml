@@ -1,0 +1,227 @@
+it:
+  date:
+    abbr_day_names:
+     Sun: Dom
+     Mon: Lun
+     Tue: Mar
+     Wed: Mer
+     Thu: Gio 
+     Fri: Ven
+     Sat: Sab
+    abbr_month_names:
+     Jan: Gen
+     Feb: Feb
+     Mar: Mar
+     Apr: Apr
+     May: Mag
+     Jun: Giu
+     Jul: Lug
+     Aug: Ago
+     Sep: Set
+     Oct: Ott
+     Nov: Nov
+     Dec: Dic
+    day_names:
+     Sunday: Domenica
+     Monday: Lunedì
+     Tuesday: Martedì
+     Wednesday: Mercoledì
+     Thursday: Giovedì
+     Friday: Venerdì
+     Saturday: Sabato
+    formats:
+     default: "January 2, 2006, Monday"
+      
+    month_names:
+     January: Gennaio
+     February: Febbraio
+     March: Marzo
+     April: Aprile
+     May: Maggio
+     June: Giugno
+     July: Luglio
+     August: Agosto
+     September: Settembre
+     October: Ottobre
+     November: Novembre
+     December: Dicembre
+    order:
+    - :giorno
+    - :mese
+    - :anno
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        one: circa 1 ora
+        other: circa %{count} ore
+      about_x_months:
+        one: circa 1 mese
+        other: circa %{count} mesi
+      about_x_years:
+        one: circa 1 anno
+        other: circa %{count} anni
+      almost_x_years:
+        one: quasi 1 anno
+        other: quasi %{count} anni
+      half_a_minute: mezzo minuto
+      less_than_x_minutes:
+        one: meno di un minuto
+        other: meno di %{count} minuti
+      less_than_x_seconds:
+        one: meno di un secondo
+        other: meno di %{count} secondi
+      over_x_years:
+        one: oltre 1 anno
+        other: oltre %{count} anni
+      x_days:
+        one: 1 giorno
+        #other: ! '%{count} giorni'
+      x_minutes:
+        one: 1 minuto
+        #other: ! '%{count} minuti'
+      x_months:
+        one: 1 mese
+        #other: ! '%{count} mesi'
+      x_seconds:
+        one: 1 secondo
+        #other: ! '%{count} secondi'
+    prompts:
+      day: Giorno
+      hour: Ora
+      minute: Minuto
+      month: Mese
+      second: Secondo
+      year: Anno
+  errors: &errors
+    #format: ! '%{attribute} %{message}'
+    messages:
+      accepted: dev'essere accettato
+      blank: non pu� essere vuoto
+      present: dev'essere vuoto
+      #confirmation: ! "non corrisponde a %{attribute}"
+      empty: non pu� essere vuoto
+      equal_to: dev'essere uguale a %{count}
+      even: dev'essere ancora
+      exclusion: � riservato
+      greater_than: dev'essere maggiore di %{count}
+      greater_than_or_equal_to: dev'essere uguale o maggiore di %{count}
+      inclusion: non � incluso nella lista
+      invalid: non � valido
+      less_than: dev'essere meno di %{count}
+      less_than_or_equal_to: dev'essere uguale o meno di %{count}
+      not_a_number: non � un numero
+      not_an_integer: dev'essere un numero intero
+      odd: dev'essere dispari
+      #record_invalid: ! 'Convalida fallita: %{errors}'
+      restrict_dependent_destroy:
+        one: "Non � possibile cancellare il dato perch� esiste un %{record} dipendente "
+        many: "Non � possibile cancellare il dato perch� esistono %{record} dipendenti"
+      taken: � stato gi� preso
+      too_long:
+        one: � troppo lungo ( il massimo � 1 carattere)
+        other: � troppo lungo (il massimo � %{count} caratteri)
+      too_short:
+        one: � troppo corto ( il minimo � 1 carattere)
+        other: � troppo corto ( il minimo � %{count} caratteri)
+      wrong_length:
+        one: la lunghezza � sbagliata (dev'essere 1 carattere)
+        other: la lunghezza � sbagliata (devono essere %{count} caratteri)
+      other_than: "dev'essere diverso da %{count}"
+    template:
+      #body: ! 'Ci sono stati problemi con i seguenti campi:'
+      header:
+        one: 1 errore impedisce a questo %{model} di essere salvato
+        #other: ! '%{count} errori impediscono a questo %{model} di essere salvato'
+  helpers:
+    select:
+      prompt: Si prega di selezionare
+    submit:
+      create: Crea %{model}
+      submit: Salva %{model}
+      update: Carica %{model}
+  number:
+    currency:
+      format:
+        #delimiter: ! ','
+        #format: ! '%u%n'
+        precision: 2
+        separator: .
+        significant: falso
+        strip_insignificant_zeros: falso
+        unit: $
+    format:
+      #delimiter: ! ','
+      precision: 3
+      separator: .
+      significant: falso
+      strip_insignificant_zeros: falso
+    human:
+      decimal_units:
+        #format: ! '%n %u'
+        units:
+          billion: Miliardo
+          million: Milione
+          quadrillion: Quadrilione
+          thousand: Mille
+          trillion: Trilione
+          unit: ''
+      format:
+        delimiter: ''
+        precision: 3
+        significant: vero
+        strip_insignificant_zeros: vero
+      storage_units:
+        #format: ! '%n %u'
+        units:
+          byte:
+            one: Byte
+            other: Bytes
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        delimiter: ''
+        format: "%n%"
+    precision:
+      format:
+        delimiter: ''
+  support:
+    array:
+      #last_word_connector: ! ', and '
+      #two_words_connector: ! ' and '
+      #words_connector: ! ', '
+  time:
+    am: am
+    formats:
+      #default: ! '%a, %d %b %Y %H:%M:%S %z'
+      #long: ! '%B %d, %Y %H:%M'
+      #display: ! '%B %e, %Y, %A'
+      #short: ! '%d %b %H:%M'
+    pm: pm
+  # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
+  activemodel:
+    errors:
+      <<: *errors
+  activerecord:
+    errors:
+      <<: *errors
+  meta_description: 'Enectiva è un servizio web per la gestione energetica degli edifici amministrativi, centri commerciali ed altre proprietà con scopi commerciali. '
+  meta_keywords: Enectiva, monitoraggio energetico, risparmio energetico, gestione dell'energia, misurazione, contatori intelligenti, consumo di energia, tecnologia di risparmio
+  intro: Enectiva, una soluzione per la gestione dell'energia, è stato sviluppato dalla ditta
+  city: Praga
+  cta_intro: Inserisci il tuo indirizzo email e ti invieremo le tue informazioni di accesso
+
+  newsletter_signup:
+    button: OK
+    email_placeholder: Inserisci la tua e-mail
+    heading: Iscriviti alla nostra newsletter
+    list_id: 663115dcb0
+
+  navigation:
+    back_to_homepage: Torna alla homepage
+    login: Login
+
+  try_enectiva: Prova Enectiva
+  solution: Altre soluzionio

@@ -1,0 +1,38 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $l := index (index .Site.Data.locales $lang) $lang }}
+{{ $test := index .Site.Data.pages.contact $lang}}
+{{ $contact := index .Site.Data.contact_form  $lang}}
+
+<div class="quick-contact quick-contact--js" id="Cta">
+    <a href="/{{ $lang }}/{{ $test}}#test"
+       class="quick-contact__title"
+       id="CtaOpener" data-alt="×">{{ $l.try_enectiva }}</a>
+    <form class="quick-contact__form" accept-charset="UTF-8"
+          action="/{{ $lang }}/welcome/process_contact_form" method="post"
+          data-prefix="cta" data-remove="Cta">
+
+        <p class="quick-contact__intro">{{ $l.cta_intro }}</p>
+
+        <input id="contact_form_form_type" name="contact_form[form_type]"
+               type="hidden" value="test"/>
+
+        <div class="input">
+            <label for="cta_contact_form_email">{{ $contact.email }} *</label>
+            <input id="cta_contact_form_email" name="contact_form[email]"
+                   type="email" class="required">
+            <div class="error-message">{{ $contact.required_error }}</div>
+        </div>
+        <div class="input">
+            <label for="cta_contact_form_name">{{ $contact.name }}</label>
+            <input id="cta_contact_form_name" name="contact_form[name]"
+                   type="text">
+        </div>
+
+        <input type="submit" value="{{ $contact.submit }}"
+               class="contact__submit button">
+    </form>
+</div>

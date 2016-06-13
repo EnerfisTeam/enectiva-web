@@ -1,0 +1,18 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $.Scratch.Set $lang ((index (index .Site.Data.locales $lang) $lang).date) }}
+{{ $date := (index (index .Site.Data.locales $lang) $lang).date.formats.default }}
+
+
+{{$month := index ($.Scratch.Get $lang).month_names (printf "%s" .Date.Month) }}
+{{$day := index ($.Scratch.Get $lang).day_names (printf "%s" .Date.Weekday) }}
+{{$datetrans := replace (replace (.Date.Format $date) .Date.Month $month) .Date.Weekday $day }}
+
+<small>
+	<time class="post__published" datetime="{{ .Date.Format $date }}">
+    {{ $datetrans }}
+	</time>
+</small>

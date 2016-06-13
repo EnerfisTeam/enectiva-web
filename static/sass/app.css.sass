@@ -1,0 +1,92 @@
+@import "compass/reset"
+@import "variables.css.sass"
+@import 'mixins.css.sass'
+@import "compass/typography/vertical_rhythm"
+@import "compass/utilities/general/clearfix"
+@import "compass/css3/box-sizing"
+@import "compass/css3/border-radius"
+@import "compass/css3/box-shadow"
+@import "compass/css3/text-shadow"
+@import "compass/css3/transition"
+@import "compass/css3/transform"
+
+
++embed-font('Didact Gothic', 'didactgothic')
++embed-font('Open Sans', 'opensans-regular')
+
+$base-font-size: 16px
+$base-line-height: 28px
+$rhythm-unit: 'em'
++establish-baseline($base-font-size)
+
+h1, h2, h3
+  font-family: 'Didact Gothic', Verdana, sans-serif
+  +rhythm-margins(.2, .1)
+body
+  font-family: 'Open Sans', Verdana, sans-serif
+
+h1
+  +adjust-font-size-to($base-font-size * 2.6)
+h2
+  +adjust-font-size-to($base-font-size * 2.3)
+h3
+  +adjust-font-size-to($base-font-size * 2)
+
+strong
+  font-weight: bold
+em
+  font-style: italic
+pre
+  font-family: "DejaVu Sans Mono", monospace
+  line-height: 1.2
+  border: 1px solid $unimportant-accent
+  border-width: 1px 0
+  background: $very-unimportant
+  padding: 0 1.75em
+
+/*doc
+ * Exception to BEM!
+ *
+ * This class is used within several high level blocks and only limits the width of the content's width
+ */
+.container
+  max-width: $max-content-width
+  margin: 0 auto
+  padding: 0 .5em
+
+.hidden
+  display: none
+
+@import 'form.css.sass'
+@import 'header.css.sass'
+@import 'menu.css.sass'
+@import 'content.css.sass'
+@import 'footer.css.sass'
+@import 'newsletter.css.sass'
+@import 'author.css.sass'
+@import 'button.css.sass'
+@import 'contact.css.sass'
+@import 'alternatives.css.sass'
+@import 'quick-contact.css.sass'
+@import 'posts.css.sass'
+@import 'post.css.sass'
+@import 'media-mention.css.sass'
+@import 'signature.css.sass'
+@import 'notice.css.sass'
+@import 'feature.css.sass'
+@import 'solution.css.sass'
+@import 'breadcrumbs.css.sass'
+@import 'pagination.css.sass'
+@import 'motto.css.sass'
+@import 'slider.css.sass'
+@import 'split.css.sass'
+@import 'hw-promo.sass'
+@import 'benefits.css.sass'
+@import 'solution-promo.css.sass'
+@import 'highlight.css.sass'
+@import 'standalone.css.sass'
+@import 'staggered.css.sass'
+@import 'staggered.css.sass'
+
+@import "swipebox.scss"
+@import "slick.scss"

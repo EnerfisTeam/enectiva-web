@@ -1,0 +1,43 @@
+---
+layout: default
+title: Contact Us
+language: en
+schema: ContactPage
+translations:
+  it: contattaci
+  cs: kontaktujte-nas
+  es: contacto
+  de: kontaktieren-sie-uns
+  fr: contactez-nous
+---
+<div class="container">
+<div itemscope itemtype="http://schema.org/Organization">
+    <h1>Contact Us</h1>
+
+    <p>If you want to make any inquiries do not hesitate to contact the <span itemprop="name">Enectiva</span> team. You can use either the e-mail addresses below or the contact form.</p>
+
+    {% include contact_form.html %}
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="halfPanel">
+          <h2>E-mail Contacts</h2>
+            {% include emails-list.html %}
+        </div>
+
+        <div class="halfPanel">
+          <h2>Phone Contacts</h2>
+          <ul>
+            <li>phone: <span itemprop="telephone">+420 222 766 950</span></li>
+            <li>phone: <span itemprop="telephone">+420 222 766 951</span></li>
+            <li>mobile: <span itemprop="telephone">+420 732 916 385</span></li>
+            <li>fax: <span itemprop="faxNumber">+420 222 766 959</span></li>
+          </ul>
+        </div>
+        <br />
+        <p class="clear">
+        Correspondence and invoicing address: <strong>Enerfis s.r.o.</strong>, <span itemprop="streetAddress">Drtinova 557/10</span>, <span itemprop="addressLocality">Praha 5</span> <span itemprop="postalCode">150 00</span>, <span itemprop="addressCountry">Czech Republic</span> <br />
+        <img src="/img/youtube_logo.png" class="text">YouTube channel: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
+        </p>
+    </div>
+</div>
+</div>

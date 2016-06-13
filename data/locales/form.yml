@@ -1,0 +1,195 @@
+---
+form:
+    cs:
+        podpora:
+            id: Technická podpora
+            option: podpora     
+        general: 
+            id: Obecné informace
+            option: general
+        obchod: 
+            id: Obchodní záležitosti
+            option: obchod  
+        partner: 
+            id: Pro partnery
+            option: partner
+        test: 
+            id: Zkušební přístup
+            option: test
+    en:
+        podpora:
+            id: Technical support
+            option: podpora
+        general:
+            id: General information
+            option: general
+        obchod:
+            id: Business issue
+            option: obchod
+        partner:
+            id: Bussiness partnership
+            option: partner
+        test:
+            id: Set up test access
+            option: test
+    es:
+        podpora: 
+            id: Soporte Técnico
+            option: podpora
+        general: 
+            id: Información general
+            option: general
+        obchod: 
+            id: Problemas comerciales
+            option: obchod
+        partner: 
+            id: Para los socios
+            option: partner
+        test: 
+            id: Ajustes de prueba
+            option: test
+    it:
+        podpora: 
+            id: Supporto tecnico
+            option: podpora
+        general: 
+            id: Informazioni generali
+            option: general
+        obchod: 
+            id: Problema commerciali
+            option: obchod
+        partner: 
+            id: Per i partner
+            option: partner
+        test: 
+            id: Impostazioni di prova
+            option: test      
+    fr:
+        podpora: 
+            id: Soutien technique
+            option: podpora
+        general: 
+            id: Informations générales
+            option: general
+        obchod: 
+            id: Affaires de commerce
+            option: obchod
+        partner: 
+            id: Pour les partenaires
+            option: partner
+        test: 
+            id: Acces provisoire
+            option: test     
+    de:
+        podpora: 
+            id: Technische Unterstützung
+            option: podpora
+        general: 
+            id: Allgemeine Informationen
+            option: general
+        obchod: 
+            id: Geschäfts-angelegen-heiten
+            option: obchod
+        partner: 
+            id: Für Partner
+            option: partner
+        test: 
+            id: Testzugang
+            option: test
+heard:
+    cs:
+        internet: 
+            id: z internetu
+            option: heard
+        partner: 
+            id: od obchodního partnera
+            option: partner
+        letak: 
+            id: z letáků
+            option: letak
+        znamy: 
+            id: od známého
+            option: znamy
+        odjinud: 
+            id: odjinud
+            option: odjinud
+    en:
+        internet: 
+            id: from the internet
+            option: internet
+        partner_: 
+            id: from a business partner
+            option: patner
+        letak: 
+            id: from brochures 
+            option: letak
+        znamy: 
+            id: from a friend 
+            option: znamy
+        odjinud: 
+            id: from another source 
+            option: odjinud
+    es:
+        internet: 
+            id: por internet
+            option: internet
+        partner: 
+            id: por medio de un socio comercial
+            option: partner
+        letak: 
+            id: por un folleto
+            option: letak
+        znamy: 
+            id: mediante un amigo
+            option: znamy
+        odjinud: 
+            id: otras fuentes
+            option: odjinud
+    it:
+        internet: 
+            id: da Internet
+            option: heard
+        partner: 
+            id: da un partner commerciale
+            option: partner
+        letak: 
+            id: dalla brochure
+            option: letak
+        znamy: 
+            id: da un tuo amico
+            option: znamy
+        odjinud: 
+            id: da un'altra fonte
+            option: odjinud
+    fr:
+        internet: 
+            id: sur Internete
+            option: internet
+        partner: 
+            id: de la part d'un partenaire
+            option: partner
+        letak: 
+            id: d'un prospectus
+            option: letak
+        znamy: 
+            id: de la part d'un ami
+            option: znamy
+        odjinud: 
+            id: autrement
+            option: odjinud
+    de:
+        internet: 
+            id: vom Internet
+            option: internet
+        partner: 
+            id: vom Geschäftspartner
+            option: partner
+        letak: 
+            id: aus den Prospekten
+            option: letak
+        znamy: 
+            id: vom Bekannten
+            option: znamy
+        odjinud: 
+            id: anderswoher
+            option: odjinud

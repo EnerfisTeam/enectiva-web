@@ -1,0 +1,11 @@
+{{ partial "head" . }}
+
+{{ .Render "single.hat" }}
+{{ .Content }}
+{{ .Render "single.boot" }}
+
+{{ if (not (isset .Params "contact")) }}
+    {{ partial "cta.html" .}}
+{{ end}}
+
+{{ partial "base/footer" . }}

@@ -1,0 +1,37 @@
+ALL BLOG url finish in "/" in the original site not. (only in blog)
+
+
+New urls (blogs)
+/es/blog/
+/es/blog/2014/04/como-hacer-frente-a-la-gestion-de-la-energia/
+/es/blog/2014/12/comparativa-de-rendimiento-de-energia/
+/es/blog/2014/11/es-el-ingeniero-energetico-una-especie-en-peligro-de-extincion/
+/es/blog/2014/10/gestion-de-la-energia-y-la-curiosidad/
+/es/blog/2014/09/la-gestion-es-la-medicion/
+/es/blog/2014/07/el-precio-de-los-datos-energeticos/
+/es/blog/2015/06/ideas-energia-edificio-de-oficinas/
+/es/blog/2015/07/monitorizacion-energetica-con-standard-iso-50001/
+/es/blog/2015/07/principios-basicos-monitorizacion-energetica/
+
+
+Url changed
+
+R301 '/de/blog/2014/04/Wie-auf-Energie-Management', '/de/blog/2014/04/wie-auf-energie-management/'
+R301 '/de/blog/2014/07/Energiedaten-Preise', '/de/blog/2014/07/energiedaten-preise/'
+R301 '/de/blog/2014/09/fuehren-koennen-heisst-messen-koennen/', '/de/blog/2014/09/Fuehren-koennen-heisst-messen-koennen/'
+R301 '/de/blog/2014/10/Neugierigkeit-in-Energie-Management', '/de/blog/2014/10/neugierigkeit-in-energie-management/'
+R301 '/de/blog/2014/11/energetiker/', '/de/blog/2014/11/energetiker/'
+R301 '/de/blog/2014/12/Energetisches-Benchmarking', '/de/blog/2014/12/energetisches-benchmarking/'
+R301 '/en/blog/2014/12/benchmarking.energy-performance', '/en/blog/2014/12/benchmarking-energy-performance/'
+R301 '/de/blog/2015/02/Motivationsfaktoren-fuer-Einfuehrung-des-Energie-Managements', '/de/blog/2015/02/motivationsfaktoren-fuer-einfuehrung-des-energie-managements/'
+R301 '/de/blog/2015/02/Optimierung-der-Energiekosten', '/de/blog/2015/02/optimierung-der-energiekosten/'
+R301 '/de/blog/2015/03/Energie-Manager-Wortschatz', '/de/blog/2015/03/energie-manager-wortschatz/'
+R301 '/de/blog/2015/06/Die-meiste-Energie-verschwenden-wir-am-Feiertagen', '/de/blog/2015/06/die-meiste-energie-verschwenden-wir-am-feiertagen/'
+R301 '/de/blog/2015/06/Energie-Ueberwachungssystem', '/de/blog/2015/06/energie-ueberwachungssystem/'
+R301 '/de/blog/2015/08/Verbessertes-Energie-Benchmarking', '/de/blog/2015/08/verbessertes-energie-benchmarking/'
+R301 '/de/blog/2015/08/Energieaudit-oder-ISO-50001', '/de/blog/2015/08/energieaudit-oder-iso-50001/'
+R301 '/cs/blog/2015/08/energetick%C3%BD-audit-nebo-iso-50001', '/cs/blog/2015/08/energeticky-audit-nebo-iso-50001/'
+R301 '/de/blog/2015/08/Energie-Management-im-Bankwesen', '/de/blog/2015/08/energie-management-im-bankwesen/'
+R301 '/de/blog/2015/09/On-line-Submetering', '/de/blog/2015/09/on-line-submetering/'
+R301 '/de/blog/2015/09/Energie-Management-im%20-Einzelhandel', '/de/blog/2015/09/energie-management-im-einzelhandel/'
+R301 '/de/blog/2015/09/Energie-Management-im-Maschinenbau', '/de/blog/2015/09/energie-management-im-maschinenbau/

@@ -1,0 +1,51 @@
+=_block-down-shadow-core($from, $to, $vertical-offset: 0)
+  position: relative
+
+  &:after
+    $h: 2em
+    content: ' '
+    height: $h
+    width: 100%
+    display: block
+    position: absolute
+    bottom: -$h + $vertical-offset
+    +background-image(linear-gradient($from, $to))
+
+=block-down-shadow($vertical-offset: 0)
+  border-bottom: 1px solid #eee
+  +_block-down-shadow-core(rgba(0,0,0,0.05), transparent, $vertical-offset)
+=block-down-inset-shadow($vertical-offset: 0)
+  +_block-down-shadow-core(transparent, rgba(0,0,0,0.05), $vertical-offset)
+
+=time
+  color: $unimportant
+  text-align: right
+  display: block
+  +margin-leader(-.25)
+
+=rounded-image($dim)
+  width: $dim
+  height: $dim
+  +border-radius($dim / 2)
+  overflow: hidden
+  float: left
+  border: 1px solid $unimportant-accent
+
+=embed-font($font-name, $font-filepath-and-name)
+  @font-face
+    font-family: $font-name
+    src: font-url($font-filepath-and-name+".eot")
+    src: font-url($font-filepath-and-name+".eot?#iefix") format('embedded-opentype'),  font-url($font-filepath-and-name+".woff") format('woff'), font-url($font-filepath-and-name+".ttf")  format('truetype')
+    font-weight: normal
+    font-style: normal
+
+=block-bottom-shadow
+  &:after
+    content: ' '
+    display: block
+    height: 1vh
+    bottom: -1.5vh
+    position: relative
+    +background-image(radial-gradient(center, ellipse cover, rgba(0, 0, 0, 0.8) 0%, transparent 80%))
+    background-repeat: no-repeat
+    background-position: 0 -.5vh

@@ -1,0 +1,13 @@
+enectiva:
+  type: organization
+  url: /
+  name:
+    cs: Tým Enectiva
+    en: Enectiva team
+    es: Equipo Enectiva
+    it: Team di Enectiva
+    de: Team Enectiva
+vlada:
+  type: person
+  givenName: Vladimír
+  familyName: Svozil

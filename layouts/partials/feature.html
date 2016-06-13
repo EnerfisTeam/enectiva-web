@@ -1,0 +1,20 @@
+
+<div class="container">
+    <div class="menu__placeholder" rel="menu--sticky"></div>
+    <ul class="menu menu--sticky">
+        <span class="hidden">
+            {{ partial "features.html"}}
+        </span>
+
+        {{ range sort .Site.Data.menu.feature.en "width" "asc" }} <li>
+        <a href="#{{ .anchors }}" class="feature__icon">
+            <svg viewBox="0 0 100 100">
+                <use xlink:href="#features-{{ lower .anchors }}"></use>
+            </svg>
+            <span class="feature__icon-text"> {{ .name }}</span>
+        </a></li>{{ end }}
+        <li class="menu__more">
+          <a href="#More" class="feature__icon">+</a>
+        </li>
+    </ul>
+</div>

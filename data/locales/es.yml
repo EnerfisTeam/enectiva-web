@@ -1,0 +1,229 @@
+es:
+  date:
+    abbr_day_names:
+     Sun: Dom
+     Mon: Lun
+     Tue: Mar
+     Wed: Mier
+     Thu: Jue
+     Fri: Vier
+     Sat: Sab
+    abbr_month_names:
+    -
+     Jan: Ene
+     Feb: Feb
+     Mar: Mar
+     Apr: Abr
+     May: May
+     Jun: Jun
+     Jul: Jul
+     Aug: Ago
+     Sep: Sept
+     Oct: Oct
+     Nov: Nov
+     Dec: Dic
+    day_names:
+     Sunday: Domingo
+     Monday: Lunes
+     Tuesday: Martes
+     Wednesday: Miércoles
+     Thursday: Jueves
+     Friday: Viernes
+     Saturday: Sàbado
+    formats:
+      default: 'Monday, 2 January 2006'
+      #long: ! '%d %B %Y'
+      #short: ! '%d %b'
+    month_names:
+      January: Enero
+      February: Febrero
+      March: Marzo
+      April: Abril
+      May: Mayo
+      June: Junio
+      July: Julio
+      August: Agosto
+      September: Septiembre
+      October: Octubre
+      November: Noviembre
+      December: Diciembre
+    order:
+    - :dìa
+    - :mes
+    - :año
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        one: cerca de 1 hora
+        other: cerca de %{count} horas
+      about_x_months:
+        one: cerca de 1 mes
+        other: cerca de %{count} meses
+      about_x_years:
+        one: cerca de 1 año
+        other: cerca de %{count} años
+      almost_x_years:
+        one: casi 1 año
+        other: casi %{count} años
+      half_a_minute: medio minuto
+      less_than_x_minutes:
+        one: menos de un minuto
+        other: menos de %{count} minutos
+      less_than_x_seconds:
+        one: menos de un segundo
+        other: menos de %{count} segundos
+      over_x_years:
+        one: más de 1 año
+        other: más de %{count} años
+      x_days:
+        one: 1 dìa
+        #other: ! '%{count} dìas'
+      x_minutes:
+        one: 1 minuto
+        #other: ! '%{count} minutos'
+      x_months:
+        one: 1 mes
+        #other: ! '%{count} meses'
+      x_seconds:
+        one: 1 segundo
+        #other: ! '%{count} segundos'
+    prompts:
+      day: dìa
+      hour: Hora
+      minute: Minuto
+      month: Mes
+      second: Segundo
+      year: Año
+  errors: &errors
+    #format: ! '%{attribute} %{message}'
+    messages:
+      accepted: debe ser aceptado
+      blank: no puede estar vacìo
+      present: debe estar vacìo
+      #confirmation: ! "no corresponde a %{attribute}"
+      empty: no puede estar vacìo
+      equal_to: debe ser igual a %{count}
+      even: incluso
+      exclusion: � reservado
+      #greater_than: debe ser mayor de %{count}
+      greater_than_or_equal_to: debe ser igual o mayor de %{count}
+      inclusion: no está incluido en la lista
+      invalid: no es válido
+      #less_than: debe ser menor de %{count}
+      less_than_or_equal_to: debe ser igual o menor de %{count}
+      not_a_number: no es un número
+      not_an_integer: debe ser un número entero
+      odd: debe ser impar
+      #record_invalid: ! 'Registro no válido: %{errors}'
+      restrict_dependent_destroy:
+        #one: "No es posible borrar el dato porque existe %{record} dependiente "
+        #many: "No es posible borrar los datos porque existen %{record} dependientes"
+      taken: ya ha sido recogido
+      too_long:
+        one: es demasiado largo ( el máximo es 1 carácter)
+        #other: es demasiado largo (el máximo son %{count} caracteres)
+      too_short:
+        #one: es demasiado corto ( el mínimo es 1 carácter)
+        #other: es demasiado corto ( el mínimo son %{count} caracteres)
+      wrong_length:
+        one: la longitud es errónea (debe ser 1 carácter)
+        other: la longitud es errónea (deben ser %{count}  caracteres)
+      other_than: "debe ser diferente de %{count}"
+    template:
+      #body: ! 'ha habido problemas con el siguiente campo:'
+      header:
+        one: 1 error impide a este %{model} ser guardado
+        #other: ! '%{count} errores impiden a este %{model} ser guardado'
+  helpers:
+    select:
+      prompt: Por favor seleccione
+    submit:
+      create: Crea %{model}
+      submit: Guarda %{model}
+      update: Carga %{model}
+  number:
+    currency:
+      format:
+        #delimiter: ! ','
+        #format: ! '%u%n'
+        precision: 2
+        separator: .
+        significant: falso
+        strip_insignificant_zeros: falso
+        unit: $
+    #format:
+      #delimiter: ! ','
+      precision: 3
+      separator: .
+      significant: falso
+      strip_insignificant_zeros: falso
+    human:
+      #decimal_units:
+        #format: ! '%n %u'
+        units:
+          billion: Billón
+          million: Millón
+          quadrillion: Cuatrillón
+          thousand: Mil
+          trillion: Trillón
+          unit: ''
+      #format:
+        delimiter: ''
+        precision: 3
+        significant: verdad
+        strip_insignificant_zeros: verdad
+      #storage_units:
+        #format: ! '%n %u'
+        units:
+          byte:
+            one: Byte
+            other: Bytes
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        delimiter: ''
+        format: "%n%"
+    precision:
+      format:
+        delimiter: ''
+  support:
+    array:
+      #last_word_connector: ! ', and '
+      #two_words_connector: ! ' and '
+      #words_connector: ! ', '
+  time:
+    am: am
+    formats:
+      #default: ! '%a, %d %b %Y %H:%M:%S %z'
+      #long: ! '%B %d, %Y %H:%M'
+      #display: ! '%B %e, %Y, %A'
+      #short: ! '%d %b %H:%M'
+    pm: pm
+  # remove these aliases after 'activemodel' and 'activerecord' namespaces are removed from Rails repository
+  activemodel:
+    errors:
+      <<: *errors
+  activerecord:
+    errors:
+      <<: *errors
+  meta_description: 'Enectiva es un servicio web para la gestión energética de la administración de edificios,centros comerciales y otras propiedades con propósitos comerciales '
+  meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energía, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
+  intro: Enectiva, una solución para la gestión de la energía, desarrollado por Enerfis
+  city: Praga
+  cta_intro: Introduce tu dirección de email y te enviaremos la información de acceso
+
+  newsletter_signup:
+    button: OK
+    email_placeholder: Introduce tu e-mail
+    heading: Inscríbete a nuestro boletín
+    list_id: 663115dcb0
+
+  navigation:
+    back_to_homepage: Regresa a la página principal
+    login: Iniciar sesión
+
+  try_enectiva: Prueba Enectiva
+  solution: Otras soluciones

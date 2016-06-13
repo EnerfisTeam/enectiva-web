@@ -1,0 +1,70 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $l := index .Site.Data.contact_form $lang }}
+{{ $type_option := $l.form_type_options }}
+{{ $heard_option := $l.heard_of_options }}
+
+<fieldset>
+  <div class="input">
+    <label for="contact_form_email">{{ $l.email }} *</label>
+    <input id="contact_form_email" name="contact_form[email]" type="email" class="required">
+      <div class="error-message">{{ $l.required_error }}</div>
+  </div>
+  <div class="input">
+    <label for="contact_form_name">{{ $l.name }}</label>
+    <input id="contact_form_name" name="contact_form[name]" type="text">
+  </div>
+  <div class="contact__reasons alternatives">
+    {{ range $key, $content := $type_option }}
+      <div class="alternatives__option">
+          <input type="radio" value="{{ $key }}" name="contact_form[form_type]" id="ContactReason{{ $key }}">
+          <label for="ContactReason{{ $key }}">{{ $content | safeHTML}}</label>
+      </div>
+      {{ end }}
+
+  </div>
+  <div class="input">
+      <label for="contact_form_text">{{ $l.text }}</label>
+      <textarea id="contact_form_text" name="contact_form[text]"></textarea>
+  </div>
+  <input name="util[source_url]" value="page" type="hidden">
+
+</fieldset>
+<fieldset class="contact__extra">
+    <legend>{{ $l.tell_us_more }}</legend>
+  <div class="input">
+    <label for="contact_form_company">{{ $l.company }}</label>
+    <input id="contact_form_company" name="contact_form[company]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_position">{{ $l.position }}</label>
+    <input id="contact_form_position" name="contact_form[position]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_tel">{{ $l.tel }}</label>
+    <input id="contact_form_tel" name="contact_form[tel]" type="text">
+  </div>
+  <div class="input">
+    <label for="contact_form_heard_of">{{ $l.heard_of }}</label>
+    <select id="contact_form_heard_of" name="contact_form[heard_of]">
+
+    {{ range $key, $content := $heard_option }}
+        <option value="{{ $key }}">{{ $content }}</option>
+    {{ end }}
+    </select>
+  </div>
+
+</fieldset>
+
+<input type="submit" value="{{ $l.submit }}" class="contact__submit button">
+
+<script type="text/javascript">
+    contactFormI18n = {
+        submit_alt: "{{ $l.submit_alt}}",
+        submitted: "{{ $l.submitted }}"
+    }
+</script>
+</form>
