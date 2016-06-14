@@ -54,15 +54,13 @@
             <ul class="menu__list" itemscope
                 itemtype="http://schema.org/SiteNavigationElement">
                 {{ range sort (index .Site.Data.menu.top $lang) "weight" "asc" }}
-                <li>
-                    <a href="{{ .URL | absURL }}"
-                       {{ if and ( isset . "Title" ) ( ne .Title "" ) }}
-                    title="{{ .Title }}"{{ end }}>
-
-                    {{ .name }}
-                    </a>
-                </li>
-
+                    <li>
+                        <a href="{{ .URL | absURL }}"
+                           {{ if and ( isset . "Title" ) ( ne .Title "" ) }}
+                        title="{{ .Title }}"{{ end }}>
+                            {{ .name }}
+                        </a>
+                    </li>
                 {{ end }}
             </ul>
         </div>

@@ -1,6 +1,9 @@
 {{ if gt $.Paginator.TotalPages 1 }}
   <div class="pagination">
-    {{ $baseurl := substr ( printf "%s" .Site.BaseURL) 0 -1}}
+	{{ $baseurl := "" }}
+	{{ if .Site.BaseURL }}
+	  	{{ $baseurl := substr .Site.BaseURL 0 -1}}
+	{{ end }}
 	{{ $pag := .Paginator }}
 	{{ if gt $pag.TotalPages 1 }}
 

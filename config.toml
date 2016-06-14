@@ -36,7 +36,7 @@ paginatePath = "page"
 
 [sitemap]
   changefreq = "monthly"
-  prior = 0.5
+  priority = 0.5
 
 [params]
     googleAnalytics = "UA-31617158-1"
