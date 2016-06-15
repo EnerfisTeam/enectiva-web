@@ -1,4 +1,5 @@
 ---
+layout: post
 author: Enerfis
 es: blog
 date: 2015-07-27T08:58:55+02:00

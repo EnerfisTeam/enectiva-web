@@ -3,7 +3,6 @@ layout: default
 title: Oft gestellte Fragen
 schema: faq
 ---
-{{% div_container %}}
 ## Muss man irgendetwas installieren?
 
 Nein. Enectiva wird als Dienstleistung betrieben und diesen Dienst kann man von jedem Gerät, das Internetanschluss und zugleich web browser hat, nutzen. Ihre Daten stehen Ihnen wann auch immer und woher auch immer ohne irgendwelche Installation zur Verfügung.
@@ -40,4 +39,3 @@ Alle Daten werden jeden Tag gesichert und sind auf den zertifizierten Datenspeic
 ## Welche Energiearten kann man mit diesem System verfolgen?
 
 Zur Zeit können Sie Strom, Wärme, Gas, Kälte und Wasser verfolgen. Man kann die einzelnen Energien noch untergliedern z.B. Strom für Kühlung oder Lufttechnik, warmes und kaltes Wasser oder die Wärme, die man für Vorbereitung vom warmen Wasser braucht.
-{{% /div_container %}}

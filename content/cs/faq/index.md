@@ -3,7 +3,6 @@ layout: default
 title: Často kladené dotazy
 schema: faq
 ---
-{{% div_container %}}
 ## Je nutné něco instalovat?
 
 Nikoli.Enectiva je provozována formou služby a tuto službu lze využít z jakéhokoli zařízení, které je připojeno k Internetu a současně má webový prohlížeč. Vaše data jsou Vám kdykoli a odkudkoli k disozici bez nutnosti jakékoli instalace.
@@ -40,4 +39,3 @@ Všechna data jsou zálohována každý den a jsou uložena v certifikovaných d
 ## Jaké všechny energie lze v systému monitorovat?
 
 Aktuálně můžete využít monitoring pro elektrickou energii, teplo, plyn, chlad a vodu. S tím, že jednotlivé energie mohou mít jemnější dělení např. na elektřinu pro chlazení či vzduchotechniku, teplou a studenou vodu, či teplo potřebné na přípravu teplé vody.
-{{% /div_container %}}
