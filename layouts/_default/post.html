@@ -1,0 +1,31 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $url :=  printf "%s" .Site.Data.authors.enectiva.url }}
+{{ $name := printf "%s" (index .Site.Data.authors.enectiva.name $lang) }}
+
+
+{{ partial "head" . }}
+<div class="content">
+  <div class="container">
+    <div itemscope itemtype="http://schema.org/BlogPosting" class="post">
+
+      <h1 class="post__title" itemprop="headline name">{{ .Title }}</h1>
+      <time class="post__published ">
+        {{ partial "internal/date" . }}
+      </time>
+
+      <div itemprop="articleBody">
+        {{ .Content }}
+      </div>
+
+      <div class=" authors signature">
+        <a href="{{ $url }}">{{ $name }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ partial "cta.html" .}}
+{{ partial "base/footer" . }}

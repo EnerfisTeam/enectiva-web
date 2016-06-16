@@ -6,5 +6,10 @@ _site
 .rvmrc
 Rakefile
 Gemfile.lock
-/_data/environment.yml
-/.project
+/data/environment.yml
+
+.sass-cache/
+public/
+/static/coffee/setup.js.js
+/static/coffee/app.js.js
+/static/coffee/features.js.js

@@ -1,0 +1,25 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := (printf "%s" (replace $url1 "/" "")) }}
+{{ $lang := substr $url2 0 2}}
+{{ range (index .Site.Data.locales $lang)}}
+<!DOCTYPE html>
+<html lang="{{ $lang }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="{{ .meta_description }}">
+  <meta name="keywords" content="{{ .meta_keywords }}">
+  
+  <link rel="icon" type="image/png" href="{{ "/img/favicon.png" | absURL }}" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/img/favicon.png" | absURL }}">
+{{ end }}
+
+<title>{{ .Title }} {{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}</title>
+
+  {{ partial "base/imports" . }}
+</head>
+<body itemscope="" itemtype="http://schema.org/WebPage"{{ with .Site.Params.theme }} class="{{ . }}"{{ end }} lang="cs">
+<meta itemprop="name" content="{{ .Title }}">
+	{{ partial "base/header" . }}
+

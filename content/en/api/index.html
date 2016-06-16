@@ -1,0 +1,85 @@
+---
+layout: manual
+title: Enectiva REST API
+translations: null
+published: true
+keywords: ""
+schema: api
+---
+
+<div class="content">
+    <div class="container">
+        <h1>Enectiva REST API</h1>
+        <p>Enectiva <a href="http://docs.enectivalibrarian.apiary.io/">REST API
+            Librarian</a> allows everyone to use functionality of Enectiva system without having to install hardware for automatic data collection. Thanks to the API, Enectiva can be integrated with your business systems, accounting systems, website, or building management system (BMS). Currently, the API is available for sending energy readings and custom time series (e.g. data from meteostations) as described below.</p>
+    </div>
+</div>
+
+<div class="highlight">
+    <div class="container">
+        <div class="highlight__main">
+            Easily connect Enectiva with your systems through an API
+        </div>
+    </div>
+</div>
+
+
+<div class="content">
+    <div class="container">
+
+        <h2>Use cases</h2>
+        <div class="staggered">
+            <div class="staggered__item">
+                <h3>&hellip;with BMS</h3>
+
+                <p>Building management systems can transmit data from the meters directly to  Enectiva servers. In this way, Enectiva can be easily integrated with hardware from other producers of metering systems.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;with accounting systems</h3>
+
+                <p>The cost of energies from invoices can be sent directly to Enectiva which subsequently uses them for energy management statistics. You no longer need to enter this information manually, but the process can be fully automated.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;with ERP systems</h3>
+
+                <p>Like with accounting software, Enectiva can also be integrated with other enterprise systems. Enectiva is then able to leverage data about occupancy, production, sales, and other parameters in the context of energy management to enhance energy benchmarking.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;with your own weather station</h3>
+
+                <p>If you want meteodata to match exactly with your property, your weather station can connect directly to the Enectiva server &mdash; it can send temperature data that are subsequently linked with your account and the gas/heat consumption statistics.</p>
+            </div>
+        </div>
+
+        <h2>How it works</h2>
+        <p>Using the API is very simple: the readings are sent in HTTP requests, i.e. using the technology, which underpins the web and which can be easily used in any environment with an internet access. API checks every received reading and forwards it to Enectiva, where readings are reflected in the statistics. <a
+                    href="http://docs.enectivalibrarian.apiary.io/">Complete technical documentation</a> contains the code for more than a dozen programming languages; therefore, connection of an existing system with Enectiva is a matter of just a few minutes.</p>
+
+        <figure>
+            <figcaption>Example of a manual request to send a reading (cURL):</figcaption>
+<pre>
+<code>
+    curl --include \
+    --request POST \
+    --header "Content-Type: application/vnd.api+json" \
+    --header "Authorization: Bearer: long.api.token" \
+    --header "Accept: application/vnd.api+json" \
+    --data-binary "{
+    \"data\": {
+    \"time\": \"2015-11-18T09:54:23+01:00\",
+    \"state\": 123456.78,
+    \"meter_id\": \"40AABB_007\",
+    \"unit\": \"kW\"
+    }
+    }" \
+    'http://enectiva.cz:41115/readings/customerId'
+</code>
+</pre>
+        </figure>
+
+        <p>For sending readings regularly, it is sufficient to connect the provided code to a data source and send readings periodically.</p>
+    </div>
+</div>

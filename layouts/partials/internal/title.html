@@ -1,0 +1,20 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $trans := (index (index .Site.Data.locales $lang) $lang) }}
+
+
+<div class="posts__post post post--in-list" itemscope itemtype="http://schema.org/BlogPosting">
+	<h2 class="post__title" itemprop="name headline">
+		<a href="{{ .Permalink }}" itemprop="sameAs">{{ .LinkTitle }}</a>
+	</h2>
+	<time class="post__published" datetime='{{ .Date.Format $trans.date.formats.default }}' itemprop="dateCreated">
+		{{ partial "internal/date" .}}
+	</time>
+
+		{{ .Summary }}
+		<a class="post__more" href="{{ .Permalink }}"> {{ $trans.blog.read_more }} &rarr;</a>
+
+</div>

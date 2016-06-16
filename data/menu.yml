@@ -1,0 +1,581 @@
+top:
+  cs:
+    solutions:
+      name: Řešení
+      URL: /cs/reseni
+      weight: 20
+    features:
+      name: Vlastnosti
+      URL: /cs/vlastnosti-systemu
+      weight: 30
+    api:
+      name: API
+      URL: /cs/api
+      weight: 40
+    hardware:
+      name: Hardware
+      URL: /cs/hardware
+      weight: 50
+    contactus:
+      name: Kontakt
+      URL: /cs/kontaktujte-nas
+      weight: 60
+    blog:
+      name: Blog
+      URL: /cs/blog/
+      weight: 70
+  de:
+    about:
+      name: Über Enectiva
+      URL: /de/ueber-enectiva/
+      weight: 10
+    features:
+      name: Eigenschaften
+      URL: /de/systemeigenschaften
+      weight: 20
+    solutions:
+      name: Lösung
+      URL: /de/loesung
+      weight: 30
+    hardware:
+      name: Hardware
+      URL: /de/hardware
+      weight: 50
+    contactus:
+      name: Kontakt
+      URL: /de/kontaktieren-sie-uns
+      weight: 60
+    blog:
+      name: Blog
+      URL: /de/blog/
+      weight: 70
+  en:
+    about:
+      name: About
+      URL: /en/about-enectiva/
+      weight: 10
+    features:
+      name: Features
+      URL: /en/features
+      weight: 20
+    solutions:
+      name: Solutions
+      URL: /en/solutions
+      weight: 30
+    api:
+      name: API
+      URL: /en/api
+      weight: 40
+    hardware:
+      name: Hardware
+      URL: /en/hardware
+      weight: 50
+    contactus:
+      name: Contact Us
+      URL: /en/contact-us
+      weight: 60
+    blog:
+      name: Blog
+      URL: /en/blog/
+      weight: 70
+  es:
+    about:
+      name: Enectiva
+      URL: /es/acerca-de-enectiva/
+      weight: 10
+    features:
+      name: Características
+      URL: /es/caracteristicas
+      weight: 20
+    solutions:
+      name: Soluciones
+      URL: /es/soluciones
+      weight: 30
+    hardware:
+      name: Hardwares
+      URL: /es/hardware
+      weight: 50
+    contactus:
+      name: Contacto
+      URL: /es/contacto
+      weight: 60
+    blog:
+      name: Blog
+      URL: /es/blog
+      weight: 70
+  fr:
+    solutions:
+      name: Solutions
+      URL: /fr/solutions
+      weight: 20
+    features:
+      name: Caractère du système
+      URL: /fr/caractere-du-systeme
+      weight: 30
+    api:
+      name: API
+      URL: /fr/api
+      weight: 40
+    hardware:
+      name: Hardware
+      URL: /fr/hardware
+      weight: 50
+    contactus:
+      name: Contactez-nous
+      URL: /fr/contactez-nous
+      weight: 60
+  it:
+    about:
+      name: Enectiva
+      URL: /it/enectiva/
+      weight: 10
+    features:
+      name: Caratteristiche
+      URL: /it/caratteristiche
+      weight: 20
+    solutions:
+      name: Soluzioni
+      URL: /it/soluzioni
+      weight: 30
+    hardware:
+      name: Hardware
+      URL: /it/hardware
+      weight: 40
+    contactus:
+      name: Contattaci
+      URL: /it/contattaci
+      weight: 50
+    blog:
+      name: Blog
+      URL: /it/blog/
+      weight: 60
+footer:
+  cs:
+    partner:
+      name: Partnerský program
+      URL: /cs/partnersky-program/
+      weight: 10
+    rules:
+      name: Pravidla Enectivy
+      URL: /cs/pravidla-enectivy/
+      weight: 30
+    media:
+      name: Média
+      URL: /cs/media/
+      weight: 20
+    development:
+      name: Vývojový blog
+      URL: http://developing.enectiva.cz/
+      weight: 50
+    faq:
+      name: FAQ
+      URL: /cs/faq/
+      weight: 60
+    conctact:
+      name: Kontakt
+      URL: /cs/kontaktujte-nas/
+      weight: 70
+  de:
+    partner:
+      name: Partnerprogramm
+      URL: /de/partnerprogramm/
+      weight: 10
+    media:
+      name: Medien
+      URL: /de/medien/
+      weight: 20
+    rules:
+      name: Enectiva Regeln
+      URL: /de/enectiva-regeln/
+      weight: 30
+    faq:
+      name: Oft gestellte Fragen
+      URL: /de/faq/
+      weight: 40
+    development:
+      name: Entwickler Blog
+      URL: http://developing.enectiva.cz/
+      weight: 50
+    conctact:
+      name: Kontakt
+      URL: /de/kontaktieren-sie-uns/
+      weight: 60
+  en:
+    partner:
+      name: Partner Programme
+      URL: /en/partner-programme/
+      weight: 10
+    rules:
+      name: Enectiva Rules
+      URL: /en/enectiva-rules/
+      weight: 20
+    faq:
+      name: FAQ
+      URL: /en/faq/
+      weight: 40
+    development:
+      name: Development Blog
+      URL: http://developing.enectiva.cz/
+      weight: 50
+    conctact:
+      name: Contact US
+      URL: /en/contact-us/
+      weight: 60
+  es:
+    partner:
+      name: Programa de afiliación
+      URL: /es/programa-de-afiliacion/
+      weight: 10
+    rules:
+      name: Política de privaciad de enectiva
+      URL: /es/politica-de-privacidad-de-enectiva/
+      weight: 20
+    development:
+      name: Blog de desarrollo
+      URL: http://developing.enectiva.cz/
+      weight: 50
+    conctact:
+      name: Contacto
+      URL: /es/contacto/
+      weight: 60
+  fr:
+    partner:
+      name: Programme de partenariat
+      URL: /fr/programme-de-partenariat/
+      weight: 10
+    rules:
+      name: Règles d'Enectiva
+      URL: /fr/regles-d-enectiva/
+      weight: 20
+    media:
+      name: Medias
+      URL: /fr/medias/
+      weight: 40
+    faq:
+      name: Foire Aux Questions
+      URL: /fr/foire-aux-questions
+      weight: 50
+    conctact:
+      name: Contactez-nous
+      URL: /fr/contactez-nous/
+      weight: 60
+  it:
+    partner:
+      name: Programma partner
+      URL: /it/programma-partner/
+      weight: 10
+    rules:
+      name: Regolamento di Enectiva
+      URL: /it/regolamento-di-enectiva/
+      weight: 20
+    development:
+      name: Blog di sviluppo
+      URL: http://developing.enectiva.cz/
+      weight: 50
+    conctact:
+      name: Contattaci
+      URL: /it/contattaci/
+      weight: 60
+features:
+  cs:
+    statistics:
+      name: Podrobné statistikys
+      anchors: Stats
+      width: 10
+    reports:
+      name: Automatické reporty
+      anchors: Reports
+      width: 20
+    analysis:
+      name: Analýza úspor
+      anchors: Savings
+      width: 30
+    meteodata:
+      name: Meteodata
+      anchors: Meteo
+      width: 40
+    user:
+      name: ∞ uživatelů
+      anchors: Users
+      width: 50
+    reading:
+      name: Snadné odečty
+      anchors: Readings
+      width: 60
+    pricelist:
+      name: Integrované ceníky
+      anchors: Prices
+      width: 70
+    notices:
+      name: Upozornění
+      anchors: Events
+      width: 80
+  en:
+    statistics:
+      name: Detailed statistics
+      anchors: Stats
+      width: 10
+    reports:
+      name: Automatic reports
+      anchors: Reports
+      width: 20
+    analysis:
+      name: Saving analysis
+      anchors: Savings
+      width: 30
+    meteodata:
+      name: Meteodata
+      anchors: Meteo
+      width: 40
+    user:
+      name: ∞ users
+      anchors: Users
+      width: 50
+    reading:
+      name: Simple reading
+      anchors: Readings
+      width: 60
+    pricelist:
+      name: Integrated pricelist
+      anchors: Prices
+      width: 70
+    notices:
+      name: Notices
+      anchors: Events
+      width: 80
+  fr:
+    statistics:
+      name: Statistiques détaillées
+      anchors: Stats
+      width: 10
+    reports:
+      name: Les rapports automatiques
+      anchors: Reports
+      width: 20
+    analysis:
+      name: Analyse des économies
+      anchors: Savings
+      width: 30
+    meteodata:
+      name: Données météo
+      anchors: Meteo
+      width: 40
+    user:
+      name: ∞ utilisateurs
+      anchors: Users
+      width: 50
+    reading:
+      name: Relevés facies
+      anchors: Readings
+      width: 60
+    pricelist:
+      name: Taris integrés
+      anchors: Prices
+      width: 70
+    notices:
+      name: Avertissements
+      anchors: Events
+      width: 80
+solution:
+  cs:
+    bussines:
+      name: Obchodní centra
+      link: /cs/reseni/obchodni-centra/
+    hospitals:
+      name: Nemocnice a zdravotnická zařízení
+      link: /cs/reseni/nemocnice-a-zdravotnicka-zarizeni/
+    administration:
+      name: Administrativní budovy
+      link: /cs/reseni/administrativni-budovy/
+    costsaving:
+      name: Úsporné projekty
+      link: /cs/reseni/usporne-projekty/
+    street:
+      name: Veřejné osvětlení měst a obcí
+      link: /cs/reseni/verejne-osvetleni-mest-a-obci/
+    cities:
+      name: Města, obce, kraje
+      link: /cs/reseni/mesta-obce-kraje/
+    sport:
+      name: Sportovní centra
+      link: /cs/reseni/sportovni-centra/
+
+    hotels:
+      name: Hotely
+      link: /cs/reseni/hotely/
+    industrial:
+      name: Průmyslové objekty a areály
+      link: /cs/reseni/prumyslove-objekty-a-arealy/
+    apartment:
+      name: Bytové domy
+      link: /cs/reseni/bytove-domy/
+    schools:
+      name: Veřejné budovy, školy, nemocnice, knihovny
+      link: /cs/reseni/verejne-budovy-skoly-knihovny/
+  de:
+    bussines:
+      name: Einkaufszentrenç
+      link: /de/loesung/einkaufszentren/
+    hospitals:
+      name: Krankenhäuser und Einrichtungen des Gesundheitswesen
+      link: /de/loesung/krankenhaeuser-und-einrichtungen-des-sesundheitswesens/
+    administration:
+      name: Bürogebäude
+      link: /de/loesung/buerogebaeude/
+    costsaving:
+      name: Projekte, die Ersparnisse bringen
+      link: /de/loesung/projekte-die-ersparnisse-bringen/
+    street:
+      name: Straßenbeleuchtung der Städte und Gemeinden
+      link: /de/loesung/strassenbeleuchtung-der-staedte-und-gemeinden/
+    cities:
+      name: Städte, Gemeinden, Landkreise
+      link: /de/loesung/staedte-gemeinden-landkreise/
+    sport:
+      name: Sportzentren
+      link: /de/loesung/sportzentren/
+    hotels:
+      name: Hotels
+      link: /de/loesung/hotels/
+    industrial:
+      name: Industriegebäude und Gelände
+      link: /de/loesung/industriegebaeude-und-gelaende/
+    apartment:
+      name: Wohnhäuser
+      link: /de/loesung/wohnhaeuser/
+    schools:
+      name: Öffentliche gebäude, schulen, krankenhäuser, bibliotheken
+      link: /de/loesung/oeffentliche-gebaeude-schulen-bibliotheken/
+  en:
+    bussines:
+      name: Business Centers
+      link: /en/solutions/business-centers/
+    hospitals:
+      name: Hospitals and medical facilities
+      nk: /en/solutions/hospitals-and-medical-facilities/
+    administration:
+      name: Administration Buildings
+      link: /en/solutions/administration-buildings/
+    costsaving:
+      name: Cost-saving projects
+      link: /en/solutions/cost-saving-projects/
+    street:
+      name: Street lighting in villages and cities
+      link: /en/solutions/street-lighting-in-villages-and-cities/
+    cities:
+      name: Cities, villages, counties
+      link: /en/solutions/cities-villages-counties
+    sport:
+      name: Sport centers
+      link: /en/solutions/sport-centers/
+    hotels:
+      name: Hotels
+      link: /en/solutions/hotels/
+    industrial:
+      name: Industrial buildings and compounds
+      link: /en/solutions/industrial-buildings-and-compounds/
+    apartment:
+      name: Apartment Buildings
+      link: /en/solutions/apartment-buildings/
+    schools:
+      name: Schools, libraries and other public buildings
+      link: /en/solutions/schools-libraries-and-other-public-buildings/
+  es:
+    bussines:
+      name: Centros de negocios
+      link: /es/soluciones/centros-deportivos/
+    hospitals:
+      name: Hospitales y centros médicos
+      link: /es/soluciones/hospitales-y-centros-medicos/
+    administration:
+      name: Administración de los edificios
+      link: /es/soluciones/administracion-de-edificios/
+    costsaving:
+      name: Proyectos de ahorro de costes
+      link: /es/soluciones/proyectos-de-ahorro-de-costes/
+    cities:
+      name: Municipios, ciudades y pueblos
+      link: /es/soluciones/municipios-ciudades-y-pueblos/
+    sport:
+      name: Centros deportivos
+      link: /es/soluciones/centros-deportivos/
+    hotels:
+      name: Hoteles
+      link: /es/soluciones/hoteles/
+    industrial:
+      name: Edificios y complejos industriales
+      link: /es/soluciones/edificios-y-complejos-industriales/
+    apartment:
+      name: Construcción de viviendas
+      link: /es/soluciones/construcciones-de-viviendas/
+    schools:
+        name: Las escuelas, bibliotecas Y otros edificios públicos
+        link: /es/soluciones/escuelas-bibliotecas-y-otros-edificios-publicos/
+  fr:
+    bussines:
+      name: Centres commerciaux
+      link: /fr/solutions/centres-commerciaux/
+    hospitals:
+      name: Hôpitaux et institutions de santé
+      link: /fr/solutions/hopitaux-et-institutions-de-sante/
+    administration:
+      name: Bâtiments d'administration
+      link: /fr/solutions/batiements-d-administration/
+    costsaving:
+      name: Projets d´économie
+      link: /fr/solutions/projets-d-economie/
+    street:
+      name: Eclairage public des villes et des communes
+      link: /fr/solutions/eclairage-public-des-villes-et-des-communes/
+    cities:
+      name: Villes, communes, régions
+      link: /fr/solutions/villes-communes-regions/
+    sport:
+      name: Centres sportifs
+      link: /fr/solutions/centres-sportifs/
+    hotels:
+      name: Hôtels
+      link: /fr/solutions/hotels/
+    industrial:
+      name: Propriétés et complexes industriels
+      link: /fr/solutions/proprietes-et-complexes-industriels/
+    apartment:
+      name: mmeubles d'habitation
+      link: /fr/solutions/immeubles-d-habitation/
+    schools:
+      name: Bâtiments publics, écoles, bibliothèques
+      link: /fr/solutions/batiments-publics-ecoles-bibliotheques/
+  it:
+    bussines:
+      name: Centri Business
+      link: /it/soluzioni/centri-business/
+    hospitals:
+      name: Ospedali e strutture sanitarie
+      link: /it/soluzioni/ospedali-e-strutture-sanitarie/
+    administration:
+      name: Amministrazione di edifici
+      link: /it/soluzioni/amministrazione-di-edifici/
+    costsaving:
+      name: Progetti di riduzione dei costi
+      link: /it/soluzioni/progetti-di-riduzione-dei-costi/
+    street:
+      name: Illuminazione publica in città e paesi
+      link: /it/soluzioni/illuminazione-publica-in-citta-e-paesi/
+    cities:
+      name: Città, paesi, province
+      link: /it/soluzioni/citta-paesi-province/
+    sport:
+      name: Centri sportivi
+      link: /it/soluzioni/centri-sportivi/
+    hotels:
+      name: Hotel
+      link: /it/soluzioni/hotel/
+    industrial:
+      name: Edifici e complessi industriali
+      link: /it/soluzioni/edifici-e-complessi-industriali/
+    apartment:
+      name: Condomini
+      link: /it/soluzioni/condomini/
+    schools:
+      name: Scuole, biblioteche e altri edifici pubblici.
+      link: /it/soluzioni/scuole-biblioteche-e-altri-edifici-pubblici/

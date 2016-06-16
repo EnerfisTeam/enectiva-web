@@ -1,0 +1,161 @@
+about:
+  cs: o-enective
+  en: about-enectiva
+  fr: enectiva
+  es: acerca-de-enectiva
+  it: enectiva
+  de: ueber-enectiva
+features:
+  cs: vlastnosti-systemu
+  en: features
+  fr: caractere-du-systeme
+  es: caracteristicas
+  it: caratteristiche
+  de: systemeigenschaften
+solutions:
+  cs: reseni
+  en: solutions
+  fr: solutions
+  es: soluciones
+  it: soluzioni
+  de: loesung
+solutionsschool:
+  cs: reseni/verejne-budovy-skoly-knihovny
+  en: solutions/schools-libraries-and-other-public-buildings
+  fr: solutions/batiments-publics-ecoles-bibliotheques
+  es: soluciones/escuelas-bibliotecas-y-otros-edificios-publicos
+  it: soluzioni/scuole-biblioteche-e-altri-edifici-pubblici
+  de: loesung/oeffentliche-gebaeude-schulen-bibliotheken
+solutionsadministration:
+  cs: reseni/administrativni-budovy
+  en: solutions/administration-buildings
+  fr: solutions/batiements-d-administration
+  es: soluciones/administracion-de-edificios
+  it: soluzioni/amministrazione-di-edifici
+  de: loesung/buerogebaeude
+solutionssport:
+  cs: reseni/sportovni-centra
+  en: solutions/sport-centers
+  fr: solutions/centres-sportifs
+  es: soluciones/centros-deportivos
+  it: soluzioni/centri-sportivi
+  de: loesung/sportzentren
+solutionsindustrial:
+  cs: reseni/prumyslove-objekty-a-arealy
+  en: solutions/industrial-buildings-and-compounds
+  fr: solutions/proprietes-et-complexes-industriels
+  es: soluciones/edificios-y-complejos-industriales
+  it: soluzioni/edifici-e-complessi-industriali
+  de: loesung/industriegebaeude-und-gelaende
+solutionscity:
+  cs: reseni/mesta-obce-kraje
+  en: solutions/cities-villages-counties
+  fr: solutions/villes-communes-regions
+  es: soluciones/municipios-ciudades-y-pueblos
+  it: soluzioni/citta-paesi-province
+  de: loesung/staedte-gemeinden-landkreise
+solutionsapartment:
+  cs: reseni/bytove-domy
+  en: solutions/apartment-buildings
+  fr: solutions/immeubles-d-habitation
+  es: soluciones/construcciones-de-viviendas
+  it: soluzioni/condomini
+  de: loesung/wohnhaeuser
+solutionsbusiness:
+  cs: reseni/obchodni-centra
+  en: solutions/business-centers
+  fr: solutions/centres-commerciaux
+  es: soluciones/centros-de-negocios
+  it: soluzioni/centri-business
+  de: loesung/einkaufszentren
+solutionscost:
+  cs: reseni/usporne-projekty
+  en: solutions/cost-saving-projects
+  fr: solutions/projets-d-economie
+  es: soluciones/proyectos-de-ahorro-de-costes
+  it: soluzioni/progetti-di-riduzione-dei-costi
+  de: loesung/projekte-die-ersparnisse-bringen
+solutionshotel:
+  cs: reseni/hotely
+  en: solutions/hotels
+  fr: solutions/hotels
+  es: soluciones/hoteles
+  it: soluzioni/hotel
+  de: loesung/hotels
+solutionsstreet:
+  cs: reseni/verejne-osvetleni-mest-a-obci
+  en: solutions/street-lighting-in-villages-and-cities
+  fr: solutions/eclairage-public-des-villes-et-des-communes
+  es: /acerca-de-enectiva/
+  it: soluzioni/illuminazione-publica-in-citta-e-paesi
+  de: loesung/strassenbeleuchtung-der-staedte-und-gemeinden
+solutionshospital:
+  cs: reseni/nemocnice-a-zdravotnicka-zarizeni
+  en: solutions/hospital-and-medical-facilities
+  fr: solutions/hopitaux-et-institutions-de-sante
+  es: oluciones/hospitales-y-centros-medicos
+  it: soluzioni/ospedali-e-strutture-sanitarie
+  de: loesung/krankenhaeuser-und-einrichtungen-des-sesundheitswesens
+solutionssupplier:
+  cs: reseni/dodavatele-a-distributori
+  en: about-enectiva
+  fr: enectiva
+  es: acerca-de-enectiva
+  it: enectiva
+  de: ueber-enectiva
+api:
+  cs: api
+  en: api
+  fr: api
+  es: acerca-de-enectiva
+  it: enectiva
+  de: ueber-enectiva
+hardware:
+  cs: hardware
+  en: hardware
+  fr: hardware
+  es: hardware
+  it: hardware
+  de: hardware
+contact:
+  cs: kontaktujte-nas
+  en: contact-us
+  fr: contactez-nous
+  es: contacto
+  it: contattaci
+  de: kontaktieren-sie-uns
+blog:
+  cs: /cs/blog/
+  en: /en/blog/
+  fr: /fr/enectiva/
+  es: /es/blog/
+  it: /it/blog/
+  de: /de/blog/
+partner:
+  cs: partnersky-program
+  en: partner-programme
+  fr: programme-de-partenariat
+  es: programa-de-afiliacion
+  it: programma-partner
+  de: partnerprogramm
+rules:
+  cs: pravidla-enectivy
+  en: enectivia-rules
+  fr: regles-d-enectiva
+  es: politica-de-privacidad-de-enectiva
+  it: regolamento-di-enectiva
+  de: enectiva-regeln
+faq:
+  cs: faq
+  en: faq
+  fr: foire-aux-questions
+  es: acerca-de-enectiva
+  it: enectiva
+  de: faq
+media:
+  cs: media
+  en: about-enectiva
+  fr: medias
+  es: acerca-de-enectiva
+  it: enectiva
+  de: ueber-enectiva

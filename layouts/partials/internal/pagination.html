@@ -1,0 +1,58 @@
+{{ if gt $.Paginator.TotalPages 1 }}
+  <div class="pagination">
+	{{ $baseurl := "" }}
+	{{ if .Site.BaseURL }}
+	  	{{ $baseurl := substr .Site.BaseURL 0 -1}}
+	{{ end }}
+	{{ $pag := .Paginator }}
+	{{ if gt $pag.TotalPages 1 }}
+
+
+	{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+	{{ $url := replace $url1 "blog" "" }}
+	{{ $lang := replace $url "/" "" }}
+  {{ $.Scratch.Set $lang ((index (index .Site.Data.locales $lang) $lang).blog.prev) }}
+	<!--<li {{ if not $pag.HasPrev }} class="disabled" {{ end }}>
+	  <a aria-label="First" href="{{ $baseurl }}{{ $pag.First.URL }}">
+	    <span aria-hidden="true">&laquo;&laquo;</span>
+	  </a>
+	</li>-->
+	{{ if not $pag.HasPrev }}
+	  <span> &laquo; {{ $.Scratch.Get $lang }} </span>
+	{{ else }}
+	  <a aria-label="Previous" href="{{ if $pag.HasPrev }}{{ $baseurl }}{{ $pag.Prev.URL }}{{ else }}#{{ end }}">
+	    &laquo; {{ $.Scratch.Get $lang }}
+	    </a>
+	{{ end }}
+
+	{{ range $pag.Pagers }}
+	{{ if eq . $pag }}
+	<em>{{ .PageNumber }}</em>
+	{{ else }}
+	  <a href="{{ $baseurl }}{{ .URL }}">
+	    {{ .PageNumber }}
+	    </a>
+	{{ end }}
+	{{ end }}
+
+  {{ $.Scratch.Set $lang ((index (index .Site.Data.locales $lang) $lang).blog.next) }}
+
+	{{ if not $pag.HasNext }}
+	  <span> {{ $.Scratch.Get $lang }} &raquo;  </span>
+	{{ else }}
+	  <a aria-label="Next" href="{{ if $pag.HasNext }}{{ $baseurl }}{{ $pag.Next.URL }}{{ else }}#{{ end }}">
+	  {{ $.Scratch.Get $lang }} &raquo;
+
+	    </a>
+	{{ end }}
+
+
+	<!--<li {{ if not $pag.HasNext }} class="disabled" {{ end }}>
+	  <a aria-label="Last" href="{{ $baseurl }}{{ $pag.Last.URL }}">
+	    <span aria-hidden="true">&raquo;&raquo;</span>
+	  </a>
+	</li>-->
+	{{ end }}
+
+  </div>
+{{ end }}

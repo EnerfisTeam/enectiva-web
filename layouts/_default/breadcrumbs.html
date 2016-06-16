@@ -1,0 +1,38 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ $parent := $.Params.typ }}
+{{ $section := $.Params.section }}
+{{ $schema := $.Params.schema }}
+
+
+
+<div class="subheader">
+    {{ if eq $.Params.typ "solutions"}}
+        <div class="container">
+            <ul class="breadcrumbs" itemprop="breadcrumb">
+              {{ if isset $.Params "typ" }}
+                {{ range $key, $ind := index .Site.Data.pages $parent }}
+                    {{ if eq $key $lang }}
+                        <a href={{ if eq $.Params.schema "blog"}}" {{ title $ind }}" {{ else }} "/{{ $key }}/{{ $ind }}" {{ end }}> {{ $section }} </a>
+                    {{ end }}
+                {{ end }}
+                »
+                {{ range $key, $ind := index .Site.Data.pages $schema }}
+                    {{ if eq $key $lang }}
+                        <a href="/{{ $key }}/{{ $ind}}"> {{ title $.Title }} </a>
+                    {{ end }}
+                {{ end }}
+              {{ else }}
+                    {{ range $key, $ind := index .Site.Data.pages $schema }}
+                        {{ if eq $key $lang }}
+                            <a href="/{{ $key }}/{{ $ind}}"> {{ title $.Title }} </a>
+                        {{ end }}
+                    {{ end }}
+              {{ end }}
+            </ul>
+        </div>
+    {{ end }}
+</div>

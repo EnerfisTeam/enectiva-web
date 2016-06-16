@@ -1,0 +1,27 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+<div class="container">
+    <div class="menu__placeholder" rel="menu--sticky"></div>
+    <span class="hidden">
+        {{ partial "features.html" . }}
+    </span>
+
+    <ul class="menu menu--sticky">
+        {{ range sort (index .Site.Data.menu.features $lang) "width" "asc" }}
+            <li>
+                <a href="#{{ .anchors }}" class="feature__icon">
+                    <svg viewBox="0 0 100 100">
+                        <use xlink:href="#features-{{ lower .anchors }}"></use>
+                    </svg>
+                    <span class="feature__icon-text">{{ .name }}</span>
+                </a>
+            </li>
+        {{ end }}
+        <li class="menu__more">
+          <a href="#More" class="feature__icon">+</a>
+        </li>
+    </ul>
+</div>

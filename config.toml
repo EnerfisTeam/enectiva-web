@@ -1,0 +1,42 @@
+# hostname (and path) to the root eg. http://spf13.com/
+#baseurl = "http://localhost:1313"
+
+# Site title
+title = "Enectiva"
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
+
+# Pagination
+paginate = 5
+paginatePath = "page"
+
+[permalinks]
+    blog = "/:slug/:section/:year/:month/:filename"
+
+[taxonomies]
+    czech = "cs"
+    german = "de"
+    italian = "it"
+    english = "en"
+    spanish = "es"
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
+[params]
+    googleAnalytics = "UA-31617158-1"

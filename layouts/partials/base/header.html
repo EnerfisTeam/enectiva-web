@@ -1,0 +1,69 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+<div class="header">
+    <div class="container">
+        <h1 class="header__title">
+            {{ range $key, $index := .Site.Data.pages.about }}
+                {{ $.Scratch.Set $key $index }}
+            {{ end }}
+            <a href="{{ $lang | absURL}}/{{ ($.Scratch.Get $lang) }}"
+               itemprop="name url" title="Back to homepage"
+               class="header__logo-link">
+                {{ .Site.Title }}&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="/img/logo.png" alt="Enectiva" title="Enectiva">
+            </a>
+        </h1>
+
+        <label for="Menu-toggle"
+               class="header__menu-toggle-switch">&equiv;</label>
+        <input type="checkbox" id="Menu-toggle" class="header__menu-toggler">
+
+        <div class="header__menu menu menu--main">
+            <!-- Menu translation -->
+            <ul class="menu__translations">
+                {{ if isset $.Params "schema" }}
+                    {{ range $key, $ind := index .Site.Data.pages $.Params.schema }}
+                        <li class="langSwitch">
+                            {{ if ne $key $lang }}
+                            <a href={{ if eq $.Params.schema "blog"}}" {{ $ind }}" {{ else }} "/{{ $key }}/{{ $ind }}" {{ end }} hreflang="{{ $key }}">{{ upper $key }}</a>
+                            {{ end }}
+                        </li>
+                    {{ end }}
+                {{ else }}
+                    {{ range $key, $ind := index .Site.Data.pages.blog }}
+                        <li class="langSwitch">
+                            {{ if ne $key $lang }}
+                            <a href=" {{ $ind }}" hreflang="{{ $key }}">{{ upper $key }}</a>
+                            {{ end }}
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+            <!-- End of menu translation -->
+
+            {{ if not (eq $lang "fr") }}
+                <div class="menu__login">
+                    {{ range (index .Site.Data.locales $lang) }}
+
+                    <a href="/{{ $lang }}/login">{{ .navigation.login }}</a>
+                    {{ end }}
+                </div>
+            {{ end }}
+            <ul class="menu__list" itemscope
+                itemtype="http://schema.org/SiteNavigationElement">
+                {{ range sort (index .Site.Data.menu.top $lang) "weight" "asc" }}
+                    <li>
+                        <a href="{{ .URL | absURL }}"
+                           {{ if and ( isset . "Title" ) ( ne .Title "" ) }}
+                        title="{{ .Title }}"{{ end }}>
+                            {{ .name }}
+                        </a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}} 
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+<div class="content">
+<div class="container">
+
+<div itemscope itemtype="http://schema.org/Organization">
+    <h1>{{ (index .Site.Data.contact_form $lang).contact_us}}</h1>
+
+    <p>{{ (index .Site.Data.contact_form $lang).paragraph_1 }} </p>
+
+<form accept-charset="UTF-8" action="/{{ $lang }}/welcome/process_contact_form" method="post" id="ContactForm" class="contact">

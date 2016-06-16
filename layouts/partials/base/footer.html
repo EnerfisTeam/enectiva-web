@@ -1,0 +1,64 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "blog" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="footer__menu menu menu--supportive">
+                    {{ range sort (index .Site.Data.menu.footer $lang) "weight" "asc" }}
+                    <li>
+                        <a href="{{ .URL | absURL }}"
+                           {{ if and ( isset . "Title" ) ( ne .Title "" ) }}
+                        title="{{ .Title }}"{{ end }}>
+                        {{ .name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            {{ range (index .Site.Data.locales $lang) }}
+            <div class="footer__newsletter newsletter">
+                <h2 class="newsletter__title">{{ .newsletter_signup.heading }}</h2>
+                <div id="mc_embed_signup">
+                    <form action="http://enerfis.us5.list-manage.com/subscribe/post?u=126da82fced2bdf165ce29cb7&amp;id={{ .newsletter_signup.list_id }}"
+                          method="post" id="mc-embedded-subscribe-form"
+                          name="mc-embedded-subscribe-form"
+                          class="validate newsletter__form" target="_blank"
+                          novalidate>
+
+                        <input type="email"
+                               placeholder="{{ .newsletter_signup.email_placeholder }}"
+                               value="" name="EMAIL"
+                               class="required email newsletter__email"
+                               id="mce-EMAIL">
+                        <div id="SignupSubmit" class="newsletter__submit">
+                            <input type="submit"
+                                   value="{{ .newsletter_signup.button }}"
+                                   name="subscribe" id="mc-embedded-subscribe"
+                                   class="signup button button--secondary">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="footer__author author" itemprop="author" itemscope
+                 itemtype="http://schema.org/Organization">
+                <p>{{ .intro }} <a href="http://enerfis.cz" itemprop="name url">Enerfis&nbsp;s.r.o.</a>
+                </p>
+                <div itemprop="address" itemscope
+                     itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">Drtinova 557/10</span>
+                    <span itemprop="addressLocality">{{ .city }} 5</span>
+                </div>
+                <a href="http://enerfis.cz">www.enerfis.cz</a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ partial "base/scripts" . }}
+</body>
+</html>

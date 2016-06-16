@@ -1,6 +1,0 @@
-<picture class="{{ include.class }}">
-
-    <source type="image/svg+xml" srcset="{{ include.filename | append: ".svg" | asset_path | append: ' 1w' }}">
-
-    <img src="{{ include.filename | append: ".png" | asset_path }}" alt="{{ include.alt }}" title="{{ include.alt }}">
-</picture>
