@@ -3,7 +3,7 @@ layout: default
 title: Foire aux questions
 schema: faq
 ---
-{{% div_container %}}
+
 ## Faut-il faire des installations?
 
 Pas du tout. Enectiva est un service accessible de tout dispositif connecté à Internet et qui prossède un moteur de recherche. Vos données sont accessibles n'importe quand et de n'importe où, sans nécessité d'effectuer des installations.
@@ -40,4 +40,3 @@ Chaque jour, toutes les données sont sauvegardées et mises dans des entrepôts
 ## Quels types d'énergie peuvent être surveillés avec Enectiva?
 
 En ce moment, il est possible de profiter du monitoring de l'énergie éléctrique, du chauffage, du refroidissement, du gaz et de l'eau. Avec la possibilité de subdiviser encore les catégories particulières (par exemple éléctricité pour le refroidissement, l'eau chaude ou froide etc.)
-{{% /div_container %}}

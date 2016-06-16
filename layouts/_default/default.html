@@ -1,0 +1,41 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 "reseni" ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ partial "head" . }}
+<div class="content">
+  <div class="container">
+      {{ .Content }}
+  </div>
+</div>
+{{ if isset $.Params "partner" }}
+<div class="content">
+  <div class="container">
+    <form accept-charset="UTF-8" action="/{{ $lang }}/welcome/process_contact_form" method="post" id="ContactForm" class="contact">
+      {{ .Render "form" }}
+    </form>
+  </div>
+</div>
+{{ end }}
+
+{{ if eq $.Params.typ "solutions"}}
+{{ range (index .Site.Data.locales $lang)}}
+<div class="content">
+  <div class="container">
+    <p><strong>{{ .solution }}</strong></p>
+    <ul class="menu menu--in-content">
+    {{ end }}
+    {{ range (index .Site.Data.menu.solution $lang ) }}
+      {{ if eq $.Title .name }}
+      {{ else }}
+        <li><a href="{{ .link }}">{{ .name }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
+{{ partial "cta.html" .}}
+
+{{ partial "base/footer" . }}
