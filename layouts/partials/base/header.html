@@ -44,12 +44,14 @@
             </ul>
             <!-- End of menu translation -->
 
-            <div class="menu__login">
-                {{ range (index .Site.Data.locales $lang) }}
+            {{ if not (eq $lang "fr") }}
+                <div class="menu__login">
+                    {{ range (index .Site.Data.locales $lang) }}
 
-                <a href="/{{ $lang }}/login">{{ .navigation.login }}</a>
-                {{ end }}
-            </div>
+                    <a href="/{{ $lang }}/login">{{ .navigation.login }}</a>
+                    {{ end }}
+                </div>
+            {{ end }}
             <ul class="menu__list" itemscope
                 itemtype="http://schema.org/SiteNavigationElement">
                 {{ range sort (index .Site.Data.menu.top $lang) "weight" "asc" }}
