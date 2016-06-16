@@ -5,7 +5,7 @@ it:
      Mon: Lun
      Tue: Mar
      Wed: Mer
-     Thu: Gio 
+     Thu: Gio
      Fri: Ven
      Sat: Sab
     abbr_month_names:
@@ -31,7 +31,7 @@ it:
      Saturday: Sabato
     formats:
      default: "January 2, 2006, Monday"
-      
+
     month_names:
      January: Gennaio
      February: Febbraio
@@ -225,3 +225,6 @@ it:
 
   try_enectiva: Prova Enectiva
   solution: Altre soluzionio
+
+  blog:
+    read_more: Leggi tutto
