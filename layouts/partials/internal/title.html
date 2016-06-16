@@ -3,22 +3,20 @@
 {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
 {{ $lang := substr $blog 0 2}}
 
-{{ $date := (index (index .Site.Data.locales $lang) $lang).date.formats.default }}
+{{ $trans := (index (index .Site.Data.locales $lang) $lang) }}
+
 
 <div class="posts__post post post--in-list" itemscope itemtype="http://schema.org/BlogPosting">
 	<h2 class="post__title" itemprop="name headline">
 		<a href="{{ .Permalink }}" itemprop="sameAs">{{ .LinkTitle }}</a>
 	</h2>
-	<time class="post__published" datetime='{{ .Date.Format $date }}' itemprop="dateCreated">
+	<time class="post__published" datetime='{{ .Date.Format $trans.date.formats.default }}' itemprop="dateCreated">
 		{{ partial "internal/date" .}}
 	</time>
-	{{ if eq .Site.Params.truncate false }}
-		{{ .Content }}
-	{{ else if .Description }}
-		<p class="post__perex">{{ .Description }}</p>
-		<a href="{{ .Permalink }}">Read On &rarr;</a>
-	{{ else }}
+
 		{{ .Summary }}
-		{{ if .Truncated }}<a href="{{ .Permalink }}">Read On &rarr;</a>{{ end }}
-	{{ end }}
+		<div class="post__readmore">
+			<a href="{{ .Permalink }}"> {{ $trans.blog.read_more }} &rarr;</a>
+		</div>
+
 </div>
