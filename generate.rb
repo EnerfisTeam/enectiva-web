@@ -83,6 +83,7 @@ def renameFingerprint
 	newf = File.join("#{$assets}", "#{name}")
 	FileUtils.copy(old, newf)
 
+	%x(cd #{$assets} && git add *.css *.js)
 end
 
 def compile
