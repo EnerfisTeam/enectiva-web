@@ -62,19 +62,20 @@ schema: api
             <figcaption>Example of a manual request to send a reading (cURL):</figcaption>
 <pre>
 <code>
-    curl --include \
-    --request POST \
-    --header "Content-Type: application/vnd.api+json" \
-    --header "Authorization: Bearer: long.api.token" \
-    --header "Accept: application/vnd.api+json" \
-    --data-binary "{
-    \"data\": {
-    \"time\": \"2015-11-18T09:54:23+01:00\",
-    \"state\": 123456.78,
-    \"meter_id\": \"40AABB_007\",
-    \"unit\": \"kW\"
-    }
-    }" \
+curl --include \
+     --request POST \
+     --header "Content-Type: application/vnd.api+json" \
+     --header "Authorization: Bearer: long.api.token" \
+     --header "Accept: application/vnd.api+json" \
+     --data-binary "{
+         \"data\": {
+             \"time\": \"2015-11-18T09:54:23+01:00\",
+             \"state\": 123456.78,
+             \"meter_id\": \"40AABB_007\",
+             \"unit\": \"kW\",
+             \"sender\": \"test_script_01\"
+         }
+     }" \
     'http://enectiva.cz:41115/readings/customerId'
 </code>
 </pre>
