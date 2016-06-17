@@ -54,7 +54,7 @@
             {{ end }}
             <ul class="menu__list" itemscope
                 itemtype="http://schema.org/SiteNavigationElement">
-                {{ range sort (index .Site.Data.menu.top $lang) "weight" "asc" }}
+                {{ range (index .Site.Data.menu.top $lang) }}
                     <li>
                         <a href="{{ .URL | absURL }}"
                            {{ if and ( isset . "Title" ) ( ne .Title "" ) }}
