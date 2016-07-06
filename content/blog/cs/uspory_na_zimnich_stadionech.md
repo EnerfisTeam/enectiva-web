@@ -12,16 +12,15 @@ Na mnoha stadionech je led zbytečně moc tlustý. Za ideální tloušťku se po
 Jsou tři hlavní oblasti, kde můžete ušetřit při provozu v šatnách a zázemí. První z nich je elektřina za osvětlení, kde přichází v úvahu řešení pomocí technologií s nízkou spotřebou jako jsou LED svítidla. V provozech, kde se ale nesvítí alespoň 10h denně je doba návratnosti u těchto technologií značně dlouhá. Mnohem přijatelnější je instalace pohybových čidel, které zabrání svícení v prostorech v dobách bez přítomnosti osob. Druhou oblastí je příprave teplé vody. Základem je správné nastavení teploty na 55 °C, nastavení cirkulačních čerpadel, která běží jen pokud je požadavek na teplou vodu, případně pokud teplota na najevzdálenějším místě poklesne pod požadovanou teplotu. Ohřev vody může zajistit odpadní teplo z chlazení případně výměník napojen na šedou vodu ze sprch. Třetí oblastí je spotřeba samotné vody. V případě nových provozů nebo rozsáhlejší rekonstrukcí připadají v úvahu systémy na zpětné využití šedé vody např. na splachování, ale zcela jistě jsou velmi dobře použitelné časovače na sprchových bateriích i u umyvadel. U těch je vhodné naistalovat i perlátory na snížení průtoku vody. 
 
 **4. Vytápění**
-Ano i na zimním stadionu jsou technologie vytápění a to jak šaten, tak administrativních částí klubu.
+Ano i na zimním stadionu jsou technologie vytápění a to jak šaten, tak administrativních částí klubu a lze na něm značně ušetřit pokud je efektivně nastaveno a provozováno. Standardem by mělo být nasazení ekvitermní regulace s vlastní křivkou pro každou otopnou větev v kombinaci s čidli interní teploty. Stejně tak možnost nastavit útlumy jednotlivě pro každou z těchto větví, tak aby se v prostorech netopilo zbytečně v době, kdy nejsou využívány. Velký zdroj chladu nahrává možnostem využít jeho odpadní teplo, ale zde záleží vždy na konkrétní technické dispozici daného stadionu.
 
-5. Rekuperace na absorbčních jednotkách
 
-6. Osvětlení ledové plochy
+**5. Osvětlení ledové plochy**
 Pokud přemýšlíte o výměně osvětlení nad ledovou plochou, počítejte, že návratnost takovéhoto projektu se pohybuje dle doby provozu ledové plochy od 8 do 13 let. Další výhodou LED osvětlení je nižší tepelné záření předávané do prostoru konvekcí. Tím pádem i nižší náklady na chlazení.
 
 Samozřejmostí jsou klasická vysokonákladová opatření jako zateplení administrativních částí, výměna oken a dveří za moderní s nízkým součinitelem prostupu tepla, instalace chlazení s vysokým chladícím faktorem EER. Nezmínili jsme se o optimalním množství vody a teplotě vody, která je nutná na úpravu ledové plochy a má vliv na spotřebu energie pro chlazení, o řešeních rekuperace na adsorbčních jednotkách, které zajišťují snižování vlhkosti nebo o možnostech nasazení kogeneračních jednotek. 
 
-Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás na adrese obchod@enerfis.cz pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
+Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás **na adrese obchod@enerfis.cz** pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
 
 U všech opatření je třeba mít neustále na paměti, že zimní stadion je specifický provoz se speciálními požadavky na vnitřní mikroklimatické parametry. Přeci jen nikdo nechce mít zímní stadion, kde se pořád drží mlžný opar, kde jsou zarosené stěny, které postupně ničí konstrukce a kde se diváci cítí nepohodlně
 
