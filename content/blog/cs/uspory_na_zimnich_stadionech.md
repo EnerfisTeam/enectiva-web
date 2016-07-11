@@ -4,7 +4,7 @@ published: true
 title: Energetické úspory na zimním stadionu
 author: enectiva
 keywords: "zimní stadion, energetický management, energetická data,automatický odečet"
-date: 2014-07-08
+date: 2016-07-11
 cs: blog
 slug: cs
 schema: blog
