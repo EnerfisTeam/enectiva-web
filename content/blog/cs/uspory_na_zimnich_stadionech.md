@@ -3,8 +3,8 @@ layout: post
 published: true
 title: Energetické úspory na zimním stadionu
 author: enectiva
-keywords: "zimní stadion, energetický management, energetická data,automatický odečet"
-date: 2016-07-11
+keywords: 'zimní stadion, energetický management, energetická data,automatický odečet'
+date: {}
 cs: blog
 slug: cs
 schema: blog
@@ -16,6 +16,9 @@ V České republice je celkem 190 zimních stadionů. Většina z nich je v maje
 
 **1. Teplota ledu**
 Velmi často je teplota ledu nastavena na zbytečně nízké hodnoty. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60MWh/rok v závislosti na použité technologii.
+
+![Zimní stadion]({{site.baseurl}}/content/blog/cs/zimni%20stadion%20odecty%20energii_lr.png)![zimni stadion odecty energii_lr.png]({{site.baseurl}}/content/blog/cs/zimni stadion odecty energii_lr.png)
+
 
 **2. Tloušťka ledu**
 Na mnoha stadionech je led zbytečně moc tlustý. Za ideální tloušťku se považují 3 cm, při které je ideální poměr kvality, spotřeby elektrické energie a množství použité vody. Stejně tak je možné mnohem rychleji měnit teplotu ledu v při menší tloušťce.
@@ -35,5 +38,3 @@ Samozřejmostí jsou klasická vysokonákladová opatření jako zateplení admi
 Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás **na adrese obchod@enerfis.cz** pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
 
 U všech opatření je třeba mít neustále na paměti, že zimní stadion je specifický provoz se speciálními požadavky na vnitřní mikroklimatické parametry. Přeci jen nikdo nechce mít zímní stadion, kde se pořád drží mlžný opar, kde jsou zarosené stěny, které postupně ničí konstrukce a kde se diváci cítí nepohodlně
-
-
