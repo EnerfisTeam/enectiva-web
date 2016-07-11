@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Energetické úspory na zimním stadionu
+title: Možnosti energetických úspor na zimním stadionu
 author: enectiva
 keywords: 'zimní stadion, energetický management, energetická data,automatický odečet'
 date: {}
@@ -10,18 +10,13 @@ slug: cs
 schema: blog
 ---
 
-Možnost energetických úspor na zimních stadionech
-
 V České republice je celkem 190 zimních stadionů. Většina z nich je v majetku měst a obcí nebo firem, které vlastní taktéž město. Z technického pohledu se jedná o velmi komplexní budovy s mnoha technologiemi s vysokou energetickou náročností. V tomto článku se pokusíme shrnout základní možnosti energetických úspor na zimních stadionech:
 
 **1. Teplota ledu**
-Velmi často je teplota ledu nastavena na zbytečně nízké hodnoty. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60MWh/rok v závislosti na použité technologii.
-
-![Zimní stadion]({{site.baseurl}}/content/blog/cs/zimni%20stadion%20odecty%20energii_lr.png)![zimni stadion odecty energii_lr.png]({{site.baseurl}}/content/blog/cs/zimni stadion odecty energii_lr.png)
-
+Velmi často je teplota ledu nastavena na **zbytečně nízké hodnoty**. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60MWh/rok v závislosti na použité technologii.
 
 **2. Tloušťka ledu**
-Na mnoha stadionech je led zbytečně moc tlustý. Za ideální tloušťku se považují 3 cm, při které je ideální poměr kvality, spotřeby elektrické energie a množství použité vody. Stejně tak je možné mnohem rychleji měnit teplotu ledu v při menší tloušťce.
+Na mnoha stadionech je led zbytečně moc tlustý. Za ideální tloušťku se považují 3 cm, při které je ideální poměr kvality, spotřeby elektrické energie a množství použité vody. Stejně tak je možné mnohem **rychleji měnit teplotu** ledu při jeho menší tloušťce a tím pádem generujeme další úspory.
 
 **3. Provoz šaten a zázemí**
 Jsou tři hlavní oblasti, kde můžete ušetřit při provozu v šatnách a zázemí. První z nich je elektřina za osvětlení, kde přichází v úvahu řešení pomocí technologií s nízkou spotřebou jako jsou LED svítidla. V provozech, kde se ale nesvítí alespoň 10h denně je doba návratnosti u těchto technologií značně dlouhá. Mnohem přijatelnější je instalace pohybových čidel, které zabrání svícení v prostorech v dobách bez přítomnosti osob. Druhou oblastí je příprave teplé vody. Základem je správné nastavení teploty na 55 °C, nastavení cirkulačních čerpadel, která běží jen pokud je požadavek na teplou vodu, případně pokud teplota na najevzdálenějším místě poklesne pod požadovanou teplotu. Ohřev vody může zajistit odpadní teplo z chlazení případně výměník napojen na šedou vodu ze sprch. Třetí oblastí je spotřeba samotné vody. V případě nových provozů nebo rozsáhlejší rekonstrukcí připadají v úvahu systémy na zpětné využití šedé vody např. na splachování, ale zcela jistě jsou velmi dobře použitelné časovače na sprchových bateriích i u umyvadel. U těch je vhodné naistalovat i perlátory na snížení průtoku vody. 
