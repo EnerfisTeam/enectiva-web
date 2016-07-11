@@ -1,3 +1,15 @@
+---
+layout: post
+published: true
+title: Energetické úspory na zimním stadionu
+author: enectiva
+keywords: "zimní stadion, energetický management, energetická data,automatický odečet"
+date: 2014-07-08
+cs: blog
+slug: cs
+schema: blog
+---
+
 Možnost energetických úspor na zimních stadionech
 
 V České republice je celkem 190 zimních stadionů. Většina z nich je v majetku měst a obcí nebo firem, které vlastní taktéž město. Z technického pohledu se jedná o velmi komplexní budovy s mnoha technologiemi s vysokou energetickou náročností. V tomto článku se pokusíme shrnout základní možnosti energetických úspor na zimních stadionech:
