@@ -12,7 +12,7 @@ schema: blog
 
 V České republice je celkem 190 zimních stadionů. Většina z nich je v majetku měst a obcí nebo firem, které vlastní taktéž město. Z technického pohledu se jedná o velmi komplexní budovy s mnoha technologiemi s vysokou energetickou náročností. V tomto článku se pokusíme shrnout základní možnosti energetických úspor na zimních stadionech:
 
-<img src="/img/blog/zimni-stadion-odecty-energii-lr.png" alt="Energetické úspory zimní stadion" class="center">
+<img src="/img/blog/uspory na zimnim stadionu lr.jpg" alt="Energetické úspory zimní stadion" class="center">
 
 **1. Teplota ledu**
 Velmi často je teplota ledu nastavena na **zbytečně nízké hodnoty**. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60 MWh/rok v závislosti na použité technologii.
