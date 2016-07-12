@@ -34,4 +34,5 @@ Samozřejmostí jsou klasická vysokonákladová opatření jako zateplení admi
 
 Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás na adrese **[obchod@enerfis.cz](mailto:obchod@enerfis.cz)** pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
 
-U všech opatření je třeba mít neustále na paměti, že zimní stadion je specifický provoz se speciálními požadavky na vnitřní mikroklimatické parametry. Přeci jen nikdo nechce mít zímní stadion, kde se pořád drží mlžný opar, kde jsou zarosené stěny, které postupně ničí konstrukce a kde se diváci cítí nepohodlně
+U všech opatření je třeba mít neustále na paměti, že zimní stadion je specifický provoz se speciálními požadavky na vnitřní mikroklimatické parametry. Přeci jen nikdo nechce mít zímní stadion, kde se pořád drží mlžný opar nebo kde jsou orosené stěny, které postupně ničí konstrukce. 
+
