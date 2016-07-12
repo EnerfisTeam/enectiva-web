@@ -4,16 +4,18 @@ published: true
 title: Možnosti energetických úspor na zimním stadionu
 author: enectiva
 keywords: 'zimní stadion, energetický management, energetická data,automatický odečet'
-date: {}
+date: 2016-07-11
 cs: blog
 slug: cs
 schema: blog
 ---
 
-V České republice je celkem 190 zimních stadionů. Většina z nich je v majetku měst a obcí nebo firem, které vlastní taktéž město. Z technického pohledu se jedná o velmi komplexní budovy s mnoha technologiemi s vysokou energetickou náročností. V tomto článku se pokusíme shrnout základní možnosti energetických úspor na zimních stadionech:![Energetické úspory zimní stadion](/content/blog/cs/zimni%20stadion%20odecty%20energii_lr.png)
+V České republice je celkem 190 zimních stadionů. Většina z nich je v majetku měst a obcí nebo firem, které vlastní taktéž město. Z technického pohledu se jedná o velmi komplexní budovy s mnoha technologiemi s vysokou energetickou náročností. V tomto článku se pokusíme shrnout základní možnosti energetických úspor na zimních stadionech:
+
+<img src="/img/blog/zimni-stadion-odecty-energii-lr.png" alt="Energetické úspory zimní stadion" class="center">
 
 **1. Teplota ledu**
-Velmi často je teplota ledu nastavena na **zbytečně nízké hodnoty**. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60MWh/rok v závislosti na použité technologii.
+Velmi často je teplota ledu nastavena na **zbytečně nízké hodnoty**. Přitom při hokejovém zápasu dle zkušeností postačuje teplota ledu -5° C. Při dalších sportech, které jsou na zímních stadionech provozovány je možné teplotu ledu dále zvyšovat. U hokejového tréninku na -4° C, krasobruslení -3° C a u veřejného bruslení pak na -2° C. Úspora vygenerovaná zvýšením teploty ledu se pohybuje v řádu 40-60 MWh/rok v závislosti na použité technologii.
 
 **2. Tloušťka ledu**
 Na mnoha stadionech je led zbytečně moc tlustý. Za ideální tloušťku se považují 3 cm, při které je ideální poměr kvality, spotřeby elektrické energie a množství použité vody. Stejně tak je možné mnohem **rychleji měnit teplotu** ledu při jeho menší tloušťce a tím pádem generujeme další úspory.
@@ -30,6 +32,6 @@ Pokud přemýšlíte o výměně osvětlení nad ledovou plochou, počítejte, �
 
 Samozřejmostí jsou klasická vysokonákladová opatření jako zateplení administrativních částí, výměna oken a dveří za moderní s nízkým součinitelem prostupu tepla, instalace chlazení s vysokým chladícím faktorem EER. Nezmínili jsme se o optimalním množství vody a teplotě vody, která je nutná na úpravu ledové plochy a má vliv na spotřebu energie pro chlazení, o řešeních rekuperace na adsorbčních jednotkách, které zajišťují snižování vlhkosti nebo o možnostech nasazení kogeneračních jednotek. Opatření, které je možné realizovat na zimních stadionech je celá řada.
 
-Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás **na adrese obchod@enerfis.cz** pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
+Pokud si přejete nechat zpracovat energetický audit firmou, která se specializuje na vyhledávání energetických úspor na zimních stadionech, kontaktujte nás na adrese **[obchod@enerfis.cz](mailto:obchod@enerfis.cz)** pro sjednání osobního setkání a domluvení rozsahu energetického auditu.
 
 U všech opatření je třeba mít neustále na paměti, že zimní stadion je specifický provoz se speciálními požadavky na vnitřní mikroklimatické parametry. Přeci jen nikdo nechce mít zímní stadion, kde se pořád drží mlžný opar, kde jsou zarosené stěny, které postupně ničí konstrukce a kde se diváci cítí nepohodlně
