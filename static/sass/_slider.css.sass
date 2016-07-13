@@ -5,9 +5,14 @@
   &__slide
     height: $slider-height-small !important
     background-position: left center
-    @for $i from 2 through 3
+
+    $background-slides: 2 3
+    $hidden-slides: 3 1
+    @each $i in $hidden-slides
       &--slide#{$i}
         display: none
+    @each $i in $background-slides
+      &--slide#{$i}
         background-image: url('/img/sliders/slider#{$i}.jpg')
 
   &__main, &__sub

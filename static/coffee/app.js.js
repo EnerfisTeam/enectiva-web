@@ -2,6 +2,7 @@
 (function() {
   $(function() {
     var $ContactForm, $body, $contactFormName, $cta, $ctaOpener, $forms, $header, $slider, $subscribeEmail, $subscribeSubmit, adjustShowingOfCta, ctaOpened, newlsetterHiddenClass, scrolled, toCheck;
+
     newlsetterHiddenClass = 'newsletter__submit--hidden';
     $subscribeSubmit = $('#SignupSubmit').addClass(newlsetterHiddenClass);
     $subscribeEmail = $('#mce-EMAIL');
@@ -20,6 +21,7 @@
         }
       }
     });
+
     $cta = $('#Cta');
     $body = $('body');
     $header = $('.header');
@@ -38,6 +40,7 @@
       }
       return $cta.css('right', margin + "em");
     };
+
     scrolled = false;
     $(window).scroll(function() {
       return scrolled = true;
@@ -66,6 +69,7 @@
         return $ctaOpener.data('alt', old);
       }
     });
+
     $forms = $('#ContactForm, #Cta form');
     if ($forms.length) {
       $('.error-message').hide();
@@ -140,6 +144,7 @@
           });
         });
       });
+
       $ContactForm = $('#ContactForm');
       if ($ContactForm.length) {
         if ($ContactForm.find('.alternatives input:checked').length === 0) {
@@ -159,6 +164,7 @@
         }
       });
     }
+
     $('.swipebox').swipebox();
     $slider = $('.slider');
     $slider.slick({
