@@ -1,10 +1,10 @@
-Technologie jako odpověď na řešení problémů měst
+## Technologie jako odpověď na řešení problémů měst
 
 Smart city, česky chytré město, je nyní velmi populární termín za kterým se ale skrývá mnoho významů. Obecně lze říci, že se jedná o nasazení moderních technologií v rámci fungování měst a obcí. Těch oblastí, kde lze moderní technologie ve městech uplatnit je celá řada např.doprava, energetika, odpadové hospodářství, osvěltení, zdravotnictví. To jsou všechno oblasti, které lze vylepšovat za pomocí moderních technologií.
 
 Význam těchto řešení je (pokud odmyslíme politické a klasické business důvody) vytvořit příjemnější město pro život s nižšími provozními náklady. Alespoň takovéto důvody by měl mít každý politik na paměti pokud se angažuje ve Smart City projektech v rámci své obce, města nebo regionu. Oblastí v které se angažuje naše společnost, je inteligentní monitoring energií za pomoci aplikace Enectiva.
 
-Naše cíle v oblati monitoringu energií měst a obcí:
+## Naše cíle v oblati monitoringu energií měst a obcí:
 
 - snížení energetické a ekologické zátěžě měst a obcí
 - snížení administrativní zátěžě související s oblastí energetického managementu
