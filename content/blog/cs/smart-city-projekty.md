@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Smart city projekty
+title: Smart City - Technologie jako odpověď na řešení problémů měst 
 author: enectiva
 keywords: 'smart city'
 date: 2016-07-19
@@ -9,8 +9,6 @@ cs: blog
 slug: cs
 schema: blog
 ---
-
-## Technologie jako odpověď na řešení problémů měst
 
 Smart city, česky chytré město, je nyní velmi populární termín za kterým se ale skrývá mnoho významů. Obecně lze říci, že se jedná o nasazení moderních technologií v rámci fungování měst a obcí. Těch oblastí, kde lze moderní technologie ve městech uplatnit je celá řada např.doprava, energetika, odpadové hospodářství, osvěltení, zdravotnictví. To jsou všechno oblasti, které lze vylepšovat za pomocí moderních technologií.
 
