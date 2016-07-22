@@ -15,7 +15,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/img/favicon.png" | absURL }}">
 {{ end }}
 
-<title>{{ .Title }} {{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}</title>
+<title>{{ .Title }} {{ if and ( ne .Title .Site.Title ) ( ne .Params.ForceTitle true ) }} - {{ .Site.Title }}{{ end }}</title>
 
   {{ partial "base/imports" . }}
 </head>
