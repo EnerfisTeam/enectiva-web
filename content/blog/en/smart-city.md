@@ -5,7 +5,7 @@ title: Smart City - technologies as a solution to the problems of the city
 author: enectiva
 keywords: 'smart city, energy monitoring, energy management'
 date: 2016-07-19
-cs: blog
+en: blog
 slug: en
 schema: blog
 ---
