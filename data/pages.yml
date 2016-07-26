@@ -48,8 +48,8 @@ solutionsindustrial:
   it: soluzioni/edifici-e-complessi-industriali
   de: loesung/industriegebaeude-und-gelaende
 solutionscity:
-  cs: reseni/mesta-obce-kraje
-  en: solutions/cities-villages-counties
+  cs: reseni/smart-city
+  en: solutions/smart-city-energy
   fr: solutions/villes-communes-regions
   es: soluciones/municipios-ciudades-y-pueblos
   it: soluzioni/citta-paesi-province

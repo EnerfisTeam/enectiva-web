@@ -232,8 +232,8 @@ solution:
       link: /cs/reseni/usporne-projekty/
     - name: Veřejné osvětlení měst a obcí
       link: /cs/reseni/verejne-osvetleni-mest-a-obci/
-    - name: Města, obce, kraje
-      link: /cs/reseni/mesta-obce-kraje/
+    - name: Smart City - Chytré město
+      link: /cs/reseni/smart-city/
     - name: Sportovní centra
       link: /cs/reseni/sportovni-centra/
     - name: Hotely
@@ -278,8 +278,8 @@ solution:
       link: /en/solutions/cost-saving-projects/
     - name: Street lighting in villages and cities
       link: /en/solutions/street-lighting-in-villages-and-cities/
-    - name: Cities, villages, counties
-      link: /en/solutions/cities-villages-counties
+    - name: Smart City - Energy
+      link: /en/solutions/smart-city-energy
     - name: Sport centers
       link: /en/solutions/sport-centers/
     - name: Hotels
