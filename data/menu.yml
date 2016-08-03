@@ -77,6 +77,19 @@ top:
       URL: /it/contattaci
     - name: Blog
       URL: /it/blog/
+  ru:
+    - name: Řešení
+      URL: /cs/reseni
+    - name: Vlastnosti
+      URL: /cs/vlastnosti-systemu
+    - name: API
+      URL: /cs/api
+    - name: Hardware
+      URL: /cs/hardware
+    - name: Kontakt
+      URL: /cs/kontaktujte-nas
+    - name: Blog
+      URL: /cs/blog/
 footer:
   cs:
     - name: Partnerský program
@@ -144,6 +157,19 @@ footer:
       URL: http://developing.enectiva.cz/
     - name: Contattaci
       URL: /it/contattaci/
+  ru:
+    - name: Partnerský program
+      URL: /cs/partnersky-program/
+    - name: Pravidla Enectivy
+      URL: /cs/pravidla-enectivy/
+    - name: Média
+      URL: /cs/media/
+    - name: Vývojový blog
+      URL: http://developing.enectiva.cz/
+    - name: FAQ
+      URL: /cs/faq/
+    - name: Kontakt
+      URL: /cs/kontaktujte-nas/
 features:
   cs:
     - name: Podrobné statistikys
@@ -218,6 +244,31 @@ features:
       anchors: Prices
       width: 70
     - name: Avertissements
+      anchors: Events
+      width: 80
+  ru:
+    - name: Podrobné statistikys
+      anchors: Stats
+      width: 10
+    - name: Automatické reporty
+      anchors: Reports
+      width: 20
+    - name: Analýza úspor
+      anchors: Savings
+      width: 30
+    - name: Meteodata
+      anchors: Meteo
+      width: 40
+    - name: ∞ uživatelů
+      anchors: Users
+      width: 50
+    - name: Snadné odečty
+      anchors: Readings
+      width: 60
+    - name: Integrované ceníky
+      anchors: Prices
+      width: 70
+    - name: Upozornění
       anchors: Events
       width: 80
 solution:
@@ -357,3 +408,26 @@ solution:
       link: /it/soluzioni/condomini/
     - name: Scuole, biblioteche e altri edifici pubblici.
       link: /it/soluzioni/scuole-biblioteche-e-altri-edifici-pubblici/
+  ru:
+    - name: Obchodní centra
+      link: /cs/reseni/obchodni-centra/
+    - name: Nemocnice a zdravotnická zařízení
+      link: /cs/reseni/nemocnice-a-zdravotnicka-zarizeni/
+    - name: Administrativní budovy
+      link: /cs/reseni/administrativni-budovy/
+    - name: Úsporné projekty
+      link: /cs/reseni/usporne-projekty/
+    - name: Veřejné osvětlení měst a obcí
+      link: /cs/reseni/verejne-osvetleni-mest-a-obci/
+    - name: Smart City - Chytré město
+      link: /cs/reseni/smart-city/
+    - name: Sportovní centra
+      link: /cs/reseni/sportovni-centra/
+    - name: Hotely
+      link: /cs/reseni/hotely/
+    - name: Průmyslové objekty a areály
+      link: /cs/reseni/prumyslove-objekty-a-arealy/
+    - name: Bytové domy
+      link: /cs/reseni/bytove-domy/
+    - name: Veřejné budovy, školy, nemocnice, knihovny
+      link: /cs/reseni/verejne-budovy-skoly-knihovny/

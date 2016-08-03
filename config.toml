@@ -24,6 +24,7 @@ paginatePath = "page"
     italian = "it"
     english = "en"
     spanish = "es"
+    russian = "ru"
 
 [blackfriday]
     angledQuotes = true
