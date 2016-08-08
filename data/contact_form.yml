@@ -240,3 +240,43 @@ fr:
   country: République tchèque
   youtube: Sur YouTube
   contact: /fr/contactez-nous
+
+ru:
+  required: обязательные поля
+  required_error: обязательно!
+  form_type_options:
+    podpora: Техническая поддержка
+    general: Общая информация
+    obchod: Коммерческие дела
+    partner: Для партнёров
+    test: Пробный доступ
+  heard_of_options:
+    internet: из интернета
+    partner: от делового партнера
+    letak: из листовок
+    znamy: от знакомого
+    odjinud: откуда-то ещё
+  submit: Послать
+  submit_alt: Посылается...
+  submitted: Бланк был отправлен
+  email: Электронный адрес
+  name: Имя
+  company: Компания
+  position: Ваша должность
+  tel: Телефон
+  heard_of: Как вы о нас узнали?
+  form_type: "Вопрос связанный с"
+  text: Ваше сообщение (по желанию)
+  tell_us_more: Можете ли вы рассказать нам о себе еще что-то?
+  contact_us: Свяжитесь с нами
+  paragraph_1: В случае возникновения любых вопросов, пожалуйста, не стесняйтесь обращаться к команде Enectiva. Используйте следующий адрес электронной почты или контактную форму.
+  email_contact: Электронные адреса
+  phone_contact: Телефонные контакты
+  phone_1: тел
+  phone_2: тел
+  mobile: моб
+  fax: факс
+  paragraph_2: Почтовый и платежный адрес
+  country: Чешская Республика
+  youtube: YouTube канал
+  contact: /ru/kontaktiruyte-nas

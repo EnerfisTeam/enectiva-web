@@ -96,6 +96,22 @@ form:
         test: 
             id: Testzugang
             option: test
+    ru:
+        podpora:
+            id: Technická podpora
+            option: podpora
+        general:
+            id: Obecné informace
+            option: general
+        obchod:
+            id: Obchodní záležitosti
+            option: obchod
+        partner:
+            id: Pro partnery
+            option: partner
+        test:
+            id: Zkušební přístup
+            option: test
 heard:
     cs:
         internet: 
@@ -192,4 +208,20 @@ heard:
             option: znamy
         odjinud: 
             id: anderswoher
+            option: odjinud
+    ru:
+        internet:
+            id: z internetu
+            option: heard
+        partner:
+            id: od obchodního partnera
+            option: partner
+        letak:
+            id: z letáků
+            option: letak
+        znamy:
+            id: od známého
+            option: znamy
+        odjinud:
+            id: odjinud
             option: odjinud

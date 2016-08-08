@@ -77,6 +77,17 @@ top:
       URL: /it/contattaci
     - name: Blog
       URL: /it/blog/
+  ru:
+    - name: Решения
+      URL: /ru/resheniya
+    - name: Характеристики
+      URL: /ru/harakteristiky-systemy
+    - name: API
+      URL: /ru/api
+    - name: Hardware
+      URL: /ru/hardware
+    - name: Контакт
+      URL: /ru/svyazhites-s-nami
 footer:
   cs:
     - name: Partnerský program
@@ -144,6 +155,19 @@ footer:
       URL: http://developing.enectiva.cz/
     - name: Contattaci
       URL: /it/contattaci/
+  ru:
+    - name: Партнерская программа
+      URL: /ru/partnerskaya-programma
+    - name: Правила компании Enectiva
+      URL: /ru/pravila-enectivy/
+    - name: Средства массовой информации
+      URL: /ru/smi
+    - name: Блог развития
+      URL: http://developing.enectiva.cz/
+    - name: FAQ
+      URL: /ru/faq/
+    - name: Контакт
+      URL: /ru/svyazhites-s-nami
 features:
   cs:
     - name: Podrobné statistikys
@@ -218,6 +242,31 @@ features:
       anchors: Prices
       width: 70
     - name: Avertissements
+      anchors: Events
+      width: 80
+  ru:
+    - name: Подробные статистики
+      anchors: Stats
+      width: 10
+    - name: Автоматические отчеты
+      anchors: Reports
+      width: 20
+    - name: Анализ экономии
+      anchors: Savings
+      width: 30
+    - name: Метеоданные
+      anchors: Meteo
+      width: 40
+    - name: ∞ пользователей
+      anchors: Users
+      width: 50
+    - name: Легкое чтение
+      anchors: Readings
+      width: 60
+    - name: Интегрированные прайс-листы
+      anchors: Prices
+      width: 70
+    - name: Предупреждения
       anchors: Events
       width: 80
 solution:
@@ -357,3 +406,26 @@ solution:
       link: /it/soluzioni/condomini/
     - name: Scuole, biblioteche e altri edifici pubblici.
       link: /it/soluzioni/scuole-biblioteche-e-altri-edifici-pubblici/
+  ru:
+    - name: Торговые центры
+      link: /ru/resheniya/torgovyye-centry/
+    - name: Больницы и медицинские учреждения
+      link: /ru/resheniya/bolnicy-i-medicinskiye-uchrezhdeniya/
+    - name: Административные здания
+      link: /ru/resheniya/administrativnye-zdaniya/
+    - name: Энергосберегающие проекты
+      link: /ru/resheniya/energosberegayushiye-proyekty/
+    - name: Уличное освещение городов и населённых пунктов
+      link: /ru/resheniya/ulichnoye-osvesheniye-gorodov-i-rayonov/
+    - name: Smart City - Умный город
+      link: /ru/resheniya/smart-city/
+    - name: Спортивные центры
+      link: /ru/resheniya/sportovnyye-centry/
+    - name: Отели
+      link: /ru/resheniya/oteli/
+    - name: Промышленные здания и площадки
+      link: /ru/resheniya/prpmyshlennyye-zdaniya-i-ploshadki/
+    - name: Жилые дома
+      link: /ru/resheniya/zhylyye-doma/
+    - name: Общественные здания, школы, больницы, библиотеки
+      link: /ru/resheniya/obshestvennyye-zdaniya-shkoly-biblioteki

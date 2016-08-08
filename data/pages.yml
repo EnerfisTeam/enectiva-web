@@ -1,5 +1,6 @@
 about:
   cs: o-enective
+  ru: o-enectiva
   en: about-enectiva
   fr: enectiva
   es: acerca-de-enectiva
@@ -7,6 +8,7 @@ about:
   de: ueber-enectiva
 features:
   cs: vlastnosti-systemu
+  ru: harakteristiky-systemy
   en: features
   fr: caractere-du-systeme
   es: caracteristicas
@@ -14,6 +16,7 @@ features:
   de: systemeigenschaften
 solutions:
   cs: reseni
+  ru: resheniya
   en: solutions
   fr: solutions
   es: soluciones
@@ -21,6 +24,7 @@ solutions:
   de: loesung
 solutionsschool:
   cs: reseni/verejne-budovy-skoly-knihovny
+  ru: resheniya/obshestvennyye-zdaniya-shkoly-biblioteki
   en: solutions/schools-libraries-and-other-public-buildings
   fr: solutions/batiments-publics-ecoles-bibliotheques
   es: soluciones/escuelas-bibliotecas-y-otros-edificios-publicos
@@ -28,6 +32,7 @@ solutionsschool:
   de: loesung/oeffentliche-gebaeude-schulen-bibliotheken
 solutionsadministration:
   cs: reseni/administrativni-budovy
+  ru: resheniya/administrativnye-zdaniya
   en: solutions/administration-buildings
   fr: solutions/batiements-d-administration
   es: soluciones/administracion-de-edificios
@@ -35,6 +40,7 @@ solutionsadministration:
   de: loesung/buerogebaeude
 solutionssport:
   cs: reseni/sportovni-centra
+  ru: resheniya/sportovnyye-centry
   en: solutions/sport-centers
   fr: solutions/centres-sportifs
   es: soluciones/centros-deportivos
@@ -42,6 +48,7 @@ solutionssport:
   de: loesung/sportzentren
 solutionsindustrial:
   cs: reseni/prumyslove-objekty-a-arealy
+  ru: resheniya/prpmyshlennyye-zdaniya-i-ploshadki
   en: solutions/industrial-buildings-and-compounds
   fr: solutions/proprietes-et-complexes-industriels
   es: soluciones/edificios-y-complejos-industriales
@@ -49,6 +56,7 @@ solutionsindustrial:
   de: loesung/industriegebaeude-und-gelaende
 solutionscity:
   cs: reseni/smart-city
+  ru: resheniya/smart-city
   en: solutions/smart-city-energy
   fr: solutions/villes-communes-regions
   es: soluciones/municipios-ciudades-y-pueblos
@@ -56,6 +64,7 @@ solutionscity:
   de: loesung/staedte-gemeinden-landkreise
 solutionsapartment:
   cs: reseni/bytove-domy
+  ru: resheniya/zhylyye-doma
   en: solutions/apartment-buildings
   fr: solutions/immeubles-d-habitation
   es: soluciones/construcciones-de-viviendas
@@ -63,6 +72,7 @@ solutionsapartment:
   de: loesung/wohnhaeuser
 solutionsbusiness:
   cs: reseni/obchodni-centra
+  ru: resheniya/torgovyye-centry
   en: solutions/business-centers
   fr: solutions/centres-commerciaux
   es: soluciones/centros-de-negocios
@@ -70,6 +80,7 @@ solutionsbusiness:
   de: loesung/einkaufszentren
 solutionscost:
   cs: reseni/usporne-projekty
+  ru: resheniya/energosberegayushiye-proyekty
   en: solutions/cost-saving-projects
   fr: solutions/projets-d-economie
   es: soluciones/proyectos-de-ahorro-de-costes
@@ -77,6 +88,7 @@ solutionscost:
   de: loesung/projekte-die-ersparnisse-bringen
 solutionshotel:
   cs: reseni/hotely
+  ru: resheniya/oteli
   en: solutions/hotels
   fr: solutions/hotels
   es: soluciones/hoteles
@@ -84,6 +96,7 @@ solutionshotel:
   de: loesung/hotels
 solutionsstreet:
   cs: reseni/verejne-osvetleni-mest-a-obci
+  ru: resheniya/ulichnoye-osvesheniye-gorodov-i-rayonov
   en: solutions/street-lighting-in-villages-and-cities
   fr: solutions/eclairage-public-des-villes-et-des-communes
   es: /acerca-de-enectiva/
@@ -91,6 +104,7 @@ solutionsstreet:
   de: loesung/strassenbeleuchtung-der-staedte-und-gemeinden
 solutionshospital:
   cs: reseni/nemocnice-a-zdravotnicka-zarizeni
+  ru: resheniya/bolnicy-i-medicinskiye-uchrezhdeniya
   en: solutions/hospitals-and-medical-facilities
   fr: solutions/hopitaux-et-institutions-de-sante
   es: soluciones/hospitales-y-centros-medicos
@@ -98,6 +112,7 @@ solutionshospital:
   de: loesung/krankenhaeuser-und-einrichtungen-des-sesundheitswesens
 solutionssupplier:
   cs: reseni/dodavatele-a-distributori
+  ru: resheniya/postavshiki-i-distributory
   en: about-enectiva
   fr: enectiva
   es: acerca-de-enectiva
@@ -105,6 +120,7 @@ solutionssupplier:
   de: ueber-enectiva
 api:
   cs: api
+  ru: api
   en: api
   fr: api
   es: acerca-de-enectiva
@@ -112,6 +128,7 @@ api:
   de: ueber-enectiva
 hardware:
   cs: hardware
+  ru: hardware
   en: hardware
   fr: hardware
   es: hardware
@@ -119,6 +136,7 @@ hardware:
   de: hardware
 contact:
   cs: kontaktujte-nas
+  ru: svyazhites-s-nami
   en: contact-us
   fr: contactez-nous
   es: contacto
@@ -126,6 +144,7 @@ contact:
   de: kontaktieren-sie-uns
 blog:
   cs: /cs/blog/
+  ru: /ru/enectiva/
   en: /en/blog/
   fr: /fr/enectiva/
   es: /es/blog/
@@ -133,6 +152,7 @@ blog:
   de: /de/blog/
 partner:
   cs: partnersky-program
+  ru: partnerskaya-programma
   en: partner-programme
   fr: programme-de-partenariat
   es: programa-de-afiliacion
@@ -140,6 +160,7 @@ partner:
   de: partnerprogramm
 rules:
   cs: pravidla-enectivy
+  ru: pravila-enectivy
   en: enectiva-rules
   fr: regles-d-enectiva
   es: politica-de-privacidad-de-enectiva
@@ -147,6 +168,7 @@ rules:
   de: enectiva-regeln
 faq:
   cs: faq
+  ru: faq
   en: faq
   fr: foire-aux-questions
   es: acerca-de-enectiva
@@ -154,6 +176,7 @@ faq:
   de: faq
 media:
   cs: media
+  ru: media
   en: about-enectiva
   fr: medias
   es: acerca-de-enectiva

@@ -28,4 +28,4 @@ Diferentes edificios pueden dar diferentes datos y valores. Hay varias reglas b�
 
 El segundo punto puede sorprenderle, pero la altura de un edificio está estrechamente relacionada con los equipos utilizados en el mismo. Por esta razón una cartera de edificios se dividirá en al menos tres categorías primarias: edificios de baja altura, edificios de mediana altura y edificios de gran altura. Se pueden elegir otros criterios más adecuados para una cartera más específica. Los edificios no deben compararse únicamente entre sí, sino también con la media para el mejor rendimiento de los mismos.
 
-Si necesita ayuda para configurar los criterios para su proyecto de evaluación comparativa energética, por favor no dude en  [contactar con nosotros](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
+Si necesita ayuda para configurar los criterios para su proyecto de evaluación comparativa energética, por favor no dude en  [contactar con nosotros](/es/contacto/).

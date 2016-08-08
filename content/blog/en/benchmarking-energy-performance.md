@@ -28,4 +28,4 @@ Different buildings can give you different data and values. There are several ba
 
 The second point may be surprising, but the height of the building is closely related to the equipment used in the building. This is why a portfolio of building should be divided to at least three elementary categories: Low-rise buildings, middle-rise buildings and high-rise buildings. Another criteria, more suitable for a specific portfolio, may be chosen. Buildings should not be compared only to one another, but also to the average and to the best performance.
 
-If you seek help setting up the criteria for your energy-related benchmarking project, please do not hesitate to [contact us](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
+If you seek help setting up the criteria for your energy-related benchmarking project, please do not hesitate to [contact us](/en/contact-us/ "Contact form").
