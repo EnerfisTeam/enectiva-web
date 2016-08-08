@@ -1,27 +1,27 @@
 ---
 layout: default
-title: Enectiva hledá programátora/programátorku
+title: Enectiva ищет программиста/программистку
 ---
 
-# Enectiva hledá programátora/programátorku
+# Enectiva ищет программиста/программистку
 
-Hledáme zapáleného programátora/programátorku, který se chce zlepšovat a dál na sobě pracovat. 
+Мы ищем программиста/программистку, который хочет улучшаться и продолжать работать над собой.
 
-Požadované znalosti:
+Необходимые навыки:
 
 - Ruby a frame work Ruby on Rails
 - HTML, CSS, JavaScript, jQuery
 - PostgreSQL
 - Git
-- Linux základy
-- ostatní zkušenosti z oblastí databází a programování web aplikací jsou vítány
+- базовые знания Linux
+- опыт работы в областях программирования баз данных и веб-приложений приветствуются
 
-Nabízíme:
+Мы предлагаем:
 
-- dlouhodobou práci na zajímavém mezinárodním projektu
-- zkušenosti ostatních lidí z týmu
-- možný part-time i možnost práce z domova
-- místo v kanceláři u Anděla, Praha 5
-- odpovídající finanční odměnu
+- Многолетняя работа на интересном международном проекте
+- Опыт других сотрудников из команды
+- Возможность работать на неполную ставку и работа на дому
+- Офисное помещение возле Андел, Прага 5
+- Соответствующее финансовое вознаграждение
 
-Životopis posílejte na adresu [kariera@enectiva.cz](mailto:kariera@enectiva.cz)
+Отправить резюме на адрес [kariera@enectiva.cz](mailto:kariera@enectiva.cz)

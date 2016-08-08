@@ -206,26 +206,26 @@ ru:
   activerecord:
     errors:
       <<: *errors
-  meta_description: 'Enectiva je webový informační systém určený pro energetický management administrativních budov, obchodních center a ostatních nemovitostí komerčního zaměření.' # duplicated in the application
-  meta_keywords: 'Enectiva, energetický management, energetický monitoring, úsporné projekty, úspory energií, monitoring energií, smart metering, dálkové odečty'
-  intro: Řešení energetického managementu Enectiva bylo vytvořeno společností
-  city: Praha
-  cta_intro: Zadejte e-mail a pošleme Vám přístup
+  meta_description: 'Enectiva представляет собой веб-информационную систему, предназначенную для управления энергопотреблением офисных зданий, торговых центров и других коммерческих недвижимостей.' # duplicated in the application
+  meta_keywords: 'Enectiva, управление энергией, мониторинг энергии, энергосберегающие проекты, энергосбережение, мониторинг энергии, смарт измерения, дистанционное считывание показаний счетчиков'
+  intro: Решение для управления энергетикой Enectiva было создано компанией
+  city: Прага
+  cta_intro: Введите свой адрес электронной почты и мы отправим вам данные для доступа
 
   newsletter_signup:
     button: 'OK'
-    email_placeholder: 'Vyplňte svůj e-mail'
-    heading: 'Přihlaste se k odběru novinek'
+    email_placeholder: 'Введите адрес электронной почты'
+    heading: 'Подпишитесь на нашу рассылку'
     list_id: '18809a8f38'
 
   navigation:
-    back_to_homepage: Zpět na úvodní stránku
-    login: Přihlaste se do Enectivy
+    back_to_homepage: Вернуться на главную страницу
+    login: Зарегистрироваться
 
-  try_enectiva: Vyzkoušejte Enectivu
-  solution: Další řešení
+  try_enectiva: Попробуйте Enectiva
+  solution: Другие решения
 
   blog:
-    prev: Novější
-    next: Starší
-    read_more: Číst dál
+    prev: Более новые
+    next: Более старые
+    read_more: Читать дальше

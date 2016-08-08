@@ -78,18 +78,16 @@ top:
     - name: Blog
       URL: /it/blog/
   ru:
-    - name: Řešení
-      URL: /cs/reseni
-    - name: Vlastnosti
-      URL: /cs/vlastnosti-systemu
+    - name: Решения
+      URL: /ru/resheniya
+    - name: Характеристики
+      URL: /ru/harakteristiky-systemy
     - name: API
-      URL: /cs/api
+      URL: /ru/api
     - name: Hardware
-      URL: /cs/hardware
-    - name: Kontakt
-      URL: /cs/kontaktujte-nas
-    - name: Blog
-      URL: /cs/blog/
+      URL: /ru/hardware
+    - name: Контакт
+      URL: /ru/svyazhites-s-nami
 footer:
   cs:
     - name: Partnerský program
@@ -158,18 +156,18 @@ footer:
     - name: Contattaci
       URL: /it/contattaci/
   ru:
-    - name: Partnerský program
-      URL: /cs/partnersky-program/
-    - name: Pravidla Enectivy
-      URL: /cs/pravidla-enectivy/
-    - name: Média
-      URL: /cs/media/
-    - name: Vývojový blog
+    - name: Партнерская программа
+      URL: /ru/partnerskaya-programma
+    - name: Правила компании Enectiva
+      URL: /ru/pravila-enectivy/
+    - name: Средства массовой информации
+      URL: /ru/smi
+    - name: Блог развития
       URL: http://developing.enectiva.cz/
     - name: FAQ
-      URL: /cs/faq/
-    - name: Kontakt
-      URL: /cs/kontaktujte-nas/
+      URL: /ru/faq/
+    - name: Контакт
+      URL: /ru/svyazhites-s-nami
 features:
   cs:
     - name: Podrobné statistikys
@@ -247,28 +245,28 @@ features:
       anchors: Events
       width: 80
   ru:
-    - name: Podrobné statistikys
+    - name: Подробные статистики
       anchors: Stats
       width: 10
-    - name: Automatické reporty
+    - name: Автоматические отчеты
       anchors: Reports
       width: 20
-    - name: Analýza úspor
+    - name: Анализ экономии
       anchors: Savings
       width: 30
-    - name: Meteodata
+    - name: Метеоданные
       anchors: Meteo
       width: 40
-    - name: ∞ uživatelů
+    - name: ∞ пользователей
       anchors: Users
       width: 50
-    - name: Snadné odečty
+    - name: Легкое чтение
       anchors: Readings
       width: 60
-    - name: Integrované ceníky
+    - name: Интегрированные прайс-листы
       anchors: Prices
       width: 70
-    - name: Upozornění
+    - name: Предупреждения
       anchors: Events
       width: 80
 solution:
@@ -409,25 +407,25 @@ solution:
     - name: Scuole, biblioteche e altri edifici pubblici.
       link: /it/soluzioni/scuole-biblioteche-e-altri-edifici-pubblici/
   ru:
-    - name: Obchodní centra
-      link: /cs/reseni/obchodni-centra/
-    - name: Nemocnice a zdravotnická zařízení
-      link: /cs/reseni/nemocnice-a-zdravotnicka-zarizeni/
-    - name: Administrativní budovy
-      link: /cs/reseni/administrativni-budovy/
-    - name: Úsporné projekty
-      link: /cs/reseni/usporne-projekty/
-    - name: Veřejné osvětlení měst a obcí
-      link: /cs/reseni/verejne-osvetleni-mest-a-obci/
-    - name: Smart City - Chytré město
-      link: /cs/reseni/smart-city/
-    - name: Sportovní centra
-      link: /cs/reseni/sportovni-centra/
-    - name: Hotely
-      link: /cs/reseni/hotely/
-    - name: Průmyslové objekty a areály
-      link: /cs/reseni/prumyslove-objekty-a-arealy/
-    - name: Bytové domy
-      link: /cs/reseni/bytove-domy/
-    - name: Veřejné budovy, školy, nemocnice, knihovny
-      link: /cs/reseni/verejne-budovy-skoly-knihovny/
+    - name: Торговые центры
+      link: /ru/resheniya/torgovyye-centry/
+    - name: Больницы и медицинские учреждения
+      link: /ru/resheniya/bolnicy-i-medicinskiye-uchrezhdeniya/
+    - name: Административные здания
+      link: /ru/resheniya/administrativnye-zdaniya/
+    - name: Энергосберегающие проекты
+      link: /ru/resheniya/energosberegayushiye-proyekty/
+    - name: Уличное освещение городов и населённых пунктов
+      link: /ru/resheniya/ulichnoye-osvesheniye-gorodov-i-rayonov/
+    - name: Smart City - Умный город
+      link: /ru/resheniya/smart-city/
+    - name: Спортивные центры
+      link: /ru/resheniya/sportovnyye-centry/
+    - name: Отели
+      link: /ru/resheniya/oteli/
+    - name: Промышленные здания и площадки
+      link: /ru/resheniya/prpmyshlennyye-zdaniya-i-ploshadki/
+    - name: Жилые дома
+      link: /ru/resheniya/zhylyye-doma/
+    - name: Общественные здания, школы, больницы, библиотеки
+      link: /ru/resheniya/obshestvennyye-zdaniya-shkoly-biblioteki

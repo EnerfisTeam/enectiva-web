@@ -1,41 +1,48 @@
 ---
 layout: default
-title: Často kladené dotazy
+title: Часто задаваемые вопросы
 schema: faq
 ---
-## Je nutné něco instalovat?
+## Нужно что-нибудь устанавливать?
 
-Nikoli.Enectiva je provozována formou služby a tuto službu lze využít z jakéhokoli zařízení, které je připojeno k Internetu a současně má webový prohlížeč. Vaše data jsou Vám kdykoli a odkudkoli k disozici bez nutnosti jakékoli instalace.
-
-## Komu patří data v Enectivě?
-
-Data od všech našich zákazníků jsou stále jejich majetkem. Členové týmu Enectiva je mohou využít pouze k hromadným statistickým účelům, pro zlepšení nabízených služeb.
-
-## Jakým způsobem se zadávají do systému odečty z měřidel?
-
-Existují dva způsoby. Nejepší je využít některý z našich otestovaných komnikátorů a připojit měřidla do systému k automatickému sběru. Vše probíhá pak plně automaticky s nulovou chybovostí. Druhou variantou je možnost zadávat odečty do systému ručně či importovat hromadně z .xls či .csv souborů.
+Нет. Enectiva работает как сервис, и эту услугу можно использовать с любого устройства, подключенного к интернету и имеющего веб-браузер. Ваши данные в любое время и с любого места доступны без установки каких-либо программ.
 
 
-## Jak dlouho trvá závazek u Enectivy?
+## Кто владеет данными в Enectiva?
 
-Typicky službu platíte formou měsíčních plateb. Pro našeho zákazníka to má výhodu, že kdykoli se může rozhodnout pro redukování či rozšíření služeb a vždy bude platit přesně za to, co aktuálně využívá. Roční platba je u nás taktéž možná. Při jejím využití poskytujeme slevu 10%.
+Данные от всех наших клиентов всегда являются их собственностью. Члены команды Enectiva могут их использовать только для массовых статистических целей для улучшения предлагаемых услуг.
 
-## Jakou formou probíhají platby?
 
-Aktuálně můžete využívat bezhotovostních převodů na náš účet, který je uveden v kontaktech.
+## Как вводятся в систему показания с датчиков?
 
-## Pokud chci přestat využívat službu Enectiva, jak mohu odejít?
+Есть два способа. Лучший вариант - это использовать один из наших протестированных коммуникаторов и подключить прибор к системе для автоматического сбора показаний. В этом случае все происходит в полностью автоматическом режиме с нулевыми дефектами. Второй вариант - это  ввод показаний в систему вручную или массовое импортирование данных из .xls или .csv файлов.
 
-Je to velmi jednoduché, stačí nezaplatit další měsíční platbu a k Vašemu účtu ztratíte přístup. Na tuto situaci budete 2x upozorněn emailem.
 
-## V případě, že nezaplatím nebo zruším účet, má data budou smazána?
+## Как долго длится обязательство у Enectiva?
 
-V případě nezaplacení měsíčního tarifu, ztratíte přístup k Vašemu účtu, ale data nebudou smazána dalších 30 dní. Pokud nedojde k obnovení účtu během těchto 30 dní, budou data následně smazána.
 
-## Jak jsou zabezpečena moje data?
+Как правило, оплата производится в виде ежемесячных платежей. Для наших клиентов это имеет такое преимущество, что у них всегда есть возможность принять решение о сокращении или расширении услуг, а также они всегда будут платить именно за то, чем в данный момент пользуются. С нами также возможен ежегодный платеж. При его использовании мы предоставляем скидку в размере 10%.
 
-Všechna data jsou zálohována každý den a jsou uložena v certifikovaných datových úložištích dle ISO 270001 a TIER III. Data jsou taktéž v reálném čase replikována na několik serverů, aby byla zaručena jejich 100% dostupnost v závislosti na možných HW a síťových problémech.
 
-## Jaké všechny energie lze v systému monitorovat?
+## Как происходит оплата?
 
-Aktuálně můžete využít monitoring pro elektrickou energii, teplo, plyn, chlad a vodu. S tím, že jednotlivé energie mohou mít jemnější dělení např. na elektřinu pro chlazení či vzduchotechniku, teplou a studenou vodu, či teplo potřebné na přípravu teplé vody.
+В настоящее время вы можете использовать переводы на наш счет, который указан в контактах.
+
+
+## Если я захочу прекратить использование службы Enectiva, как я могу это сделать?
+
+
+Это очень просто: не платите за следующий ежемесячный платеж и потеряете доступ к вашему счету. В этой ситуации мы два раза уведомим Вас по электронной почте.
+
+## В случае, если я не заплачу или удалю свой аккаунт, мои данные будут удалены?
+
+В случае неуплаты ежемесячного тарифа, вы потеряете доступ к вашей учетной записи, но данные не будут удалены следующие 30 дней. Если восстановление счета в течение этих 30 дней не случится, данные будут впоследствии удалены.
+
+
+## Как обеспечивается безопасность моих данных?
+
+Все данные копируются ежедневно и хранятся в хранилище данных, сертифицированых в соответствии с ISO 270001 и TIER III. А также режиме реального времени данные реплицированы на нескольких серверах, чтобы обеспечить их 100% доступность в зависимости от имеющихся аппаратных и сетевых проблем.
+
+## Какие виды энергий можно в системе отслеживать?
+
+В настоящее время вы можете использовать мониторинг электроэнергии, тепла, газа, холода и воды. При том, что каждый вид энергии может делиться на еще более малые группы, например электрическая энергия бывает для охлаждения или кондиционирования воздуха, горячей и холодной воды или тепловой энергии, необходимой для приготовления горячей воды.
