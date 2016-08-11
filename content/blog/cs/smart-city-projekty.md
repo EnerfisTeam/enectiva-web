@@ -26,7 +26,7 @@ Význam těchto řešení je (pokud odmyslíme politické a klasické business d
 
 Aktuálně používá naši aplikaci cca 15 měst v České republice. Patří mezi ně např. Mělník, Jeseník, Havířov, Luhačovice a postupně přibývají další. I oblast použití monitoringu se mění. Původně naše aplikace měřila spotřebu energie veřejného osvětlení. Konkrétně se jednalo o velikost úspor na projektech regulace veřejného osvětlení, ale postupně se rozrůstá o oblasti monitoringu tepla, plynu a vody na školách, školkách a jednotlivých úřadech města.
 
-O projektu v Mělníku si můžete přečíst více i na našem blogu v jednom z [dřívějších článků](http://www.enectiva.cz/cs/blog/2015/10/smart-city-po-cesku/). Hlavní energetik města nám poskytnul i referenci:
+O projektu v Mělníku si můžete přečíst více i na našem blogu v jednom z [dřívějších článků](//www.enectiva.cz/cs/blog/2015/10/smart-city-po-cesku/). Hlavní energetik města nám poskytnul i referenci:
 
 "Díky spolupráci s Enerfis a využitím jejich řešení Enectiva, jsme docílili výrazně vyšší efektivity energetického managementu města. Začali jsme monitoringem úsporných projektů na veřejném osvětlení a postupně systém rozšiřujeme o další měřená místa (voda, elektřina, plyn). Enectivu využíváme již více než rok a za tuto dobu se podařilo odhalit hned několik úniků energií, které by nebylo možné zjistit bez kontinuálních odečtů a které nám v podstatě celý systém zaplatily během jednoho roku. Stejně tak pro mne osobně, jako hlavního energetika města, je cenné nemalé snížení finančních prostředků na fyzické kontroly odběrných míst, pokud je máte rozloženy po celém městě a dále administrativy, která byla potřeba na zpracování energetických dat ze všech měřících míst"***Juraj Rapant, hlavní energetik Mělník***
 

@@ -28,4 +28,4 @@ Různé typy budov mohou vykazovat různé hodnoty. Proto abyste vždy porovnáv
 
 Možná vás zarazí bod 2, ale výška budovy ovlivňuje její vybavenost technologiemi, proto je dobré si rozdělit portfolio alespoň do tří základních kategorií. Přízemní, středně vysoká a výšková budova. Případě můžete zvolit jiné kriterium, které bude lépe vypovídat o spektru vašich budov. Např. stáří, vybavenost, počet obyvatel, výšku nájemného atp. Budovy porovnávejte mezi sebou, ale zároveň k jejich průměru a také vždy s nejlepší budovou v portfoliu.
 
-V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte [nás kontaktovat](http://www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
+V případě, že chcete pomoci s nastavením kriterií energetické efektivity pro účinný benchmarking, neváhejte [nás kontaktovat](//www.enectiva.cz/cs/kontaktujte-nas/ "Kontaktní formulář").
