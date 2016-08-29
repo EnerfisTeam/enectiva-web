@@ -12,7 +12,7 @@ $env = ARGV[0]
 $assets = File.join("static", "assets-web", "")
 $css =  File.join("static", "css", "")
 $sass = File.join("static", "sass", "")
-$coffee = File.join("static", "coffee")
+$coffee = File.join("static", "javascript")
 $manifest = "rev_manifest.json"
 $manPath = File.join("data", "#{$manifest}")
 $newPath = File.join("#{$assets}", "app.css")
@@ -158,14 +158,14 @@ def uglifier
 	app_old = File.join("#{$assets}", "application.js")
 	app_new = File.join("#{$assets}", "_application.js")
 	File.open(app_new, 'w') do |f|
-		f.write Uglifier.compile(File.read(app_old))
+		f.write File.read(app_old)
 	end
 	File.delete(app_old)
 	sleep(2)
 	set_old = File.join("#{$coffee}", "setup.js")
 	set_new = File.join("#{$coffee}", "_setup.js")
 	File.open(set_new, 'w') do |f|
-		f.write Uglifier.compile(File.read(set_old))
+		f.write File.read(set_old)
 	end
 end
 if not ARGV.empty?

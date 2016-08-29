@@ -102,12 +102,6 @@ slug: en
 title: title of file
 ---
 ```
-## Generating files
-
-To compile CoffeeScript, we need a linux packet. If you use a debian distribution, write.
-```
-sudo apt-get install CoffeeScript
-```
 
 ### Gem to install
 
