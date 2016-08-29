@@ -149,7 +149,7 @@ blog:
   es: /es/blog/
   it: /it/blog/
   de: /de/blog/
-  ru: /ru/enectiva/
+  ru: /ru/o-enectiva/
 partner:
   cs: partnersky-program
   en: partner-programme
@@ -181,4 +181,4 @@ media:
   es: acerca-de-enectiva
   it: enectiva
   de: ueber-enectiva
-  ru: media
+  ru: smi
