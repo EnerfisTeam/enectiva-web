@@ -3,12 +3,10 @@ Enectiva web is using Hugo https://gohugo.io/. In this site, we can view how to 
 
 Actually, we are using Hugo v0.15
 
-Interesting command to use:
-
 ## How to start the server
 
-We must to open command line
-```Windows key``` -> Search **cmd** and press enter. If we have our web in the root of hard disk, we must to write into the black window
+We must open command line
+```Windows key``` -> Search **cmd** and press enter. If we have our web in the root of hard disk, we must write into the black window
 
 ```
 cd \
@@ -23,7 +21,7 @@ To start the server, we must type
 ```
 hugo server
 ```
-To create a new post (We explain it bellow). If you can create a new post, please, close hugo server first.
+To create a new post (We explain it below). If you can create a new post, please, close hugo server first.
 ```
 hugo new
 ```
@@ -38,14 +36,14 @@ hugo new blog/XX/name-to-do.md
 
 You must to change the "XX" to the languague what you can write the post (**CS**: Czech, **ES**: Spanish, **EN**: English, **IT**: Italian, **FR**: French, **DE**: German)
 
-So if you want to create a new english post, yo need to write:
+So if you want to create a new english post, you need to write:
 
 ```
 hugo new blog/en/the-price-of-energy-data.md
 ```
 
 
-When you have your empty file, you must to go into the folder where you created the file.
+When you have your empty file, you must go into the folder where you created the file.
 
 - Open **Content** folder
 - Open **blog** folder
@@ -67,10 +65,10 @@ keywords:
 - words
 schema: blog
 slug: cs/de/fr/es/it/en
-title: title of fil
+title: title of file
 ---
 ```
-In "cs/de/fr/es/it/en: blog" and "slug" we must to delete de label language that you dont use. So, if you want to create a new post in english:
+In "cs/de/fr/es/it/en: blog" and "slug" we must delete the label language that you don't use. So, if you want to create a new post in english:
 
 ```
 ---
@@ -103,7 +101,8 @@ title: title of file
 ---
 ```
 
-### Gem to install
+### Installation of gems
+
 
 ```
 compass
@@ -114,7 +113,7 @@ uglifier
 
 ### Generate development
 
-This command will to concatenate all JavaScript/Coffe and SASS files in only one file with a fingerprint to simplify de web calls. If you don't execute this command, you won't have CSS or JavaScript y the webpage
+This command will to concatenate all JavaScript/Coffe and SASS files in only one file with a fingerprint to simplify the web calls. If you don't execute this command, you won't have CSS or JavaScript in the webpage.
 
 ```
 ruby generate.rb debug
@@ -138,16 +137,16 @@ static/
 When Hugo generates the site, all files inside **static** will be render in public's root
 
 ## How to create a new section
-You must to choose the language what you do create the new section and create the new item inside the folder.
+You must choose the language what you do create the new section and create the new item inside the folder.
 
 ```
-/content/en/New_section/index.html
+/content/en/new-section/index.html
 ```
-It's important to add in header of new file the label **schema**. With this label, we define wich will be the translation os the page.
+It's important to add in header of new file the label **schema**. With this label, we define which will be the translation of the page.
 
-When we are the new section created, we must to add wich are the translation for other languages
+When we are the new section created, we must add which are the translation for other languages
 
-We must to open.
+We must open.
 ```
 /data/pages.yml
 ```
@@ -175,7 +174,7 @@ This is the *URL* to translate the page.
 
 If we want to add a new subsection, we need to write all relative url
 ```
-solutionsschool:
+solutions school:
   cs: reseni/verejne-budovy-skoly-knihovny
   en: solutions/schools-libraries-and-other-public-buildings
   fr: solutions/batiments-publics-ecoles-bibliotheques
@@ -185,19 +184,19 @@ solutionsschool:
 ```
 ### Adding a new section into the menu
 
-When we had the page created, we must to add into the menu. We have one file to define de menu and links.
+When we had the page created, we must add into the menu. We have one file to define the menu and links.
 ```
 /data/menu.yml
 ```
 
-This file is betweened in four sections:
+This file is divided in four sections:
 
 - **Top**: Is the menu under translation options
 - **Footer**: Is the menu over footer
 - **Features**: Is the menu to the *new* aspect of features page (en, fr, cs)
 - **Solution**: Is the menu in the footer of subsections of solution.
 
-If we want to add a new top item, we must to go to the correct language and add a new block.
+If we want to add a new top item, we must go to the correct language and add a new block.
 ```
   cs:
     about:
