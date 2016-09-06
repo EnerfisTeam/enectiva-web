@@ -3,10 +3,11 @@ layout: manual
 title: Hardware
 schema: hardware
 ---
+
 <div class="content">
-    <div class="container">
+    <div class="container"> 
         <h1>Hardware</h1>
-        <p>Enectiva  is a system which is open to all manufacturers of M2M and Smart-metering hardware who meet our criteria in terms of utility value and reliability. Below, you can find hardware which has been tested by Enectiva and which is used by Enectiva users.</p>
+        <p>Enectiva is a system which is open to all manufacturers of M2M and Smart-metering hardware who meet our criteria in terms of utility value and reliability. Below, you can find hardware which has been tested by Enectiva and which is used by Enectiva users.</p>
     </div>
 </div>
 
@@ -18,35 +19,139 @@ schema: hardware
     </div>
 </div>
 
+<!-- Buttons menu with a link for all the sections. The data-group is important to bind the buttons with the relative sections in the jQuery script -->
+<div class="hardware__menu"> 
+	<a href="#concentrators" class="hardware__menu-item" data-group="concentrators"> Concentrators </a>
+	<a href="#converters" class="hardware__menu-item" data-group="converters"> Converters</a>
+	<a href="#meters" class="hardware__menu-item" data-group="meters"> Meters </a>
+	<a href="#sensors" class="hardware__menu-item" data-group="sensors"> Sensors </a>
+</div>
+
+<!-- Content of all the sections -->
 <div class="content">
-    <div class="container">
-        <h2><a href="http://www.2n.cz/en/products/m2m/smartcom/">2N SmartCom</a> ft. Enectiva </h2>
-        <a href="/img/hw/LR_2N_SmartCom_Black_Main_View.jpg"
-                rel="gal[smc]"
-                class="swipebox hardware">
-            <img src="/img/hw/LR_2N_SmartCom_Black_Main_View_small.jpg" alt="2N SmartCom" class="hard">
-        </a>
-        <p>A simpler version of a dependable, widely used concentrator SmartCom PRO manufactured by the <a href="http://www.2n.cz/en">2N Telekomunikace</a> company. The firmware has been adjusted for the purpose of the Enectiva ecosystem and it enables you to connect the concentrator to the Enectiva server in a plug-and-play fashion. All you need to do is to connect meters. The communication with the server can be realized through SIM cards or through Ethernet. Supported interfaces: RS232,M-bus,RS485,S0. </p>
-
-
-        <h2><a href="http://www.2n.cz/en/products/m2m/smartcom-pro/">2N SmartCom PRO</a> ft. Enectiva</h2>
-        <a href="/img/hw/LR_2N_SmartCom_Pro_S_Antenama.jpg"
-           rel="gal[smc_pro]"
-           class="swipebox hardware">
-            <img src="/img/hw/LR_2N_SmartCom_Pro_S_Antenama_small.jpg" alt="2N SmartCom PRO"class="hard">
-        </a>
-        <p>The most widely used data concentrator in the Enectiva system. The firmware of this version is adjusted so that the communication between meters and the Enectiva server is smooth and does not require setting up of the individual interfaces. If you order the concentrator from our company, you just connect it to the power grid and it starts to communicate with the Enectiva server immediately. After connecting the meters, you are ready to use all the services of the Enectiva energy management. All types of meters using various interfaces may be connected to the SmartCom PRO concentrator. Supported interfaces: Wireless M-bus, ZigBee, RS485, RS232, M-bus a S0. </p>
-
-
-        <h2>Amber wireless</h2>
-        <a href="/img/hw/amber.png"
-           rel="gal[amber]"
-           class="swipebox hardware">
-            <img src="/img/hw/amber_small.png" alt="AMBER wireless - Pulse RF Gateway"class="hard">
-        </a>
-        <p>Amber wireless is a very simple yet dependable transmitter operating in the Mbus Wireless standard, which can be connected to any meter with a pulse output (S0 output). This is typically an electric, gas or water meter. The transmitter converts the pulse output to a wireless radio transmission, frequency 868MHz, which is then further processed in the concentrator.  </p>
-		
-        <p>Should you have any questions, do not hesitate to <a href="/en/contact-us/#podpora">contact us</a>.</p>
-
+    <!-- Section of concentrators -->
+    <div class="container hardware__section" data-group="concentrators">
+        <!-- Section for the dedicated hardware device -->
+        <div class="hardware__dedicated-section line">
+            <!-- Link to the page of the specific hardware device -->
+            <a class="hardware__dedicated-section-link" href="/en/hardware/concentrators/2n-smartcom-pro">
+                <img class="hardware__image" src="/img/hw/LR_2N_SmartCom_Pro_S_Antenama_small.jpg">
+                <h4 class="hardware__title"> 2N® SmartCom PRO </h4>
+            </a>
+            <p>
+                2N SmartCom is an intelligent device that allows you to communicate and monitor your assets.  Just connect it to an asset, set the IP address for data delivery, and you can begin. It is a simpler version of a dependable, a widely used concentrator SmartCom PRO manufactured by the 2N Telekomunikace company...
+            </p>            
+        </div>  
+        <div class="hardware__dedicated-section">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/concentrators/2n-smartcom">
+                <img class="hardware__image" src="/img/hw/LR_2N_SmartCom_Black_Main_View_small.jpg">
+                <h4 class="hardware__title"> 2N® SmartCom </h4>
+            </a>
+            <p>
+                2N SmartCom is an intelligent device that allows you to communicate and monitor your assets.  Just connect it to an asset, set the IP address for data delivery, and you can begin. It is a simpler version of a dependable, a widely used concentrator SmartCom PRO manufactured by the 2N Telekomunikace company...
+            </p>
+        </div>
+        <br>
+    </div>
+	
+	<div class="container hardware__section" data-group="converters">
+        <div class="hardware__dedicated-section line">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/converters/imp-5001-converter-rs232-m-bus">
+                <img class="hardware__image" src="/img/hw/imp5001b_small.jpg">
+                <h4 class="hardware__title"> IMP 5001 Converter RS232/M-Bus </h4>
+            </a>
+            <p>
+                In Enectiva we use the device IMP 5001 to convert RS232 to M-Bus interface. It can be used by all devices that use M-Bus interface...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section line">            
+            <a class="hardware__dedicated-section-link" href="/en/hardware/converters/padplus-m2">
+                <img class="hardware__image" src="/img/hw/57b4e7727b_small.jpg">
+                <h4 class="hardware__title"> PadPuls M2 </h4>
+            </a>
+            <p>
+                To monitor your water or electricity consumption using Enectiva, we need to centrally read the data by M-Buss. That can be achieved by the 2-channel pulse adaptor PadPuls M2 that allows the use of up to 2 meters with pulse output as M-Bus slaves...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/converters/padplus-m1-slave">
+                <img class="hardware__image" src="/img/hw/ffc46f7140_small.jpg">
+                <h4 class="hardware__title"> PadPuls M1 Slave </h4>
+            </a>
+            <p>
+                Just like the PadPuls M2, the 1-channel pulse adaptor PadPuls M1 connects meters with contact output to the M-Bus system. This simple solution is suitable for installed counters and measuring meters for electricity, gas, oil, water and heat...
+            </p>
+        </div>
+    </div>
+	
+	<div class="container hardware__section" data-group="meters">
+        <div class="hardware__dedicated-section line">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/meters/electrometer-pro380-mb-0-25-100a-m-bus">
+                <h4 class="hardware__title"> Electrometer PRO380-Mb 0,25-100A M-Bus </h4>
+            </a>
+            <p>
+                In Enectiva we use electrometers from PRO380 series with a range of 4 modules for three phase electricity measuring, each type with specific characteristics. They all have a high accuracy class...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section line">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/meters/electrometer-pro380-s-ct-mb-5a-m-bus-mid-indirect-phase">
+                <h4 class="hardware__title"> Electrometer PRO380-S-CT Mb / 5A M-Bus MID, Indirect Phase </h4>
+            </a>
+            <p>Three-phase, single-dual-rate meter on the DIN rail...</p>
+        </div>
+        <div class="hardware__dedicated-section line">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/meters/electrometer-pro380-mb-0-25-100a-m-bus-cz">
+                <h4 class="hardware__title"> Electrometer PRO380-Mb 0,25-100A M-Bus CZ </h4>
+            </a>
+            <p>Three-phase, single-dual-rate meter on the DIN rail...</p>
+        </div>
+        <div class="dedicated_section">            
+            <a class="hardware__dedicated-section-link" href="/en/hardware/meters/amber-wireless-pulse-meter-adapter-amb8568-m">
+                <img class="hardware__image" src="/img/hw/amber_small.png">
+                <h4 class="hardware__title"> Amber Wireless Pulse Meter Adapter AMB8568-M</h4>
+            </a>
+            <p>
+                Amber wireless is a very simple yet dependable transmitter operating in the M-bus Wireless standard, which can be connected to any meter with a pulse output (S0 output). This is typically an electric, gas or water meter...
+            </p>
+        </div>
+    </div>
+	
+	<div class="container hardware__section" data-group="sensors">  
+        <div class="hardware__dedicated-section line">            
+            <a class="hardware__dedicated-section-link" href="/en/hardware/sensors/amber-wireless-temperature-and-humidity-sensor-amb8569-m">
+                <img class="hardware__image" src="/img/hw/csm_AMB8569M_70193f8db9_small.png">
+                <h4 class="hardware__title"> Amber Wireless temperature and humidity sensor AMB8569-M </h4>
+            </a>
+            <p>
+                In Enectiva we are in need of reliable data of the temperature and humidity in order to optimize your heating systems to perform as efficient as possible. Therefore, the AMB8569-M is a perfect tool for delivering those data to our database...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section line">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/sensors/ambient-temperature-and-humidity-transmitter-169mhz">
+                <img class="hardware__image" src="/img/hw/transmetteur-ambiance-co2_small.jpg">
+                <h4 class="hardware__title"> Ambient temperature and humidity transmitter (169 MHz)</h4>
+            </a>
+            <p>
+                Ambient temperature and humidity transmitter is another sensor used by Enectiva. It operates on a frequency of 169 MHz and it communicates wirelessly with M-Bus...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section line">            
+            <a class="hardware__dedicated-section-link" href="/en/hardware/sensors/ambient-co2-temperature-and-humidity-transmitter-868mhz">
+                <img class="hardware__image" src="/img/hw/transmetteur-ambiance_small.jpg">
+                <h4 class="hardware__title"> Ambient CO2, temperature and humidity transmitter (868 MHz)</h4>
+            </a>
+            <p>
+                In Enectiva we are aware of an importance of CO2 presence in the air since workers and students spend about half of their waking hours at work or school. Therefore, maintaining adequate indoor air quality in schools and the workplace is becoming a top priority for facility managers and building operating engineers...
+            </p>
+        </div>
+        <div class="hardware__dedicated-section">
+            <a class="hardware__dedicated-section-link" href="/en/hardware/sensors/apc-180-stationary-people-counter">
+                <img class="hardware__image" src="/img/hw/apc_180_small.png">
+                <h4 class="hardware__title"> APC-180 Stationary People Counter</h4>
+            </a>
+            <p>
+                To get an exact idea about how many people come and go into your building or office, we are installing the precise people counter from Hella...
+            </p>
+        </div>
     </div>
 </div>
