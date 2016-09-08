@@ -2,13 +2,10 @@ $(document).ready(function(){
     var first = true    //variable to control if the page has been loaded
     
     $(".hardware__menu-item").click(function(){         
-        var factor=0    //variable that manage the time of the animation.
+        var factor=1    //variable that manage the time of the animation.
         var animationTime = 200
-        if (!first)     //if is not the first interraction set the factor to 1 to see the right animation time
-        {
-            factor=1;
-        }
-        
+        if (first)     //if is not the first interraction set the factor to 1 to see the right animation time
+            factor=0;               
         first = false;
         
         data_group = $(this).attr('data-group');    //string with the data-group of the button clicked
@@ -25,5 +22,12 @@ $(document).ready(function(){
             $("a[data-group=" + hash + "]").click();
     } 
     else
-        $(".hardware__menu-item").first().click();    //if there's no hash in the URL call the function with the default behaviour(click on first button)
+    {
+        if ($(".hardware__menu-item").length)
+        {
+            $(".hardware__menu-item").first().click();    //if there's no hash in the URL call the function with the default behaviour(click on first button)
+            var url = window.location + "#" + $(".hardware__menu-item").first().attr('data-group');
+            window.location.replace(url);
+        }            
+    }       
 });
