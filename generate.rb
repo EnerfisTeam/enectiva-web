@@ -130,6 +130,10 @@ def concat_javascript
 		text.each_line do |line|
 			mergedfile << line
 		end
+		text = File.open(File.join($javascript, 'hardware.js.js'), 'r').read
+		text.each_line do |line|
+			mergedfile << line
+		end
 	end
 	setup = File.join($javascript, 'setup.js.js')
 	path = File.join($javascript, 'setup.js')
@@ -240,6 +244,8 @@ puts '==============================================================='
 rename_fingerprint
 
 # Creating a rev_manifest.json
-puts '==============================================='
-puts '  Creating rev_manifest.json '
-puts '======='
+puts "==============================================="
+puts "  Creating rev_manifest.json "
+puts "==============================================="
+manifest
+copystatic
