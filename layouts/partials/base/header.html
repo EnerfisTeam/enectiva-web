@@ -28,7 +28,7 @@
                     {{ range $key, $ind := index .Site.Data.pages $.Params.schema }}
                         <li class="langSwitch">
                             {{ if ne $key $lang }}
-                            <a href={{ if eq $.Params.schema "blog"}}" {{ $ind }}" {{ else }} "/{{ $key }}/{{ $ind }}" {{ end }} hreflang="{{ $key }}">{{ upper $key }}</a>
+                            <a data-test href="{{ if eq $.Params.schema "blog"}}{{ $ind }}{{ else }}/{{ $key }}/{{ $ind }}{{ end }}" hreflang="{{ $key }}">{{ upper $key }}</a>
                             {{ end }}
                         </li>
                     {{ end }}
@@ -36,7 +36,7 @@
                     {{ range $key, $ind := index .Site.Data.pages.blog }}
                         <li class="langSwitch">
                             {{ if ne $key $lang }}
-                            <a href=" {{ $ind }}" hreflang="{{ $key }}">{{ upper $key }}</a>
+                            <a href="{{ $ind }}" hreflang="{{ $key }}">{{ upper $key }}</a>
                             {{ end }}
                         </li>
                     {{ end }}

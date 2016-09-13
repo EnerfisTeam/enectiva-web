@@ -10,6 +10,6 @@ Gemfile.lock
 
 .sass-cache/
 public/
-/static/coffee/setup.js.js
-/static/coffee/app.js.js
-/static/coffee/features.js.js
+/static/javascript/setup.js.js
+/static/javascript/app.js.js
+/static/javascript/features.js.js
