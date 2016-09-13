@@ -1,0 +1,44 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}} 
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ partial "head" . }}
+
+{{ .Content }}
+
+<div class="hardware__menu"> 
+	<a href="#concentrators" class="hardware__menu-item" data-group="concentrators"> {{ (index .Site.Data.hardware $lang).button_concentrators }} </a>
+	<a href="#converters" class="hardware__menu-item" data-group="converters"> {{ (index .Site.Data.hardware $lang).button_converters }} </a>
+	<a href="#meters" class="hardware__menu-item" data-group="meters"> {{ (index .Site.Data.hardware $lang).button_meters }} </a>
+	<a href="#sensors" class="hardware__menu-item" data-group="sensors"> {{ (index .Site.Data.hardware $lang).button_sensors }} </a>
+</div>
+
+<div class="content">
+    
+    {{ range ( where .Site.Pages "Type" "hardware-product").ByWeight }}
+        {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+        {{ $url2 := replace $url1 3 ""}} 
+        {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+        {{ $candidateLang := substr $blog 0 2}}
+
+        {{ if eq $candidateLang $lang }}
+            <div class="container hardware__section" data-group="{{ .Params.hardware_category }}">
+                <div class="{{ .Params.hardware_style }}">
+                    <a class="hardware__product-promo-link" href="{{ .Permalink }}">
+                        <img class="hardware__image" src= {{ .Params.hardware_image }}>
+                    <h4 class="hardware__title">{{ .Title }}</h4>
+                    </a>
+                    <p>{{ .Description }}</p>            
+                </div>
+            </div>
+        {{ end }}
+    
+    {{ end }}
+    
+</div>
+
+
+{{ partial "cta.html" .}}
+
+{{ partial "base/footer" . }}
