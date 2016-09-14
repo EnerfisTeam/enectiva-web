@@ -1,0 +1,36 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}} 
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+
+{{ partial "head" . }}
+
+{{ .Content }}
+
+<div class="container">
+    <div class="content">
+        {{ range ( where .Site.Pages "Type" "solutions").ByWeight }}
+            {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+            {{ $url2 := replace $url1 3 ""}} 
+            {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+            {{ $candidateLang := substr $blog 0 2}}
+
+            {{ if eq $candidateLang $lang }}
+                <div class="solution">
+                    <h2 class="solution__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    {{ if not (eq .Params.solution_image "")}}
+                        <img class="solution__image" src="{{ .Params.solution_image }}">
+                    {{ end }}
+                    <div class="solution__inner">
+                        <p>{{.Description}}</p>
+                    </div>
+                </div>
+            {{ end }}
+    
+        {{ end }}
+    </div>
+</div>
+
+{{ partial "cta.html" .}}
+
+{{ partial "base/footer" . }}
