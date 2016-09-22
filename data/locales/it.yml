@@ -228,3 +228,10 @@ it:
 
   blog:
     read_more: Leggi tutto
+
+  hardware_properties:
+    all: Tutti
+    interface: Tipo di interfaccia
+    conversion: Tipo di conversione
+    energy: Tipo di energia
+    sensor: Tipo di sensore

@@ -1,4 +1,11 @@
-.hardware__menu-item 
+.hardware__menu
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: center
+  padding-top: 40px
+  padding-bottom: 30px
+
+.hardware__menu-item
   width: 160px
   background: #0C90DB
   border-radius: 4px
@@ -15,17 +22,38 @@
   &:hover
     +single-transition(opacity, 200ms, ease-in-out)
     opacity: 0.75
+    
+.hardware__menu-item-selected
+  background: #0063A5
 
-.hardware__menu
-  display: flex
+.hardware__product-promo-title
+  padding-top: 40px
+
+.filters__menu
   flex-direction: row
   flex-wrap: wrap
   justify-content: center
-  padding-top: 40px
   padding-bottom: 30px
 
-.hardware__menu-item-selected
-  background: #0063A5
+.filters
+  display: flex
+  flex-direction: column
+  flex-wrap: wrap
+  justify-content: center
+  width: 28%
+
+.filters__name
+  padding: 4px
+    
+.filters__select
+  border: none
+  padding: 4px
+  margin-left: 6px
+  border-radius: 2px
+  box-shadow: 2px 2px 4px -1px rgba(0, 0, 0, 0.5)
+
+.filters__select:focus 
+  outline: none
 
 .hardware__image
   width: 30%
@@ -50,15 +78,22 @@
   padding-bottom: 25px
   clear: both
   display: block
+  border-bottom: 2px solid #eee
+
+.hardware__product-promo:last-child, .hardware__product-promo--last
+  border-bottom: 0px solid #000
 
 .hardware__product-promo-link
   text-decoration: none
 
-.line
-  border-bottom: 2px solid #eee
-
 .hardware__title
   line-height: 160%
+
+.item__visible
+  display: flex
+
+.item__hidden
+  display: none
 
 @media screen and (max-width: 960px)
   .hardware__menu-item
@@ -92,6 +127,12 @@
   .hardware__menu-item
     width: 150px
     +adjust-font-size-to($base-font-size * 1.2)
+  .hardware__alignment-right
+    width: 100%
+    float: left
+  .hardware__alignment-left
+    width: 100%
+    float: left
     
 @media only screen and (max-width: 493px)
   .hardware__image
