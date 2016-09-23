@@ -8,69 +8,70 @@
 
 {{ .Content }}
 
-<div class="hardware__menu item__hidden"> 
-	<a href="#concentrators" class="hardware__menu-item" data-group="concentrators"> {{ (index .Site.Data.hardware $lang).button_concentrators }} </a>
-	<a href="#converters" class="hardware__menu-item" data-group="converters"> {{ (index .Site.Data.hardware $lang).button_converters }} </a>
-	<a href="#meters" class="hardware__menu-item" data-group="meters"> {{ (index .Site.Data.hardware $lang).button_meters }} </a>
-	<a href="#sensors" class="hardware__menu-item" data-group="sensors"> {{ (index .Site.Data.hardware $lang).button_sensors }} </a>
-</div>
-
-<div class="filters__menu item__hidden">
-    {{ $products := (where .Site.Pages "Type" "hardware-product").ByWeight }}
-    {{ range $category, $prop := .Site.Data.hardware_properties }}
-        <div class="filters" data-group="{{ $category }}">
-            {{ range $prop }}
-                {{ $property := . }}
-                <span class="filters__name">{{ index $l.hardware_properties . }}:</span>
-                <select class="filters__select" data-hardware-filter-property="{{ . }}">
-                    <option value="default">{{ $l.hardware_properties.all }}</option>
-                    {{ range (where $products ".Params.hardware_category" $category) }}
-                        {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-                        {{ $url2 := replace $url1 3 "" }} 
-                        {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
-                        {{ $candidateLang := substr $blog 0 2 }}
-                        {{ if eq $candidateLang $lang}}
-                            {{ range $properties, $val := .Params.hardware_properties}}
-                                {{ range $val }}
-                                    {{ if eq $properties $property }}
-                                        <option class="filters__item" value="{{ . }}">{{ . }}</option>
+<div class="content">
+    <div class="container">
+        
+        <div class="hardware__menu item__hidden"> 
+            {{ range $prop, $val := $l.hardware_categories }}
+               <a href="#{{ $prop }}" class="hardware__menu-item" data-group="{{ $prop }}"> {{ $val }} </a>
+            {{ end }}
+        </div>
+        
+        <div class="hardware__filters-menu item__hidden">
+            {{ $products := (where .Site.Pages "Type" "hardware-product").ByWeight }}
+            {{ range $category, $prop := .Site.Data.hardware_properties }}
+                <div class="hardware__filters-categories" data-group="{{ $category }}">
+                    {{ range $prop }}
+                        {{ $property := . }}
+                        <span class="hardware__filter-name" data-hardware-filter-property="{{ $property }}">{{ index $l.hardware_properties $property }}:</span>
+                        <select class="hardware__filter-select" data-hardware-filter-property="{{ $property }}">
+                            <option value="default">{{ $l.hardware_properties.all }}</option>
+                            {{ range (where $products ".Params.hardware_category" $category) }}
+                                {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+                                {{ $url2 := replace $url1 3 "" }} 
+                                {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+                                {{ $candidateLang := substr $blog 0 2 }}
+                                {{ if eq $candidateLang $lang}}
+                                    {{ range $properties, $val := .Params.hardware_properties}}
+                                        {{ range $val }}
+                                            {{ if eq $properties $property }}
+                                                <option class="filters__item" value="{{ . }}">{{ . }}</option>
+                                            {{ end }}
+                                        {{ end }}
                                     {{ end }}
                                 {{ end }}
                             {{ end }}
-                        {{ end }}
+                        </select>
                     {{ end }}
-                </select>
+                </div>
             {{ end }}
         </div>
-    {{ end }}
-</div>
 
-<div class="content">
-    {{ $products := (where .Site.Pages "Type" "hardware-product").ByWeight }}
-    {{ range $category, $ := .Site.Data.hardware_properties }}
-        <div class="container hardware__section" data-group="{{ $category }}">
-            <h2 class="hardware__product-promo-title item__visible">- {{ $category }}</h2>
-            {{ range (where $products ".Params.hardware_category" $category) }}      
-                {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-                {{ $url2 := replace $url1 3 "" }} 
-                {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
-                {{ $candidateLang := substr $blog 0 2 }}
-                {{ if eq $candidateLang $lang}}
-                    <div class="hardware__product-promo" {{ range $prop, $val := .Params.hardware_properties }}data-hardware-filter-property-{{$prop}}="{{ range $val }}{{ . }} {{ end }} "{{ end }}> 
-                        <a class="hardware__product-promo-link" href="{{ .Permalink }}">
-                            <img class="hardware__image" src= "{{ .Params.hardware_image }}">
-                            <h4 class="hardware__title">{{ .Title }}</h4>
-                        </a>
-                        <p>{{ .Description }}</p>
-                    </div>
+    
+        {{ $products := (where .Site.Pages "Type" "hardware-product").ByWeight }}
+        {{ range $category, $ := .Site.Data.hardware_properties }}
+            <div class="hardware__section" data-group="{{ $category }}">
+                <h2 class="hardware__product-promo-title item__visible">{{ index $l.hardware_categories $category }}</h2>
+                {{ range (where $products ".Params.hardware_category" $category) }}      
+                    {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+                    {{ $url2 := replace $url1 3 "" }} 
+                    {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+                    {{ $candidateLang := substr $blog 0 2 }}
+                    {{ if eq $candidateLang $lang}}
+                        <div class="hardware__product-promo" {{ range $prop, $val := .Params.hardware_properties }}data-hardware-filter-property-{{$prop}}="{{ range $val }}{{ . }} {{ end }}"{{ end }}> 
+                            <a class="hardware__product-promo-link" href="{{ .Permalink }}">
+                                <img class="hardware__image" src= "{{ .Params.hardware_image }}">
+                                <h4 class="hardware__title">{{ .Title }}</h4>
+                            </a>
+                            <p>{{ .Description }}</p>
+                        </div>
+                    {{ end }}
                 {{ end }}
-            {{ end }}
-        </div>
-    {{ end }}
+            </div>
+        {{ end }}
+        
+    </div>
 </div>
-
-
-
 
 {{ partial "cta.html" .}}
 

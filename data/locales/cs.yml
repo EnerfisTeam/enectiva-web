@@ -236,3 +236,9 @@ cs:
     conversion: Konverze
     energy: Energie
     sensor: Velicina
+
+  hardware_categories:
+    concentrators: Koncentrátory
+    converters: Převodníky
+    meters: Měřidla
+    sensors: Senzory

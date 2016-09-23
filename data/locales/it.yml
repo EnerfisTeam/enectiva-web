@@ -235,3 +235,9 @@ it:
     conversion: Tipo di conversione
     energy: Tipo di energia
     sensor: Tipo di sensore
+
+  hardware_categories:
+    concentrators: Concentratori
+    converters: Convertitori
+    meters: Contatori
+    sensors: Sensori
