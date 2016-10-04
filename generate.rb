@@ -81,8 +81,6 @@ def rename_fingerprint
 	old = File.join($javascript, 'respond.src.js')
 	newf = File.join($assets, name)
 	FileUtils.copy(old, newf)
-
-	%x(cd #{$assets} && git add *.css *.js)
 end
 
 def compile
@@ -186,6 +184,10 @@ def copystatic
 	FileUtils.rm_r 'assets-web'
 end
 
+def gitadd
+	%x(cd #{$assets} && git add *.css *.js *.eot *.woff *.png *.ttf --ignore-errors)
+end
+
 puts '======================================================================'
 puts ''
 puts ''
@@ -249,3 +251,4 @@ puts "  Creating rev_manifest.json "
 puts "==============================================="
 manifest
 copystatic
+gitadd

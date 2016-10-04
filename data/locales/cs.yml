@@ -229,3 +229,16 @@ cs:
     prev: Novější
     next: Starší
     read_more: Číst dál
+
+  hardware_properties:
+    all: Všechno
+    interface: Rozhraní
+    conversion: Konverze
+    energy: Energie
+    sensor: Velicina
+
+  hardware_categories:
+    concentrators: Koncentrátory
+    converters: Převodníky
+    meters: Měřidla
+    sensors: Senzory

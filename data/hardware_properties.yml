@@ -1,0 +1,8 @@
+concentrators:
+ - interface
+converters:
+ - conversion
+meters:
+ - energy
+sensors:
+ - sensor
