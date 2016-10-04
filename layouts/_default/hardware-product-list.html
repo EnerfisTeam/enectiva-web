@@ -10,10 +10,10 @@
 
 <div class="content">
     <div class="container">
-        
-        <div class="hardware__menu item__hidden"> 
-            {{ range $prop, $val := $l.hardware_categories }}
-               <a href="#{{ $prop }}" class="hardware__menu-item" data-group="{{ $prop }}"> {{ $val }} </a>
+
+        <div class="hardware__menu item__hidden">
+            {{ range $category := .Site.Data.hardware_categories.categories }}
+               <a href="#{{ $category }}" class="hardware__menu-item" data-group="{{ $category }}"> {{ index $l.hardware_categories $category }} </a>
             {{ end }}
         </div>
         
