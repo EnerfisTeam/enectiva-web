@@ -228,8 +228,22 @@ en:
 
   try_enectiva: Try Enectiva
   solution: Other solutions
+  all: all
 
   blog:
     prev: Newer
     next: Older
     read_more: Read more
+  
+  hardware_properties:
+    all: All
+    interface: Type of interface
+    conversion: Type of conversion
+    energy: Type of energy
+    sensor: Type of sensor
+
+  hardware_categories:
+    concentrators: Concentrators
+    converters: Converters
+    meters: Meters
+    sensors: Sensors

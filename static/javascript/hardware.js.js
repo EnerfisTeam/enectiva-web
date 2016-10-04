@@ -1,31 +1,87 @@
 $(document).ready(function(){
-    var first = true    //variable to control if the page has been loaded
-    $(".hardware__menu-item").click(function(){         
-        var factor=1    //variable that manage the time of the animation.
-        var animationTime = 200
-        if (first) {      //if is not the first interraction set the factor to 1 to see the right animation time
-            factor=0;     
+    
+    $(".hardware__menu").removeClass("item__hidden").addClass("item__visible");
+    $(".hardware__filters-menu").removeClass("item__hidden").addClass("item__visible");
+    $(".hardware__product-promo-title").removeClass("item__visible").addClass("item__hidden");
+    
+    var hardwareSection = "hardware__section";
+    var menuItem = "hardware__menu-item";
+    var menuItemSelected = "hardware__menu-item--selected";
+    var productPromo = "hardware__product-promo";
+    var productPromoLast = "hardware__product-promo--last";
+    var filters = "hardware__filters-categories";
+    var filtersSelect = "hardware__filter-select";
+    
+    var first = true;
+
+    var $section = $("." + hardwareSection);
+    var $filters = $("." + filters);
+
+    var $menuItem = $("." + menuItem);
+    $menuItem.click(function(){
+        var factor = 1;
+        var animationTime = 200;
+        if (first) {
+            factor = 0;
         }
                       
-        first = false;
+        first = false;  
         
-        data_group = $(this).attr('data-group');    //string with the data-group of the button clicked
-        $("div.hardware__section[data-group!=" + data_group + "]").fadeOut(animationTime * factor);    //find the divs with the not requested data-group and hide them 
-        $("div.hardware__section[data-group=" + data_group + "]").fadeIn(animationTime * factor * 4);  //find the divs with the requested data-group and show them
-        $("a[data-group=" + data_group + "]").addClass("hardware__menu-item-selected");     //add the class with the shadow to the button that has been clicked
-        $("a[data-group!=" + data_group + "]").removeClass("hardware__menu-item-selected");    //remove the class with the shadow to the buttons that has not been clicked
+        var data_group = $(this).attr('data-group');
+        $section.filter("[data-group!=" + data_group + "]").fadeOut(animationTime * factor);
+        $section.filter("[data-group=" + data_group + "]").fadeIn(animationTime * factor * 4);
+        $filters.filter("[data-group!=" + data_group + "]").fadeOut(animationTime * factor);
+        $filters.filter("[data-group=" + data_group + "]").fadeIn(animationTime * factor * 4);
+        $("a[data-group=" + data_group + "]").addClass(menuItemSelected);     
+        $("a[data-group!=" + data_group + "]").removeClass(menuItemSelected);   
     });
     
-    if(window.location.hash) {    //find if there's an hash in the URL
-        var hash = window.location.hash.substr(1);      //string with the name of the requested section extrapolated after the hash from the URL 
-        if($("a[data-group=" + hash + "]") != null)    //if the string corrisponds to one of the four sections call the click function and simulate the click on the button relative to the requested section
-            $("a[data-group=" + hash + "]").click();
-    } 
-    else {
-        if ($(".hardware__menu-item").length) {
-            $(".hardware__menu-item").first().click();    //if there's no hash in the URL call the function with the default behaviour(click on first button)
-            var url = window.location + "#" + $(".hardware__menu-item").first().attr('data-group');
+    if (window.location.hash) {
+        var hash = window.location.hash.substr(1);
+        var $groupLink = $("a[data-group=" + hash + "]");
+        if ($groupLink.length) {
+            $groupLink.click();
+        }
+    } else {
+        if ($menuItem.length) {
+            $menuItem.first().click();
+            var url = window.location + "#" + $menuItem.first().attr('data-group');
             window.location.replace(url);
         }            
-    }       
+    }
+
+    var $selects = $("." + filtersSelect);
+    $selects.change(function() {
+        var $select = $(this);
+        var property = $select.attr('data-hardware-filter-property');
+        var category = $select.parents("." + filters).data("group");
+        var $products = $("div." + hardwareSection + "[data-group=" + category + "] ." + productPromo);
+        if ($select.val() == "default") {
+            $products.show().removeClass(productPromoLast);
+        } else {
+            $products.not("[data-hardware-filter-property-" + property + "*=\"" + $select.val() + "\"]").hide();
+            $products.filter("[data-hardware-filter-property-" + property + "*=\"" + $select.val() + "\"]").show().removeClass(productPromoLast).last().addClass(productPromoLast);
+        }
+    });
+
+    var items = [];
+    $(".filters__item").each(function(){ items.push (this); });
+    var a = items.length;
+    for(var i = 0; i < a-1; i++){
+        for(var j = i+1; j < a; j++){
+            if(items[i].value == items[j].value) {
+                $("." + filtersSelect + " option[value=\""+ items[j].value +"\"]").not(":first").remove();
+            }
+            a = items.length;
+        }
+    }
+
+    $selects.each(function(i, select) {
+        var length = $(select).children('option').length;
+        if (length == 1) {
+            property = $(select).attr('data-hardware-filter-property');
+            $("span[data-hardware-filter-property=" + property + "]").remove();
+            $(select).remove();
+        }
+    });
 });
