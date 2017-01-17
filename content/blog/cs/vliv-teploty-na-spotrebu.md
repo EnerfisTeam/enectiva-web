@@ -12,7 +12,7 @@ slug: cs
 
 Klasická poučka energetického managementu zní střední teplota v prostoru vyšší o 1 °C znamená až 6 % v nákladech na vytápění. Jedná se o vztah mezi interní teplotou a spotřebou. Aktuální arktické mrazy, které po dlouhých letech tlačí opět náklady na vytápění vzhůru, nahrávají podrobným analýzám a proto jsme se rozhodli nejprve analyzovat vliv externí teploty na spotřebu. Na základě naměřených dat z průmyslových areálů a administrativních budov jsme tak pro vás připravili následující datovou analýzu.
 
-<img src="/img/blog/teplota a spotreba.jpg" alt="Vliv teploty na spotřebu tepla" class="center">
+<img src="/img/blog/zavislost spotreby na teplote.jpg" alt="Vliv teploty na spotřebu tepla" class="center">
 
 ## Zajímavé postřehy:
 ------------------------------------------------------------
@@ -28,3 +28,5 @@ Klasická poučka energetického managementu zní střední teplota v prostoru v
 - V případě použití nuceného větrání použití rekuperace.
 - Účinný zdroj tepla, alespoň na úrovní kondenačního kotle. 
 - Zdroj je správně nastaven a regulován, stejně jako celá otopná soustava
+
+Pokud Vás zajímají detailnější data z našich analýz, neváhejte nás konktaktovat na analytics@enectiva.cz
