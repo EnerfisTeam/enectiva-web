@@ -12,7 +12,7 @@ slug: cs
 
 Klasická poučka energetického managementu zní střední teplota v prostoru vyšší o 1 °C znamená až 6 % v nákladech na vytápění. Jedná se o vztah mezi interní teplotou a spotřebou. Aktuální arktické mrazy, které po dlouhých letech tlačí opět náklady na vytápění vzhůru, nahrávají podrobným analýzám a proto jsme se rozhodli nejprve analyzovat vliv externí teploty na spotřebu. Na základě naměřených dat z průmyslových areálů a administrativních budov jsme tak pro vás připravili následující datovou analýzu.
 
-** Zajímavé postřehy:
+Zajímavé postřehy:
 ------------------------------------------------------------
 * Průměrně vykazují nemovitosti nárůst spotřeby mezi nejteplejším a nejchladnějším dnem v období 1.12.2016 - 11.1.2017 o 266 %. Což činní  nárůst 7,9 % při poklesu o 1 °C průměrné venkovní teploty v tomto období.
 * Dobrá nemovitost a otopná soustava vykazuje nárůst spotřeby do 4 % při poklesu o 1 °C průměrné denní teploty.
