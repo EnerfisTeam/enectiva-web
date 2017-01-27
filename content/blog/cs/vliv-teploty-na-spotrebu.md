@@ -4,7 +4,7 @@ published: true
 title: Vliv externí teploty na spotřebu
 author: enectiva
 keywords: "spotřeba tepla, náklady na energie"
-date: 2017-1-20
+date: 2017-01-20
 cs: blog
 schema: blog
 slug: cs
