@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "Energie Management, Energie Überwachungssystem"
+kw: "Energie Management, Energie Überwachungssystem"
 published: true
 title: Energie Management im Einzelhandel
 date: 2015-09-20

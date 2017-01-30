@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Monitoring pro ISO 50001
 author: enectiva
-keywords: "ISO 50001, monitoring, norma"
+kw: "ISO 50001, monitoring, norma"
 date: 2015-07-07
 cs: blog
 slug: cs

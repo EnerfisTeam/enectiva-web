@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "smart metering, monitoring energií, město, smart city"
+kw: "smart metering, monitoring energií, město, smart city"
 published: true
 title: Smart City po česku
 date: 2015-10-28

@@ -3,7 +3,7 @@ layout: post
 published: true
 title: La gestión es la medición
 author: enectiva
-keywords: "readings, energy management, waste, energy monitoring, energy consumption"
+kw: "readings, energy management, waste, energy monitoring, energy consumption"
 date: 2014-09-15
 es: blog
 slug: es

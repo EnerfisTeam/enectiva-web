@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Motivační faktory pro zavedení energetického managementu
 author: enectiva
-keywords: "energetický management, motivace, náklady, udržitelnost"
+kw: "energetický management, motivace, náklady, udržitelnost"
 date: 2015-02-08
 cs: blog
 slug: cs

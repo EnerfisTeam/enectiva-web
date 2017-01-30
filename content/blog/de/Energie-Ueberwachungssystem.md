@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Energie Überwachungssystem
 author: enectiva
-keywords: "Energie Überwachungssystem"
+kw: "Energie Überwachungssystem"
 date: 2015-06-20
 de: blog
 slug: de

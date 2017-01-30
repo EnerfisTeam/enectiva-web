@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Energy Monitoring in ISO 50001 Standard
-keywords: "ISO 50001, energy monitoring"
+kw: "ISO 50001, energy monitoring"
 author: enectiva
 date: 2015-07-27
 en: blog

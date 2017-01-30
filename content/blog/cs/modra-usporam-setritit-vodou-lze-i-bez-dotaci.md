@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "Modrá úsporám, spotřeba vody, úspory vody"
+kw: "Modrá úsporám, spotřeba vody, úspory vody"
 published: true
 title: "Modrá úsporám - šetřit vodou lze i bez dotací"
 cs: blog

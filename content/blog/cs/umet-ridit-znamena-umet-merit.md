@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Umět řídit znamená umět měřit
 author: enectiva
-keywords: "odečty energií, energetický management, plýtvání, monitoring energií, spotřeba energií"
+kw: "odečty energií, energetický management, plýtvání, monitoring energií, spotřeba energií"
 date: 2014-09-15
 cs: blog
 schema: blog

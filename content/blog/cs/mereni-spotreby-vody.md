@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "měření vody, vodoměr"
+kw: "měření vody, vodoměr"
 published: true
 title: Měření spotřeby vody
 date: 2016-02-07

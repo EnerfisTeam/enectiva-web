@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Gestione dell'Energia e Curiosità
 author: enectiva
-keywords: "efficenza energetica, energia, fatturazione, consumo elettrico, consumo dell'acqua"
+kw: "efficenza energetica, energia, fatturazione, consumo elettrico, consumo dell'acqua"
 date: 2014-10-28
 it: blog
 schema: blog

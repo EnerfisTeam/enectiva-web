@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Energy Management and Curiosity
 author: enectiva
-keywords: "energy efficiency, energy, invoicing, billing, electricity consumption, water consumption"
+kw: "energy efficiency, energy, invoicing, billing, electricity consumption, water consumption"
 date: 2014-10-28
 en: blog
 slug: en

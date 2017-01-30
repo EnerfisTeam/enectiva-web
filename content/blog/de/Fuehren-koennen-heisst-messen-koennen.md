@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Führen können heißt messen können
 author: enectiva
-keywords: "Energieablesungen, Energie Management, Verschwendung, Energie Überwachung, Energieverbrauch"
+kw: "Energieablesungen, Energie Management, Verschwendung, Energie Überwachung, Energieverbrauch"
 date: 2014-09-15
 de: blog
 slug: de

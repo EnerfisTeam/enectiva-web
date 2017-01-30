@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Nejvíce plýtváme o státních svátcích
 author: enectiva
-keywords: "spotřeba, elektřina,voda,teplo,statistika,administrativní"
+kw: "spotřeba, elektřina,voda,teplo,statistika,administrativní"
 date: 2015-06-16
 cs: blog
 schema: blog

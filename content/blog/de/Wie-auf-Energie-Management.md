@@ -3,7 +3,7 @@ layout: post
 title: Wie auf Energie Management
 published: true
 author: enectiva
-keywords: "Energie Management, Senkung des Vebrauchs"
+kw: "Energie Management, Senkung des Vebrauchs"
 date: 2014-04-23
 de: blog
 slug: de

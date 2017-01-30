@@ -1,6 +1,6 @@
 ---
 layout: post
-keywords: "iso 50001, energetický audit, implementace, pro, proti"
+kw: "iso 50001, energetický audit, implementace, pro, proti"
 published: true
 author: enectiva
 title: "Energetický audit nebo ISO 50001?"

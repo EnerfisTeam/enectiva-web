@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Optimierung der Energiekosten
 author: enectiva
-keywords: "Energetik, Optimierung, Strategie"
+kw: "Energetik, Optimierung, Strategie"
 date: 2015-02-23
 de: blog
 slug: de

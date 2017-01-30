@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ""
-keywords: ""
+kw: ""
 published: false
 title: Enectiva jako platforma pro spotový trh
 date: 2016-02-21

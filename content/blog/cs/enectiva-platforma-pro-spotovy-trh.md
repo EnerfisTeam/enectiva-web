@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: spotový trh
+kw: spotový trh
 published: true
 title: "Enectiva - platforma pro spotový trh"
 cs: blog

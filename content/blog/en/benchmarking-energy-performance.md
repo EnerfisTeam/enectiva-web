@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Benchmarking Energy Performance
 author: enectiva
-keywords: "eenergy management, consumption, energy, building"
+kw: "eenergy management, consumption, energy, building"
 date: 2014-12-25
 en: blog
 slug: en

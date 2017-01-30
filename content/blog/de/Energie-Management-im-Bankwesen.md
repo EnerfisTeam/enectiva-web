@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "Energie Management, Energie Überwachungssystem"
+kw: "Energie Management, Energie Überwachungssystem"
 published: true
 title: Energie Management im Bankwesen
 date: 2015-08-30

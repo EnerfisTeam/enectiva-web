@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Comparativa de rendimiento de energía
 author: enectiva
-keywords: "eenergy management, consumption, energy, building"
+kw: "eenergy management, consumption, energy, building"
 date: 2014-12-25
 es: blog
 slug: es

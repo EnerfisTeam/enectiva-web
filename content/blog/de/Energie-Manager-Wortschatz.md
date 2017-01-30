@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Energie Manager Wortschatz
 author: enectiva
-keywords: Energie Management
+kw: Energie Management
 date: 2015-03-22
 de: blog
 slug: de

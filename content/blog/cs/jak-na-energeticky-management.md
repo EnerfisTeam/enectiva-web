@@ -3,7 +3,7 @@ layout: post
 title: Jak na energetický management
 published: true
 author: enectiva
-keywords: "energetický management, snížení spotřeby" 
+kw: "energetický management, snížení spotřeby" 
 date: 2014-04-23
 cs: blog
 slug: cs

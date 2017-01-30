@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Is the Power Engineer and Endangered Species? "
 author: enectiva
-keywords: "energetik, smart metering, energy monitoring"
+kw: "energetik, smart metering, energy monitoring"
 date: 2014-11-15
 en: blog
 slug: en

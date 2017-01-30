@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "energetický management, energetický monitoring"
+kw: "energetický management, energetický monitoring"
 published: true
 title: Energetický management v oblasti retailu
 date: 2015-09-20

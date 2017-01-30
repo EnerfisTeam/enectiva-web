@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Motivationsfaktoren für Einführung des Energie Managements
 author: enectiva
-keywords: "Energie Management, Motivation, Kosten, Nachhaltigkeit"
+kw: "Energie Management, Motivation, Kosten, Nachhaltigkeit"
 date: 2015-02-08
 de: blog
 slug: de

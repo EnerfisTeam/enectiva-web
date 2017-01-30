@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Smart City - Technologie jako odpověď na řešení problémů měst 
 author: enectiva
-keywords: 'smart city, monitoring energií'
+kw: 'smart city, monitoring energií'
 date: 2016-07-19
 cs: blog
 slug: cs

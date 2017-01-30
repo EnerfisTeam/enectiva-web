@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: Submetering
+kw: Submetering
 published: true
 title: Energie Management im Maschinenbau
 date: 2015-09-29

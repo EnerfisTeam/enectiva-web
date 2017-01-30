@@ -1,6 +1,6 @@
 ---
 layout: post
-keywords: "ISO 50001, Energieaudit, Einführung, für, gegen"
+kw: "ISO 50001, Energieaudit, Einführung, für, gegen"
 published: true
 author: enectiva
 title: "Energieaudit oder ISO 50001?"

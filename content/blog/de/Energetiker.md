@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Energetiker - bedrohte Art?"
 author: enectiva
-keywords: "Energetiker,smart metering, Energie Überwachungssystem"
+kw: "Energetiker,smart metering, Energie Überwachungssystem"
 date: 2014-11-15
 de: blog
 slug: de

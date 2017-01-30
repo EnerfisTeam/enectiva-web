@@ -4,6 +4,8 @@ top:
       URL: /cs/reseni
     - name: Vlastnosti
       URL: /cs/vlastnosti-systemu
+    - name: IoT
+      URL: /cs/iot
     - name: API
       URL: /cs/api
     - name: Hardware

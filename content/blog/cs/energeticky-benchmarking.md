@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Energetický benchmarking
 author: enectiva
-keywords: "energetický management, spotřeba, energie, budova"
+kw: "energetický management, spotřeba, energie, budova"
 date: 2014-12-25
 cs: blog
 slug: cs

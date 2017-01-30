@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: podružné měření
+kw: podružné měření
 published: true
 title: Kde je vhodné instalovat měřidla energií
 date: 2015-12-28

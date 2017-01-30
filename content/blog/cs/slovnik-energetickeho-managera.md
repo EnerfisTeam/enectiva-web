@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Slovník energetického manažera
 author: enectiva
-keywords: energetický management
+kw: energetický management
 date: 2015-03-22
 cs: blog
 slug: cs

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: "EPC, monitoring, esco"
+kw: "EPC, monitoring, esco"
 published: true
 title: Vyhodnocení EPC projektů
 date: 2015-10-31

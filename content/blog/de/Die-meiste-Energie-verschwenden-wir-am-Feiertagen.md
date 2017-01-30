@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Die meiste Energie verschwenden wir am Feiertagen
 author: enectiva
-keywords: "Verbrauch, Strom, Wasser, Wärme, Auswertung, Verwaltungs-"
+kw: "Verbrauch, Strom, Wasser, Wärme, Auswertung, Verwaltungs-"
 date: 2015-06-16
 de: blog
 slug: de

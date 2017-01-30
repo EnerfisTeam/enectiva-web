@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Energetik - ohrožený druh?"
 author: enectiva
-keywords: "energetik, smart metering, energetický monitoring"
+kw: "energetik, smart metering, energetický monitoring"
 date: 2014-11-15
 cs: blog
 schema: blog

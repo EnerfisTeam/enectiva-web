@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Energiedaten Preise
 author: enectiva
-keywords: "Property Manager, Facility Manager, Energiedaten, Messgeräte Ablesungen, automatische Ablesung"
+kw: "Property Manager, Facility Manager, Energiedaten, Messgeräte Ablesungen, automatische Ablesung"
 date: 2014-07-08
 de: blog
 slug: de

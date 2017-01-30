@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Monitoring energií
 author: enectiva
-keywords: "monitoring energií,energetický monitoring"
+kw: "monitoring energií,energetický monitoring"
 date: 2015-06-20
 cs: blog
 slug: cs

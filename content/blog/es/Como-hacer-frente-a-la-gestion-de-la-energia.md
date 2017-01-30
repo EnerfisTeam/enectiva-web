@@ -3,7 +3,7 @@ layout: post
 title: Cómo hacer frente a la gestión de la energía
 published: true
 author: enectiva
-keywords: "gestión de la energía, reducción del consumo"
+kw: "gestión de la energía, reducción del consumo"
 date: 2014-04-23
 es: blog
 slug: es

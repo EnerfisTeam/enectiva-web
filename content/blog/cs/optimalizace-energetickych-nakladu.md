@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Optimalizace energetických nákladů
 author: enectiva
-keywords: "energetika, optimalizace, strategie"
+kw: "energetika, optimalizace, strategie"
 date: 2015-02-23
 cs: blog
 slug: cs

@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Implementace ISO 50001
 author: enectiva
-keywords: "iso 50001,implementace, energetický management"
+kw: "iso 50001,implementace, energetický management"
 date: 2015-06-21
 cs: blog
 slug: cs

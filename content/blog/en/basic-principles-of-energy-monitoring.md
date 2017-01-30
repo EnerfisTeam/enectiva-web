@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Basic Principles of Energy Monitoring
 author: enectiva
-keywords: energy monitoring
+kw: energy monitoring
 date: 2015-07-27
 en: blog
 slug: en

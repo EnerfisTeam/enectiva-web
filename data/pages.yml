@@ -22,6 +22,14 @@ solutions:
   it: soluzioni
   de: loesung
   ru: resheniya
+iot:
+  cs: iot
+  en: about-enectiva
+  fr: enectiva
+  es: acerca-de-enectiva
+  it: enectiva
+  de: ueber-enectiva
+  ru: o-enectiva
 solutionsschool:
   cs: reseni/verejne-budovy-skoly-knihovny
   en: solutions/schools-libraries-and-other-public-buildings

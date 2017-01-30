@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Možnosti energetických úspor na zimním stadionu
 author: enectiva
-keywords: 'zimní stadion, energetický management, energetická data,automatický odečet'
+kw: 'zimní stadion, energetický management, energetická data,automatický odečet'
 date: 2016-07-11
 cs: blog
 slug: cs

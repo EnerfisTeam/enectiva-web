@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Cena energetických dat
 author: enectiva
-keywords: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
+kw: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
 date: 2014-07-08
 cs: blog
 slug: cs

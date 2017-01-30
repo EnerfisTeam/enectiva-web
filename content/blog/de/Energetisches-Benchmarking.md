@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Energetisches Benchmarking
 author: enectiva
-keywords: "Energie Management, Verbrauch, Energie, Gebäude"
+kw: "Energie Management, Verbrauch, Energie, Gebäude"
 date: 2014-12-25
 de: blog
 slug: de

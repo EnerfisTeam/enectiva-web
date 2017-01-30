@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Zvídavost v energetickém managementu
 author: enectiva
-keywords: "energetická efektivita, energie, rozúčtovat, vyúčtování, spotřeba elektřiny, spotřeby vody"
+kw: "energetická efektivita, energie, rozúčtovat, vyúčtování, spotřeba elektřiny, spotřeby vody"
 date: 2014-10-28
 cs: blog
 schema: blog

@@ -3,7 +3,7 @@ layout: post
 title: How to Cope With Energy Management
 published: true
 author: enectiva
-keywords: "energy managment, consumption reducing"
+kw: "energy managment, consumption reducing"
 date: 2014-04-23
 en: blog
 slug: en

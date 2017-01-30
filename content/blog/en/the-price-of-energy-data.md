@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The Price of Energy Data
 author: enectiva
-keywords: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
+kw: "property manažer, facility manažer, energetická data, odečty měřidel, automatický odečet"
 date: 2014-07-08
 en: blog
 slug: en

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: enectiva
-keywords: podružné měření
+kw: podružné měření
 published: true
 title: Energetický management ve strojírenství
 date: 2015-09-29

@@ -3,7 +3,7 @@ layout: post
 published: true
 title: El precio de los datos energéticos
 author: enectiva
-keywords: "administrador de propiedad, gerente de instalación"
+kw: "administrador de propiedad, gerente de instalación"
 date: 2014-07-08
 es: blog
 slug: es

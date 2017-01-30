@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Überwachung für ISO 50001
 author: enectiva
-keywords: "ISO 50001, Überwachung, Norm"
+kw: "ISO 50001, Überwachung, Norm"
 date: 2015-07-07
 de: blog
 slug: de

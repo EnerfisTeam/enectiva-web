@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Gestión de la energía y la curiosidad
 author: enectiva
-keywords: "energy efficiency, energy, invoicing, billing, electricity consumption, water consumption"
+kw: "energy efficiency, energy, invoicing, billing, electricity consumption, water consumption"
 date: 2014-10-28
 es: blog
 slug: es

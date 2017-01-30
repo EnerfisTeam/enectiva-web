@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Neugierigkeit in Energie Management
 author: enectiva
-keywords: "Energie Effizienz, Energie, abrechnen, Abrechnung, Stromverbrauch, Wasserverbrauch"
+kw: "Energie Effizienz, Energie, abrechnen, Abrechnung, Stromverbrauch, Wasserverbrauch"
 date: 2014-10-28
 de: blog
 slug: de
