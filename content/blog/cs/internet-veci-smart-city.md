@@ -10,12 +10,9 @@ slug: cs
 schema: blog
 ---
 
-Připravili jsme pro vás soupis těch nejzajímavějších řešení v kterých lze v rámci měst uplatnit technologie Smart City.
+Připravili jsme pro vás soupis těch nejzajímavějších řešení, v kterých lze v rámci měst uplatnit technologie ze světa internetu věcí.
 
 <img src="/img/blog/enectiva_smart_city.jpg" alt="Enectiva & Smart city" class="center">
-
-
-Význam těchto řešení je (pokud odmyslíme politické a klasické business důvody) vytvořit příjemnější město pro život s nižšími provozními náklady. Alespoň takovéto důvody by měl mít každý politik na paměti pokud se angažuje ve Smart City projektech v rámci své obce, města nebo regionu. Oblastí v které se angažuje naše společnost, je inteligentní monitoring energií za pomoci aplikace Enectiva.
 
 ## Nejzajímavější řešení pro města a obce:
 
