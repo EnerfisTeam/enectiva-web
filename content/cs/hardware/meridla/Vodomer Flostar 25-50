@@ -1,0 +1,30 @@
+---
+layout: manual
+title: Vodoměr Flostar 25-50-300-G2 1/2''
+schema: hardwarevodomer
+type: hardware-product
+description: Jednovtokový průmyslový vodoměr  
+hardware_category: Měřidla
+weight: 
+hardware_image: "/img/hw/vodomer-Flostar-25-50-300-10/4''.jpg"
+hardware_properties:
+   
+    -M-Bus modul
+---
+
+<div class="container">
+	<div class="content hardware__product-promo">
+        <img src="/img/hw/vodomer-Flostar-25-50-300-10/4''.jpg" class="hardware__image-alignment" width="320">
+	    <h2> Vodoměr průmyslový</h2>
+	    <ul class="hardware__alignment-left">
+	        <strong>Průmyslový vodoměr</strong>
+            <li>jednovtokový průmyslový vodoměr pro SV, tř. přesnosti C</li>
+            <li>montáž do horizontální polohy </li>
+            <li>DN50</li>
+            <li>Q3=25</li>
+            <li>L=300</li>
+            <li>závit=10/4''</li>
+	    </ul>
+	    <br>
+	</div>   
+</div>
