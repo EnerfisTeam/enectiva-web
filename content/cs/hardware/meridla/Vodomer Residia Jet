@@ -6,7 +6,7 @@ type: hardware-product
 description: Jednovtokový bytový vodoměr  
 hardware_category: Měřidla
 weight: 
-hardware_image: "/img/hw/electrometer-mid-mbus_small.jpg"
+hardware_image: "/img/hw/vodomery-Residia-Jet.jpg"
 hardware_properties:
    
     -M-Bus modul
@@ -14,7 +14,7 @@ hardware_properties:
 
 <div class="container">
 	<div class="content hardware__product-promo">
-        <img src="/img/hw/electrometer-mid-mbus.jpg" class="hardware__image-alignment" width="320">
+        <img src="/img/hw/vodomery-Residia-Jet.jpg" class="hardware__image-alignment" width="320">
 	    <h2> Vodoměr bytový</h2>
 	    <ul class="hardware__alignment-left">
 	        <strong>Bytový vodoměr</strong>
