@@ -1,0 +1,39 @@
+---
+layout: manual
+title: Plynoměr Elster BK-G6
+schema: hardwareplynomer
+type: hardware-product
+description: Membránový plynoměr bytový  
+hardware_category: Měřidla
+weight: 
+hardware_image: "/img/hw/plynomer_Elster_BK-G6.jpg"
+hardware_properties:
+   
+    
+---
+
+<div class="container">
+	<div class="content hardware__product-promo">
+        <img src="/img/hw/plynomer_Elster_BK-G6.jpg" class="hardware__image-alignment" width="320">
+	    <h2> Plynoměr bytový</h2>
+	    <ul class="hardware__alignment-left">
+	        <strong>Bytový plynoměr</strong>
+            <li>Membránový plynoměr pro domácnost</li>
+            <li>rozteč 250 mm</li>
+            <li>rozsah 0,06-10 m3/h</li>
+            <li>cyklická hodnota 2 litry</li>
+            <li>max. provozní tlak 0,5 bar</li>
+      <li>určen pro měření spotřeby zemního plynu,svítiplynu a propan butanu podle DIN EN 437:2003</li>
+	    <li>vysoká přesnost a dlouhodobá stabilita</li>
+	    <li>Teplotní kompenzace:</li>
+	    <li>T mechanická</li>
+	    <li>Te elektronická</li>
+	    <li>Verze:</li>
+	    <li>M mechanické počitadlo</li>
+	    <li>C mechanické počitadlo Chekker</li>
+	    <li>A počitadlo s ENCODEREM</li>
+	    <li>E elektronické počitadlo</li>
+	    </ul>
+	    <br>
+	</div>   
+</div>
