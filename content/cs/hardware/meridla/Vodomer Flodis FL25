@@ -24,17 +24,24 @@ hardware_properties:
             <li>Q3=6,3</li>
             <li>L=260</li>
             <li>závit=5/4''</li>
-	    <li>Výhody vodoměru Flostar:</li>
-	    <li>vysoká přesnost v širokém rozsahu průtoků</li>
-	    <li>možnost velkého přetížení po dobu dvou hodin (požární odběr), 1,5x Qmax</li>
-	    <li>měřící mechanismus s hydrostaticky a hydrodynamicky vyváženou turbinou, minimální třecí odpor, vysoká přesnost, nízká tlaková ztráta, metrologická stálost</li>
-	    <li>valivé uložení turbiny - prodloužená životnost a vyšší citlivost v oblasti velmi malých průtoků</li>
-	    <li>vysoká spolehlivost - jediný pohyblivý díl ve vodě</li>
-	    <li>Mechanické provedení vodoměru:</li>
-	    <li>suchoběžné otočné počitadlo spojené s měřící částí magnetickou spojkou,standartně předvybavené pro instalaci komunikačního členu CYBLE</li>
-	    <li>krytí počítadla IP68 - měděný plášť a minerální sklo</li>
-	    <li>otočné příruby vodoměru DN 150 pro snadnou montáž</li>
-	    
+	    <li>Výhody vodoměru Flodis:</li>
+	    <li>velmi nízká tlaková ztráta</li>
+	    <li>vysoká přesnost v širokém rozsahu průtoků,nízký rozběhový průtok</li>
+	    <li>trvale zatížitelný na Qmax</li>
+	    <li>vysoká přetížítelnost</li>
+	    <li>dlouhodobě stálé metrologické parametry - jednovtoková konstrukce bez obtokové regulace</li>
+	    <li>vhodné pro redukci průřezu a náhrady zastaralých vodoměrů</li>
+	    <li>Základní popis vodoměru:</li>
+	    <li>filtr na vstupu do vodoměru</li>
+	    <li>vysoká odolnost proti nečistotám ve vodě - jediný pohyblivý díl ve vodě</li>
+	    <li>hydrodynamicky vyvážená turbína</li>
+	    <li>suchoběžné počítadlo se stěračem standardně předvybavené pro instalaci komunikačních členů CYBLE</li>
+	    <li>TVM verze s počítadlem s měděným pláštěm a minerálním sklem</li>
+	    <li>magnetická spojka chráněná proti vlivu vnějšího magnetu bez prokluzu přenese rázové zatížení na Qmax</li>
+	    <li>Vodoměr lze vybavit pro integraci do odečtových systémů:</li>
+	    <li>pulsní komunikace CYBLE NF / VF</li>
+	    <li>MBus protokol CYBLE MBUS</li>
+	    <li>radiová komunikace CYBLE RF</li>
 	    </ul>
 	    <br>
 	</div>   
