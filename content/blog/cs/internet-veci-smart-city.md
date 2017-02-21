@@ -10,7 +10,7 @@ slug: cs
 schema: blog
 ---
 
-Připravili jsme pro vás soupis těch nejzajímavějších řešení, v kterých lze v rámci měst uplatnit technologie ze světa internetu věcí.
+Připravili jsme pro vás soupis těch nejzajímavějších řešení, u kterých lze v rámci měst uplatnit technologie ze světa internetu věcí.
 
 <img src="/img/blog/enectiva_smart_city.jpg" alt="Enectiva & Smart city" class="center">
 
@@ -45,9 +45,11 @@ Připravili jsme pro vás soupis těch nejzajímavějších řešení, v kterýc
 
 15.Kvalita vnitřního prostředí - monitoring kvality vnitřního prostředí v budovách města, školách, školkách, sportovištích. Monitoirng teploty, přetápění, CO2, organických částic.
 
-16. Monitoring přítomnosti ozonu - monitoring úrovně přízemního ozonu.
+16.Monitoring přítomnosti ozonu - monitoring úrovně přízemního ozonu.
 
-17. Monitoring zdravotního stavu, případně pádů - do oblasti e-health patří aplikace na monitorování životních funkcí starých nebo nemohoucích spoluobčanů, kteří potřebují včasnou pomoc v případě nutnosti.
+17.Monitoring zdravotního stavu, případně pádů - do oblasti e-health patří aplikace na monitorování životních funkcí starých nebo nemohoucích spoluobčanů, kteří potřebují včasnou pomoc v případě nutnosti.
+
+Jaké řešení plánuje Vaše město? Pro konzultace neváhejte využít bezplatných konzultací od týmu Enerfis.
 
 
 
