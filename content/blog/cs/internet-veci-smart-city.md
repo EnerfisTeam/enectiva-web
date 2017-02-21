@@ -12,7 +12,7 @@ schema: blog
 
 Připravili jsme pro vás soupis těch nejzajímavějších řešení, u kterých lze v rámci měst uplatnit technologie ze světa internetu věcí.
 
-<img src="/img/blog/enectiva_smart_city.jpg" alt="Enectiva & Smart city" class="center">
+<img src="/img/blog/enectiva_iot_smart_city.jpg" alt="IoT a Smart City" class="center">
 
 ## Nejzajímavější řešení pro města a obce:
 
