@@ -23,7 +23,7 @@ Připravili jsme pro vás soupis těch nejzajímavějších řešení, u kterýc
 
 3.Monitoring hlukové zátěže - monitoring aktuálního stavu hluku a tvorba hlukových map v rámci města.
 
-4.Monitoring elektromagnetického pole - monitoring úrovně elektromagnetického záření vyzařující wifi a radiové sítě
+4.Smart Metering - Energetický management a monitoring spotřeb všech typů energií a vody.
 
 5.Smart doprava - monitoring úrovně dopravy, hustoty provozu, doprávních zácp, havárií a následná automatizace řízení dopravy včetně sdílení informací s aplikacemi pro řidiče.
 
@@ -41,7 +41,7 @@ Připravili jsme pro vás soupis těch nejzajímavějších řešení, u kterýc
 
 13.Monitoring vodní hladiny - sledování průběžné výšky vodních hladin v tocích, reservoarech, nádržích, predikce podovdní.
 
-14.Smart Metering - Energetický management a monitoring spotřeb všech typů energií a vody.
+14.Monitoring elektromagnetického pole - monitoring úrovně elektromagnetického záření vyzařující wifi a radiové sítě.
 
 15.Kvalita vnitřního prostředí - monitoring kvality vnitřního prostředí v budovách města, školách, školkách, sportovištích. Monitoirng teploty, přetápění, CO2, organických částic.
 
