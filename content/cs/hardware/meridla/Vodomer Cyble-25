@@ -1,0 +1,58 @@
+---
+layout: manual
+title: Vodoměr T4 Unimag Cyble-25
+schema: hardwarevodomer
+type: hardware-product
+description: Jednovtokový bytový vodoměr  
+hardware_category: Měřidla
+weight: 
+hardware_image: "/img/hw/vodomer_T4_ Unimag_Cyble-25.jpg"
+hardware_properties:
+   
+    -Pulsní vysílač Cyble- kabel 5 m
+    -Cyble NF - 1 pulsni vystup
+    -Cyble NF+UF - 2 pulsni vystupy
+    -Cyble MBUS - přenos dat v M-BUS protokolu
+    -Cyble RF - radiový přenos dat v pásmu 433 MHz, protokol Radian
+---
+
+<div class="container">
+	<div class="content hardware__product-promo">
+        <img src="/img/hw/vodomer_T4_Unimag_Cyble-25.jpg" class="hardware__image-alignment" width="320">
+	    <h2> Vodoměr bytový</h2>
+	    <ul class="hardware__alignment-left">
+	        <strong>Bytový vodoměr</strong>
+            <li>Jednovtokový, suchoběžný vodoměr na SV a TUV</li>
+            <li>montáž do horizontální a vertikální polohy </li>
+            <li>DN20</li>
+            <li>Qn=2,5</li>
+            <li>L=130</li>
+            <li>závit=4/4''</li>
+            <li>Přesnost +/- 5%    Qmin	dm3/h	30</li>
+            <li>Rozsah teplot SV 30°C; TUV  90°C</li>
+            
+      <li>Výhody vodoměru T4 Unimag Cyble-25:</li>
+	    <li>standartně předvybavené počítadlo pro instalaci vysílače indukčního typu CYBLE</li>
+	    <li>vysílač CYBLE umožňuje provádět dálkový odečet vodoměru nebo jeho napojení na řídící systémy</li>
+	    <li>dlouhodobá stálost metrologických parametrů</li>
+	    <li>vysoká spolehlivost a dlouhá životnost</li>
+	    <li>dlouhodobě stálé metrologické parametry - jednovtoková konstrukce bez obtokové regulace</li>
+	    <li>suchoběžné hermeticky uzavřené počítadlo</li>
+	    <li>Základní popis vodoměru:</li>
+	    <li>horizontální instalace - třída přesnosti B</li>
+	    <li>vertikální a jiná instalace - třída přesnosti A</li>
+	    <li>suchoběžné hermeticky uzavřené počítadlo</li>
+	    <li>počítadlo otočné o 360°</li>
+	    <li>osmiválečkový číselný ukazatel, pět pro m3, tři pro menší hodnoty</li>
+	    <li>ručičkový ukazatel pro menší hodnoty</li>
+	    <li>Verze vysílačů:</li>
+	    <li>- Cyble NF - 1 pulsni vystup</li>
+	    <li>- Cyble NF+UF - 2 pulsni vystupy</li>
+	    <li>Cyble MBUS - přenos dat v M-BUS protokolu</li>
+            <li>Cyble RF - radiový přenos dat v pásmu 433 MHz, protokol Radian</li>
+	    </ul>
+	    <br>
+	</div>   
+</div>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
