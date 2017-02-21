@@ -6,7 +6,7 @@ type: hardware-product
 description: Membránový plynoměr bytový  
 hardware_category: Měřidla
 weight: 
-hardware_image: "/img/hw/plynomer Elster BK-G6.jpg"
+hardware_image: "/img/hw/plynomer_Elster_BK-G6.jpg"
 hardware_properties:
    
     
@@ -14,7 +14,7 @@ hardware_properties:
 
 <div class="container">
 	<div class="content hardware__product-promo">
-        <img src="/img/hw/plynomer Elster BK-G6.jpg" class="hardware__image-alignment" width="320">
+        <img src="/img/hw/plynomer_Elster_BK-G6.jpg" class="hardware__image-alignment" width="320">
 	    <h2> Plynoměr bytový</h2>
 	    <ul class="hardware__alignment-left">
 	        <strong>Bytový plynoměr</strong>
