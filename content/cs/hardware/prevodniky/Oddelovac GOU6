@@ -1,0 +1,56 @@
+---
+layout: manual
+title: Galvanický optický oddělovač pro hl. elektroměr
+schema: hardwareimpconverters
+type: hardware-product
+description:GOU6 je jednosměrný 6 ti kanálový optooddělovač určený k jednosměrnému galvanickému oddělení výstupů elektroměrů
+hardware_category: converters
+weight: 0,35
+hardware_image: "/img/hw/GOU6.jpg"
+hardware_properties:
+  conversion: 
+    vstup AC,DC; výstup DC otevřený kolektor NPN
+---
+
+<br>
+<div class="container">
+    <div class="content hardware__product-promo">
+	<img src="/img/hw/GOU6.jpg" width="300" class="hardware__image-alignment">	
+	<h2> Galvanický optický oddělovač </h2>
+	<p>
+		Stejnosměrný 6 ti kanálový optooddělovač
+	</p>
+	<ul>
+	<li>Rozměry:90 x 71 x 58 mm (v-š-h)</li>
+  <li>Montáž:lišta DIN35</li>
+  <li>Prostředí: mormální dle ČSN 33 2000-3</li>
+	<li>Napájení  80 až 250 VAC 50 Hz, červená LED</li>
+	<li>Vstup střídavý AC:</li>
+	<li>počet 1 označený IN A</li>
+  <li>připojení: protisvorce N(L) (nulovému vodič i)</li>
+  <li>napětí 80 až 250 VAC (spojený se sítí)</li>
+  <li>vstupní odpor: 110 kΩ</li>
+  <li>Délka impulsu min. 100 ms</li>
+  <li>přívodní vodič max. 3 m</li>
+  <li>upozornění, AC IN A nepoužívat součastně s DC IN1 !</li>
+  <li>Vstupy stejnosměrné DC:</li>
+  <li>počet vstupů 6 označené IN1 až IN6 se společným pólem COM</li>
+  <li>napětí / proud 5 VDC / max. 5 mA - proti COM (napájeny z vnitřního zdroje GOU 6)</li>
+  <li>délka impulsu min. 100 ms pro IN1, min. 10 ms pro IN2 až IN6</li>
+  <li>přívodní vodič max. 3 m</li>
+  <li>upozornění, DC IN 1 nepoužívat současně s AC IN A !</li>
+  <li>Výstupy stejnosměrné DC:</li>
+  <li>počet výstupů 6 označené OUT1 až OUT6</li>
+  <li>indikace 1x žlutá LED pro OUT1</li>
+  <li>5x zelená LED pro OUT2 až OUT6</li>
+  <li>napětí 5 až 30 VDC,proud max. 30 mA</li>
+  <li>délka impulsu pro OUT1 kopíruje / invertuje vstup IN1 nebo IN A (DIP 3)</li>
+  <li>pro OUT2 až OUT6 volitelná 50, 100, 200, 720 ms (DIP 1 a 2)</li>
+  <li>dělicí poměr pro OUT1 nedělí</li>
+  <li>pro OUT2 až OUT6 :1, :4, :8, :16 vstupních impulsů (DIP 5, 6 a DIP 7, 8)</li>
+  <li>Galvanický oddělovač typ GOU 6 používejte vždy k oddělení pouze jednoho elektroměru!</li>
+ 	</ul>
+	<br>
+    </div>
+</div>
+<br>
