@@ -12,7 +12,7 @@ schema: blog
 
 Internet věcí je frekventovaným tématem nejen z důvodu nedávného internetového útoku bezpečnostních kamer. **IoT (Internet of Things)** technologie hrají klíčovou roli v řešeních Smart City. Integrovat tyto moderní technologie do našich krásných historických měst a malebných vesniček je výzvou pro nejednoho zastupitele, a tak jsme pro Vás připravili soupis těch nejzajímavějších aplikací a řešení, u kterých lze v rámci měst uplatnit prvky a produkty ze světa internetu věcí.
 
-<img src="/img/blog/iot_smart_city_lr.jpg" alt="IoT a Smart City" class="center">
+<img src="/img/blog/iot_smart_city_lr.jpg" alt="Internet věcí v řešeních Smart City" class="center">
 
 ## Nejzajímavější řešení pro města a obce využívající IoT technologie:
 
