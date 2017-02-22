@@ -10,11 +10,11 @@ slug: cs
 schema: blog
 ---
 
-Připravili jsme pro vás soupis těch nejzajímavějších řešení, u kterých lze v rámci měst uplatnit technologie ze světa internetu věcí.
+Internet věcí je frekventovaným tématem nejen z důvodu nedávného internetového útoku bezpečnostních kamer. **IoT (Internet of Things)** technologie hrají klíčovou roli v řešeních Smart City. Integrovat tyto moderní technologie do našich krásných historických měst a malebných vesniček je výzvou pro nejednoho zastupitele, a tak jsme pro Vás připravili soupis těch nejzajímavějších aplikací a řešení, u kterých lze v rámci měst uplatnit prvky a produkty ze světa internetu věcí.
 
 <img src="/img/blog/enectiva_iot_smart_city.jpg" alt="IoT a Smart City" class="center">
 
-## Nejzajímavější řešení pro města a obce využívající IoT/Smart City technologie:
+## Nejzajímavější řešení pro města a obce využívající IoT technologie:
 
 - **Smart Parkování** - monitoring parkovacích míst a jejich dostupnosti v rámci města. Aplikace propojená s navigací najde řidiči nejbližší volné místo. Město může sledovat vytíženost jednotlivých ploch.
 
