@@ -44,7 +44,7 @@ Internet věcí je frekventovaným tématem nejen z důvodu nedávného internet
 
 - **Monitoring zdravotního stavu, případně pádů** - do oblasti e-health patří aplikace na monitorování životních funkcí starých nebo nemohoucích spoluobčanů, kteří potřebují včasnou pomoc v případě nutnosti.
 
-Jaké řešení plánuje Vaše město? Pro konzultace neváhejte využít bezplatných konzultací od týmu Enerfis.
+Jaké řešení plánuje Vaše město? Pro konzultace neváhejte využít bezplatných konzultací od týmu Enectiva **na tel. +420 222 766 950 nebo info@enectiva.cz**. Naší doménou je smart metering, ale rádi poskytneme náš názor i z jiných oblastí moderních technologií pro města a obce.
 
 
 
