@@ -53,7 +53,7 @@ Monitoring průsaků a ztráty vody
 : Snímaní kolísání tlaku a průsaků ve vodovodním řadu. Včasná identifikace závad a možných havárií.
 
 Monitoring elektromagnetického pole
-: Monitoring úrovně elektromagnetického záření vyzařující wifi a radiové sítě.
+: Monitoring úrovně elektromagnetického záření, které  vyzařující wifi a další obdobné radiové sítě.
 
 Monitoring zdravotního stavu, případně pádů
 : Do oblasti e-health patří aplikace na monitorování životních funkcí starých nebo nemohoucích spoluobčanů, kteří potřebují včasnou pomoc v případě nutnosti.
