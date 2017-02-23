@@ -16,7 +16,7 @@ Internet věcí je frekventovaným tématem nejen z důvodu nedávného internet
 
 ## Nejzajímavější řešení pro města a obce využívající IoT technologie:
 
-Smart Parkování: - monitoring parkovacích míst a jejich dostupnosti v rámci města. Aplikace propojená s navigací najde řidiči nejbližší volné místo. Město může sledovat vytíženost jednotlivých ploch.
+Smart Parkování: monitoring parkovacích míst a jejich dostupnosti v rámci města. Aplikace propojená s navigací najde řidiči nejbližší volné místo. Město může sledovat vytíženost jednotlivých ploch.
 
 - **Sledování chování a stavu staveb** - monitoring vibrací a stavu materiálů u budov, mostů či historických památek. Městu usnadní plánování rekonstrukcí a umožní předcházet važnějšímu poškození staveb.
 
