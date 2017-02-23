@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Internet věcí ve světě Smart Cities
+title: Internet věcí ve světě Smart City
 author: enectiva
 kw: 'smart city,internet věcí,IoT,internet of things,smart metering'
 date: 2017-02-19
