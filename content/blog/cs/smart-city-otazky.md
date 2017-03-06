@@ -12,8 +12,6 @@ schema: blog
 
 Kolem tématu Smart City se strhává lavina, která na sebe nabaluje jak užitečná řešení, tak řešení o jejichž užitku lze polemizovat. Sestavili jsme pro Vás klíčové otázky, které doufejme příspějí k odfiltrování těch méně užitečných. Věříme, že moderní technologi mohou dobře sloužit občanům i bez toxických dotací.
 
-<img src="/img/blog/iot_smart_city_lr.jpg" alt="Internet věcí v řešeních Smart City" class="center">
-
 ## Klíčové otázky pro nasazení Smart City:
 
 - Jaký užitek bude mít nasazení nových technologií pro správu města?
