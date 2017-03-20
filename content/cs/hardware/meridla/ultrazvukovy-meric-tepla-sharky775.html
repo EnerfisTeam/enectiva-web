@@ -3,7 +3,7 @@ layout: manual
 title: Kompaktní ultrazvukový měřič tepla SHARKY 775
 schema: hardwaremerictepla
 type: hardware-product
-description: Ultrazvukový měřič tepla SHARKY 775 je určen pro měření energie v systémech topení a chlazení pro technologické a fakturační účely. Využívá statického principu měření bez pohyblivých částí. Dalšími vlastnostmi jsou nízké tlakové ztráty, vysoká dynamika měření, nízký rozběhový průtok a samočistící schopnost.
+description: Ultrazvukový měřič tepla SHARKY 775 je určen pro měření energie v systémech topení a chlazení pro technologické a fakturační účely. Využívá statického principu měření bez pohyblivých částí. Dalšími vlastnostmi jsou nízké tlakové ztráty, vysoká dynamika měření, nízký rozběhový průtok a samočistící schopnost. Kalorimetrická část měřiče je již ve standardním provedení vybavena rádiomodulem vysílajícím v pásmu 868 MHz volitelně protokolem Real Data nebo Open Metering a optickým rozhraním.
 hardware_category: meters
 weight: 3
 hardware_image: "/img/hw/xxx.jpg"
@@ -26,65 +26,74 @@ hardware_properties:
             <strong>Technická specifikace a výhody:</strong>
 	    <br>
             <ul> 	    
-            <li>nominální průtok 0,6 - 1,5 - 2,5 m3/hod </li>
-            <li>tlak PN 16, teplota vody 15 - 90°C</li>
-            <li>ultrazvukový princip měření teploty</li>
-            <li>subkompaktní provedení s teplotním čidlem osazeným  v těle průtokoměru</li>
-            <li>součástí dodávky kulový kohout s jímkou pro teploměrné čidlo a šroubení </li>
-            <li>odnímatelné kalorimetrické počítadlo z průtokoměrné části s krytím IP65</li>
-            <li>kabel mezi průtokoměrem a kalorimetrickým počítadlem délky 45 cm </li>
-            <li>pro systémy teplovodního vytápění </li>
-            <li>M-Bus s galvanickým oddělením, 300/2400 Bd podle EN13757-3:2013 </li>
-            <li>wireless M-Bus/OMS v pásmu 868 MHz podle EN13757-4:2013</li>
-            <li>jednotky kWh - MWh - GJ - m3 - °C </li>
-            <li>typové schválení podle MID </li>
-            <li>délka kabelů teploměrů 1,45 m, průměr teploměrů 5,2 mm </li>
-            <li>baterie s životností až 12 let </li>
-            <li>standardní montáž průtokoměru ve zpátečce </li>
-            <li>rozběhový průtok od 1 l/hod </li>
-            <li>ukládané hodnoty - 120 měsíčních a 720 denních hodnot energie, chyby ... </li>
-	    </ul>
+            <li>schválení podle MID pro dymamický rozsah 1:250 ve třídě 2 </li>
+            <li>pro jmenovité průtoky od 0,6 m3/h a teploty až do 150°C</li>
+            <li>teplotní čidla Pt500 nebo Pt 100</li>
+            <li>PN 25 pro všechny dimenze</li>
+            <li>napájení: bateriové / síťové 230 VAC nebo 24 VAC </li>
+            <li>extrémně nízká spotřeba, dlouhá životnost baterie (až 16 let)</li>
+            <li>odolnost vůči zanášení nečistotami</li>
+            <li>modulární koncepce: integrovaný rádiomodul, M-Bus, RS-232, RS-485, analogový výstup 4-20 mA, impulzní vstupy a výstupy</li>
+		    </ul>
+	    <br>
+	    <strong>Komunikační moduly do slotu 1:</strong>
+	     <ul>	    
+	    <li>analogový modul (4-20 mA), je možno vložit pouze 1 modul</li>
+            <li>kombinovaný modul (2 impulzní vstupy/1 impulzní výstup</li>
+            <li>2 impulzní vstupy</li>
+	    <li>M-Bus </li>
+	     <li>L-Bus (externí rádio) </li> 	
+	     <li>RS 232 </li> 	
+	     <li>RS485 </li> 	
+	    </ul> 	
+	     <br>
+	    <strong>Komunikační moduly do slotu 2 (deaktivují interní rádio):</strong>
+	    <ul>	    
+	    <li>2 impulzní výstupy </li>
+            <li>kombinovaný modul (2 impulzní vstupy/1 impulzní výstup</li>
+	    <li>2 impulzní vstupy</li>
+	    <li>M-Bus</li>
+	    <li>L-Bus (externí rádio)</li>	
+	    <li>RS232</li>	
+	    <li>RS485</li>	
+		</ul>
             </div> 		    
 	    <div class="hardware__alignment-right">
-      <strong>M-Bus (volitelná alternativa)</strong>
+      <strong>Funkční modul : 2 impulzní vstupy</strong>
       <br>
 	    <ul>
-	          <li>standardizované podle EN1434-3 a EN 13757-3</li>
-            <li>na jednu linku může být připojeno více přístrojů</li>
-            <li>galvanické oddělení</li>
-            <li>nezávislost na polaritě</li>
-            <li>max napětí: 50V</li>
-            <li>odběr z linky na úrovni jednoho standardního M-Bus zařízení</li>
-            <li>primární nebo sekundární adresování</li>
-            <li>přenosová rychlost 300 nebo 2400 Bd (aut. detekce přenosové rychlosti)</li>
-            <li>protokol M-Bus</li>
-            <li>max. interval čtení v režimu napájení z baterie: každé 3 minuty</li>
-	    </ul>
+	     <li>oba impulzní vstupy lze naprogramovat pro hodnoty 1;2,5;10;25;100;250;1000;2500 litrů,kWh,GJ,m3/impulz </li>
+            <li>frekvence vstupu 0 - 8 Hz</li>
+            <li>odpor 2,2 M ohm</li>
+            <li>napětí 3 V DC</li>
+            <li>délka kabelu max. 10 m</li>
+            </ul>
 	     <br>
-       <strong>Wireless M-Bus (volitelná alternativa)</strong>
+             <strong>Funkční modul : 2 impulzní výstupy</strong>
 	     <br>	    
 	     <ul>	    
-            <li>jednosměrný systém přenosu</li>
-            <li>vysílací výkon typicky 10 dBm (odpovídá 10mW)</li>
-            <li>jsou přenášeny vždy aktuální okamžité hodnoty náměrů a parametrů</li>
-            <li>rádiové pásmo 868 MHz</li>
-            <li>šifrování a kódování dat dle specifikace OMS </li>
-            <li>rádiový odečet měřiče je možný pomocí odečtové sady ENBRA EWM nebo přes ENBRA Wireless M-Bus Gateway (systém AMR)</li>
-            
-	    </ul>
-	    </div>	     
-	    <div class="hardware__alignment-right">
+            <li>externí napájení Vcc = 3-30V DC</li>
+            <li>výstupní proud menší nebo roven 20mA s úbytkem napětí menší nebo roven 0,5 V)</li>
+            <li>otevřený kolektor</li>
+            </ul>
+	    <br>
+            <strong>Funkční modul : kombinovaný modul</strong>	
+            <br>		    
 	    <ul>	    
-            <li>Volitelné komunikační karty:</li>
-            <li>M BUS/2 externí vodoměry</li>
-            <li>Impulsní výstup Energie-Objem (bez polarity 20 mA-30V-250 ms)</li>
-            <li>M BUS/impulsní výstup Energie,Objem</li>
-            <li>Modem/2 externí vodoměry</li>
-            <li>LON/2 externí vodoměry</li>
-            <li>GSM</li>
-            <li>Multifunkční LCD Displej:</li>
-            <li>7 místný, 3 odečtové smyčky, ovládání 1 tlačítkem (přechod mezi smyčkami po stisku tlačítka > 3 sec</li>
+            <li>modul je vybaven 2 impulzními vstupy a 1 výstupem</li>
 	    </ul>
+	    <br>
+	    <strong>Funkční modul : analogový modul</strong>
+	    <br>
+	    <ul>	    
+            <li>2 pasivní výstupy</li>
+            <li>externí napájení 10 - 30 V DC</li>
+            <li>proudová smyčka 4...20mA, kde 4mA = 0 a 20mA = naprogramovaná max. hodnota</li>
+            <li>přetížení až do 20,5 mA</li>
+            <li>chyby jsou generovány při 3,5mA nebo 22,6 mA (programovatelné)</li>
+            <li>výstupní hodnoty: výkon, průtok, teploty </li>
+            <li>výstupy jsou označeny čísly 1 a 2 s příslušnou polaritou + a -</li>
+            </ul>
 	    <br>
 	</div>   
 </div>
