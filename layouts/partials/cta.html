@@ -7,6 +7,13 @@
 {{ $test := index .Site.Data.pages.contact $lang}}
 {{ $contact := index .Site.Data.contact_form  $lang}}
 
+<script type="text/javascript">
+  contactFormI18n = {
+    submit_alt: "{{ $contact.submit_alt }}",
+    submitted: "{{ $contact.submitted }}"
+  }
+</script>
+
 <div class="quick-contact quick-contact--js" id="Cta">
     <a href="/{{ $lang }}/{{ $test}}#test"
        class="quick-contact__title"

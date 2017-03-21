@@ -10,6 +10,3 @@ Gemfile.lock
 
 .sass-cache/
 public/
-/static/javascript/setup.js.js
-/static/javascript/app.js.js
-/static/javascript/features.js.js
