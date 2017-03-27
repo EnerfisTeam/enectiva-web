@@ -1,12 +1,12 @@
 ---
 layout: manual
-title: HRI-MEI komunikační člen vodoměrů
+title: HRI (High Resolution Interface) - univerzální převodník
 schema: hardwarehrimeiconverters
 type: hardware-product
-description: HRI-MEI je komunikační člen vodoměrů MeiStream, MeiStream Plus a Mei Twin, jedná se o datové rozhraní průmyslových vodoměrů. Všechny proměnlivé údaje lze nastavit pomocí SW minicom prostřednictvím datového rozhraní M-Bus/minibus
+description: HRI (High Resolution Interface) je univerzální převodník který je kompatibilní s celou řadou měřidel Sensus, lze jej doinstalovat na měřidla Sensus, která jsou vyrobená od roku 2008 
 hardware_category: converters
 weight: 3
-hardware_image: "/img/hw/hrimei.jpg"
+hardware_image: "/img/hw/hri.jpg"
 hardware_properties:
   conversion:
     - S0 -> M-Bus
@@ -15,55 +15,55 @@ hardware_properties:
 <br>
 <div class="container">
     <div class="content hardware__product-promo">
-	<img src="/img/hw/hrimei.jpg" width="300" class="hardware__image-alignment">	
-	<h2> HRI-MEI je komunikační člen vodoměrů MeiStream, MeiStream Plus a Mei Twin  </h2>
-	<p> HRI-MEI je datové rozhraní pro pulzní výstup průmyslových vodoměrů. Vzhledem ke krytí IP68 pracuje tento člen i při zatopení vodou.Může být dodatečně instalován bez porušení pečetě vodoměru. 
-	</p>
-	<br>
-	<br>
+	<img src="/img/hw/hri.jpg" width="300" class="hardware__image-alignment">	
+	<h2> HRI (High Resolution Interface) - univerzální převodník typu HRI-A a HRI-B</h2>
+	<p> HRI (High Resolution Interface) je univerzální převodník, který je kompatibilní s celou řadou měřidel Sensus. HRI je k dispozici ve dvou verzích. HRI-A je pulzní jednotka s vysokým rozlišením. HRI-B je datové rozhraní, které podporuje M-Bus systémy. Konstrukce HRI umožňuje, aby byl systém instalován v extrémních podmínkách jako je např. zaplavení vodou. Dálkový odečet je možný přes M-Bus, rádio, telefon nebo GSM.</p>
+		<br>
 	    <div class="hardware__alignment-left">
-		<strong>Použití:</strong>
+		<strong>HRI - B: Technická data</strong>
 		<ul>
-		    <li> Průmyslové monitorovací a řídící aplikace, systémy SCADA </li>
-		    <li> Indikace průtoku pomocí frekvenčních měničů jako FM-1D/K nebo FM-2D/K </li>
-		    <li> Místní odečty pro fakturační aplikace</li>
-		    <li> Dálkové odečty prostřednictvím kabelových sítí s M-Bus, radiového modemu, nebo GSM sítě </li>
+		    <li> délka kabelu 1,5 m </li>
+		    <li> provozní rozsah teplot -10°C až +65°C</li>
+		    <li> životnost baterie 12 let</li>
 		    </ul>
 		<br>
-		<strong>Výhody:</strong>
+		<strong>HRI - B: Pulzní výstup</strong>
 		<ul>
-		    <li> Kompatibilní s komerčními a průmyslovými vodoměry jako jsou MeiStream a MeinTwin </li>
-		    <li> Upevnění pomocí klipů bez přerušení pečetě vodoměru </li>
-		    <li> Detekce směru proudění vody </li>
-		    <li> Podporuje další aplikace vyžadující mechanické spínače nebo optické impulzní výstupy</li>	
+		    <li> 2 pulzní výstupy podle ISO/TC30/SC7/WG8 </li>
+		    <li> spínané napětí max. 24 V </li>
+		    <li> spínaný proud max. 20mA </li>
+		    <li> délka pulzu max. 124 ms</li>	
+		    <li> paměť pro 1 milion zpětných pulzů</li>	
 		</ul>
 		<br>
-		<strong>Vlastnosti:</strong>
+		<strong>HRI - B: Datová rozhraní</strong>
 		<ul>
-		<li> Induktivní snímání ukazatele měřidla</li>	
-		<li> Vlastní diagnostika detekce ovlivnění odečtu</li>	
-		<li> Životnost baterie až 12 let
-		<li> Robustní konstrukce a utěsněné pouzdro (IP68</li>
-		<li> 3 m kabel</li>
-		</ul>    
+		<li> M-Bus a minibus (automaticky) </li>	
+		<li> automatická detekce přenosové rychlosti (300/2400 Bd) a typ rozhraní</li>	
+		<li> datový protokol podle IEC870 / EN 1434-3</li>
+		</ul>
+		<br>
+		<strong>HRI - B: Programovací nástroje</strong>    
+		<ul>
+		<li> MiniCom je software k programování HRI-B pomocí PC s op. systémem Windows </li>
+		<li> software může být použit s M-Bus převodníkem </li>
+		</ul>		
 		</div>
-	        <div class="hardware__alignment-right">    
-		<strong> Datová rozhraní: </strong>
+	        <div class="hardware__alignment-right"> 
+		<strong>HRI - B: Technická data</strong>	
 		<ul>
-		    <li> M-Bus a minibus (automaticky) </li>
-		    <li> Automatická detekce přenosové rychlosti (300/2400 Bd) a typ rozhraní </li>
-		    <li> Datový protokol podle IEC870-5/EN13757-3</li>
+		    <li>  délka kabelu 1,5 m </li>
+		    <li>  provozní rozsah teplot -10°C až +65° </li>
+		    <li>  životnost baterie 12 let</li>
 		</ul>
 		<br>
-		<strong> Přenášená data: </strong>
+		<strong>HRI - B: Pulzní výstup</strong>	
 		<ul>
-		    <li> Stav měřidla </li>
-		    <li> Měsíční stav pro určený den </li>
-		    <li> Min./Max. průtok vody s datem/časem </li>
-		    <li> Stav pro určený datum v roce a v roce minulém </li>
-		    <li> Sledování dějů v síti, max průtoky, úniky, zpětné toky </li>
-		    <li> Neoprávněný zásah </li>
-		   </ul>
+		    <li> Umax 24V </li>
+		    <li> Imax 20mA </li>
+		    <li> napětí na spínacím kontaktu 0,3 V + odpor 250 ohm </li>
+		    <li> paměť pro 1000 zpětných pulzů </li>
+		    </ul>
 		<br>
 	    </div>
 	    <br>
