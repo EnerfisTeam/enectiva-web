@@ -10,55 +10,27 @@ slug: cs
 schema: blog
 ---
 
-Internet věcí je frekventovaným tématem nejen z důvodu nedávného internetového útoku bezpečnostních kamer. **IoT (Internet of Things)** technologie hrají klíčovou roli v řešeních Smart City. Integrovat tyto moderní technologie do našich krásných historických měst a malebných vesniček je výzvou pro nejednoho zastupitele, a tak jsme pro Vás připravili soupis těch nejzajímavějších aplikací a řešení, u kterých lze v rámci měst uplatnit prvky a produkty ze světa internetu věcí.
+Posledních několik let vzniknul obrovský tlak na snižování energetické náročnosti nových i rekonstruovaných budov, kdy se normativními požadavky vynucuje stále kvalitnější obálka budovy z pohledu termoizolačních vlastností. Každá mince má však dvě strany a i zde tomu není jinak. Zateplené budovy s dobře těsnícími okny nám přestaly přirozeně dýchat, což může mít velmi negativní vliv na zdraví člověka. Situace je ještě horší v prostorech, kde je zvýšená koncentrace osob jakými jsou např. školy.
 
 <img src="/img/blog/iot_smart_city_lr.jpg" alt="Internet věcí v řešeních Smart City" class="center">
 
-## Nejzajímavější řešení pro města a obce využívající IoT technologie:
+Znáte to sami. Ve vydýchaném prostoru se cítíte unaveni, bolí nás hlava a hůře se soutředíte. Není to nedostatkem kyslíku, ale naopak zvýšenou koncentrací CO2. Ve venkovním prostoru je CO2 zastoupeno cca 0,04 % (400 ppm) avšak v námi vydechovaném vzduchu jsou to již 4 % ( 40 000 ppm). Při pobytu v prostoru se zvýšenou koncentrací CO2 dochází k vychýlení acidobazické rovnováhy naší krve. Ta se následně stává kyselejší (snižuje se její pH) a klesá jejích schopnost transportu kyslíku, jelikož hemoglobinu klesá schopnost na sebe kyslík vázat. 
 
-Smart Parkování
-: Monitoring parkovacích míst a jejich dostupnosti v rámci města. Aplikace propojená s navigací najde řidiči nejbližší volné místo. Město může sledovat vytíženost jednotlivých ploch.
+## Vliv koncentrace CO2 na lidský organismus:
 
-Sledování chování a stavu staveb
-: Monitoring vibrací a stavu materiálů u budov, mostů či historických památek. Městu usnadní plánování rekonstrukcí a umožní předcházet važnějšímu poškození staveb.
+350-400 ppm     -	úroveň venkovního prostředí
+do 1000 ppm	    - doporučená úroveň CO2 ve vnitřních prostorách
+1200-1500 ppm	  - doporučená maximální úroveň CO2 ve vnitřních prostorách
+1000-2000 ppm	  - nastávají příznaky únavy a snižování koncentrace
+2000-5000 ppm	  - nastávají možné bolesti hlavy
+5000 ppm	      - maximální bezpečná koncentrace bez zdravotních rizik
+> 5000 ppm	    - nevolnost a zvýšený tep
+> 15000 ppm	    - dýchací potíže
+> 40000 ppm	    - možná ztráta vědomí
 
-Monitoring hlukové zátěže
-: Monitoring aktuálního stavu hluku a tvorba hlukových map v rámci města, které jsou přístupné všem obyvatelům v reálném čase.
+Pokud chcete eliminovat množsvtí CO2 v mísnostni, musíte zajistit větrání alespoň v objemu 25 m3/hod na osobu. To lze zajistit samozřejmě okny, ale v rekonstruovaných domech to znamená výrazně změnit zvyky ohledně větrání. Mnohem účinějším, spolehlivějším, ale také výrazně dražším řešením je přenechat tuto činnost technice. Kvalitní a tichá vzduchotechnická jednotka s rekuperací, řízená za pomoci čidla CO2 je ideální variantou.
 
-Energetický Smart Metering
-: Energetický management a monitoring spotřeb všech typů energií a vody. Systémy dokáží automaticky detekovat plýtvání a tím šetřit obecní či městské finance.
-
-Smart doprava
-: Monitoring úrovně dopravy, hustoty provozu, dopravních zácp, havárií a s tím související automatizace řízení dopravy včetně sdílení informací s aplikacemi pro řidiče.
-
-Kvalita vnitřního prostředí
-: Monitoring kvality vnitřního prostředí v budovách města, školách, školkách, sportovištích. Monitoring teploty, přetápění, CO2, organických částic.
-
-Smart osvětlení
-: Inteligentní a adaptivní řízení pouličního osvětlení s ohledem na maximalizaci úspor, komfort i bezpečnost obyvatel.
-
-Management odpadů
-: Detekce úrovně vytížení odkladišť odpadů, popelnic, košů a optimalizace jeho sběru. Pro popelnice se jezdí jen když je třeba a tím je možné zkracovat čas a snižovat náklady, jež jsou potřeba na svoz komunálního odpadu.
-
-Smart silnice
-: Inteligentní snímání stavu vozovek, detekce náledí, kluzkosti, teploty. Sdílení informací s údržbou i aplikacemi řidičů, kteří mohou být automaticky informování o možném nebezpečí.
-
-Monitoring ovzduší a přízemního ozonu
-: Monitoring emisí CO2, oxidů dusíku, toxických plynů, kvality ovzduší ve městě včetně přízemního ozonu. On-line sdílení těchto informací se všemi obyvateli.
-
-Monitoring stavu vod
-: Monitoring kvality pitné vody, kvality vody v řekách a jejich možného chemického znečištění. Včasná identifikace možného rizika a informování příšlušných úřadů. Sledování průběžné výšky vodních hladin v tocích, reservoarech, nádržích, predikce povodní.
-
-Monitoring průsaků a ztráty vody
-: Snímaní kolísání tlaku a průsaků ve vodovodním řadu. Včasná identifikace závad a možných havárií.
-
-Monitoring elektromagnetického pole
-: Monitoring úrovně elektromagnetického záření, které  vyzařující wifi a další obdobné radiové sítě.
-
-Monitoring zdravotního stavu, případně pádů
-: Do oblasti e-health patří aplikace na monitorování životních funkcí starých nebo nemohoucích spoluobčanů, kteří potřebují včasnou pomoc v případě nutnosti.
-
-Jaké řešení plánuje Vaše město? Pro konzultace neváhejte využít bezplatných konzultací od týmu Enectiva **na tel. +420 222 766 950 nebo info@enectiva.cz**. Naší doménou je smart metering, ale rádi poskytneme náš názor i z jiných oblastí moderních technologií pro města a obce.
+Máte v plánu instalaci vzduchotechnické jendotky a chcete zpracovat projekt? Pro konzultace nebo cenovou nabídku neváhejte využít bezplatných konzultací od týmu Enerfis **na tel. +420 222 766 950 nebo info@enerfis.cz**.
 
 
 
