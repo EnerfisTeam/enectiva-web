@@ -18,15 +18,15 @@ Znáte to sami. Ve vydýchaném prostoru se cítíte unaveni, bolí nás hlava a
 
 ## Vliv koncentrace CO2 na lidský organismus:
 
-350-400 ppm     -	úroveň venkovního prostředí
-do 1000 ppm	    - doporučená úroveň CO2 ve vnitřních prostorách
-1200-1500 ppm	  - doporučená maximální úroveň CO2 ve vnitřních prostorách
-1000-2000 ppm	  - nastávají příznaky únavy a snižování koncentrace
-2000-5000 ppm	  - nastávají možné bolesti hlavy
-5000 ppm	      - maximální bezpečná koncentrace bez zdravotních rizik
-> 5000 ppm	    - nevolnost a zvýšený tep
-> 15000 ppm	    - dýchací potíže
-> 40000 ppm	    - možná ztráta vědomí
+:350-400 ppm     -	úroveň venkovního prostředí
+:do 1000 ppm	    - doporučená úroveň CO2 ve vnitřních prostorách
+:1200-1500 ppm	  - doporučená maximální úroveň CO2 ve vnitřních prostorách
+:1000-2000 ppm	  - nastávají příznaky únavy a snižování koncentrace
+:2000-5000 ppm	  - nastávají možné bolesti hlavy
+:5000 ppm	      - maximální bezpečná koncentrace bez zdravotních rizik
+:> 5000 ppm	    - nevolnost a zvýšený tep
+:> 15000 ppm	    - dýchací potíže
+:> 40000 ppm	    - možná ztráta vědomí
 
 Pokud chcete eliminovat množství CO2 v místnosti, musíte zajistit větrání alespoň v objemu 25 m3/hod na osobu. To lze zajistit samozřejmě okny, ale v rekonstruovaných domech to znamená výrazně změnit zvyky ohledně větrání. Mnohem účinějším, spolehlivějším, ale také výrazně dražším řešením je přenechat tuto činnost technice. Kvalitní a tichá vzduchotechnická jednotka s rekuperací, řízená za pomoci čidla CO2 je ideální variantou.
 
