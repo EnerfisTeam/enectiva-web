@@ -12,7 +12,7 @@ schema: blog
 
 Posledních několik let je tu obrovský tlak na snižování energetické náročnosti nových i rekonstruovaných budov, kdy se normativními požadavky vynucuje stále kvalitnější obálka budovy z pohledu termoizolačních vlastností. Každá mince má však dvě strany a i zde tomu není jinak. Zateplené budovy s dobře těsnícími okny nám přestaly přirozeně dýchat, což může mít velmi negativní vliv na zdraví člověka. Situace je ještě horší v prostorech, kde je zvýšená koncentrace osob jakými jsou např. školy.
 
-<img src="/img/blog/iot_smart_city_lr.jpg" alt="Internet věcí v řešeních Smart City" class="center">
+<img src="/img/blog/C02 sada_lr.jpg" alt="Vliv CO2 na zdraví člověka" class="center">
 
 Znáte to sami. Ve vydýchaném prostoru se cítíte unaveni, bolí nás hlava a hůře se soustředíte. Není to nedostatkem kyslíku, ale naopak zvýšenou koncentrací CO2. Ve venkovním prostoru je CO2 zastoupeno cca 0,04 % (400 ppm) avšak v námi vydechovaném vzduchu jsou to již 4 % ( 40 000 ppm). Při pobytu v prostoru se zvýšenou koncentrací CO2 dochází k vychýlení acidobazické rovnováhy naší krve. Ta se následně stává kyselejší (snižuje se její pH) a klesá jejích schopnost transportu kyslíku, jelikož hemoglobinu klesá schopnost na sebe kyslík vázat. 
 
