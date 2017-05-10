@@ -47,6 +47,8 @@ top:
       URL: /es/acerca-de-enectiva/
     - name: Características
       URL: /es/caracteristicas
+    - name: IoT
+      URL: /es/iot/
     - name: Soluciones
       URL: /es/soluciones
     - name: Hardwares
