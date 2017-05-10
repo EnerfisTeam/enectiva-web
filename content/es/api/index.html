@@ -1,0 +1,108 @@
+---
+layout: manual
+title: Enectiva REST API
+translations: null
+published: true
+kw: ""
+schema: api
+---
+
+<div class="content">
+    <div class="container">
+        <h1>Enectiva REST API</h1>
+        <p>Las librerías de Enectiva <a href="http://docs.enectivalibrarian.apiary.io/">REST API
+        </a> permiten a todo el mundo usar la funcionalidad del sistema Enectiva
+        sin tener que instalar Hardware para recopilar los datos. Gracias a la API,
+        Enectiva puede estar integrado con sus sistemas empresariales, sistemas de
+        autentificación, sitios web, o sistemas de gestión de edificaciones (BMS).
+        Actualmente, la API esta disponible para el envio de lecturas de energía
+        y series de tiempo personalizadas (por ejemplo, datos de estaciones
+            meteorológicas) como está descrito más abajo.</p>
+    </div>
+</div>
+
+<div class="highlight">
+    <div class="container">
+        <div class="highlight__main">
+            Conecta Enectiva fácilmente con tu sistemas mediante una API
+        </div>
+    </div>
+</div>
+
+
+<div class="content">
+    <div class="container">
+
+        <h2>Casos de utilización</h2>
+        <div class="staggered">
+            <div class="staggered__item">
+                <h3>&hellip;con BMS</h3>
+
+                <p>Los sistemas de gestión de edificaciones pueden transmitir
+                datos desde los contadores directamente a los servidores de Enectiva.
+                De esta manera, Enectiva puede integrarse fácilmente con el Hardware
+                de otros fabricantes de sistemas de medición.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;con sistemas de autentificación</h3>
+
+                <p>Los costes de facturación de energías pueden ser enviados
+                directamente a Enectiva que posteriormente los utiliza para
+                estadísticas de gestión energética. Nunca más necesitarás introducir
+                esta información manualmente, ya que el proceso puede estar completamente
+                automatizado.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;con sistemas ERP</h3>
+
+                <p>Al igual que con el software de autentificación, Enectiva también
+                puede estar integrado con otros sistemas empresariales. Enectiva
+                es capaz de aprovechar los datos sobre la ocupación, producción,
+                ventas, y otros parámetros en el contexto de la administración
+                energética y mejorar el balance energético.</p>
+            </div>
+
+            <div class="staggered__item">
+                <h3>&hellip;con tu propia estación meteorológica</h3>
+
+                <p>Sí quieres que los datos meteorológicos coincidan exactamente
+                con los de su propiedad, su estación meteorológica puede estar
+                conectada directamente a los servidores de Enectiva &mdash; puede
+                enviarse datos de temperaturas que posteriormente se vinculan con
+                su cuenta y las estadísticas de consumo de gas / calefacción.</p>
+            </div>
+        </div>
+
+        <h2>Cómo funciona</h2>
+        <p>Usar la API es muy simple: las lecturas son enviadas mediante peticiones HTTP, en otras palabras usando la tecnología, que sostiene la web y la cual puede ser usada fácilmente en cualquier entorno con acceso a Internet. La API verifica cada lectura recibida y la envía a Enectiva, donde las lecturas se reflejarán en estadísticas. <a
+                    href="http://docs.enectivalibrarian.apiary.io/">Toda la documentación técnica </a> contiene la información para más de una docena de lenguajes de programación; por lo tanto, la conexión del sistema existente con Enectiva es cuestión de solo unos minutos.</p>
+
+        <figure>
+            <figcaption>Ejemplo de una petición manual para enviar una lectura (cURL):</figcaption>
+<pre>
+<code>
+curl --include \
+     --request POST \
+     --header "Content-Type: application/vnd.api+json" \
+     --header "Authorization: Bearer: long.api.token" \
+     --header "Accept: application/vnd.api+json" \
+     --data-binary "{
+         \"data\": {
+             \"time\": \"2015-11-18T09:54:23+01:00\",
+             \"state\": 123456.78,
+             \"meter_id\": \"40AABB_007\",
+             \"unit\": \"kW\",
+             \"sender\": \"test_script_01\"
+         }
+     }" \
+    'https://api.enectiva.cz:41115/readings/customerId'
+</code>
+</pre>
+        </figure>
+
+        <p>Para enviar lecturas con regularidad, es suficiente con conectar
+        el código proporcionado a la fuente de los datos y enviar lecturas periódicamente.</p>
+    </div>
+</div>
