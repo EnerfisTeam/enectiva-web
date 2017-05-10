@@ -49,6 +49,8 @@ top:
       URL: /es/caracteristicas
     - name: IoT
       URL: /es/iot/
+    - name: API
+      URL: /es/api/
     - name: Soluciones
       URL: /es/soluciones
     - name: Hardwares
