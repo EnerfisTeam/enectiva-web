@@ -19,7 +19,7 @@
 
   {{ partial "base/imports" . }}
 </head>
-<body itemscope="" itemtype="http://schema.org/WebPage"{{ with .Site.Params.theme }} class="{{ . }}"{{ end }} lang="cs">
+<body itemscope="" itemtype="http://schema.org/WebPage"{{ with .Site.Params.theme }} class="{{ . }}"{{ end }} lang="{{ $lang }}">
 <meta itemprop="name" content="{{ .Title }}">
 	{{ partial "base/header" . }}
 

@@ -120,3 +120,14 @@ html[lang=it] .menu, html[lang=de] .menu, html[lang=fr] .menu
   @media(min-width: 920px)
     &--main
       +adjust-font-size-to($base-font-size * 1.1)
+
+
+html[lang=es] .menu
+  &--main
+    +adjust-font-size-to($base-font-size * .9)
+
+  @media(min-width: 920px)
+    &--main
+      +adjust-font-size-to($base-font-size)
+    a
+      padding: .25em .5em
