@@ -275,6 +275,31 @@ features:
     - name: Предупреждения
       anchors: Events
       width: 80
+  es:
+    - name: Estadísticas detalladas
+      anchors: Stats
+      width: 10
+    - name: Informes automáticos
+      anchors: Reports
+      width: 20
+    - name: Análisis de ahorro
+      anchors: Savings
+      width: 30
+    - name: Datos meteorológicos
+      anchors: Meteo
+      width: 40
+    - name: ∞ Usuarios
+      anchors: Users
+      width: 50
+    - name: Lecturas simples
+      anchors: Readings
+      width: 60
+    - name: Precios integrados
+      anchors: Prices
+      width: 70
+    - name: Avisos
+      anchors: Events
+      width: 80
 solution:
   cs:
     - name: Obchodní centra
