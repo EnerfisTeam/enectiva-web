@@ -57,8 +57,6 @@ top:
       URL: /es/hardware
     - name: Contacto
       URL: /es/contacto
-    - name: Blog
-      URL: /es/blog
   fr:
     - name: Solutions
       URL: /fr/solutions
