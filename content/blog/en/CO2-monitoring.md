@@ -5,7 +5,7 @@ title: Effect of CO2 concentration on human health
 author: enectiva
 kw: 'CO2, monitoring, CO2 measurement'
 date: 2017-05-18
-cs: blog
+en: blog
 slug: en
 schema: blog
 ---
