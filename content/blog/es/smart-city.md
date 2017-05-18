@@ -8,7 +8,7 @@ kw:
 - 'monitorización de energía'
 - 'gestión de energía'
 date: 2016-07-19
-en: blog
+es: blog
 slug: es
 schema: blog
 ---
