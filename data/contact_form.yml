@@ -3,10 +3,6 @@ cs:
   required: povinná pole
   required_error: je povinné!
   form_type_options:
-    podpora: Technická podpora
-    general: Obecné informace
-    obchod: Obchodní záležitosti
-    partner: Pro partnery
     test: Zkušební přístup
   heard_of_options:
     internet: z internetu
@@ -18,11 +14,6 @@ cs:
   submit_alt: Odesílá se...
   submitted: Formulář byl odeslán
   email: E-mail
-  contact_mail:
-    podpora: podpora@enectiva.cz
-    general: info@enectiva.cz
-    obchod: obchod@enectiva.cz
-    partner: partner@enectiva.cz
   name: Jméno
   company: Společnost
   position: Vaše pozice
@@ -33,20 +24,6 @@ cs:
   tell_us_more: Můžete nám o sobě říct ještě pár drobností?
   contact_us: Kontaktujte nás
   paragraph_1: V případě jakéhokoli dotazu prosím neváhejte kontaktovat tým Enectiva. Použijte k tomu buď níže uvedené e-mailové adresy, nebo kontaktní formulář.
-  email_contact: E-mailové adresy
-  phone_contact: Telefonní kontakty
-  phone:
-    1: Tel
-    2: Tel
-    number_1: +420 222 766 950
-    number_2: +420 222 766 951
-  mobile: mob
-    number_1: +420 732 916 385
-  fax: fax
-    number_1: +420 222 766 959
-  paragraph_2: Korespondeční a fakturační adresa
-  country: Česká republika
-  youtube: YouTube kanál
   contact: /cs/kontakt
 
 
@@ -197,10 +174,6 @@ de:
   required: Pflichtfelder
   required_error: ist obligatorisch!
   form_type_options:
-    podpora: Technische Unterstützung
-    general: Allgemeine Informationen
-    obchod: Ge&shy;schäfts&shy;an&shy;ge&shy;le&shy;gen&shy;hei&shy;ten
-    partner: Für Partner
     test: Testzugang
   heard_of_options:
     internet: vom Internet
@@ -212,11 +185,6 @@ de:
   submit_alt: Wird gesendet...
   submitted:  Das Formular wurde gesendet
   email: E-mail
-  contact_mail:
-    podpora: podpora@enectiva.cz
-    general: info@enectiva.cz
-    obchod: obchod@enectiva.cz
-    partner: partner@enectiva.cz
   name: Name
   company: Gesellschaft
   position: Ihre Position
@@ -227,20 +195,6 @@ de:
   tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
   contact_us: Kontaktieren Sie uns
   paragraph_1: Wenn Sie irgendwelche Fragen haben, zögern Sie sich nicht Team Enectiva zu kontaktieren. Benutzen Sie dazu die untenstehenden Email Adressen oder Kontaktformular.
-  email_contact: E-mail Adressen
-  phone_contact: Kontakt per Telefon
-  phone:
-    1: Tel
-    2: Tel
-    number_1: +420 222 766 950
-    number_2: +420 222 766 951
-  mobile: Handy
-    number_1: +420 732 916 385
-  fax: Fax
-    number_1: +420 222 766 959
-  paragraph_2: Korrespondenz- und Rechnungsadresse
-  country: Tschechische Republik
-  youtube: YouTube Kanal
   contact: /de/kontaktieren-sie-uns
 
 fr:
