@@ -4,7 +4,7 @@ published: true
 title: ¿Qué hacer antes de implementar Smart City?
 author: enectiva
 kw:
-- 'smart city
+- 'smart city'
 - 'ciudad'
 date: 2017-03-03
 es: blog
