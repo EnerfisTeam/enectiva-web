@@ -1,63 +1,42 @@
 {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $url2 := replace $url1 3 ""}}
 {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
-{{ $email_contact := (index .Site.Data.contact_form).fr.email_contact }}
-{{ $form_type_options_general := (index .Site.Data.contact_form).fr.form_type_options.general }}
-{{ $form_type_options_podpora := (index .Site.Data.contact_form).fr.form_type_options.podpora }}
-{{ $form_type_options_obchod := (index .Site.Data.contact_form).fr.form_type_options.obchod }}
-{{ $form_type_options_partner := (index .Site.Data.contact_form).fr.form_type_options.partner }}
-{{ $contact_mail_general := (index .Site.Data.contact_form).fr.contact_mail.general }}
-{{ $contact_mail_podpora := (index .Site.Data.contact_form).fr.contact_mail.podpora }}
-{{ $contact_mail_obchod := (index .Site.Data.contact_form).fr.contact_mail.obchod }}
-{{ $contact_mail_partner := (index .Site.Data.contact_form).fr.contact_mail.partner }}
-{{ $phone_contact := (index .Site.Data.contact_form).fr.phone_contact }}
-{{ $phone_1 := (index .Site.Data.contact_form).fr.phone.1 }}
-{{ $phone_2 := (index .Site.Data.contact_form).fr.phone.2 }}
-{{ $phone_number_1 := (index .Site.Data.contact_form).fr.phone.number_1 }}
-{{ $phone_number_2 := (index .Site.Data.contact_form).fr.phone.number_2 }}
-{{ $mobile := (index .Site.Data.contact_form).fr.mobile }}
-{{ $mobile_number_1 := (index .Site.Data.contact_form).fr.mobile.number_1 }}
-{{ $fax := (index .Site.Data.contact_form).fr.fax }}
-{{ $fax_number_1 := (index .Site.Data.contact_form).fr.fax.number_1 }}
-{{ $paragraph_2 := (index .Site.Data.contact_form).fr.paragraph_2 }}
-{{ $country := (index .Site.Data.contact_form).fr.country }}
-{{ $youtube := (index .Site.Data.contact_form).fr.youtube }}
 
 <br />
 <br />
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         <div class="halfPanel">
-		 <h2>{{ $email_contact }}</h2>
+		 <h2>Adresses mail</h2>
 
         <dl>
-                <dt>{{ $form_type_options_general }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_general }}" itemprop="email">{{ $contact_mail_general }}</a></dd>
+                <dt>Informations générales</dt>
+                <dd><a href="mailto:info@enectiva.cz" itemprop="email">info@enectiva.cz</a></dd>
 
-                <dt>{{ $form_type_options_podpora }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_podpora }}" itemprop="email">{{ $contact_mail_podpora }}</a></dd>
+                <dt>Soutien technique</dt>
+                <dd><a href="mailto:podpora@enectiva.cz" itemprop="email">podpora@enectiva.cz</a></dd>
 
-                <dt>{{ $form_type_options_obchod }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_obchod }}" itemprop="email">{{ $contact_mail_obchod }}</a></dd>
+                <dt>Affaires de commerce</dt>
+                <dd><a href="mailto:obchod@enectiva.cz" itemprop="email">obchod@enectiva.cz</a></dd>
 
-                <dt>{{ $form_type_options_partner }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_partner }}" itemprop="email">{{ $contact_mail_partner }}</a></dd>
+                <dt>Pour les partenaires</dt>
+                <dd><a href="mailto:partner@enectiva.cz" itemprop="email">partner@enectiva.cz</a></dd>
 
         </dl>
         </div>
 
         <div class="halfPanel">
-          <h2>{{ $phone_contact}}</h2>
+          <h2>Contacts téléphoniques</h2>
           <ul>
-            <li>{{ $phone_1 }} : <span itemprop="telephone">{{ $phone_number_1 }}</span></li>
-            <li>{{ $phone_2 }} : <span itemprop="telephone">{{ $phone_number_2 }}</span></li>
-            <li>{{ $mobile }} : <span itemprop="telephone">{{ $mobile_number_1 }}</span></li>
-            <li>{{ $fax }} : <span itemprop="faxNumber">{{ $fax_number_1 }}</span></li>
+            <li>Tél : <span itemprop="telephone">+420 222 766 950</span></li>
+            <li>Tél : <span itemprop="telephone">+420 222 766 951</span></li>
+            <li>GSM : <span itemprop="telephone">+420 732 916 385</span></li>
+            <li>Fax : <span itemprop="faxNumber">+420 222 766 959</span></li>
           </ul>
         </div>
         <br />
         <p class="clear">
-        {{ $paragraph_2 }} : <strong>Enerfis s.r.o.</strong>, <span itemprop="streetAddress">Drtinova 557/10</span>, <span itemprop="addressLocality">Praha 5</span> <span itemprop="postalCode">150 00</span>, <span itemprop="addressCountry">{{ $country }}</span> <br />
-        <img src="/img/youtube_logo.png" class="text">{{ $youtube }}: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
+        Adresse de correspondance et de facturation : <strong>Enerfis s.r.o.</strong>, <span itemprop="streetAddress">Drtinova 557/10</span>, <span itemprop="addressLocality">Praha 5</span> <span itemprop="postalCode">150 00</span>, <span itemprop="addressCountry">République tchèque</span> <br />
+        <img src="/img/youtube_logo.png" class="text">Sur YouTube: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
         </p>
     </div>
 </div>
