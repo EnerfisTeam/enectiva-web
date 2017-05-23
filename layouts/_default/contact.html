@@ -1,5 +1,11 @@
+{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+{{ $url2 := replace $url1 3 ""}}
+{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
+{{ $lang := substr $blog 0 2}}
+{{ $contact_foot_lang := (print "contact_foot_" $lang ".html" ) }}
+
 {{ partial "head" . }}
 {{ partial "contact.html" . }}
 {{ .Render "form" }}
-{{ partial "contact_foot_{{ $lang }}.html" . }}
+{{ partial $contact_foot_lang . }}
 {{ partial "base/footer" . }}
