@@ -1,7 +1,3 @@
-{{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-{{ $url2 := replace $url1 3 ""}}
-{{ $blog := (printf "%s" (replace $url2 "/" "")) }}
-
 <br />
 <br />
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
