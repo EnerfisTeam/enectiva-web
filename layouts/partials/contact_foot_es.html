@@ -1,57 +1,35 @@
 {{ $url1 := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ $url2 := replace $url1 3 ""}}
 {{ $blog := (printf "%s" (replace $url2 "/" "")) }}
-{{ $email_contact := (index .Site.Data.contact_form).es.email_contact }}
-{{ $form_type_options_general := (index .Site.Data.contact_form).es.form_type_options.general }}
-{{ $form_type_options_podpora := (index .Site.Data.contact_form).es.form_type_options.podpora }}
-{{ $form_type_options_obchod := (index .Site.Data.contact_form).es.form_type_options.obchod }}
-{{ $form_type_options_partner := (index .Site.Data.contact_form).es.form_type_options.partner }}
-{{ $contact_mail_general := (index .Site.Data.contact_form).es.contact_mail.general }}
-{{ $contact_mail_podpora := (index .Site.Data.contact_form).es.contact_mail.podpora }}
-{{ $contact_mail_obchod := (index .Site.Data.contact_form).es.contact_mail.obchod }}
-{{ $contact_mail_partner := (index .Site.Data.contact_form).es.contact_mail.partner }}
-{{ $phone_contact := (index .Site.Data.contact_form).es.phone_contact }}
-{{ $phone_1 := (index .Site.Data.contact_form).es.phone.1 }}
-{{ $phone_2 := (index .Site.Data.contact_form).es.phone.2 }}
-{{ $phone_number_1 := (index .Site.Data.contact_form).es.phone.number_1 }}
-{{ $phone_number_2 := (index .Site.Data.contact_form).es.phone.number_2 }}
-{{ $mobile := (index .Site.Data.contact_form).es.mobile }}
-{{ $mobile_number_1 := (index .Site.Data.contact_form).es.mobile.number_1 }}
-{{ $fax := (index .Site.Data.contact_form).es.fax }}
-{{ $fax_number_1 := (index .Site.Data.contact_form).es.fax.number_1 }}
-{{ $paragraph_2 := (index .Site.Data.contact_form).es.paragraph_2 }}
-{{ $country := (index .Site.Data.contact_form).es.country }}
-{{ $youtube := (index .Site.Data.contact_form).es.youtube }}
 
 <br />
 <br />
     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         <div class="halfPanel">
-		 <h2>{{ $email_contact }}</h2>
+		 <h2>E-mail</h2>
 
         <dl>
-                <dt>{{ $form_type_options_general }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_general }}" itemprop="email">{{ $contact_mail_general }}</a></dd>
+                <dt>Información general</dt>
+                <dd><a href="mailto:info@enectiva.com" itemprop="email">info@enectiva.com</a></dd>
 
-                <dt>{{ $form_type_options_podpora }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_podpora }}" itemprop="email">{{ $contact_mail_podpora }}</a></dd>
+                <dt>Soporte Técnico</dt>
+                <dd><a href="mailto:soporte@enectiva.com" itemprop="email">soporte@enectiva.com</a></dd>
 
-                <dt>{{ $form_type_options_partner }}</dt>
-                <dd><a href="mailto:{{ $contact_mail_partner }}" itemprop="email">{{ $contact_mail_partner }}</a></dd>
+                <dt>Socios</dt>
+                <dd><a href="mailto:partner@enectiva.cz" itemprop="email">partner@enectiva.cz</a></dd>
 
         </dl>
         </div>
 
         <div class="halfPanel">
-          <h2>{{ $phone_contact}}</h2>
+          <h2>Contactos Telefónicos</h2>
           <ul>
-            <li>{{ $phone_1 }} : <span itemprop="telephone">{{ $phone_number_1 }}</span></li>
+            <li>Teléfono : <span itemprop="telephone">955 253 391</span></li>
           </ul>
         </div>
         <br />
         <p class="clear">
-        {{ $paragraph_2 }} : <strong>Enectiva España</strong>, <span itemprop="streetAddress">Av. Eduardo Dato 69, 5ª P, Edificio Galia Nervión</span>, <span itemprop="postalCode">41005</span>, <span itemprop="addressLocality">Sevilla</span>, <span itemprop="addressCountry">{{ $country }}.</span> <br />
-        <img src="/img/youtube_logo.png" class="text">{{ $youtube }}: <a href="http://www.youtube.com/user/Enerfis">www.youtube.com/user/Enerfis</a>
+        La dirección para la correspondencia y facturación : <strong>Enectiva España</strong>, <span itemprop="streetAddress">Av. Eduardo Dato 69, 5ª P, Edificio Galia Nervión</span>, <span itemprop="postalCode">41005</span>, <span itemprop="addressLocality">Sevilla</span>, <span itemprop="addressCountry">España.</span>
         </p>
     </div>
 </div>
