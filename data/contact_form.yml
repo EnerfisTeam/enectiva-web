@@ -3,10 +3,6 @@ cs:
   required: povinná pole
   required_error: je povinné!
   form_type_options:
-    podpora: Technická podpora
-    general: Obecné informace
-    obchod: Obchodní záležitosti
-    partner: Pro partnery
     test: Zkušební přístup
   heard_of_options:
     internet: z internetu
@@ -28,15 +24,6 @@ cs:
   tell_us_more: Můžete nám o sobě říct ještě pár drobností?
   contact_us: Kontaktujte nás
   paragraph_1: V případě jakéhokoli dotazu prosím neváhejte kontaktovat tým Enectiva. Použijte k tomu buď níže uvedené e-mailové adresy, nebo kontaktní formulář.
-  email_contact: E-mailové adresy
-  phone_contact: Telefonní kontakty
-  phone_1: tel
-  phone_2: tel
-  mobile: mob
-  fax: fax
-  paragraph_2: Korespondeční a fakturační adresa
-  country: Česká republika
-  youtube: YouTube kanál
   contact: /cs/kontakt
 
 
@@ -44,10 +31,6 @@ en:
   required: required fields
   required_error: is required!
   form_type_options:
-    podpora: Technical support
-    general: General information
-    obchod: Business issue
-    partner: Bussiness partnership
     test: Set up test access
   heard_of_options:
     internet: from the internet
@@ -69,15 +52,6 @@ en:
   tell_us_more: Can you tell us few details about you?
   contact_us: Contact Us
   paragraph_1: If you want to make any inquiries do not hesitate to contact the Enectiva team. You can use either the e-mail addresses below or the contact form.
-  email_contact: E-mail Contacts
-  phone_contact: Phone Contacts
-  phone_1: phone
-  phone_2: phone
-  mobile: mobile
-  fax: fax
-  paragraph_2: Correspondence and invoicing address
-  country: Czech Republic
-  youtube: YouTube channel
   contact: /en/contact-us
 
 
@@ -85,10 +59,6 @@ it:
   required: campi obbligatori
   required_error: obbligatorio!
   form_type_options:
-    podpora: Supporto tecnico
-    general: Informazioni generali
-    obchod: Problema commerciali
-    partner: Per i partner
     test: Impostazioni di prova
   heard_of_options:
     internet: da Internet
@@ -110,25 +80,12 @@ it:
   tell_us_more: Puoi darci alcune informazioni su di te?
   contact_us: Contattaci
   paragraph_1: Se vuoi fare qualsiasi richiesta, non esitare a contattare il team di Enectiva. È possibile utilizzare l'indirizzo e-mail qui sotto o il modulo di contatto.
-  email_contact: Contatti e-mail
-  phone_contact: Contatti telefonici
-  phone_1: telefono
-  phone_2: telefono
-  mobile: cellulare
-  fax: fax
-  paragraph_2: Corrispondenza e indirizzo di fatturazione
-  country: Czech Republic
-  youtube: Canale youTube
   contact: /it/contattaci
 
 es:
   required: campo obligatorio
   required_error: ¡obligatorio!
   form_type_options:
-    podpora: Soporte Técnico
-    general: Información general
-    obchod: Problemas comerciales
-    partner: Para los socios
     test: Ajustes de prueba
   heard_of_options:
     internet: por internet
@@ -150,25 +107,12 @@ es:
   tell_us_more: ¿Puede darnos alguna información sobre usted?
   contact_us: Contacto
   paragraph_1: Si desea realizar cualquier consulta, no dude en ponerse en contacto con el equipo Enectiva. Puede utilizar cualquiera de las direcciones de correo electrónico que se indican abajo o el formulario de contacto.
-  email_contact: E-mail
-  phone_contact: Contactos Telefónicos
-  phone_1: Teléfono (ES)
-  phone_2: Teléfono
-  mobile: Teléfono
-  fax: Fax
-  paragraph_2: La dirección para la correspondencia y facturación
-  country: República Checa
-  youtube: Canal de youtube
   contact: /es/contacto
 
 de:
   required: Pflichtfelder
   required_error: ist obligatorisch!
   form_type_options:
-    podpora: Technische Unterstützung
-    general: Allgemeine Informationen
-    obchod: Ge&shy;schäfts&shy;an&shy;ge&shy;le&shy;gen&shy;hei&shy;ten
-    partner: Für Partner
     test: Testzugang
   heard_of_options:
     internet: vom Internet
@@ -190,25 +134,12 @@ de:
   tell_us_more: Können Sie uns noch ein paar Kleinigkeiten über Sie mitteilen?
   contact_us: Kontaktieren Sie uns
   paragraph_1: Wenn Sie irgendwelche Fragen haben, zögern Sie sich nicht Team Enectiva zu kontaktieren. Benutzen Sie dazu die untenstehenden Email Adressen oder Kontaktformular.
-  email_contact: E-mail Adressen
-  phone_contact: Kontakt per Telefon
-  phone_1: Tel
-  phone_2: Tel
-  mobile: Handy
-  fax: Fax
-  paragraph_2: Korrespondenz- und Rechnungsadresse
-  country: Tschechische Republik
-  youtube: YouTube Kanal
   contact: /de/kontaktieren-sie-uns
 
 fr:
   required: champs obligatoires
   required_error: c'est obligtoire!
   form_type_options:
-    podpora: Soutien technique
-    general: Informations générales
-    obchod: Affaires de commerce
-    partner: Pour les partenaires
     test: Acces provisoire
   heard_of_options:
     internet: sur Internete
@@ -230,25 +161,12 @@ fr:
   tell_us_more: Pourriez-vous partager avec nous d'autres renseignements sur votre société?
   contact_us: Contactez-nous
   paragraph_1: Si vous avez des questions, n'hésitez pas de contacter notre équipe Enectiva. Vous pouvez nous contacter sur l'adresse mail indiquée ci-dessous ou par l'intermédiaire du formulaire.
-  email_contact: Adresses mail
-  phone_contact: Contacts téléphoniques
-  phone_1: tél
-  phone_2: tél
-  mobile: GSM
-  fax: fax
-  paragraph_2: Adresse de correspondance et de facturation
-  country: République tchèque
-  youtube: Sur YouTube
   contact: /fr/contactez-nous
 
 ru:
   required: обязательные поля
   required_error: обязательно!
   form_type_options:
-    podpora: Техническая поддержка
-    general: Общая информация
-    obchod: Коммерческие дела
-    partner: Для партнёров
     test: Пробный доступ
   heard_of_options:
     internet: из интернета
@@ -270,13 +188,4 @@ ru:
   tell_us_more: Можете ли вы рассказать нам о себе еще что-то?
   contact_us: Свяжитесь с нами
   paragraph_1: В случае возникновения любых вопросов, пожалуйста, не стесняйтесь обращаться к команде Enectiva. Используйте следующий адрес электронной почты или контактную форму.
-  email_contact: Электронные адреса
-  phone_contact: Телефонные контакты
-  phone_1: тел
-  phone_2: тел
-  mobile: моб
-  fax: факс
-  paragraph_2: Почтовый и платежный адрес
-  country: Чешская Республика
-  youtube: YouTube канал
   contact: /ru/svyazhites-s-nami
