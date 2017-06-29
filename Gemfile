@@ -4,5 +4,3 @@ gem 'compass'
 gem 'cssminify'
 gem 'sass'
 gem 'uglifier'
-
-gem 'rake'
