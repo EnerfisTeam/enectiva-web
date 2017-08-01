@@ -22,3 +22,10 @@ New tab with GitLab will be opened with information about your browser:
 ![Pre-filled form](2-form.png)
  
 Now just add a title to the bug, describe it in more detail (above the pre-filled information), and assign it to a developer.
+
+![Screncast](screencast.gif)
+
+## Limitations
+
+- You need to logged in to GitLab already
+- It doesn't work for Meta or other modules
