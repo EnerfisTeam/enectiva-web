@@ -4,7 +4,7 @@ title: Transmisor de temperatura ambiente y humedad (169 MHz)
 schema: hardwareambient
 type: hardware-product
 description: El transmisor de temperatura y humedad ambiente es otro sensor utilizado por Enectiva. Funciona en una frecuencia de 169 MHz y se comunica de forma inalámbrica con M-Bus ...
-hardware_category: sensores
+hardware_category: sensors
 weight: 11
 hardware_image: "/img/hw/transmetteur-ambiance-co2_small.jpg"
 hardware_properties:
