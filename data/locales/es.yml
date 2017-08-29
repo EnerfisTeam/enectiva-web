@@ -9,7 +9,6 @@ es:
      Fri: Vier
      Sat: Sab
     abbr_month_names:
-    -
      Jan: Ene
      Feb: Feb
      Mar: Mar
@@ -29,7 +28,7 @@ es:
      Wednesday: Miércoles
      Thursday: Jueves
      Friday: Viernes
-     Saturday: Sàbado
+     Saturday: Sábado
     formats:
       default: 'Monday, 2 January 2006'
       #long: ! '%d %B %Y'
@@ -48,7 +47,7 @@ es:
       November: Noviembre
       December: Diciembre
     order:
-    - :dìa
+    - :día
     - :mes
     - :año
   datetime:
@@ -76,7 +75,7 @@ es:
         one: más de 1 año
         other: más de %{count} años
       x_days:
-        one: 1 dìa
+        one: 1 día
         #other: ! '%{count} dìas'
       x_minutes:
         one: 1 minuto
@@ -88,7 +87,7 @@ es:
         one: 1 segundo
         #other: ! '%{count} segundos'
     prompts:
-      day: dìa
+      day: Día
       hour: Hora
       minute: Minuto
       month: Mes
@@ -98,10 +97,10 @@ es:
     #format: ! '%{attribute} %{message}'
     messages:
       accepted: debe ser aceptado
-      blank: no puede estar vacìo
-      present: debe estar vacìo
+      blank: no puede estar vacío
+      present: debe estar vacío
       #confirmation: ! "no corresponde a %{attribute}"
-      empty: no puede estar vacìo
+      empty: no puede estar vacío
       equal_to: debe ser igual a %{count}
       even: incluso
       exclusion: � reservado
@@ -209,7 +208,9 @@ es:
   activerecord:
     errors:
       <<: *errors
-  meta_description: 'Enectiva es un servicio web para la gestión energética de la administración de edificios,centros comerciales y otras propiedades con propósitos comerciales '
+      
+  meta_description: 'Enectiva es un servicio web para la gestión energética de la
+  administración de edificios,centros comerciales y otras propiedades con propósitos comerciales'
   meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energía, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
   intro: Enectiva, una solución para la gestión de la energía, desarrollado por Enerfis
   city: Praga
@@ -227,6 +228,22 @@ es:
 
   try_enectiva: Prueba Enectiva
   solution: Otras soluciones
+  all: Todo
 
-  blog:
+   blog:
+    prev: Más nuevo
+    next: Más Antiguo
     read_more: Leer más
+  
+  hardware_properties:
+    all: Todo
+    interface: Tipo de interfaz
+    conversion: Tipo de conversión
+    energy: Tipo de energía
+    sensor: Tipo de sensor
+
+  hardware_categories:
+    concentrators: Concentradores
+    converters: Convertidores
+    meters: Medidores
+    sensors: Sensores
