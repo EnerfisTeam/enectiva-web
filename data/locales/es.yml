@@ -208,7 +208,7 @@ es:
   activerecord:
     errors:
       <<: *errors
-      
+
   meta_description: 'Enectiva es un servicio web para la gestión energética de la
   administración de edificios,centros comerciales y otras propiedades con propósitos comerciales'
   meta_keywords: Enectiva, monitoreo energético, ahorro energético, gestión de la energía, medición, contadores inteligentes, consumo de energìa, tecnologìa del ahorro
@@ -230,11 +230,11 @@ es:
   solution: Otras soluciones
   all: Todo
 
-   blog:
+  blog:
     prev: Más nuevo
     next: Más Antiguo
     read_more: Leer más
-  
+
   hardware_properties:
     all: Todo
     interface: Tipo de interfaz
