@@ -222,6 +222,9 @@ ru:
     back_to_homepage: Вернуться на главную страницу
     login: Зарегистрироваться
 
+  hardware:
+    detail: Подробности
+
   try_enectiva: Попробуйте Enectiva
   solution: Другие решения
 

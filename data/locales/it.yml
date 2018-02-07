@@ -226,6 +226,9 @@ it:
   try_enectiva: Prova Enectiva
   solution: Altre soluzionio
 
+  hardware:
+    detail: Dettagli
+
   blog:
     read_more: Leggi tutto
 

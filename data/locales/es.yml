@@ -230,6 +230,9 @@ es:
   solution: Otras soluciones
   all: Todo
 
+  hardware:
+    detail: Detalles
+
   blog:
     prev: Más nuevo
     next: Más Antiguo

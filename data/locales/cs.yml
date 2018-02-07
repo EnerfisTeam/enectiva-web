@@ -225,6 +225,9 @@ cs:
   try_enectiva: Vyzkoušejte Enectivu
   solution: Další řešení
 
+  hardware:
+    detail: Více informací
+
   blog:
     prev: Novější
     next: Starší
