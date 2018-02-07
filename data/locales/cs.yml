@@ -228,7 +228,7 @@ cs:
   blog:
     prev: Novější
     next: Starší
-    read_more: Číst dál
+    read_more: Více
 
   hardware_properties:
     all: Vše
