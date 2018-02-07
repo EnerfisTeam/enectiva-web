@@ -5,10 +5,10 @@ form:
             id: Technická podpora
             option: podpora     
         general: 
-            id: Obecné informace
+            id: Obecné dotazy
             option: general
         obchod: 
-            id: Obchodní záležitosti
+            id: Obchod
             option: obchod  
         partner: 
             id: Pro partnery
@@ -21,16 +21,16 @@ form:
             id: Technical support
             option: podpora
         general:
-            id: General information
+            id: General inquiry
             option: general
         obchod:
-            id: Business issue
+            id: Sales
             option: obchod
         partner:
-            id: Bussiness partnership
+            id: Partnership
             option: partner
         test:
-            id: Set up test access
+            id: Request demo
             option: test
     es:
         podpora: 
@@ -98,19 +98,19 @@ form:
             option: test
     ru:
         podpora:
-            id: Technická podpora
+            id: Техническая Поддержка
             option: podpora
         general:
-            id: Obecné informace
+            id: Общие вопросы
             option: general
         obchod:
-            id: Obchodní záležitosti
+            id: Отдел продаж
             option: obchod
         partner:
-            id: Pro partnery
+            id: Для партнеров
             option: partner
         test:
-            id: Zkušební přístup
+            id: Пробный Доступ
             option: test
 heard:
     cs:

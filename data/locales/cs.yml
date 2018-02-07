@@ -238,7 +238,7 @@ cs:
     interface: Rozhraní
     conversion: Konverze
     energy: Energie
-    sensor: Velicina
+    sensor: Veličina
 
   hardware_categories:
     concentrators: Koncentrátory
